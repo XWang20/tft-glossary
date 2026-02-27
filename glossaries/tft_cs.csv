@@ -47405,3 +47405,64 @@ nox,Noxus,cs
 ixtal,Ixtal,cs
 sorc,Sorcerer,cs
 sorcs,Sorcerer,cs
+削,nerf,cs
+砍,nerf,cs
+加强,buff,cs
+改,change/adjust,cs
+返工,rework,cs
+重做,rework,cs
+拆,sell/split,cs
+拉,level up,cs
+D,roll,cs
+追,go for,cs
+卡,hold/save,cs
+抢,contest,cs
+抓,grab/pick up,cs
+换,swap,cs
+拿,take/pick,cs
+冲,push/go aggro,cs
+亏,lose value,cs
+赚,gain value,cs
+锁,lock (shop),cs
+卖,sell,cs
+上,level up,cs
+下,downgrade,cs
+站,hold position,cs
+拔,sell off/abandon,cs
+送,throw/lose intentionally,cs
+嫖,get for free,cs
+苟,play safe/survive,cs
+冲分,push for LP,cs
+保分,play safe for LP,cs
+上分,climb,cs
+血量,HP,cs
+法强,AP,cs
+攻速,attack speed,cs
+暴击,crit,cs
+穿甲,armor pen,cs
+法穿,magic pen,cs
+回蓝,mana regen,cs
+回血,heal,cs
+减甲,armor shred,cs
+减魔抗,MR reduction,cs
+真伤,true damage,cs
+溅射,splash damage,cs
+暴毙,die instantly,cs
+秒杀,one-shot,cs
+站撸,stand and fight,cs
+拉扯,kite,cs
+抗压,tank pressure,cs
+回合,round,cs
+阶段,stage,cs
+备战席,bench,cs
+棋盘,board,cs
+野怪,PvE round,cs
+空城,open fort,cs
+存钱,save gold,cs
+利息,interest,cs
+天选,Chosen,cs
+彩蛋,easter egg,cs
+彩装,prismatic item,cs
+金装,gold augment,cs
+银装,silver augment,cs
+铜装,bronze augment,cs

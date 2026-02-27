@@ -47418,3 +47418,64 @@ nox,Noxus,ro
 ixtal,Ixtal,ro
 sorc,Sorcerer,ro
 sorcs,Sorcerer,ro
+削,nerf,ro
+砍,nerf,ro
+加强,buff,ro
+改,change/adjust,ro
+返工,rework,ro
+重做,rework,ro
+拆,sell/split,ro
+拉,level up,ro
+D,roll,ro
+追,go for,ro
+卡,hold/save,ro
+抢,contest,ro
+抓,grab/pick up,ro
+换,swap,ro
+拿,take/pick,ro
+冲,push/go aggro,ro
+亏,lose value,ro
+赚,gain value,ro
+锁,lock (shop),ro
+卖,sell,ro
+上,level up,ro
+下,downgrade,ro
+站,hold position,ro
+拔,sell off/abandon,ro
+送,throw/lose intentionally,ro
+嫖,get for free,ro
+苟,play safe/survive,ro
+冲分,push for LP,ro
+保分,play safe for LP,ro
+上分,climb,ro
+血量,HP,ro
+法强,AP,ro
+攻速,attack speed,ro
+暴击,crit,ro
+穿甲,armor pen,ro
+法穿,magic pen,ro
+回蓝,mana regen,ro
+回血,heal,ro
+减甲,armor shred,ro
+减魔抗,MR reduction,ro
+真伤,true damage,ro
+溅射,splash damage,ro
+暴毙,die instantly,ro
+秒杀,one-shot,ro
+站撸,stand and fight,ro
+拉扯,kite,ro
+抗压,tank pressure,ro
+回合,round,ro
+阶段,stage,ro
+备战席,bench,ro
+棋盘,board,ro
+野怪,PvE round,ro
+空城,open fort,ro
+存钱,save gold,ro
+利息,interest,ro
+天选,Chosen,ro
+彩蛋,easter egg,ro
+彩装,prismatic item,ro
+金装,gold augment,ro
+银装,silver augment,ro
+铜装,bronze augment,ro

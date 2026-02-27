@@ -48759,3 +48759,64 @@ nox,Noxus,id
 ixtal,Ixtal,id
 sorc,Sorcerer,id
 sorcs,Sorcerer,id
+削,nerf,id
+砍,nerf,id
+加强,buff,id
+改,change/adjust,id
+返工,rework,id
+重做,rework,id
+拆,sell/split,id
+拉,level up,id
+D,roll,id
+追,go for,id
+卡,hold/save,id
+抢,contest,id
+抓,grab/pick up,id
+换,swap,id
+拿,take/pick,id
+冲,push/go aggro,id
+亏,lose value,id
+赚,gain value,id
+锁,lock (shop),id
+卖,sell,id
+上,level up,id
+下,downgrade,id
+站,hold position,id
+拔,sell off/abandon,id
+送,throw/lose intentionally,id
+嫖,get for free,id
+苟,play safe/survive,id
+冲分,push for LP,id
+保分,play safe for LP,id
+上分,climb,id
+血量,HP,id
+法强,AP,id
+攻速,attack speed,id
+暴击,crit,id
+穿甲,armor pen,id
+法穿,magic pen,id
+回蓝,mana regen,id
+回血,heal,id
+减甲,armor shred,id
+减魔抗,MR reduction,id
+真伤,true damage,id
+溅射,splash damage,id
+暴毙,die instantly,id
+秒杀,one-shot,id
+站撸,stand and fight,id
+拉扯,kite,id
+抗压,tank pressure,id
+回合,round,id
+阶段,stage,id
+备战席,bench,id
+棋盘,board,id
+野怪,PvE round,id
+空城,open fort,id
+存钱,save gold,id
+利息,interest,id
+天选,Chosen,id
+彩蛋,easter egg,id
+彩装,prismatic item,id
+金装,gold augment,id
+银装,silver augment,id
+铜装,bronze augment,id

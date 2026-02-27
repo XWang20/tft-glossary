@@ -48122,3 +48122,66 @@ proc,触发效果,zh-CN
 BiS,神装,zh-CN
 WR,胜率,zh-CN
 avg,均名,zh-CN
+削,nerf,zh-CN
+砍,nerf,zh-CN
+加强,buff,zh-CN
+改,change/adjust,zh-CN
+返工,rework,zh-CN
+重做,rework,zh-CN
+拆,sell/split,zh-CN
+拉,level up,zh-CN
+D,roll,zh-CN
+追,go for,zh-CN
+卡,hold/save,zh-CN
+抢,contest,zh-CN
+抓,grab/pick up,zh-CN
+换,swap,zh-CN
+拿,take/pick,zh-CN
+冲,push/go aggro,zh-CN
+亏,lose value,zh-CN
+赚,gain value,zh-CN
+锁,lock (shop),zh-CN
+卖,sell,zh-CN
+上,level up,zh-CN
+下,downgrade,zh-CN
+站,hold position,zh-CN
+拔,sell off/abandon,zh-CN
+送,throw/lose intentionally,zh-CN
+嫖,get for free,zh-CN
+苟,play safe/survive,zh-CN
+冲分,push for LP,zh-CN
+保分,play safe for LP,zh-CN
+上分,climb,zh-CN
+掉分,lose LP,zh-CN
+血量,HP,zh-CN
+法强,AP,zh-CN
+攻速,attack speed,zh-CN
+暴击,crit,zh-CN
+穿甲,armor pen,zh-CN
+法穿,magic pen,zh-CN
+回蓝,mana regen,zh-CN
+回血,heal,zh-CN
+减甲,armor shred,zh-CN
+减魔抗,MR reduction,zh-CN
+真伤,true damage,zh-CN
+溅射,splash damage,zh-CN
+弹射,bounce,zh-CN
+暴毙,die instantly,zh-CN
+秒杀,one-shot,zh-CN
+站撸,stand and fight,zh-CN
+拉扯,kite,zh-CN
+抗压,tank pressure,zh-CN
+回合,round,zh-CN
+阶段,stage,zh-CN
+备战席,bench,zh-CN
+棋盘,board,zh-CN
+野怪,PvE round,zh-CN
+空城,open fort,zh-CN
+存钱,save gold,zh-CN
+利息,interest,zh-CN
+天选,Chosen,zh-CN
+彩蛋,easter egg,zh-CN
+彩装,prismatic item,zh-CN
+金装,gold augment,zh-CN
+银装,silver augment,zh-CN
+铜装,bronze augment,zh-CN

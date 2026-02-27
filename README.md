@@ -1,85 +1,66 @@
-# TFT S16 多语言术语表 / TFT Set 16 Multilingual Glossary
+# TFT S16 多语言术语表
 
-为 [immersive-translate](https://immersivetranslate.com/) 沉浸式翻译插件制作的云顶之弈 S16 术语表。
+给 [沉浸式翻译](https://immersivetranslate.com/) 插件用的云顶之弈 S16 术语表。
 
-支持 **3 种源语言**（英文、中文、日文）→ **23 种目标语言** 的双向翻译。
+看英文/日文 TFT 攻略时,自动把棋子名、羁绊、装备翻译成你的语言。
 
-## 使用方法
+## 怎么用
 
-### 1. 安装沉浸式翻译插件
-- Chrome: [Chrome 商店](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
-- Firefox/Edge/Safari: 见 [官网](https://immersivetranslate.com/)
+### 1. 装插件
+装 [沉浸式翻译](https://immersivetranslate.com/)(Chrome / Firefox / Edge / Safari 都有)
 
 ### 2. 导入术语表
-1. 打开插件设置 → 术语表
-2. 选择「从 URL 导入」
-3. 粘贴:
+1. 插件设置 → 术语表
+2. 选「从 URL 导入」
+3. 粘贴下面这行:
 ```
 https://raw.githubusercontent.com/XWang20/tft-glossary/main/meta/tft.json
 ```
-4. 完成
+4. 搞定
 
-### 3. 开始使用
-浏览任何 TFT 相关网页（Riot 官网、tactics.tools、lolchess.gg 等），插件会自动翻译匹配的术语。
+### 3. 开始用
+打开任何 TFT 英文网页(tactics.tools、lolchess.gg、leagueoflegends.com 等),插件会自动把术语翻译成中文。
 
-## 内容覆盖
+看日文攻略也一样能用。
 
-| 类别 | 数量 | 示例 |
+## 支持什么
+
+| 类别 | 数量 | 举例 |
 |------|------|------|
-| 棋子 | 105 | Aatrox/亚托克斯, Mel/梅尔 |
-| 羁绊 | 53 | Slayer/杀戮者, Yordle/约德尔人 |
-| 强化符文 | 177 | Placebo/安慰剂 |
-| 装备 | 150 | Deathcap/灭世者的帽子 |
-| **总计** | **485** | |
+| 棋子 | 105 | Aatrox → 亚托克斯 |
+| 羁绊 | 53 | Slayer → 杀戮者 |
+| 强化符文 | 177 | Placebo → 安慰剂 |
+| 装备 | 150 | Deathcap → 灭世者的帽子 |
+| **合计** | **485** | |
 
-## 源语言 × 目标语言
+## 三语源
 
-每个目标语言 CSV 同时包含 3 种源语言的映射:
+不只是英文→中文。中文、日文、英文互相都能翻:
 
-- **英文 → 目标语言** (浏览英文网页时)
-- **中文 → 目标语言** (浏览中文网页时)
-- **日文 → 目标语言** (浏览日文网页时)
+- 看英文页面 → 翻成你的语言
+- 看中文页面 → 翻成你的语言
+- 看日文页面 → 翻成你的语言
 
-### 支持的目标语言 (23 种)
+### 23 种目标语言
 
 | 代码 | 语言 | 代码 | 语言 |
 |------|------|------|------|
-| ar | العربية | ko | 한국어 |
-| cs | Čeština | pl | Polski |
-| de | Deutsch | pt-BR | Português (BR) |
-| el | Ελληνικά | ro | Română |
-| es-AR | Español (AR) | ru | Русский |
-| es-ES | Español (ES) | th | ไทย |
-| es-MX | Español (MX) | tr | Türkçe |
-| fr | Français | vi | Tiếng Việt |
-| hu | Magyar | zh-CN | 简体中文 |
-| id | Bahasa Indonesia | zh-MY | 中文 (马来) |
-| it | Italiano | zh-TW | 繁體中文 |
-| ja | 日本語 | | |
-
-## 文件结构
-
-```
-├── meta/tft.json              # 元数据
-└── glossaries/
-    ├── tft_zh-CN.csv          # → 简体中文 (966 条)
-    ├── tft_ja.csv             # → 日文 (966 条)
-    ├── tft_ko.csv             # → 韩文 (1447 条)
-    ├── tft_de.csv             # → 德文 (1446 条)
-    └── ... (共 23 个文件)
-```
-
-CSV 格式: `source,target,tgt_lng`
-
-```csv
-Aatrox,亚托克斯,zh-CN
-エイトロックス,亚托克斯,zh-CN
-아트록스,亚托克斯,zh-CN
-```
+| ar | 阿拉伯语 | ko | 韩语 |
+| cs | 捷克语 | pl | 波兰语 |
+| de | 德语 | pt-BR | 葡萄牙语(巴西) |
+| el | 希腊语 | ro | 罗马尼亚语 |
+| es-AR | 西班牙语(阿根廷) | ru | 俄语 |
+| es-ES | 西班牙语(西班牙) | th | 泰语 |
+| es-MX | 西班牙语(墨西哥) | tr | 土耳其语 |
+| fr | 法语 | vi | 越南语 |
+| hu | 匈牙利语 | zh-CN | 简体中文 |
+| id | 印尼语 | zh-MY | 中文(马来) |
+| it | 意大利语 | zh-TW | 繁體中文 |
+| ja | 日语 | | |
 
 ## 数据来源
 
-术语数据抓取自 [CommunityDragon](https://raw.communitydragon.org/pbe/) PBE 数据，包含 S16 赛季全部官方翻译。
+所有翻译来自 [CommunityDragon](https://raw.communitydragon.org/pbe/) PBE 数据,即 Riot 官方游戏内翻译。
 
 ## 许可
 

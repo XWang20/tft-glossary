@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,Aatrox,th
+Ahri,Ahri,th
+Ambessa,Ambessa,th
+Anivia,Anivia,th
+Annie,Annie,th
+Aphelios,Aphelios,th
+Ashe,Ashe,th
+Aurelion Sol,Aurelion Sol,th
+Azir,Azir,th
+Bard,Bard,th
+Baron Nashor,Baron Nashor,th
+Bel'Veth,Bel'Veth,th
+Blitzcrank,Blitzcrank,th
+Braum,Braum,th
+Briar,Briar,th
+Brock,Brock,th
+Caitlyn,Caitlyn,th
+Cho'Gath,Cho'Gath,th
+Darius,Darius,th
+Diana,Diana,th
+Dr. Mundo,Dr. Mundo,th
+Draven,Draven,th
+Ekko,Ekko,th
+Elder Dragon,Elder Dragon,th
+Fiddlesticks,Fiddlesticks,th
+Fizz,Fizz,th
+Galio,Galio,th
+Gangplank,Gangplank,th
+Garen,Garen,th
+Golem,Golem,th
+Graves,Graves,th
+Gwen,Gwen,th
+Illaoi,Illaoi,th
+Jarvan IV,Jarvan IV,th
+Jhin,Jhin,th
+Jinx,Jinx,th
+Kai'Sa,Kai'Sa,th
+Kalista,Kalista,th
+Kennen,Kennen,th
+Kindred,Kindred,th
+Kobuko & Yuumi,Kobuko & Yuumi,th
+Kog'Maw,Kog'Maw,th
+LeBlanc,LeBlanc,th
+Leona,Leona,th
+Lissandra,Lissandra,th
+Loris,Loris,th
+Lucian & Senna,Lucian & Senna,th
+Lulu,Lulu,th
+Lux,Lux,th
+Malzahar,Malzahar,th
+Mel,Mel,th
+Milio,Milio,th
+Miss Fortune,Miss Fortune,th
+Nasus,Nasus,th
+Nautilus,Nautilus,th
+Neeko,Neeko,th
+Nidalee,Nidalee,th
+Orianna,Orianna,th
+Ornn,Ornn,th
+Piltover Invention,Piltover Invention,th
+Poppy,Poppy,th
+Qiyana,Qiyana,th
+Rek'Sai,Rek'Sai,th
+Renekton,Renekton,th
+Rift Herald,Rift Herald,th
+Rift Scuttler,Rift Scuttler,th
+Rumble,Rumble,th
+Ryze,Ryze,th
+Sejuani,Sejuani,th
+Seraphine,Seraphine,th
+Sett,Sett,th
+Shen,Shen,th
+Shyvana,Shyvana,th
+Singed,Singed,th
+Sion,Sion,th
+Skarner,Skarner,th
+Sona,Sona,th
+Swain,Swain,th
+Sylas,Sylas,th
+T-Hex,T-Hex,th
+Tahm Kench,Tahm Kench,th
+Taric,Taric,th
+Teemo,Teemo,th
+Thresh,Thresh,th
+Training Dummy,Training Dummy,th
+Tristana,Tristana,th
+Tryndamere,Tryndamere,th
+Twisted Fate,Twisted Fate,th
+Vayne,Vayne,th
+Veigar,Veigar,th
+Vi,Vi,th
+Viego,Viego,th
+Volibear,Volibear,th
+Warwick,Warwick,th
+Wukong,Wukong,th
+Xerath,Xerath,th
+Xin Zhao,Xin Zhao,th
+Yasuo,Yasuo,th
+Yone,Yone,th
+Yorick,Yorick,th
+Yunara,Yunara,th
+Zaahen,Zaahen,th
+Ziggs,Ziggs,th
+Zilean,Zilean,th
+Zoe,Zoe,th
+Arcanist,Arcanist,th
+Ascendant,Ascendant,th
+Assimilator,Assimilator,th
+Bilgewater,Bilgewater,th
+Blacksmith,Blacksmith,th
+Bruiser,Bruiser,th
+Caretaker,Caretaker,th
+Chainbreaker,Chainbreaker,th
+Chosen Wolves,Chosen Wolves,th
+Chronokeeper,Chronokeeper,th
+Dark Child,Dark Child,th
+Darkin,Darkin,th
+Defender,Defender,th
+Demacia,Demacia,th
+Disruptor,Disruptor,th
+Dragonborn,Dragonborn,th
+Dragonguards,Dragonguards,th
+Emperor,Emperor,th
+Eternal,Eternal,th
+Freljord,Freljord,th
+Glutton,Glutton,th
+Gunslinger,Gunslinger,th
+Harvester,Harvester,th
+Heroic,Heroic,th
+HexMech,HexMech,th
+Huntress,Huntress,th
+Immortal,Immortal,th
+Invoker,Invoker,th
+Ionia,Ionia,th
+Ixtal,Ixtal,th
+Juggernaut,Juggernaut,th
+Longshot,Longshot,th
+Noxus,Noxus,th
+Piltover,Piltover,th
+Poison Pals,Poison Pals,th
+Quickstriker,Quickstriker,th
+Riftscourge,Riftscourge,th
+Rune Mage,Rune Mage,th
+Sentinels of Light,Sentinels of Light,th
+Shadow Isles,Shadow Isles,th
+Shurima,Shurima,th
+Slayer,Slayer,th
+Soulbound,Soulbound,th
+Star Forger,Star Forger,th
+Targon,Targon,th
+The Boss,The Boss,th
+Timewinders,Timewinders,th
+Vanquisher,Vanquisher,th
+Void,Void,th
+Warden,Warden,th
+World Ender,World Ender,th
+Yordle,Yordle,th
+Zaun,Zaun,th
+3 Threes,3 Threes,th
+A Magic Roll,A Magic Roll,th
+Advanced Loan,Advanced Loan,th
+Air Axiom,Air Axiom,th
+Arcane Viktor-y,Arcane Viktor-y,th
+Artillery Barrage,Artillery Barrage,th
+Ascension,Ascension,th
+Band of Thieves,Band of Thieves,th
+Belt Overflow,Belt Overflow,th
+Best Friends,Best Friends,th
+Big Friend,Big Friend,th
+Big Grab Bag,Big Grab Bag,th
+Binary Airdrop,Binary Airdrop,th
+Birthday Present,Birthday Present,th
+Birthday Reunion,Birthday Reunion,th
+Blood Offering,Blood Offering,th
+Bodyguard Training,Bodyguard Training,th
+Boxing Lessons,Boxing Lessons,th
+Branching Out,Branching Out,th
+Bringer of Ruin,Bringer of Ruin,th
+Bronze For Life,Bronze For Life,th
+Buried Treasures,Buried Treasures,th
+Care Package,Care Package,th
+Caretaker's Ally,Caretaker's Ally,th
+Celestial Blessing,Celestial Blessing,th
+Chaotic Evolution,Chaotic Evolution,th
+Commerce Core,Commerce Core,th
+Component Buffet,Component Buffet,th
+Construct a Companion,Construct a Companion,th
+Cooking Pot,Cooking Pot,th
+Coronation,Coronation,th
+Corrosion,Corrosion,th
+Cosmic Calling,Cosmic Calling,th
+Crafted Crafting,Crafted Crafting,th
+Crash Test Dummies,Crash Test Dummies,th
+Crown's Will,Crown's Will,th
+Cry Me A River,Cry Me A River,th
+Darkwill's Invasion,Darkwill's Invasion,th
+Deadlier Blades,Deadlier Blades,th
+Deadlier Caps,Deadlier Caps,th
+Defense of the Placidium,Defense of the Placidium,th
+Demacia Forever,Demacia Forever,th
+Double Trouble,Double Trouble,th
+Dummify,Dummify,th
+Duo Queue,Duo Queue,th
+Earth Axiom,Earth Axiom,th
+Epic Rolldown,Epic Rolldown,th
+Exclusive Customization,Exclusive Customization,th
+Exiles,Exiles,th
+Expected Unexpectedness,Expected Unexpectedness,th
+Explosive Growth,Explosive Growth,th
+Eye For An Eye,Eye For An Eye,th
+Feed the Flames,Feed the Flames,th
+Find Your Center,Find Your Center,th
+Fire Axiom,Fire Axiom,th
+Focused Fire,Focused Fire,th
+Giant and Mighty,Giant and Mighty,th
+Gilded Steel,Gilded Steel,th
+Glass Cannon,Glass Cannon,th
+Going Long,Going Long,th
+Gold Destiny,Gold Destiny,th
+Golemify,Golemify,th
+Good For Something,Good For Something,th
+Growth Mindset,Growth Mindset,th
+Hard Commit,Hard Commit,th
+Healing Orbs,Healing Orbs,th
+Heart of Steel,Heart of Steel,th
+Heavy Is the Crown,Heavy Is the Crown,th
+Hedge Fund,Hedge Fund,th
+Hefty Rolls,Hefty Rolls,th
+Heroic Grab Bag,Heroic Grab Bag,th
+Hexgate Travel,Hexgate Travel,th
+High Voltage,High Voltage,th
+Hold the Line,Hold the Line,th
+Indecision,Indecision,th
+Indiscriminate Killer,Indiscriminate Killer,th
+Invested,Invested,th
+Iron Assets,Iron Assets,th
+Item Grab Bag,Item Grab Bag,th
+Jeweled Lotus,Jeweled Lotus,th
+Just Hit,Just Hit,th
+Kahunahuna,Kahunahuna,th
+Last Second Save,Last Second Save,th
+Late Game Scaling,Late Game Scaling,th
+Late Game Specialist,Late Game Specialist,th
+Leap of Faith,Leap of Faith,th
+Legion of Threes,Legion of Threes,th
+Level Up!,Level Up!,th
+Lifting Competition,Lifting Competition,th
+Lineup,Lineup,th
+Little Buddies,Little Buddies,th
+Lucky Gloves,Lucky Gloves,th
+Mace's Will,Mace's Will,th
+Makeshift Armor,Makeshift Armor,th
+Mess Hall,Mess Hall,th
+Min-Max,Min-Max,th
+Missed Connections,Missed Connections,th
+Money Monsoon,Money Monsoon,th
+On a Roll,On a Roll,th
+"One Buff, Two Buff","One Buff, Two Buff",th
+One Twos Three,One Twos Three,th
+"One, Two, Five!","One, Two, Five!",th
+Pandora's Bench,Pandora's Bench,th
+Pandora's Items,Pandora's Items,th
+Patience is a Virtue,Patience is a Virtue,th
+Placebo,Placebo,th
+Plot Armor,Plot Armor,th
+Portable Forge,Portable Forge,th
+Precision and Grace,Precision and Grace,th
+Preparation,Preparation,th
+Prismatic Destiny,Prismatic Destiny,th
+Prismatic Ticket,Prismatic Ticket,th
+Promised Protection,Promised Protection,th
+Pyromaniac,Pyromaniac,th
+Radiant Rascal,Radiant Rascal,th
+Radiant Relics,Radiant Relics,th
+Raining Gold,Raining Gold,th
+Recombobulator,Recombobulator,th
+ReinFOURcement,ReinFOURcement,th
+Replication,Replication,th
+Restart Mission,Restart Mission,th
+Retribution,Retribution,th
+Rolling For Days,Rolling for Days,th
+Savings Account,Savings Account,th
+Second Wind,Second Wind,th
+Seraphim's Staff,Seraphim's Staff,th
+Shimmerscale Essence,Shimmerscale Essence,th
+Shopping Spree,Shopping Spree,th
+Silco's Revenge,Silco's Revenge,th
+Silver Destiny,Silver Destiny,th
+Silver Spoon,Silver Spoon,th
+Slightly Magic Roll,Slightly Magic Roll,th
+Small Grab Bag,Small Grab Bag,th
+Solo Plate,Solo Plate,th
+Soul Awakening,Soul Awakening,th
+Spear's Will,Spear's Will,th
+Spirit of Redemption,Spirit of Redemption,th
+Spreading Roots,Spreading Roots,th
+Staffsmith,Staffsmith,th
+Stand United,Stand United,th
+Stars Are Born,Stars are Born,th
+Starter Kit,Starter Kit,th
+Sweet Treats,Sweet Treats,th
+Sword Overflow,Sword Overflow,th
+Swordsmith,Swordsmith,th
+Teaming Up,Teaming Up,th
+The Axiomata,The Axiomata,th
+The Golden Dragon,The Golden Dragon,th
+The Ruined King,The Ruined King,th
+The Trait Tree,The Trait Tree,th
+The World Runes,The World Runes,th
+Thorn-Plated Armor,Thorn-Plated Armor,th
+"Tiny, but Deadly","Tiny, but Deadly",th
+Tons of Stats!,Tons of Stats!,th
+Trade Sector,Trade Sector,th
+Trials of Twilight,Trials of Twilight,th
+Trifecta,Trifecta,th
+Twin Guardians,Twin Guardians,th
+Two Much Value,Two Much Value,th
+Two Trick,Two Trick,th
+U.R.F,U.R.F,th
+Unsealed From Steel,Unsealed From Steel,th
+Upward Mobility,Upward Mobility,th
+Wand Overflow,Wand Overflow,th
+Warlord's Honor,Warlord's Honor,th
+Water Axiom,Water Axiom,th
+We Stick Together,We Stick Together,th
+Wild Growth,Wild Growth,th
+Win Out,Win Out,th
+Wood Axiom,Wood Axiom,th
+Woven Magic,Woven Magic,th
+90 Caliber Nets,90 Caliber Nets,th
+Acceleration Gate,Acceleration Gate,th
+Adaptive Helm,Adaptive Helm,th
+Aegis of Dawn,Aegis of Dawn,th
+Aegis of Dusk,Aegis of Dusk,th
+Arcanist Emblem,Arcanist Emblem,th
+Archangel's Staff,Archangel's Staff,th
+Armor Nullifier,Armor Nullifier,th
+B.F. Sword,B.F. Sword,th
+Barknuckles,Barknuckles,th
+Bilgewater Emblem,Bilgewater Emblem,th
+Bilgewater Lesser Champion Duplicator,Bilgewater Lesser Champion Duplicator,th
+Black Market Restock,เติมสินค้าตลาดมืดใหม่,th
+Blackmarket Explosives,Blackmarket Explosives,th
+Blast Shield,Blast Shield,th
+Blighting Jewel,Blighting Jewel,th
+Bloodthirster,Bloodthirster,th
+Blue Buff,Blue Buff,th
+Bramble Vest,Bramble Vest,th
+Brigand's Dice,Brigand's Dice,th
+Bruiser Emblem,Bruiser Emblem,th
+Cappa Juice,Cappa Juice,th
+Captain's Brew,Captain's Brew,th
+Captain's Hat,Captain's Hat,th
+Chain Vest,Chain Vest,th
+Chalice of Power,Chalice of Power,th
+Continuum Cogs,Continuum Cogs,th
+Corrupt Vampiric Scepter,Corrupt Vampiric Scepter,th
+Crownguard,Crownguard,th
+Cursed Blade,Cursed Blade,th
+Cutthroat's Cutlass,Cutthroat's Cutlass,th
+Dawncore,Dawncore,th
+Dead Man's Dagger,Dead Man's Dagger,th
+Deathblade,Deathblade,th
+Defender Emblem,Defender Emblem,th
+Demacia Emblem,Demacia Emblem,th
+Disruptor Emblem,Disruptor Emblem,th
+Dragon's Claw,Dragon's Claw,th
+Dreadway Cannon,Dreadway Cannon,th
+E.M.P.,E.M.P.,th
+Echo Engine,Echo Engine,th
+Edge of Night,Edge of Night,th
+Electrical Overload,Electrical Overload,th
+Eternal Pact,Eternal Pact,th
+Evenshroud,Evenshroud,th
+First Mate's Flintlock,First Mate's Flintlock,th
+First One's Free!,ครั้งแรกฟรี!,th
+Fishbones,Fishbones,th
+Flickerblades,Flickerblades,th
+Forbidden Idol,Forbidden Idol,th
+Freljord Emblem,Freljord Emblem,th
+Frying Pan,Frying Pan,th
+Gargoyle Stoneplate,Gargoyle Stoneplate,th
+Giant Slayer,Giant Slayer,th
+Giant's Belt,Giant's Belt,th
+Gigantification Ray,Gigantification Ray,th
+Guinsoo's Rageblade,Guinsoo's Rageblade,th
+Gunslinger Emblem,Gunslinger Emblem,th
+Hand Of Justice,Hand Of Justice,th
+Haunted Spyglass,Haunted Spyglass,th
+Hellfire Hatchet,Hellfire Hatchet,th
+Hextech Gunblade,Hextech Gunblade,th
+Horizon Focus,Horizon Focus,th
+Infinity Edge,Infinity Edge,th
+Innervating Locket,Innervating Locket,th
+Invoker Emblem,Invoker Emblem,th
+Ionia Emblem,Ionia Emblem,th
+Ionic Spark,Ionic Spark,th
+Ixtal Emblem,Ixtal Emblem,th
+Jeweled Gauntlet,Jeweled Gauntlet,th
+Juggernaut Emblem,Juggernaut Emblem,th
+Kinetic Barrier,Kinetic Barrier,th
+Knight's Vow,Knight's Vow,th
+Kraken's Fury,Kraken's Fury,th
+Last Whisper,Last Whisper,th
+Lesser Mirrored Persona,Lesser Mirrored Persona,th
+Lich Bane,Lich Bane,th
+Lightshield Crest,Lightshield Crest,th
+Locket of the Iron Solari,Locket of the Iron Solari,th
+Longshot Emblem,Longshot Emblem,th
+Lucky Doubloon,Lucky Doubloon,th
+Luden's Tempest,Luden's Tempest,th
+Magnetron Coil,Magnetron Coil,th
+Mending Echoes,Mending Echoes,th
+Micro-Rockets,Micro-Rockets,th
+Mining Drill,Mining Drill,th
+Mirrored Persona,Mirrored Persona,th
+Mittens,Mittens,th
+Momentum Drive,Momentum Drive,th
+Morellonomicon,Morellonomicon,th
+Nashor's Tooth,Nashor's Tooth,th
+Needlessly Large Rod,Needlessly Large Rod,th
+Negatron Cloak,Negatron Cloak,th
+Noxus Emblem,Noxus Emblem,th
+Overclocked Capacitors,Overclocked Capacitors,th
+Pile O' Citrus,Pile O' Citrus,th
+Piltover Emblem,Piltover Emblem,th
+Protector's Vow,Protector's Vow,th
+Prowler's Claw,Prowler's Claw,th
+Quicksilver,Quicksilver,th
+Quickstriker Emblem,Quickstriker Emblem,th
+Rabadon's Deathcap,Rabadon's Deathcap,th
+Rapid Firecannon,Rapid Firecannon,th
+Realm Warp,Realm Warp,th
+Recurve Bow,Recurve Bow,th
+Red Buff,Red Buff,th
+Seeker's Armguard,Seeker's Armguard,th
+Shadow Puppet,Shadow Puppet,th
+Shroud of Stillness,Shroud of Stillness,th
+Silvermere Dawn,Silvermere Dawn,th
+Slayer Emblem,Slayer Emblem,th
+Sparring Gloves,Sparring Gloves,th
+Spatula,Spatula,th
+Spear of Shojin,Spear of Shojin,th
+Spectral Cutlass,Spectral Cutlass,th
+Spirit Visage,Spirit Visage,th
+Statikk Shiv,Statikk Shiv,th
+Steadfast Heart,Steadfast Heart,th
+Sterak's Gage,Sterak's Gage,th
+Striker's Flail,Striker's Flail,th
+Sunfire Cape,Sunfire Cape,th
+Superior Lifeform,Superior Lifeform,th
+Suspicious Trench Coat,Suspicious Trench Coat,th
+Syren's Broadside,Syren's Broadside,th
+Tactician's Cape,Tactician's Cape,th
+Tactician's Crown,Tactician's Crown,th
+Tactician's Shield,Tactician's Shield,th
+Talisman Of Ascension,Talisman Of Ascension,th
+Tear of the Goddess,Tear of the Goddess,th
+The Indomitable,The Indomitable,th
+Thief's Gloves,Thief's Gloves,th
+Titan's Resolve,Titan's Resolve,th
+Titanic Hydra,Titanic Hydra,th
+Tome of Traits,Tome of Traits,th
+Treasure Typhoon,Treasure Typhoon,th
+Tuned Oscillator,Tuned Oscillator,th
+Unending Despair,Unending Despair,th
+Unstable Core,Unstable Core,th
+Upgrade!,Upgrade!,th
+Vanquisher Emblem,Vanquisher Emblem,th
+Virtue of the Martyr,Virtue of the Martyr,th
+Void Emblem,Void Emblem,th
+Void Gauntlet,Void Gauntlet,th
+Void Staff,Void Staff,th
+Voltage Conduit,Voltage Conduit,th
+Warden Emblem,Warden Emblem,th
+Warmog's Armor,Warmog's Armor,th
+Wit's End,Wit's End,th
+Withered Relic,Withered Relic,th
+Yordle Emblem,Yordle Emblem,th
+Zaun Emblem,Zaun Emblem,th
+Zeke's Herald,Zeke's Herald,th
+Zephyr,Zephyr,th
+Zz'Rot Portal,Zz'Rot Portal,th

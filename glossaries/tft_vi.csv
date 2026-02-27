@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,Aatrox,vi
+Ahri,Ahri,vi
+Ambessa,Ambessa,vi
+Anivia,Anivia,vi
+Annie,Annie,vi
+Aphelios,Aphelios,vi
+Ashe,Ashe,vi
+Aurelion Sol,Aurelion Sol,vi
+Azir,Azir,vi
+Bard,Bard,vi
+Baron Nashor,Baron Nashor,vi
+Bel'Veth,Bel'Veth,vi
+Blitzcrank,Blitzcrank,vi
+Braum,Braum,vi
+Briar,Briar,vi
+Brock,Brock,vi
+Caitlyn,Caitlyn,vi
+Cho'Gath,Cho'Gath,vi
+Darius,Darius,vi
+Diana,Diana,vi
+Dr. Mundo,Dr. Mundo,vi
+Draven,Draven,vi
+Ekko,Ekko,vi
+Elder Dragon,Rồng Ngàn Tuổi,vi
+Fiddlesticks,Fiddlesticks,vi
+Fizz,Fizz,vi
+Galio,Galio,vi
+Gangplank,Gangplank,vi
+Garen,Garen,vi
+Golem,Người Đá,vi
+Graves,Graves,vi
+Gwen,Gwen,vi
+Illaoi,Illaoi,vi
+Jarvan IV,Jarvan IV,vi
+Jhin,Jhin,vi
+Jinx,Jinx,vi
+Kai'Sa,Kai'Sa,vi
+Kalista,Kalista,vi
+Kennen,Kennen,vi
+Kindred,Kindred,vi
+Kobuko & Yuumi,Kobuko & Yuumi,vi
+Kog'Maw,Kog'Maw,vi
+LeBlanc,LeBlanc,vi
+Leona,Leona,vi
+Lissandra,Lissandra,vi
+Loris,Loris,vi
+Lucian & Senna,Lucian & Senna,vi
+Lulu,Lulu,vi
+Lux,Lux,vi
+Malzahar,Malzahar,vi
+Mel,Mel,vi
+Milio,Milio,vi
+Miss Fortune,Miss Fortune,vi
+Nasus,Nasus,vi
+Nautilus,Nautilus,vi
+Neeko,Neeko,vi
+Nidalee,Nidalee,vi
+Orianna,Orianna,vi
+Ornn,Ornn,vi
+Piltover Invention,Phát Minh Piltover,vi
+Poppy,Poppy,vi
+Qiyana,Qiyana,vi
+Rek'Sai,Rek'Sai,vi
+Renekton,Renekton,vi
+Rift Herald,Sứ Giả Khe Nứt,vi
+Rift Scuttler,Cua Kỳ Cục,vi
+Rumble,Rumble,vi
+Ryze,Ryze,vi
+Sejuani,Sejuani,vi
+Seraphine,Seraphine,vi
+Sett,Sett,vi
+Shen,Shen,vi
+Shyvana,Shyvana,vi
+Singed,Singed,vi
+Sion,Sion,vi
+Skarner,Skarner,vi
+Sona,Sona,vi
+Swain,Swain,vi
+Sylas,Sylas,vi
+T-Hex,T-Hex,vi
+Tahm Kench,Tahm Kench,vi
+Taric,Taric,vi
+Teemo,Teemo,vi
+Thresh,Thresh,vi
+Training Dummy,Hình Nhân,vi
+Tristana,Tristana,vi
+Tryndamere,Tryndamere,vi
+Twisted Fate,Twisted Fate,vi
+Vayne,Vayne,vi
+Veigar,Veigar,vi
+Vi,Vi,vi
+Viego,Viego,vi
+Volibear,Volibear,vi
+Warwick,Warwick,vi
+Wukong,Ngộ Không,vi
+Xerath,Xerath,vi
+Xin Zhao,Xin Zhao,vi
+Yasuo,Yasuo,vi
+Yone,Yone,vi
+Yorick,Yorick,vi
+Yunara,Yunara,vi
+Zaahen,Zaahen,vi
+Ziggs,Ziggs,vi
+Zilean,Zilean,vi
+Zoe,Zoe,vi
+Arcanist,Pháp Sư,vi
+Ascendant,Thăng Hoa,vi
+Assimilator,Cộng Sinh,vi
+Bilgewater,Bilgewater,vi
+Blacksmith,Thần Rèn,vi
+Bruiser,Đấu Sĩ,vi
+Caretaker,Ông Bụt,vi
+Chainbreaker,Kẻ Phá Xiềng,vi
+Chosen Wolves,Chiến Lang,vi
+Chronokeeper,Giám Hộ,vi
+Dark Child,Đứa Trẻ Bóng Tối,vi
+Darkin,Darkin,vi
+Defender,Vệ Quân,vi
+Demacia,Demacia,vi
+Disruptor,Nhiễu Loạn,vi
+Dragonborn,Long Nữ,vi
+Dragonguards,Long Binh,vi
+Emperor,Hoàng Đế,vi
+Eternal,Vĩnh Hằng,vi
+Freljord,Freljord,vi
+Glutton,Phàm Ăn,vi
+Gunslinger,Xạ Thủ,vi
+Harvester,Bù Nhìn,vi
+Heroic,Siêu Hùng,vi
+HexMech,Cơ Giáp Hex,vi
+Huntress,Nữ Thợ Săn,vi
+Immortal,Bất Tử,vi
+Invoker,Thuật Sĩ,vi
+Ionia,Ionia,vi
+Ixtal,Ixtal,vi
+Juggernaut,Dũng Sĩ,vi
+Longshot,Viễn Kích,vi
+Noxus,Noxus,vi
+Piltover,Piltover,vi
+Poison Pals,Bộ Đôi Độc Dược,vi
+Quickstriker,Cực Tốc,vi
+Riftscourge,Tai Ương,vi
+Rune Mage,Cổ Ngữ,vi
+Sentinels of Light,Vệ Binh Ánh Sáng,vi
+Shadow Isles,Đảo Bóng Đêm,vi
+Shurima,Shurima,vi
+Slayer,Đồ Tể,vi
+Soulbound,Linh Hồn,vi
+Star Forger,Ác Long,vi
+Targon,Targon,vi
+The Boss,Đại Ca,vi
+Timewinders,Dây Cót Thời Gian,vi
+Vanquisher,Chinh Phạt,vi
+Void,Hư Không,vi
+Warden,Cảnh Vệ,vi
+World Ender,Quỷ Kiếm,vi
+Yordle,Yordle,vi
+Zaun,Zaun,vi
+3 Threes,Chỉ 3 Vàng,vi
+A Magic Roll,Xúc Xắc Ma Pháp,vi
+Advanced Loan,Vay Tạm Ứng,vi
+Air Axiom,Nguyên Tố Khí,vi
+Arcane Viktor-y,Arcane Viktor-y,vi
+Artillery Barrage,Pháo Kích Tầm Xa,vi
+Ascension,Thăng Hoa,vi
+Band of Thieves,Băng Trộm,vi
+Belt Overflow,Đam Mê Đai Lưng,vi
+Best Friends,Bạn Thân,vi
+Big Friend,Dựa Hơi,vi
+Big Grab Bag,Túi Đồ Cỡ Đại,vi
+Binary Airdrop,Trang Bị Đầy Đủ,vi
+Birthday Present,Quà Sinh Nhật,vi
+Birthday Reunion,Sinh Nhật Đoàn Tụ,vi
+Blood Offering,Huyết Tế,vi
+Bodyguard Training,Huấn Luyện Cận Vệ,vi
+Boxing Lessons,Tập Chịu Đòn,vi
+Branching Out,Phân Nhánh,vi
+Bringer of Ruin,Kẻ Tàn Phá,vi
+Bronze For Life,Tất Tay Bậc Đồng,vi
+Buried Treasures,Kho Báu Chôn Giấu,vi
+Care Package,Gói Bảo Hộ,vi
+Caretaker's Ally,Đồng Minh Của Bụt,vi
+Celestial Blessing,Phước Lành Vũ Trụ,vi
+Chaotic Evolution,Tiến Hóa Bất Định,vi
+Commerce Core,Trung Tâm Thương Mại,vi
+Component Buffet,Đại Tiệc Trang Bị,vi
+Construct a Companion,Người Bạn Vàng,vi
+Cooking Pot,Nồi Nấu Ăn,vi
+Coronation,Lên Ngôi Vương,vi
+Corrosion,Ăn Mòn,vi
+Cosmic Calling,Vũ Trụ Triệu Gọi,vi
+Crafted Crafting,Khéo Tay Hay Làm,vi
+Crash Test Dummies,Hình Nộm Va Chạm,vi
+Crown's Will,Ý Chí Vương Miện,vi
+Cry Me A River,Giọt Lệ Bi Ai,vi
+Darkwill's Invasion,Darkwill Xâm Lược,vi
+Deadlier Blades,Kiếm Tử Thần,vi
+Deadlier Caps,Mũ Tử Thần,vi
+Defense of the Placidium,Bảo Vệ Thiên Phận,vi
+Demacia Forever,Demacia Trường Tồn,vi
+Double Trouble,Cặp Đôi Hoàn Cảnh,vi
+Dummify,Hình Nhân Hóa,vi
+Duo Queue,Hàng Chờ Đấu Đôi,vi
+Earth Axiom,Nguyên Tố Đất,vi
+Epic Rolldown,Xúc Xắc Hoành Tráng,vi
+Exclusive Customization,Lựa Chọn Độc Quyền,vi
+Exiles,Độc Hành,vi
+Expected Unexpectedness,Kỳ Vọng Bất Ngờ,vi
+Explosive Growth,Tăng Trưởng Bùng Nổ,vi
+Eye For An Eye,Ăn Miếng Trả Miếng,vi
+Feed the Flames,Nếm Mùi Lửa,vi
+Find Your Center,Tiền Vệ Trung Tâm,vi
+Fire Axiom,Nguyên Tố Lửa,vi
+Focused Fire,Tập Trung Hỏa Lực,vi
+Giant and Mighty,To Lớn & Mạnh Mẽ,vi
+Gilded Steel,Thép Mạ Vàng,vi
+Glass Cannon,Lấy Công Bù Thủ,vi
+Going Long,Thích Mở Rộng,vi
+Gold Destiny,Vận Mệnh Vàng,vi
+Golemify,Người Đá Càn Quét,vi
+Good For Something,Được Này Mất Kia,vi
+Growth Mindset,Tư Duy Tiến Bộ,vi
+Hard Commit,Chỉ Một Con Đường,vi
+Healing Orbs,Cầu Hồi Phục,vi
+Heart of Steel,Trái Tim Sắt Đá,vi
+Heavy Is the Crown,Vương Miện Nặng Trĩu,vi
+Hedge Fund,Quỹ Phòng Hộ,vi
+Hefty Rolls,Ván Cờ May Rủi,vi
+Heroic Grab Bag,Túi Đồ Siêu Hùng,vi
+Hexgate Travel,Di Chuyển Bằng Cổng Hextech,vi
+High Voltage,Sét Cao Thế,vi
+Hold the Line,Giữ Vững Hàng Ngũ,vi
+Indecision,Do Dự,vi
+Indiscriminate Killer,Sát Thủ Khát Máu,vi
+Invested,Đầu Tư,vi
+Iron Assets,Kho Báu Sắt,vi
+Item Grab Bag,Tiếp Tế Trang Bị,vi
+Jeweled Lotus,Khảm Bảo Thạch,vi
+Just Hit,Đánh Là Trúng,vi
+Kahunahuna,Kamekameha,vi
+Last Second Save,Cứu Trong Gang Tấc,vi
+Late Game Scaling,Thăng Tiến Cuối Trận,vi
+Late Game Specialist,Hướng Đến Hồi Kết,vi
+Leap of Faith,Bước Nhảy Niềm Tin,vi
+Legion of Threes,Quân Đoàn 3 Sao,vi
+Level Up!,Khuyến Mãi Kinh Nghiệm,vi
+Lifting Competition,Cuộc Thi Nâng Tạ,vi
+Lineup,Tiền Tuyến Vững Chãi,vi
+Little Buddies,Những Người Bạn Nhỏ,vi
+Lucky Gloves,Đo Ni Đóng Giày,vi
+Mace's Will,Ý Chỉ Xích Chùy,vi
+Makeshift Armor,Giáp Tự Chế,vi
+Mess Hall,Sảnh Đông Đúc,vi
+Min-Max,Tối Đa Hóa,vi
+Missed Connections,Kết Nối Gián Đoạn,vi
+Money Monsoon,Bão Vàng,vi
+On a Roll,Trên Đà Phát Triển,vi
+"One Buff, Two Buff","Một Bùa, Hai Bùa",vi
+One Twos Three,"Một, Hai, Ba",vi
+"One, Two, Five!","Một, Hai, Năm!",vi
+Pandora's Bench,Hàng Chờ Pandora,vi
+Pandora's Items,Trang Bị Pandora,vi
+Patience is a Virtue,Kiên Nhẫn Là Một Đức Tính,vi
+Placebo,Giả Dược,vi
+Plot Armor,Hào Quang Nhân Vật Chính,vi
+Portable Forge,Lò Rèn Thần Thoại,vi
+Precision and Grace,Chuẩn Xác và Uyển Chuyển,vi
+Preparation,Làm Nóng,vi
+Prismatic Destiny,Vận Mệnh Kim Cương,vi
+Prismatic Ticket,Vé Kim Cương,vi
+Promised Protection,Thệ Ước Bảo Hộ,vi
+Pyromaniac,Hỏa Cuồng Nhân,vi
+Radiant Rascal,Quang Lân Tiểu Yêu,vi
+Radiant Relics,Kho Thần Tích,vi
+Raining Gold,Cơn Mưa Vàng,vi
+Recombobulator,Xoay Bài Tự Động,vi
+ReinFOURcement,Tứ Phương Tiếp Viện,vi
+Replication,Nhân Bản,vi
+Restart Mission,Tái Khởi Động Nhiệm Vụ,vi
+Retribution,Báo Oán,vi
+Rolling For Days,Xúc Xắc Vô Tận,vi
+Savings Account,Tài Khoản Tiết Kiệm,vi
+Second Wind,Ngọn Gió Thứ Hai,vi
+Seraphim's Staff,Trượng Đại Thiên Sứ,vi
+Shimmerscale Essence,Tinh Túy Kim Long,vi
+Shopping Spree,Tín Đồ Mua Sắm,vi
+Silco's Revenge,Silco Báo Thù,vi
+Silver Destiny,Vận Mệnh Bạc,vi
+Silver Spoon,Đặc Quyền Phú Gia,vi
+Slightly Magic Roll,Quay Trúng Thưởng,vi
+Small Grab Bag,Túi Đồ Cỡ Nhỏ,vi
+Solo Plate,Khiên Đơn Đấu,vi
+Soul Awakening,Thức Tỉnh Linh Hồn,vi
+Spear's Will,Ý Chỉ Ngọn Giáo,vi
+Spirit of Redemption,Linh Hồn Chuộc Tội,vi
+Spreading Roots,Cắm Rễ Phân Tán,vi
+Staffsmith,Thợ Rèn Gậy,vi
+Stand United,Nhất Thống,vi
+Stars Are Born,Toàn Sao Là Sao,vi
+Starter Kit,Bộ Khởi Đầu,vi
+Sweet Treats,Món Quà Ngọt Ngào,vi
+Sword Overflow,Đam Mê Kiếm,vi
+Swordsmith,Thợ Rèn Kiếm,vi
+Teaming Up,Lập Đội,vi
+The Axiomata,Định Luật Nguyên Tố,vi
+The Golden Dragon,Kim Long,vi
+The Ruined King,Hắc Diệt Đế Vương,vi
+The Trait Tree,Cây Tộc Hệ,vi
+The World Runes,Cổ Ngữ Thế Giới,vi
+Thorn-Plated Armor,Giáp Gai Thép,vi
+"Tiny, but Deadly",Nhỏ Mà Có Võ,vi
+Tons of Stats!,Cộng Mệt Nghỉ!,vi
+Trade Sector,Khu Giao Dịch,vi
+Trials of Twilight,Thử Thách Dưới Ánh Chạng Vạng,vi
+Trifecta,Bộ Ba Hoàn Hảo,vi
+Twin Guardians,Song Vệ,vi
+Two Much Value,2 Vàng Là Nhất,vi
+Two Trick,Số 2 May Mắn,vi
+U.R.F,U.R.F.,vi
+Unsealed From Steel,Thoát Khỏi Xiềng Thép,vi
+Upward Mobility,Đẩy Nhanh Tiến Độ,vi
+Wand Overflow,Đam Mê Gậy,vi
+Warlord's Honor,Chiến Tướng Khải Hoàn,vi
+Water Axiom,Nguyên Tố Nước,vi
+We Stick Together,Kề Vai Sát Cánh,vi
+Wild Growth,Khổng Lồ Hóa,vi
+Win Out,Toàn Thắng,vi
+Wood Axiom,Nguyên Tố Gỗ,vi
+Woven Magic,Ma Thuật Đan Kết,vi
+90 Caliber Nets,Lưới 90,vi
+Acceleration Gate,Cổng Tăng Tốc,vi
+Adaptive Helm,Mũ Thích Nghi,vi
+Aegis of Dawn,Khiên Hừng Đông,vi
+Aegis of Dusk,Khiên Hoàng Hôn,vi
+Arcanist Emblem,Ấn Pháp Sư,vi
+Archangel's Staff,Quyền Trượng Thiên Thần,vi
+Armor Nullifier,Phá Giáp,vi
+B.F. Sword,Kiếm B.F.,vi
+Barknuckles,Găng Dã Thú,vi
+Bilgewater Emblem,Ấn Bilgewater,vi
+Bilgewater Lesser Champion Duplicator,Máy Sao Chép Tướng Cỡ Nhỏ Bilgewater,vi
+Black Market Restock,Nguồn Hàng Bất Chính,vi
+Blackmarket Explosives,Chất Nổ Chợ Đen,vi
+Blast Shield,Giáp Chống Chất Nổ,vi
+Blighting Jewel,Đá Hắc Hóa,vi
+Bloodthirster,Huyết Kiếm,vi
+Blue Buff,Bùa Xanh,vi
+Bramble Vest,Áo Choàng Gai,vi
+Brigand's Dice,Xúc Xắc Đạo Tặc,vi
+Bruiser Emblem,Ấn Đấu Sĩ,vi
+Cappa Juice,Nước Cappa,vi
+Captain's Brew,Men Rượu Thuyền Trưởng,vi
+Captain's Hat,Mũ Thuyền Trưởng,vi
+Chain Vest,Giáp Lưới,vi
+Chalice of Power,Cốc Sức Mạnh,vi
+Continuum Cogs,Bánh Răng Liên Luân,vi
+Corrupt Vampiric Scepter,Huyết Trượng Tha Hóa,vi
+Crownguard,Vương Miện Hoàng Gia,vi
+Cursed Blade,Kiếm Cong,vi
+Cutthroat's Cutlass,Kiếm Sát Mệnh,vi
+Dawncore,Lõi Bình Minh,vi
+Dead Man's Dagger,Dao Tử Sĩ,vi
+Deathblade,Kiếm Tử Thần,vi
+Defender Emblem,Ấn Vệ Quân,vi
+Demacia Emblem,Ấn Demacia,vi
+Disruptor Emblem,Ấn Nhiễu Loạn,vi
+Dragon's Claw,Vuốt Rồng,vi
+Dreadway Cannon,Đại Bác Dreadway,vi
+E.M.P.,BOM ĐIỆN TỪ,vi
+Echo Engine,Động Cơ Dư Âm,vi
+Edge of Night,Áo Choàng Bóng Tối,vi
+Electrical Overload,Quá Tải Điện,vi
+Eternal Pact,Khế Ước Vĩnh Hằng,vi
+Evenshroud,Giáp Vai Nguyệt Thần,vi
+First Mate's Flintlock,Súng Kíp Thuyền Phó,vi
+First One's Free!,Lần Đầu Không Tính Tiền!,vi
+Fishbones,Pháo Xương Cá,vi
+Flickerblades,Đao Chớp,vi
+Forbidden Idol,Dị Vật Tai Ương,vi
+Freljord Emblem,Ấn Freljord,vi
+Frying Pan,Chảo Vàng,vi
+Gargoyle Stoneplate,Thú Tượng Thạch Giáp,vi
+Giant Slayer,Diệt Khổng Lồ,vi
+Giant's Belt,Đai Khổng Lồ,vi
+Gigantification Ray,Tia Phóng Đại,vi
+Guinsoo's Rageblade,Cuồng Đao Guinsoo,vi
+Gunslinger Emblem,Ấn Xạ Thủ,vi
+Hand Of Justice,Bàn Tay Công Lý,vi
+Haunted Spyglass,Ống Nhòm Ma Ám,vi
+Hellfire Hatchet,Rìu Hỏa Ngục,vi
+Hextech Gunblade,Kiếm Súng Hextech,vi
+Horizon Focus,Kính Nhắm Ma Pháp,vi
+Infinity Edge,Vô Cực Kiếm,vi
+Innervating Locket,Dây Chuyền Tự Lực,vi
+Invoker Emblem,Ấn Thuật Sĩ,vi
+Ionia Emblem,Ấn Ionia,vi
+Ionic Spark,Nỏ Sét,vi
+Ixtal Emblem,Ấn Ixtal,vi
+Jeweled Gauntlet,Găng Bảo Thạch,vi
+Juggernaut Emblem,Ấn Dũng Sĩ,vi
+Kinetic Barrier,Rào Động Lực,vi
+Knight's Vow,Lời Thề Hiệp Sĩ,vi
+Kraken's Fury,Thịnh Nộ Thủy Quái,vi
+Last Whisper,Cung Xanh,vi
+Lesser Mirrored Persona,Hiện Thân Phản Chiếu Cỡ Nhỏ,vi
+Lich Bane,Kiếm Tai Ương,vi
+Lightshield Crest,Huy Hiệu Lightshield,vi
+Locket of the Iron Solari,Dây Chuyền Iron Solari,vi
+Longshot Emblem,Ấn Viễn Kích,vi
+Lucky Doubloon,Đồng Vàng May Mắn,vi
+Luden's Tempest,Bão Tố Luden,vi
+Magnetron Coil,Cuộn Từ Trường,vi
+Mending Echoes,Thanh Âm Chữa Lành,vi
+Micro-Rockets,Tên Lửa Vi Mô,vi
+Mining Drill,Khoan Khai Thác,vi
+Mirrored Persona,Hiện Thân Phản Chiếu,vi
+Mittens,Găng Đấu Sĩ,vi
+Momentum Drive,Động Cơ Quán Tính,vi
+Morellonomicon,Quỷ Thư Morello,vi
+Nashor's Tooth,Nanh Nashor,vi
+Needlessly Large Rod,Gậy Quá Khổ,vi
+Negatron Cloak,Áo Choàng Bạc,vi
+Noxus Emblem,Ấn Noxus,vi
+Overclocked Capacitors,Tụ Điện Ép Xung,vi
+Pile O' Citrus,Vitamin C,vi
+Piltover Emblem,Ấn Piltover,vi
+Protector's Vow,Lời Thề Hộ Vệ,vi
+Prowler's Claw,Móng Vuốt Ám Muội,vi
+Quicksilver,Áo Choàng Thủy Ngân,vi
+Quickstriker Emblem,Ấn Cực Tốc,vi
+Rabadon's Deathcap,Mũ Phù Thủy Rabadon,vi
+Rapid Firecannon,Đại Bác Liên Thanh,vi
+Realm Warp,Vòng Xoáy Không Gian,vi
+Recurve Bow,Cung Gỗ,vi
+Red Buff,Bùa Đỏ,vi
+Seeker's Armguard,Giáp Tay Seeker,vi
+Shadow Puppet,Bóng Phân Thân,vi
+Shroud of Stillness,Áo Choàng Tĩnh Lặng,vi
+Silvermere Dawn,Chùy Bạch Ngân,vi
+Slayer Emblem,Ấn Đồ Tể,vi
+Sparring Gloves,Găng Đấu Tập,vi
+Spatula,Siêu Xẻng,vi
+Spear of Shojin,Ngọn Giáo Shojin,vi
+Spectral Cutlass,Gươm Biến Ảnh,vi
+Spirit Visage,Giáp Tâm Linh,vi
+Statikk Shiv,Dao Điện Statikk,vi
+Steadfast Heart,Trái Tim Kiên Định,vi
+Sterak's Gage,Móng Vuốt Sterak,vi
+Striker's Flail,Chùy Đoản Côn,vi
+Sunfire Cape,Áo Choàng Lửa,vi
+Superior Lifeform,Thể Dạng Ưu Việt,vi
+Suspicious Trench Coat,Áo Choàng Mờ Ám,vi
+Syren's Broadside,Syren Khai Hỏa,vi
+Tactician's Cape,Áo Choàng Chiến Thuật,vi
+Tactician's Crown,Vương Miện Chiến Thuật,vi
+Tactician's Shield,Lá Chắn Chiến Thuật,vi
+Talisman Of Ascension,Bùa Thăng Hoa,vi
+Tear of the Goddess,Nước Mắt Nữ Thần,vi
+The Indomitable,Bất Khuất,vi
+Thief's Gloves,Găng Đạo Tặc,vi
+Titan's Resolve,Quyền Năng Khổng Lồ,vi
+Titanic Hydra,Rìu Đại Mãng Xà,vi
+Tome of Traits,Sách Chọn Ấn,vi
+Treasure Typhoon,Bão Kho Báu,vi
+Tuned Oscillator,Dao Động Tinh Chỉnh,vi
+Unending Despair,Áo Choàng Diệt Vong,vi
+Unstable Core,Lõi Bất Ổn,vi
+Upgrade!,Nâng Cấp!,vi
+Vanquisher Emblem,Ấn Chinh Phạt,vi
+Virtue of the Martyr,Quyền Trượng Thánh Quang,vi
+Void Emblem,Ấn Hư Không,vi
+Void Gauntlet,Găng Hư Không,vi
+Void Staff,Trượng Hư Vô,vi
+Voltage Conduit,Dẫn Điện Áp,vi
+Warden Emblem,Ấn Cảnh Vệ,vi
+Warmog's Armor,Giáp Máu Warmog,vi
+Wit's End,Đao Tím,vi
+Withered Relic,Di Vật Tàn Úa,vi
+Yordle Emblem,Ấn Yordle,vi
+Zaun Emblem,Ấn Zaun,vi
+Zeke's Herald,Tụ Bão Zeke,vi
+Zephyr,Phong Kiếm,vi
+Zz'Rot Portal,Thông Đạo Zz'rot,vi

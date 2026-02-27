@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,エイトロックス,ja
+Ahri,アーリ,ja
+Ambessa,アンベッサ,ja
+Anivia,アニビア,ja
+Annie,アニー,ja
+Aphelios,アフェリオス,ja
+Ashe,アッシュ,ja
+Aurelion Sol,オレリオン・ソル,ja
+Azir,アジール,ja
+Bard,バード,ja
+Baron Nashor,バロンナッシャー,ja
+Bel'Veth,ベル＝ヴェス,ja
+Blitzcrank,ブリッツクランク,ja
+Braum,ブラウム,ja
+Briar,ブライアー,ja
+Brock,ブロック,ja
+Caitlyn,ケイトリン,ja
+Cho'Gath,チョ＝ガス,ja
+Darius,ダリウス,ja
+Diana,ダイアナ,ja
+Dr. Mundo,ドクター・ムンド,ja
+Draven,ドレイヴン,ja
+Ekko,エコー,ja
+Elder Dragon,エルダードラゴン,ja
+Fiddlesticks,フィドルスティックス,ja
+Fizz,フィズ,ja
+Galio,ガリオ,ja
+Gangplank,ガングプランク,ja
+Garen,ガレン,ja
+Golem,ゴーレム,ja
+Graves,グレイブス,ja
+Gwen,グウェン,ja
+Illaoi,イラオイ,ja
+Jarvan IV,ジャーヴァンⅣ,ja
+Jhin,ジン,ja
+Jinx,ジンクス,ja
+Kai'Sa,カイ＝サ,ja
+Kalista,カリスタ,ja
+Kennen,ケネン,ja
+Kindred,キンドレッド,ja
+Kobuko & Yuumi,コブコ&ユーミ,ja
+Kog'Maw,コグ＝マウ,ja
+LeBlanc,ルブラン,ja
+Leona,レオナ,ja
+Lissandra,リサンドラ,ja
+Loris,ロリス,ja
+Lucian & Senna,ルシアン&セナ,ja
+Lulu,ルル,ja
+Lux,ラックス,ja
+Malzahar,マルザハール,ja
+Mel,メル,ja
+Milio,ミリオ,ja
+Miss Fortune,ミス・フォーチュン,ja
+Nasus,ナサス,ja
+Nautilus,ノーチラス,ja
+Neeko,ニーコ,ja
+Nidalee,ニダリー,ja
+Orianna,オリアナ,ja
+Ornn,オーン,ja
+Piltover Invention,ピルトーヴァーの発明品,ja
+Poppy,ポッピー,ja
+Qiyana,キヤナ,ja
+Rek'Sai,レク＝サイ,ja
+Renekton,レネクトン,ja
+Rift Herald,リフトヘラルド,ja
+Rift Scuttler,リフトスカトル,ja
+Rumble,ランブル,ja
+Ryze,ライズ,ja
+Sejuani,セジュアニ,ja
+Seraphine,セラフィーン,ja
+Sett,セト,ja
+Shen,シェン,ja
+Shyvana,シヴァーナ,ja
+Singed,シンジド,ja
+Sion,サイオン,ja
+Skarner,スカーナー,ja
+Sona,ソナ,ja
+Swain,スウェイン,ja
+Sylas,サイラス,ja
+T-Hex,T-Hex,ja
+Tahm Kench,タム・ケンチ,ja
+Taric,タリック,ja
+Teemo,ティーモ,ja
+Thresh,スレッシュ,ja
+Training Dummy,ダミー,ja
+Tristana,トリスターナ,ja
+Tryndamere,トリンダメア,ja
+Twisted Fate,ツイステッド・フェイト,ja
+Vayne,ヴェイン,ja
+Veigar,ベイガー,ja
+Vi,ヴァイ,ja
+Viego,ヴィエゴ,ja
+Volibear,ボリベア,ja
+Warwick,ワーウィック,ja
+Wukong,ウーコン,ja
+Xerath,ゼラス,ja
+Xin Zhao,シン・ジャオ,ja
+Yasuo,ヤスオ,ja
+Yone,ヨネ,ja
+Yorick,ヨリック,ja
+Yunara,ユナラ,ja
+Zaahen,ザーヘン,ja
+Ziggs,ジグス,ja
+Zilean,ジリアン,ja
+Zoe,ゾーイ,ja
+Arcanist,アルカニスト,ja
+Ascendant,超越者,ja
+Assimilator,アシミレーター,ja
+Bilgewater,ビルジウォーター,ja
+Blacksmith,ブラックスミス,ja
+Bruiser,ブルーザー,ja
+Caretaker,ケアテイカー,ja
+Chainbreaker,チェインブレイカー,ja
+Chosen Wolves,選ばれし狼,ja
+Chronokeeper,クロノキーパー,ja
+Dark Child,ダークチャイルド,ja
+Darkin,ダーキン,ja
+Defender,ディフェンダー,ja
+Demacia,デマーシア,ja
+Disruptor,ディスラプター,ja
+Dragonborn,ドラゴンボーン,ja
+Dragonguards,ドラゴンの守護者,ja
+Emperor,エンペラー,ja
+Eternal,エターナル,ja
+Freljord,フレヨルド,ja
+Glutton,グラットン,ja
+Gunslinger,ガンスリンガー,ja
+Harvester,ハーベスター,ja
+Heroic,ヒロイック,ja
+HexMech,ヘクスメック,ja
+Huntress,ハントレス,ja
+Immortal,イモータル,ja
+Invoker,インヴォーカー,ja
+Ionia,アイオニア,ja
+Ixtal,イシュタル,ja
+Juggernaut,ジャガーノート,ja
+Longshot,ロングショット,ja
+Noxus,ノクサス,ja
+Piltover,ピルトーヴァー,ja
+Poison Pals,ポイズンパル,ja
+Quickstriker,韋駄天,ja
+Riftscourge,リフトスカージ,ja
+Rune Mage,ルーンメイジ,ja
+Sentinels of Light,光の番人,ja
+Shadow Isles,シャドウアイル,ja
+Shurima,シュリーマ,ja
+Slayer,スレイヤー,ja
+Soulbound,ソウルバウンド,ja
+Star Forger,スターフォージャー,ja
+Targon,ターゴン,ja
+The Boss,ザ・ボス,ja
+Timewinders,タイムワインダー,ja
+Vanquisher,ヴァンキッシャー,ja
+Void,ヴォイド,ja
+Warden,ワーデン,ja
+World Ender,ワールドエンダー,ja
+Yordle,ヨードル,ja
+Zaun,ゾウン,ja
+3 Threes,3×3,ja
+A Magic Roll,魔法のダイス,ja
+Advanced Loan,前借り,ja
+Air Axiom,風のアクシオム,ja
+Arcane Viktor-y,Arcane ビクタリー,ja
+Artillery Barrage,大砲の雨,ja
+Ascension,アセンション,ja
+Band of Thieves,盗賊団,ja
+Belt Overflow,ベルト オーバーフロー,ja
+Best Friends,ベストフレンド,ja
+Big Friend,ビッグフレンド,ja
+Big Grab Bag,大きな福袋,ja
+Binary Airdrop,バイナリー空中投下,ja
+Birthday Present,バースデープレゼント,ja
+Birthday Reunion,バースデー リユニオン,ja
+Blood Offering,血の供物,ja
+Bodyguard Training,ボディーガードの訓練,ja
+Boxing Lessons,ボクシングのレッスン,ja
+Branching Out,構成拡大,ja
+Bringer of Ruin,災禍の使者,ja
+Bronze For Life,生涯ブロンズ,ja
+Buried Treasures,埋もれた宝物,ja
+Care Package,仕送り,ja
+Caretaker's Ally,庇護者のお供,ja
+Celestial Blessing,天の祝福,ja
+Chaotic Evolution,混沌の進化,ja
+Commerce Core,コマース コア,ja
+Component Buffet,素材ビュッフェ,ja
+Construct a Companion,コンパニオン作成,ja
+Cooking Pot,料理鍋,ja
+Coronation,戴冠式,ja
+Corrosion,腐食,ja
+Cosmic Calling,宇宙の呼び声,ja
+Crafted Crafting,巧みなクラフト,ja
+Crash Test Dummies,衝突試験用ダミー,ja
+Crown's Will,クラウンの決意,ja
+Cry Me A River,好きなだけ泣くがいい,ja
+Darkwill's Invasion,ダークウィルの侵略,ja
+Deadlier Blades,デッドリアー ブレード,ja
+Deadlier Caps,もっと怖いキャップ,ja
+Defense of the Placidium,プラシディウムの防衛,ja
+Demacia Forever,デマーシアよ永遠に,ja
+Double Trouble,ダブルトラブル,ja
+Dummify,ダミー化,ja
+Duo Queue,デュオキュー,ja
+Earth Axiom,大地のアクシオム,ja
+Epic Rolldown,エピックなロールダウン,ja
+Exclusive Customization,限定カスタマイズ,ja
+Exiles,エグザイル,ja
+Expected Unexpectedness,想定内の意外性,ja
+Explosive Growth,爆発的成長,ja
+Eye For An Eye,目には目を,ja
+Feed the Flames,炎を強めて,ja
+Find Your Center,ここがセンター,ja
+Fire Axiom,炎のアクシオム,ja
+Focused Fire,集中砲火,ja
+Giant and Mighty,ジャイアント&マイティ,ja
+Gilded Steel,金ピカの鋼,ja
+Glass Cannon,グラスキャノン,ja
+Going Long,思惑買い,ja
+Gold Destiny,ゴールドの運命,ja
+Golemify,ゴーレム化,ja
+Good For Something,有効活用,ja
+Growth Mindset,成長志向,ja
+Hard Commit,全身全霊,ja
+Healing Orbs,ヒーリングオーブ,ja
+Heart of Steel,鋼の心,ja
+Heavy Is the Crown,王冠とは重きもの,ja
+Hedge Fund,ヘッジファンド,ja
+Hefty Rolls,たっぷりリロール,ja
+Heroic Grab Bag,英雄のラッキーバッグ,ja
+Hexgate Travel,ヘクスゲート トラベル,ja
+High Voltage,高電圧,ja
+Hold the Line,前線維持,ja
+Indecision,優柔不断,ja
+Indiscriminate Killer,無差別殺人者,ja
+Invested,投資完了,ja
+Iron Assets,カナとカネ,ja
+Item Grab Bag,アイテム福袋,ja
+Jeweled Lotus,ジュエル ロータス,ja
+Just Hit,ジャストヒット,ja
+Kahunahuna,カフナフナ,ja
+Last Second Save,ギリギリの救出,ja
+Late Game Scaling,レイトゲーム スケーリング,ja
+Late Game Specialist,レイトゲーム スペシャリスト,ja
+Leap of Faith,信仰震,ja
+Legion of Threes,3の軍団,ja
+Level Up!,レベルアップ！,ja
+Lifting Competition,リフティング大会,ja
+Lineup,ラインナップ,ja
+Little Buddies,小さな仲間たち,ja
+Lucky Gloves,ラッキーグローブ,ja
+Mace's Will,メイスの決意,ja
+Makeshift Armor,即席アーマー,ja
+Mess Hall,食堂,ja
+Min-Max,ミニマックス,ja
+Missed Connections,ミスコネクション,ja
+Money Monsoon,金のモンスーン,ja
+On a Roll,絶好調,ja
+"One Buff, Two Buff",バフが1つ、バフが2つ,ja
+One Twos Three,ワン、ツーツー、スリー,ja
+"One, Two, Five!",ワン、ツー、ファイブ！,ja
+Pandora's Bench,パンドラのベンチ,ja
+Pandora's Items,パンドラのアイテム,ja
+Patience is a Virtue,忍耐の美徳,ja
+Placebo,プラシーボ,ja
+Plot Armor,主人公補正,ja
+Portable Forge,ポータブル フォージ,ja
+Precision and Grace,精密かつ優雅,ja
+Preparation,戦闘準備,ja
+Prismatic Destiny,プリズムの運命,ja
+Prismatic Ticket,プリズムチケット,ja
+Promised Protection,確約された守護,ja
+Pyromaniac,炎の愛好家,ja
+Radiant Rascal,輝く悪党,ja
+Radiant Relics,レディアントの遺物,ja
+Raining Gold,ゴールドの雨,ja
+Recombobulator,混乱回復装置,ja
+ReinFOURcement,最強の四配者,ja
+Replication,複製,ja
+Restart Mission,ミッションの再開,ja
+Retribution,報復,ja
+Rolling For Days,ローリングデイズ,ja
+Savings Account,普通預金口座,ja
+Second Wind,起死回生,ja
+Seraphim's Staff,セラフィムの杖,ja
+Shimmerscale Essence,シマースケールのエッセンス,ja
+Shopping Spree,買い物三昧,ja
+Silco's Revenge,シルコの復讐,ja
+Silver Destiny,シルバーの運命,ja
+Silver Spoon,銀の匙,ja
+Slightly Magic Roll,ちょっとだけ魔法のダイス,ja
+Small Grab Bag,小さな福袋,ja
+Solo Plate,一人前プレート,ja
+Soul Awakening,ソウルの目覚め,ja
+Spear's Will,槍の決意,ja
+Spirit of Redemption,リデンプションの魂,ja
+Spreading Roots,広がる根,ja
+Staffsmith,杖鍛冶,ja
+Stand United,一致団結,ja
+Stars Are Born,スター誕生,ja
+Starter Kit,スターターキット,ja
+Sweet Treats,甘いおやつ,ja
+Sword Overflow,ソード オーバーフロー,ja
+Swordsmith,剣鍛冶,ja
+Teaming Up,一致団結,ja
+The Axiomata,アクシオマタ,ja
+The Golden Dragon,黄金の龍,ja
+The Ruined King,滅びの王,ja
+The Trait Tree,特性の木,ja
+The World Runes,ワールドルーン,ja
+Thorn-Plated Armor,ソーンプレートアーマー,ja
+"Tiny, but Deadly",小さくても強烈,ja
+Tons of Stats!,ステータスマシマシ,ja
+Trade Sector,トレードセクター,ja
+Trials of Twilight,黄昏の試練,ja
+Trifecta,トライフェクタ,ja
+Twin Guardians,ツインガーディアン,ja
+Two Much Value,お得な2,ja
+Two Trick,2のトリック,ja
+U.R.F,U.R.F.,ja
+Unsealed From Steel,鋼からの解放,ja
+Upward Mobility,上方移動,ja
+Wand Overflow,ワンド オーバーフロー,ja
+Warlord's Honor,ウォーロードの名誉,ja
+Water Axiom,水のアクシオム,ja
+We Stick Together,いつでも一緒,ja
+Wild Growth,おおきくなぁれ！,ja
+Win Out,勝ち抜け,ja
+Wood Axiom,木のアクシオム,ja
+Woven Magic,紡がれし魔法,ja
+90 Caliber Nets,L-90 カリバーネット,ja
+Acceleration Gate,アクセルゲート,ja
+Adaptive Helm,アダプティブ ヘルム,ja
+Aegis of Dawn,夜明けの加護,ja
+Aegis of Dusk,夕闇の加護,ja
+Arcanist Emblem,アルカニストの紋章,ja
+Archangel's Staff,アークエンジェル スタッフ,ja
+Armor Nullifier,アーマー ナリファイア,ja
+B.F. Sword,B.F.ソード,ja
+Barknuckles,バークナックル,ja
+Bilgewater Emblem,ビルジウォーターの紋章,ja
+Bilgewater Lesser Champion Duplicator,ビルジウォーターの小型チャンピオン複製器,ja
+Black Market Restock,ブラックマーケットの再入荷,ja
+Blackmarket Explosives,ブラックマーケットの爆発物,ja
+Blast Shield,ケンカの作法,ja
+Blighting Jewel,枯死の宝石,ja
+Bloodthirster,ブラッドサースター,ja
+Blue Buff,ブルーバフ,ja
+Bramble Vest,ブランブル ベスト,ja
+Brigand's Dice,略奪者のダイス,ja
+Bruiser Emblem,ブルーザーの紋章,ja
+Cappa Juice,帽子ジュース,ja
+Captain's Brew,キャプテンの醸造酒,ja
+Captain's Hat,キャプテンの帽子,ja
+Chain Vest,チェイン ベスト,ja
+Chalice of Power,力の聖杯,ja
+Continuum Cogs,時の歯車,ja
+Corrupt Vampiric Scepter,穢れたヴァンパイア セプター,ja
+Crownguard,クラウンガード,ja
+Cursed Blade,呪いの刃,ja
+Cutthroat's Cutlass,殺し屋のカトラス,ja
+Dawncore,ドーンコア,ja
+Dead Man's Dagger,デッド マン ダガー,ja
+Deathblade,デスブレード,ja
+Defender Emblem,ディフェンダーの紋章,ja
+Demacia Emblem,デマーシアの紋章,ja
+Disruptor Emblem,ディスラプターの紋章,ja
+Dragon's Claw,ドラゴン クロウ,ja
+Dreadway Cannon,ドレッドウェイの砲撃,ja
+E.M.P.,E.M.P.,ja
+Echo Engine,エコーエンジン,ja
+Edge of Night,ナイト エッジ,ja
+Electrical Overload,エレクトリカル オーバーロード,ja
+Eternal Pact,不滅の協定,ja
+Evenshroud,イーブンシュラウド,ja
+First Mate's Flintlock,一等航海士のフリントロック,ja
+First One's Free!,最初の1つは無料！,ja
+Fishbones,フィッシュボーン,ja
+Flickerblades,フリッカーブレード,ja
+Forbidden Idol,フォビドゥン アイドル,ja
+Freljord Emblem,フレヨルドの紋章,ja
+Frying Pan,フライパン,ja
+Gargoyle Stoneplate,ガーゴイル ストーンプレート,ja
+Giant Slayer,ジャイアント スレイヤー,ja
+Giant's Belt,ジャイアント ベルト,ja
+Gigantification Ray,巨大化ビーム,ja
+Guinsoo's Rageblade,グインソー レイジブレード,ja
+Gunslinger Emblem,ガンスリンガーの紋章,ja
+Hand Of Justice,ハンド オブ ジャスティス,ja
+Haunted Spyglass,呪われた望遠鏡,ja
+Hellfire Hatchet,獄炎のハチェット,ja
+Hextech Gunblade,ヘクステック ガンブレード,ja
+Horizon Focus,ホライゾン フォーカス,ja
+Infinity Edge,インフィニティ エッジ,ja
+Innervating Locket,心身統御のペンダント,ja
+Invoker Emblem,インヴォーカーの紋章,ja
+Ionia Emblem,アイオニアの紋章,ja
+Ionic Spark,アイオニック スパーク,ja
+Ixtal Emblem,イシュタルの紋章,ja
+Jeweled Gauntlet,ジュエル ガントレット,ja
+Juggernaut Emblem,ジャガーノートの紋章,ja
+Kinetic Barrier,キネティックバリア,ja
+Knight's Vow,騎士の誓い,ja
+Kraken's Fury,クラーケンの怒り,ja
+Last Whisper,ラスト ウィスパー,ja
+Lesser Mirrored Persona,劣化版鏡像のペルソナ,ja
+Lich Bane,リッチ ベイン,ja
+Lightshield Crest,ライトシールドのクレスト,ja
+Locket of the Iron Solari,ソラリのロケット,ja
+Longshot Emblem,ロングショットの紋章,ja
+Lucky Doubloon,幸運の金貨,ja
+Luden's Tempest,ルーデン テンペスト,ja
+Magnetron Coil,マグネトロンコイル,ja
+Mending Echoes,癒しのこだま,ja
+Micro-Rockets,マイクロロケット,ja
+Mining Drill,採掘ドリル,ja
+Mirrored Persona,鏡像のペルソナ,ja
+Mittens,ミトン,ja
+Momentum Drive,モメンタムドライブ,ja
+Morellonomicon,モレロノミコン,ja
+Nashor's Tooth,ナッシャー トゥース,ja
+Needlessly Large Rod,ムダニ デカイ ロッド,ja
+Negatron Cloak,ネガトロン クローク,ja
+Noxus Emblem,ノクサスの紋章,ja
+Overclocked Capacitors,オーバークロック コンデンサー,ja
+Pile O' Citrus,山積みのシトラス,ja
+Piltover Emblem,ピルトーヴァーの紋章,ja
+Protector's Vow,プロテクターの誓い,ja
+Prowler's Claw,プローラー クロウ,ja
+Quicksilver,クイックシルバー,ja
+Quickstriker Emblem,韋駄天の紋章,ja
+Rabadon's Deathcap,ラバドン デスキャップ,ja
+Rapid Firecannon,ラピッド ファイアキャノン,ja
+Realm Warp,ポータルワープ,ja
+Recurve Bow,リカーブ ボウ,ja
+Red Buff,レッドバフ,ja
+Seeker's Armguard,シーカー アームガード,ja
+Shadow Puppet,影の操り人形,ja
+Shroud of Stillness,沈黙の帳,ja
+Silvermere Dawn,シルバーミアの夜明け,ja
+Slayer Emblem,スレイヤーの紋章,ja
+Sparring Gloves,スパーリング グローブ,ja
+Spatula,へら,ja
+Spear of Shojin,ショウジンの矛,ja
+Spectral Cutlass,スペクトラル カトラス,ja
+Spirit Visage,スピリット ビサージュ,ja
+Statikk Shiv,スタティック シヴ,ja
+Steadfast Heart,揺るがぬ心,ja
+Sterak's Gage,ステラックの篭手,ja
+Striker's Flail,ストライカー フレイル,ja
+Sunfire Cape,サンファイア ケープ,ja
+Superior Lifeform,超越生体,ja
+Suspicious Trench Coat,怪しげなトレンチコート,ja
+Syren's Broadside,セイレーン号の片舷砲,ja
+Tactician's Cape,タクティシャンのケープ,ja
+Tactician's Crown,タクティシャンの王冠,ja
+Tactician's Shield,タクティシャンの盾,ja
+Talisman Of Ascension,超越のタリスマン,ja
+Tear of the Goddess,女神の涙,ja
+The Indomitable,不屈,ja
+Thief's Gloves,盗賊のグローブ,ja
+Titan's Resolve,巨人の誓い,ja
+Titanic Hydra,タイタン ハイドラ,ja
+Tome of Traits,特性の書,ja
+Treasure Typhoon,財宝の竜巻,ja
+Tuned Oscillator,チューンド オシレーター,ja
+Unending Despair,終わりなき絶望,ja
+Unstable Core,不安定なコア,ja
+Upgrade!,アップグレード！,ja
+Vanquisher Emblem,ヴァンキッシャーの紋章,ja
+Virtue of the Martyr,マーターズ ヴァーチュ,ja
+Void Emblem,ヴォイドの紋章,ja
+Void Gauntlet,ヴォイド ガントレット,ja
+Void Staff,ヴォイド スタッフ,ja
+Voltage Conduit,高電圧管,ja
+Warden Emblem,ワーデンの紋章,ja
+Warmog's Armor,ワーモグ アーマー,ja
+Wit's End,ウィッツ エンド,ja
+Withered Relic,枯朽の遺物,ja
+Yordle Emblem,ヨードルの紋章,ja
+Zaun Emblem,ゾウンの紋章,ja
+Zeke's Herald,ジークの使者,ja
+Zephyr,ゼファー,ja
+Zz'Rot Portal,ジ＝ロット ポータル,ja

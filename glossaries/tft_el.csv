@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,Άατροξ,el
+Ahri,Άρι,el
+Ambessa,Αμπέσα,el
+Anivia,Ανίβια,el
+Annie,Άνι,el
+Aphelios,Αφέλιος,el
+Ashe,Ας,el
+Aurelion Sol,Ωρέλιον Σολ,el
+Azir,Αζίρ,el
+Bard,Βάρδος,el
+Baron Nashor,Βαρόνος Νάσορ,el
+Bel'Veth,Μπελ'Βεθ,el
+Blitzcrank,Μπλίτζκρανκ,el
+Braum,Μπράουμ,el
+Briar,Μπράιαρ,el
+Brock,Μπροκ,el
+Caitlyn,Κέιτλιν,el
+Cho'Gath,Τσο'Γκαθ,el
+Darius,Ντάριους,el
+Diana,Ντιάνα,el
+Dr. Mundo,Δρ.Μούντο,el
+Draven,Ντρέιβεν,el
+Ekko,Έκκο,el
+Elder Dragon,Γηραιός Δράκος,el
+Fiddlesticks,Φίντλστιξ,el
+Fizz,Φιζ,el
+Galio,Γκάλιο,el
+Gangplank,Γκάνγκπλανκ,el
+Garen,Γκάρεν,el
+Golem,Γκόλεμ,el
+Graves,Γκρέιβς,el
+Gwen,Γκουέν,el
+Illaoi,Ιλλαόη,el
+Jarvan IV,Τζάρβαν ο Δ',el
+Jhin,Τζιν,el
+Jinx,Τζινξ,el
+Kai'Sa,Κάι'Σα,el
+Kalista,Καλίστα,el
+Kennen,Κένεν,el
+Kindred,Κίντρεντ,el
+Kobuko & Yuumi,Κομπούκο + Γιούμι,el
+Kog'Maw,Κογκ'Μο,el
+LeBlanc,ΛεΜπλάν,el
+Leona,Λεόνα,el
+Lissandra,Λισάντρα,el
+Loris,Λόρις,el
+Lucian & Senna,Λούσιαν + Σέννα,el
+Lulu,Λούλου,el
+Lux,Λουξ,el
+Malzahar,Μάλζαχαρ,el
+Mel,Μελ,el
+Milio,Μίλιο,el
+Miss Fortune,Μις Φόρτσουν,el
+Nasus,Νάσους,el
+Nautilus,Νότιλους,el
+Neeko,Νίκκο,el
+Nidalee,Νίνταλι,el
+Orianna,Οριάνα,el
+Ornn,Ορν,el
+Piltover Invention,Εφεύρεση του Πιλτόβερ,el
+Poppy,Πόπι,el
+Qiyana,Κιάνα,el
+Rek'Sai,Ρεκ'Σάι,el
+Renekton,Ρένεκτον,el
+Rift Herald,Κήρυκας του Φαραγγιού,el
+Rift Scuttler,Γαριδρομέας,el
+Rumble,Ραμπλ,el
+Ryze,Ράιζ,el
+Sejuani,Σεζουάνι,el
+Seraphine,Σεραφίν,el
+Sett,Σεττ,el
+Shen,Σεν,el
+Shyvana,Σιβάνα,el
+Singed,Σιντζντ,el
+Sion,Σάιον,el
+Skarner,Σκάρνερ,el
+Sona,Σόνα,el
+Swain,Σουέιν,el
+Sylas,Σάιλας,el
+T-Hex,Τυραννόσαυρος Χεξ,el
+Tahm Kench,Ταμ Κεντς,el
+Taric,Τάρικ,el
+Teemo,Τίμο,el
+Thresh,Θρες,el
+Training Dummy,Κούκλα Εκπαίδευσης,el
+Tristana,Τριστάνα,el
+Tryndamere,Τρίνταμερ,el
+Twisted Fate,Τουίστεντ Φέιτ,el
+Vayne,Βέιν,el
+Veigar,Βέιγκαρ,el
+Vi,Βάι,el
+Viego,Βιέγκο,el
+Volibear,Βόλιμπεαρ,el
+Warwick,Γουόργουικ,el
+Wukong,Γουκόνγκ,el
+Xerath,Ζέραθ,el
+Xin Zhao,Ζιν Ζάο,el
+Yasuo,Υασούο,el
+Yone,Γιόνε,el
+Yorick,Γιόρικ,el
+Yunara,Γιουνάρα,el
+Zaahen,Ζάαχεν,el
+Ziggs,Ζιγκζ,el
+Zilean,Ζίλεαν,el
+Zoe,Ζόη,el
+Arcanist,Μύστης,el
+Ascendant,Εξυψωμένος,el
+Assimilator,Αφομοιωτής,el
+Bilgewater,Μπίλτζγουοτερ,el
+Blacksmith,Σιδηρουργός,el
+Bruiser,Γομάρι,el
+Caretaker,Φροντιστής,el
+Chainbreaker,Απελευθερωτής,el
+Chosen Wolves,Επίλεκτοι Λύκοι,el
+Chronokeeper,Φύλακας του Χρόνου,el
+Dark Child,Τέκνο του Σκότους,el
+Darkin,Ντάρκιν,el
+Defender,Φρουρός,el
+Demacia,Ντεμάσια,el
+Disruptor,Ταραξίας,el
+Dragonborn,Δρακογέννητη,el
+Dragonguards,Φύλακες των Δράκων,el
+Emperor,Αυτοκράτορας,el
+Eternal,Αιώνιος,el
+Freljord,Φρέλιορντ,el
+Glutton,Αδηφάγος,el
+Gunslinger,Πιστολέρο,el
+Harvester,Θεριστής,el
+Heroic,Ηρωικός,el
+HexMech,Μαγοτεχνικό Mech,el
+Huntress,Κυνηγός,el
+Immortal,Αθάνατος,el
+Invoker,Μυούμενος,el
+Ionia,Ιονία,el
+Ixtal,Ιστάλ,el
+Juggernaut,Τιτάνας,el
+Longshot,Μακρινή Βολή,el
+Noxus,Νόξους,el
+Piltover,Πιλτόβερ,el
+Poison Pals,Τοξικά Φιλαράκια,el
+Quickstriker,Γρήγορο Χτύπημα,el
+Riftscourge,Μάστιγα του Φαραγγιού,el
+Rune Mage,Μάγος των Ρούνων,el
+Sentinels of Light,Φρουροί του Φωτός,el
+Shadow Isles,Νησιά της Σκιάς,el
+Shurima,Σουρίμα,el
+Slayer,Δολοφόνος,el
+Soulbound,Δέσμια Ψυχή,el
+Star Forger,Σφυρηλάτης των Άστρων,el
+Targon,Τάργκον,el
+The Boss,Το Αφεντικό,el
+Timewinders,Χρονοστρόβιλοι,el
+Vanquisher,Εξολοθρευτής,el
+Void,Κενό,el
+Warden,Υπερασπιστής,el
+World Ender,Αφανιστής των Κόσμων,el
+Yordle,Γιορντλ,el
+Zaun,Ζάουν,el
+3 Threes,3 Τρία,el
+A Magic Roll,Μαγική Ζαριά,el
+Advanced Loan,Δάνειο για προχωρημένους,el
+Air Axiom,Αξιωματικός Αέρας,el
+Arcane Viktor-y,Βίκτορ της Απόκρυφης Γνώσης,el
+Artillery Barrage,Ομοβροντία Πυροβολικού,el
+Ascension,Εξύψωση,el
+Band of Thieves,Συμμορία,el
+Belt Overflow,Περίσσευμα Ζωνών,el
+Best Friends,Καλά Φιλαράκια,el
+Big Friend,Καλό Φιλαράκι,el
+Big Grab Bag,Σάκος Μεγάλου Κάβουρα,el
+Binary Airdrop,Δυαδική Ρίψη Από Αέρος,el
+Birthday Present,Δώρο Γενεθλίων,el
+Birthday Reunion,Μάζωξη γενεθλίων,el
+Blood Offering,Θυσία Αίματος,el
+Bodyguard Training,Εκπαίδευση Σωματοφύλακα,el
+Boxing Lessons,Μαθήματα Πυγμαχίας,el
+Branching Out,Επέκταση,el
+Bringer of Ruin,Ο Αφανιστής,el
+Bronze For Life,Χάλκινη για Πάντα,el
+Buried Treasures,Θαμμένοι Θησαυροί,el
+Care Package,Πακέτο Φροντίδας,el
+Caretaker's Ally,Σύμμαχος του Οδοιπόρου,el
+Celestial Blessing,Ουράνια Ευλογία,el
+Chaotic Evolution,Χαοτική Εξέλιξη,el
+Commerce Core,Εμπορικός Πυρήνας,el
+Component Buffet,Μπουφές με Συστατικά,el
+Construct a Companion,Φτιάξτε έναν σύντροφο,el
+Cooking Pot,Κατσαρόλα,el
+Coronation,Στέψη,el
+Corrosion,Διάβρωση,el
+Cosmic Calling,Κοσμικό κάλεσμα,el
+Crafted Crafting,Περίτεχνη Δημιουργία,el
+Crash Test Dummies,Κούκλες Δοκιμής Σύγκρουσης,el
+Crown's Will,Θέληση του Στέμματος,el
+Cry Me A River,"Τώρα Κλαις, Γιατί Κλαις",el
+Darkwill's Invasion,Εισβολή του Ντάρκουιλ,el
+Deadlier Blades,Πιο Θανάσιμες Λεπίδες,el
+Deadlier Caps,Θανάσιμα Καπέλα,el
+Defense of the Placidium,Άμυνα του Πλασίντιουμ,el
+Demacia Forever,Παντοτινή Ντεμάσια,el
+Double Trouble,Διπλός Μπελάς,el
+Dummify,Κουκλοποίηση,el
+Duo Queue,Ουρά Αναμονής Για Δύο,el
+Earth Axiom,Αξιωματική Γη,el
+Epic Rolldown,Επικό Μπαρμπούτι,el
+Exclusive Customization,Αποκλειστική Προσαρμογή,el
+Exiles,Εξόριστοι,el
+Expected Unexpectedness,Αναμονή του Απροσδόκητου,el
+Explosive Growth,Εκρηκτική Ανάπτυξη,el
+Eye For An Eye,Οφθαλμός αντί Οφθαλμού,el
+Feed the Flames,Περπάτα στα Κάρβουνα,el
+Find Your Center,Βρες Το Κέντρο Σου,el
+Fire Axiom,Αξιωματικό Πυρ,el
+Focused Fire,Εστιασμένο Πυρ,el
+Giant and Mighty,Μεγάλοι Και Τρανοί,el
+Gilded Steel,Επίχρυσο Ατσάλι,el
+Glass Cannon,Κανόνι από Γυαλί,el
+Going Long,Πηγαίνοντας Μακριά,el
+Gold Destiny,Χρυσό Πεπρωμένο,el
+Golemify,Γκολεμοποίηση,el
+Good For Something,Κάτι Κάνω και Εγώ,el
+Growth Mindset,Ανάπτυξη Νοοτροπίας,el
+Hard Commit,Δεσμευτική Στρατηγική,el
+Healing Orbs,Σφαίρες Θεραπείας,el
+Heart of Steel,Καρδιά από Ατσάλι,el
+Heavy Is the Crown,Το Στέμμα Είναι Βαρύ,el
+Hedge Fund,Αμοιβαίο Κεφάλαιο,el
+Hefty Rolls,Γερές Ανανεώσεις,el
+Heroic Grab Bag,Ηρωικός Σάκος Δώρων,el
+Hexgate Travel,Διέλευση Μαγοτεχνικής Πύλης,el
+High Voltage,Υψηλή Τάση,el
+Hold the Line,Δεν Υποχωρούμε,el
+Indecision,Αναποφασιστικότητα,el
+Indiscriminate Killer,Ο Δολοφόνος που δεν Κάνει Διακρίσεις,el
+Invested,Επένδυση,el
+Iron Assets,Ατσάλινοι Πόροι,el
+Item Grab Bag,Σάκος Δώρων,el
+Jeweled Lotus,Πετραδένιος Λωτός,el
+Just Hit,Βάρα και Σκάσε,el
+Kahunahuna,Καχουναχούνα,el
+Last Second Save,Διάσωση την τελευταία Στιγμή,el
+Late Game Scaling,Αναλογική αύξηση προς το τέλος του παιχνιδιού,el
+Late Game Specialist,Ειδικός Τελικών Σταδίων Παιχνιδιού,el
+Leap of Faith,Άλμα Πίστης,el
+Legion of Threes,Λεγεώνα των Τριών,el
+Level Up!,Επόμενη Πίστα!,el
+Lifting Competition,Διαγωνισμός Άρσης Βαρών,el
+Lineup,Διάταξη,el
+Little Buddies,Μικρούληδες Φίλοι,el
+Lucky Gloves,Τυχερά Γάντια,el
+Mace's Will,Θέληση του Ροπάλου,el
+Makeshift Armor,Αυτοσχέδια Πανοπλία,el
+Mess Hall,Χώρος Εστίασης,el
+Min-Max,Βελτιστοποίηση,el
+Missed Connections,Χαμένες Συνδέσεις,el
+Money Monsoon,Χρηματοθύελλα,el
+On a Roll,Τώρα Που Έχω Ρέντα,el
+"One Buff, Two Buff",Εδώ οι Καλές Ενισχύσεις,el
+One Twos Three,Ένα Δυάρια Τρία,el
+"One, Two, Five!","Ένα, Δύο, Πέντε!",el
+Pandora's Bench,Ο Πάγκος της Πανδώρας,el
+Pandora's Items,Αντικείμενα Πανδώρας,el
+Patience is a Virtue,Η Υπομονή Είναι Αρετή,el
+Placebo,Υποκατάστατο,el
+Plot Armor,Ο Πρωταγωνιστής δεν Πεθαίνει,el
+Portable Forge,Φορητό Εργαστήριο,el
+Precision and Grace,Ακρίβεια και Χάρη,el
+Preparation,Προετοιμασία,el
+Prismatic Destiny,Πρισματικό Πεπρωμένο,el
+Prismatic Ticket,Πρισματικό Εισιτήριο,el
+Promised Protection,Υπόσχεση Προστασίας,el
+Pyromaniac,Πυρομανία,el
+Radiant Rascal,Υπέρλαμπρος Κατεργάρης,el
+Radiant Relics,Υπέρλαμπρα Κειμήλια,el
+Raining Gold,Βρέχει Χρυσό,el
+Recombobulator,Ανασυνδυαστής,el
+ReinFOURcement,Ντόρτια,el
+Replication,Απομίμηση,el
+Restart Mission,Επανεκκίνηση Αποστολής,el
+Retribution,Ανταπόδοση,el
+Rolling For Days,Πολλές Ανανεώσεις,el
+Savings Account,Λογαριασμός Ταμιευτηρίου,el
+Second Wind,Συγκέντρωση Δυνάμεων,el
+Seraphim's Staff,Ράβδος των Σεραφίμ,el
+Shimmerscale Essence,Φολιδωτή Ουσία,el
+Shopping Spree,Καταναλωτική Μανία,el
+Silco's Revenge,Η Εκδίκηση του Σίλκο,el
+Silver Destiny,Ασημένιο Πεπρωμένο,el
+Silver Spoon,Ασημένιο Κουτάλι,el
+Slightly Magic Roll,Ελαφρώς Μαγική Ζαριά,el
+Small Grab Bag,Μικρός Σάκος Δώρων,el
+Solo Plate,Ασπίδα για Έναν,el
+Soul Awakening,Αφύπνιση Ψυχής,el
+Spear's Will,Θέληση του Δόρατος,el
+Spirit of Redemption,Πνεύμα Λύτρωσης,el
+Spreading Roots,Απλωμένες Ρίζες,el
+Staffsmith,Τεχνίτης Ραβδιών,el
+Stand United,Μαζί Ενωμένοι,el
+Stars Are Born,Τα Άστρα Γεννιούνται,el
+Starter Kit,Κιτ Εκκίνησης,el
+Sweet Treats,Σοκολατάκια,el
+Sword Overflow,Περίσσευμα Σπαθιών,el
+Swordsmith,Τεχνίτης Σπαθιών,el
+Teaming Up,Η ομάδα πάνω απ' όλα,el
+The Axiomata,Τα Αξιώματα,el
+The Golden Dragon,Ο Χρυσός Δράκος,el
+The Ruined King,Ο Έκπτωτος Βασιλιάς,el
+The Trait Tree,Το Δέντρο των Χαρακτηριστικών,el
+The World Runes,Οι Κοσμικοί Ρούνοι,el
+Thorn-Plated Armor,Αγκαθωτή Πανοπλία,el
+"Tiny, but Deadly",Μικροί Στο Μάτι,el
+Tons of Stats!,Πολλά Στατιστικά!,el
+Trade Sector,Εμπορικός Τομέας,el
+Trials of Twilight,Δοκιμασίες του Λυκόφωτος,el
+Trifecta,Τρίδυμο,el
+Twin Guardians,Δίδυμοι Φύλακες,el
+Two Much Value,Διπλή Αξία,el
+Two Trick,Διπλό Κόλπο,el
+U.R.F,ΥΠΕΡΤΑΧYΤΑΤΟ ΠΥΡ,el
+Unsealed From Steel,Ξεκλειδώθηκε από το Ατσάλι,el
+Upward Mobility,Ανέλιξη,el
+Wand Overflow,Περίσσευμα Ραβδιών,el
+Warlord's Honor,Τιμή του Πολέμαρχου,el
+Water Axiom,Αξίωμα του Νερού,el
+We Stick Together,Μένουμε Ενωμένοι,el
+Wild Growth,Ραγδαία Ανάπτυξη,el
+Win Out,Πολύπλευρο Κέρδος,el
+Wood Axiom,Αξίωμα του Ξύλου,el
+Woven Magic,Μαγικό Υφαντό,el
+90 Caliber Nets,Δίχτυα Μεγάλου Διαμετρήματος,el
+Acceleration Gate,Πύλη Επιτάχυνσης,el
+Adaptive Helm,Ευπροσάρμοστο Κράνος,el
+Aegis of Dawn,Αιγίδα της Αυγής,el
+Aegis of Dusk,Αιγίδα του Δειλινού,el
+Arcanist Emblem,Έμβλημα Μύστη,el
+Archangel's Staff,Ραβδί Αρχάγγελου,el
+Armor Nullifier,Ανατροπέας Μαγείας,el
+B.F. Sword,Γ.Μ.Τ. Σπαθί,el
+Barknuckles,Ζόρικη Πεταλίδα,el
+Bilgewater Emblem,Έμβλημα του Μπίλτζγουοτερ,el
+Bilgewater Lesser Champion Duplicator,Κατώτερος Αντιγραφέας Ήρωα Μπίλτζγουοτερ,el
+Black Market Restock,Ανεφοδιασμός Μαύρης Αγοράς,el
+Blackmarket Explosives,Λαθραία Εκρηκτικά,el
+Blast Shield,Ασπίδα Κρούσης,el
+Blighting Jewel,Καταραμένο Πετράδι,el
+Bloodthirster,Αιμοδιψής,el
+Blue Buff,Μπλε Ενίσχυση,el
+Bramble Vest,Θώρακας Κισσού,el
+Brigand's Dice,Ζάρια του Λήσταρχου,el
+Bruiser Emblem,Έμβλημα Μαχητή,el
+Cappa Juice,Χυμός Κάπα,el
+Captain's Brew,Η Συνταγή του Καπετάνιου,el
+Captain's Hat,Το Καπέλο του Καπετάνιου,el
+Chain Vest,Σιδερόπλεκτο Γιλέκο,el
+Chalice of Power,Κύπελλο της Δύναμης,el
+Continuum Cogs,Γρανάζια του Χρόνου,el
+Corrupt Vampiric Scepter,Διεφθαρμένο Βαμπιρικό Σκήπτρο,el
+Crownguard,Στεμματοφύλακας,el
+Cursed Blade,Καταραμένη Λεπίδα,el
+Cutthroat's Cutlass,Γιαταγάνι του Μαχαιροβγάλτη,el
+Dawncore,Το Χαρντκόρε Της Αυγής,el
+Dead Man's Dagger,Το Μαχαίρι του Νεκρού,el
+Deathblade,Λεπίδα Θανάτου,el
+Defender Emblem,Έμβλημα Φρουρού,el
+Demacia Emblem,Έμβλημα της Ντεμάσια,el
+Disruptor Emblem,Έμβλημα Ταραξία,el
+Dragon's Claw,Νύχι του Δράκου,el
+Dreadway Cannon,Κανόνι του Τρόμου των Θαλασσών,el
+E.M.P.,Ηλεκτρομαγνητικός Παλμός,el
+Echo Engine,Κινητήρας Αντήχησης,el
+Edge of Night,Λεπίδα της Νύχτας,el
+Electrical Overload,Υπερφόρτιση Ηλεκτρικών Συστημάτων,el
+Eternal Pact,Αιώνια Διαθήκη,el
+Evenshroud,Πέπλο Δειλινού,el
+First Mate's Flintlock,Κουμπούρι του Υποπλοίαρχου,el
+First One's Free!,Το πρώτο δωρεάν!,el
+Fishbones,Ψαροκόκκαλο,el
+Flickerblades,Τρεμολεπίδες,el
+Forbidden Idol,Απαγορευμένο Είδωλο,el
+Freljord Emblem,Έμβλημα του Φρέλιορντ,el
+Frying Pan,Τηγάνι,el
+Gargoyle Stoneplate,Πέτρινη Πανοπλία του Γκαργκόιλ,el
+Giant Slayer,Φονέας Γιγάντων,el
+Giant's Belt,Ζώνη του Γίγαντα,el
+Gigantification Ray,Ακτίνα Γιγάντωσης,el
+Guinsoo's Rageblade,Οργισμένο Σπαθί του Γκουίνσου,el
+Gunslinger Emblem,Έμβλημα Πιστολέρο,el
+Hand Of Justice,Χέρι της Δικαιοσύνης,el
+Haunted Spyglass,Στοιχειωμένο Ματοκυάλι,el
+Hellfire Hatchet,Τσεκούρι της Κόλασης,el
+Hextech Gunblade,Μαγοτεχνικό Σπαθοπίστολο,el
+Horizon Focus,Συγκέντρωση Ορίζοντα,el
+Infinity Edge,Αιχμή του Απείρου,el
+Innervating Locket,Τονωτικό Μενταγιόν,el
+Invoker Emblem,Έμβλημα Μυούμενου,el
+Ionia Emblem,Έμβλημα της Ιονίας,el
+Ionic Spark,Ιόνιος Σπίθα,el
+Ixtal Emblem,Έμβλημα της Ιστάλ,el
+Jeweled Gauntlet,Πετραδένιο Γάντι,el
+Juggernaut Emblem,Έμβλημα Κολοσσού,el
+Kinetic Barrier,Κινητικό Φράγμα,el
+Knight's Vow,Όρκος του Ιππότη,el
+Kraken's Fury,Οργή του Κράκεν,el
+Last Whisper,Τελευταίος Ψίθυρος,el
+Lesser Mirrored Persona,Κατώτερη Κατοπτρισμένη Προσωπικότητα,el
+Lich Bane,Όλεθρος των Απέθαντων,el
+Lightshield Crest,Έμβλημα Σελασπίδας,el
+Locket of the Iron Solari,Έμβλημα των Σιδηρών Σολάρι,el
+Longshot Emblem,Έμβλημα Μακρινής Βολής,el
+Lucky Doubloon,Τυχερό Δουβλόνι,el
+Luden's Tempest,Καταιγίδα του Λούντεν,el
+Magnetron Coil,Σπείρα από Μάγνητρο,el
+Mending Echoes,Ιαματικός Αντίλαλος,el
+Micro-Rockets,Μικρορουκέτες,el
+Mining Drill,Τρυπάνι Εξόρυξης,el
+Mirrored Persona,Κατοπτρισμένη Προσωπικότητα,el
+Mittens,Γάντια του Φούρναρη,el
+Momentum Drive,Κινητήρας Ορμής,el
+Morellonomicon,Μορελονομικόν,el
+Nashor's Tooth,Δόντι του Νάσορ,el
+Needlessly Large Rod,Περιττά Τεράστια Ράβδος,el
+Negatron Cloak,Μανδύας Εξουδετέρωσης,el
+Noxus Emblem,Έμβλημα της Νόξους,el
+Overclocked Capacitors,Υπερχρονισμένοι Πυκνωτές,el
+Pile O' Citrus,Εσπεριδοειδή με το Τσουβάλι,el
+Piltover Emblem,Έμβλημα του Πιλτόβερ,el
+Protector's Vow,Όρκος του Υπερασπιστή,el
+Prowler's Claw,Νύχια του Λωποδύτη,el
+Quicksilver,Υδράργυρος,el
+Quickstriker Emblem,Έμβλημα Γρήγορου Χτυπήματος,el
+Rabadon's Deathcap,Καπέλο του Ράμπαντον,el
+Rapid Firecannon,Φλεγόμενο Ολμοβόλο,el
+Realm Warp,Αλλοίωση Διάστασης,el
+Recurve Bow,Κυρτό Τόξο,el
+Red Buff,Κόκκινη Ενίσχυση,el
+Seeker's Armguard,Περικάρπιο του Ερευνητή,el
+Shadow Puppet,Θέατρο Σκιών,el
+Shroud of Stillness,Πέπλο της Σιωπής,el
+Silvermere Dawn,Αυγή στο Σίλβερμιρ,el
+Slayer Emblem,Έμβλημα του Δολοφόνου,el
+Sparring Gloves,Γάντια Μονομαχίας,el
+Spatula,Σπάτουλα,el
+Spear of Shojin,Δόρυ του Σοτζίν,el
+Spectral Cutlass,Γιαταγάνι Φαντασμάτων,el
+Spirit Visage,Όψη Πνευμάτων,el
+Statikk Shiv,Στιλέτο Στατικού Ηλεκτρισμού,el
+Steadfast Heart,Ακλόνητη Καρδιά,el
+Sterak's Gage,Πρόκληση του Στέρακ,el
+Striker's Flail,Κόπανος Εφόδου,el
+Sunfire Cape,Μανδύας του Ήλιου,el
+Superior Lifeform,Ανώτερη Μορφή Ζωής,el
+Suspicious Trench Coat,Ύποπτη Καπαρντίνα,el
+Syren's Broadside,Ομοβροντία της Σειρήνας,el
+Tactician's Cape,Κάπα του Συμβούλου,el
+Tactician's Crown,Στέμμα του Συμβούλου,el
+Tactician's Shield,Ασπίδα του Συμβούλου,el
+Talisman Of Ascension,Φυλαχτό της Εξύψωσης,el
+Tear of the Goddess,Δάκρυ της Θεάς,el
+The Indomitable,Αδάμαστος,el
+Thief's Gloves,Γάντια του Κλέφτη,el
+Titan's Resolve,Αποφασιστικότητα του Τιτάνα,el
+Titanic Hydra,Κολοσσιαία Ύδρα,el
+Tome of Traits,Τόμος Χαρακτηριστικών,el
+Treasure Typhoon,Τυφώνας του Θησαυρού,el
+Tuned Oscillator,Συντονισμένος Ταλαντωτής,el
+Unending Despair,Απέραντη Απόγνωση,el
+Unstable Core,Ασταθής Πυρήνας,el
+Upgrade!,Αναβάθμιση!,el
+Vanquisher Emblem,Έμβλημα Εξολοθρευτή,el
+Virtue of the Martyr,Αρετή του Μάρτυρα,el
+Void Emblem,Έμβλημα του Κενού,el
+Void Gauntlet,Γάντι του Κενού,el
+Void Staff,Ράβδος του Κενού,el
+Voltage Conduit,Αγωγός Ηλεκτρικής Τάσης,el
+Warden Emblem,Έμβλημα Υπερασπιστή,el
+Warmog's Armor,Πανοπλία του Γόρμογκ,el
+Wit's End,Παρανοϊκό Ξίφος,el
+Withered Relic,Πολυκαιρισμένο Κειμήλιο,el
+Yordle Emblem,Έμβλημα Γιορντλ,el
+Zaun Emblem,Έμβλημα του Ζάουν,el
+Zeke's Herald,Κήρυκας του Ζέκε,el
+Zephyr,Ζέφυρος,el
+Zz'Rot Portal,Πύλη Ζζ'Ροτ,el

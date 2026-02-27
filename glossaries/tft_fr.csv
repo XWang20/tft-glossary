@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,Aatrox,fr
+Ahri,Ahri,fr
+Ambessa,Ambessa,fr
+Anivia,Anivia,fr
+Annie,Annie,fr
+Aphelios,Aphelios,fr
+Ashe,Ashe,fr
+Aurelion Sol,Aurelion Sol,fr
+Azir,Azir,fr
+Bard,Bard,fr
+Baron Nashor,Baron Nashor,fr
+Bel'Veth,Bel'Veth,fr
+Blitzcrank,Blitzcrank,fr
+Braum,Braum,fr
+Briar,Briar,fr
+Brock,Brock,fr
+Caitlyn,Caitlyn,fr
+Cho'Gath,Cho'Gath,fr
+Darius,Darius,fr
+Diana,Diana,fr
+Dr. Mundo,Dr. Mundo,fr
+Draven,Draven,fr
+Ekko,Ekko,fr
+Elder Dragon,Dragon ancestral,fr
+Fiddlesticks,Fiddlesticks,fr
+Fizz,Fizz,fr
+Galio,Galio,fr
+Gangplank,Gangplank,fr
+Garen,Garen,fr
+Golem,Golem,fr
+Graves,Graves,fr
+Gwen,Gwen,fr
+Illaoi,Illaoi,fr
+Jarvan IV,Jarvan IV,fr
+Jhin,Jhin,fr
+Jinx,Jinx,fr
+Kai'Sa,Kai'Sa,fr
+Kalista,Kalista,fr
+Kennen,Kennen,fr
+Kindred,Kindred,fr
+Kobuko & Yuumi,Kobuko et Yuumi,fr
+Kog'Maw,Kog'Maw,fr
+LeBlanc,LeBlanc,fr
+Leona,Leona,fr
+Lissandra,Lissandra,fr
+Loris,Loris,fr
+Lucian & Senna,Lucian et Senna,fr
+Lulu,Lulu,fr
+Lux,Lux,fr
+Malzahar,Malzahar,fr
+Mel,Mel,fr
+Milio,Milio,fr
+Miss Fortune,Miss Fortune,fr
+Nasus,Nasus,fr
+Nautilus,Nautilus,fr
+Neeko,Neeko,fr
+Nidalee,Nidalee,fr
+Orianna,Orianna,fr
+Ornn,Ornn,fr
+Piltover Invention,Invention de Piltover,fr
+Poppy,Poppy,fr
+Qiyana,Qiyana,fr
+Rek'Sai,Rek'Sai,fr
+Renekton,Renekton,fr
+Rift Herald,Héraut de la Faille,fr
+Rift Scuttler,Carapateur,fr
+Rumble,Rumble,fr
+Ryze,Ryze,fr
+Sejuani,Sejuani,fr
+Seraphine,Séraphine,fr
+Sett,Sett,fr
+Shen,Shen,fr
+Shyvana,Shyvana,fr
+Singed,Singed,fr
+Sion,Sion,fr
+Skarner,Skarner,fr
+Sona,Sona,fr
+Swain,Swain,fr
+Sylas,Sylas,fr
+T-Hex,T-Hex,fr
+Tahm Kench,Tahm Kench,fr
+Taric,Taric,fr
+Teemo,Teemo,fr
+Thresh,Thresh,fr
+Training Dummy,Mannequin d'entraînement,fr
+Tristana,Tristana,fr
+Tryndamere,Tryndamere,fr
+Twisted Fate,Twisted Fate,fr
+Vayne,Vayne,fr
+Veigar,Veigar,fr
+Vi,Vi,fr
+Viego,Viego,fr
+Volibear,Volibear,fr
+Warwick,Warwick,fr
+Wukong,Wukong,fr
+Xerath,Xerath,fr
+Xin Zhao,Xin Zhao,fr
+Yasuo,Yasuo,fr
+Yone,Yone,fr
+Yorick,Yorick,fr
+Yunara,Yunara,fr
+Zaahen,Zaahen,fr
+Ziggs,Ziggs,fr
+Zilean,Zilean,fr
+Zoe,Zoé,fr
+Arcanist,Arcaniste,fr
+Ascendant,Ascendant,fr
+Assimilator,Assimilatrice,fr
+Bilgewater,Bilgewater,fr
+Blacksmith,Forgeron,fr
+Bruiser,Bagarreur,fr
+Caretaker,Ange gardien,fr
+Chainbreaker,Libérateur,fr
+Chosen Wolves,Chasse éternelle,fr
+Chronokeeper,Gardien du temps,fr
+Dark Child,Enfant des ténèbres,fr
+Darkin,Darkin,fr
+Defender,Défenseur,fr
+Demacia,Demacia,fr
+Disruptor,Perturbateur,fr
+Dragonborn,Enfant draconique,fr
+Dragonguards,Dragons gardiens,fr
+Emperor,Empereur,fr
+Eternal,Éternel,fr
+Freljord,Freljord,fr
+Glutton,Glouton,fr
+Gunslinger,Pistolero,fr
+Harvester,Moissonneur,fr
+Heroic,Héroïque,fr
+HexMech,Mecha-Hex,fr
+Huntress,Chasseresse,fr
+Immortal,Immortel,fr
+Invoker,Incantateur,fr
+Ionia,Ionia,fr
+Ixtal,Ixtal,fr
+Juggernaut,Colosse,fr
+Longshot,Tireur d'élite,fr
+Noxus,Noxus,fr
+Piltover,Piltover,fr
+Poison Pals,Empoisonneurs,fr
+Quickstriker,Assaillant,fr
+Riftscourge,Fléau du Néant,fr
+Rune Mage,Mage runique,fr
+Sentinels of Light,Sentinelles de la lumière,fr
+Shadow Isles,Îles obscures,fr
+Shurima,Shurima,fr
+Slayer,Bourreau,fr
+Soulbound,Âmes sœurs,fr
+Star Forger,Forgeur d'étoiles,fr
+Targon,Targon,fr
+The Boss,Le Patron,fr
+Timewinders,Voyageurs du temps,fr
+Vanquisher,Conquérant,fr
+Void,Néant,fr
+Warden,Rempart,fr
+World Ender,Fossoyeur des mondes,fr
+Yordle,Yordle,fr
+Zaun,Zaun,fr
+3 Threes,Trois 3,fr
+A Magic Roll,Dés magiques,fr
+Advanced Loan,Prêt anticipé,fr
+Air Axiom,Axiome d'air,fr
+Arcane Viktor-y,Arcaniquement Viktor-ieux,fr
+Artillery Barrage,Barrage d'artillerie,fr
+Ascension,Ascension,fr
+Band of Thieves,Bande de voleurs,fr
+Belt Overflow,Abondance de ceintures,fr
+Best Friends,Meilleurs amis,fr
+Big Friend,Ami trapu,fr
+Big Grab Bag,Super sac de butin,fr
+Binary Airdrop,Largage binaire,fr
+Birthday Present,Cadeau d'anniversaire,fr
+Birthday Reunion,Réunion d'anniversaire,fr
+Blood Offering,Offrande sanguinaire,fr
+Bodyguard Training,Formation de Garde du corps,fr
+Boxing Lessons,Ligne de front,fr
+Branching Out,Aléatoire jacta est,fr
+Bringer of Ruin,Héraut de la ruine,fr
+Bronze For Life,Bronze pour la vie,fr
+Buried Treasures,Trésors enfouis,fr
+Care Package,Ravitaillement,fr
+Caretaker's Ally,Don du gardien,fr
+Celestial Blessing,Bénédiction céleste,fr
+Chaotic Evolution,Évolution chaotique,fr
+Commerce Core,Relances régulières,fr
+Component Buffet,Buffet de composants,fr
+Construct a Companion,Achat 3 étoiles,fr
+Cooking Pot,Chefs cuisiniers,fr
+Coronation,Couronnement,fr
+Corrosion,Corrosion,fr
+Cosmic Calling,Appel cosmique,fr
+Crafted Crafting,Maîtrise de l'artisanat,fr
+Crash Test Dummies,Mannequins de choc,fr
+Crown's Will,Volonté de la couronne,fr
+Cry Me A River,Océan de larmes,fr
+Darkwill's Invasion,Invasion de Darkwill,fr
+Deadlier Blades,Lames tueuses,fr
+Deadlier Caps,Coiffes mortelles,fr
+Defense of the Placidium,Défense du Placidium,fr
+Demacia Forever,Demacia à tout jamais,fr
+Double Trouble,Doublure,fr
+Dummify,Mannequinification,fr
+Duo Queue,Aléatoirement vôtre,fr
+Earth Axiom,Axiome de terre,fr
+Epic Rolldown,Relances épiques,fr
+Exclusive Customization,Coup de chance,fr
+Exiles,Exilés,fr
+Expected Unexpectedness,Lancer de dés,fr
+Explosive Growth,Croissance explosive,fr
+Eye For An Eye,Composants funéraires,fr
+Feed the Flames,Allumer le feu,fr
+Find Your Center,Centre d'excellence,fr
+Fire Axiom,Axiome de feu,fr
+Focused Fire,Feu concentré,fr
+Giant and Mighty,Grandeur et démesure,fr
+Gilded Steel,Acier doré,fr
+Glass Cannon,Canon de verre,fr
+Going Long,Expérience à tout prix,fr
+Gold Destiny,Destin doré,fr
+Golemify,Golemification,fr
+Good For Something,Butin funéraire,fr
+Growth Mindset,XP en promotion,fr
+Hard Commit,Typologie,fr
+Healing Orbs,Orbes de soins,fr
+Heart of Steel,Cœur d'acier,fr
+Heavy Is the Crown,Lourde est la couronne,fr
+Hedge Fund,Spéculation,fr
+Hefty Rolls,Relances imposantes,fr
+Heroic Grab Bag,Besace héroïque,fr
+Hexgate Travel,Voyage Hextech,fr
+High Voltage,Haute tension,fr
+Hold the Line,Tenir le front,fr
+Indecision,Indécision,fr
+Indiscriminate Killer,Tueur impitoyable,fr
+Invested,Investissement,fr
+Iron Assets,Entre les PO et l'enclume,fr
+Item Grab Bag,Sac de butin,fr
+Jeweled Lotus,Lotus précieux,fr
+Just Hit,Butin varié,fr
+Kahunahuna,Kahuna,fr
+Last Second Save,Sauvetage in extremis,fr
+Late Game Scaling,Fin de partie,fr
+Late Game Specialist,Spécialiste des fins de partie,fr
+Leap of Faith,Acte de foi,fr
+Legion of Threes,Légion des trois,fr
+Level Up!,Niveau supérieur !,fr
+Lifting Competition,Bagarreurs baraqués,fr
+Lineup,Première ligne,fr
+Little Buddies,Choristes,fr
+Lucky Gloves,Gants porte-bonheur,fr
+Mace's Will,Volonté de la massue,fr
+Makeshift Armor,Armure improvisée,fr
+Mess Hall,Bataille de nourriture,fr
+Min-Max,Suppresseur doré,fr
+Missed Connections,Palier 1,fr
+Money Monsoon,Pluie d'argent,fr
+On a Roll,Relances étoilées,fr
+"One Buff, Two Buff",Buffs à gogo,fr
+One Twos Three,Paliers inférieurs,fr
+"One, Two, Five!",Butin aléatoire,fr
+Pandora's Bench,Banc de Pandore,fr
+Pandora's Items,Objets de Pandore,fr
+Patience is a Virtue,Jeu de patience,fr
+Placebo,Placébo,fr
+Plot Armor,Résistance acharnée,fr
+Portable Forge,Forge portative,fr
+Precision and Grace,Précision et grâce,fr
+Preparation,Préparation,fr
+Prismatic Destiny,Destin prismatique,fr
+Prismatic Ticket,Ticket prismatique,fr
+Promised Protection,Mana du protecteur,fr
+Pyromaniac,Pyromanie,fr
+Radiant Rascal,Vaurien de la lumière,fr
+Radiant Relics,Reliques de la lumière,fr
+Raining Gold,Pluie d'or,fr
+Recombobulator,Recombobulateur,fr
+ReinFOURcement,Puissance 4,fr
+Replication,Fabrication en série,fr
+Restart Mission,Nouveau départ,fr
+Retribution,Justice critique,fr
+Rolling For Days,Jour de relance,fr
+Savings Account,Compte épargne,fr
+Second Wind,Second souffle,fr
+Seraphim's Staff,Bâton angélique,fr
+Shimmerscale Essence,Essence des Luminécailles,fr
+Shopping Spree,Shopping intensif,fr
+Silco's Revenge,Revanche de Silco,fr
+Silver Destiny,Destin argenté,fr
+Silver Spoon,Par ici l'XP,fr
+Slightly Magic Roll,Dés légèrement magiques,fr
+Small Grab Bag,Petit sac de butin,fr
+Solo Plate,Lithoplastron solo,fr
+Soul Awakening,Éveil de l'âme,fr
+Spear's Will,Volonté de la lance,fr
+Spirit of Redemption,Esprit de la Rédemption,fr
+Spreading Roots,Enracinement,fr
+Staffsmith,Fabricant de baguettes,fr
+Stand United,Soutien indéfectible,fr
+Stars Are Born,Des étoiles sont nées,fr
+Starter Kit,Kit de départ,fr
+Sweet Treats,Objets blindés,fr
+Sword Overflow,Abondance de glaives,fr
+Swordsmith,Armurier,fr
+Teaming Up,Cours de soutien,fr
+The Axiomata,Les Axiomes,fr
+The Golden Dragon,Mailles en or,fr
+The Ruined King,Roi déchu,fr
+The Trait Tree,Emblématiquement,fr
+The World Runes,Les runes telluriques,fr
+Thorn-Plated Armor,Armure couverte d'épines,fr
+"Tiny, but Deadly",Petits mais costauds,fr
+Tons of Stats!,Stats à foison !,fr
+Trade Sector,Secteur commercial,fr
+Trials of Twilight,Épreuves du crépuscule,fr
+Trifecta,Tiercé,fr
+Twin Guardians,Gardiens jumeaux,fr
+Two Much Value,Avènement des deux,fr
+Two Trick,Pluie de deux,fr
+U.R.F,U.R.F.,fr
+Unsealed From Steel,Armes Darkin,fr
+Upward Mobility,Ascension sociale,fr
+Wand Overflow,Abondance de baguettes,fr
+Warlord's Honor,Honneur du Maître de guerre,fr
+Water Axiom,Axiome d'eau,fr
+We Stick Together,Partage emblématique,fr
+Wild Growth,Croissance prodigieuse,fr
+Win Out,Sauter une classe,fr
+Wood Axiom,Axiome de bois,fr
+Woven Magic,Mana magique,fr
+90 Caliber Nets,Filets de calibre 90,fr
+Acceleration Gate,Portail d'accélération,fr
+Adaptive Helm,Casque adaptatif,fr
+Aegis of Dawn,Égide de l'aube,fr
+Aegis of Dusk,Égide du crépuscule,fr
+Arcanist Emblem,Emblème d'Arcaniste,fr
+Archangel's Staff,Bâton de l'archange,fr
+Armor Nullifier,Armure inhibitrice,fr
+B.F. Sword,BF Glaive,fr
+Barknuckles,Cestes,fr
+Bilgewater Emblem,Emblème de Bilgewater,fr
+Bilgewater Lesser Champion Duplicator,Duplicateur de champion mineur de Bilgewater,fr
+Black Market Restock,Restockage du marché noir,fr
+Blackmarket Explosives,Explosifs du marché noir,fr
+Blast Shield,Bouclier antichoc,fr
+Blighting Jewel,Joyau putréfiant,fr
+Bloodthirster,Soif-de-sang,fr
+Blue Buff,Buff bleu,fr
+Bramble Vest,Armure roncière,fr
+Brigand's Dice,Dé du brigand,fr
+Bruiser Emblem,Emblème de Bagarreur,fr
+Cappa Juice,Jus chapi-chapo,fr
+Captain's Brew,Cocktail du capitaine,fr
+Captain's Hat,Chapeau du capitaine,fr
+Chain Vest,Cotte de mailles,fr
+Chalice of Power,Calice de puissance,fr
+Continuum Cogs,Rouages infinis,fr
+Corrupt Vampiric Scepter,Sceptre vampirique corrompu,fr
+Crownguard,Couronne de la reine,fr
+Cursed Blade,Lame maudite,fr
+Cutthroat's Cutlass,Sabre coupe-gorge,fr
+Dawncore,Cœur de l'aube,fr
+Dead Man's Dagger,Dague du mort,fr
+Deathblade,Lame funeste,fr
+Defender Emblem,Emblème de Défenseur,fr
+Demacia Emblem,Emblème de Demacia,fr
+Disruptor Emblem,Emblème de Perturbateur,fr
+Dragon's Claw,Griffe de dragon,fr
+Dreadway Cannon,Canon de la Dernière ombre,fr
+E.M.P.,IEM,fr
+Echo Engine,Moteur à écho,fr
+Edge of Night,Manteau de la nuit,fr
+Electrical Overload,Surcharge électrique,fr
+Eternal Pact,Pacte éternel,fr
+Evenshroud,Linceul de la congruence,fr
+First Mate's Flintlock,Tromblon du second,fr
+First One's Free!,Le premier est gratuit !,fr
+Fishbones,Poiscaille,fr
+Flickerblades,Tremblelames,fr
+Forbidden Idol,Idole interdite,fr
+Freljord Emblem,Emblème de Freljord,fr
+Frying Pan,Poêle à frire,fr
+Gargoyle Stoneplate,Lithoplastron de gargouille,fr
+Giant Slayer,Tueur de géants,fr
+Giant's Belt,Ceinture du géant,fr
+Gigantification Ray,Rayon de géantification,fr
+Guinsoo's Rageblade,Lame enragée de Guinsoo,fr
+Gunslinger Emblem,Emblème de Pistolero,fr
+Hand Of Justice,Main de la justice,fr
+Haunted Spyglass,Longue-vue hantée,fr
+Hellfire Hatchet,Hachette infernale,fr
+Hextech Gunblade,Pistolame Hextech,fr
+Horizon Focus,Concentration lointaine,fr
+Infinity Edge,Lame d'infini,fr
+Innervating Locket,Médaillon d'excitation,fr
+Invoker Emblem,Emblème d'Incantateur,fr
+Ionia Emblem,Emblème d'Ionia,fr
+Ionic Spark,Étincelle ionique,fr
+Ixtal Emblem,Emblème d'Ixtal,fr
+Jeweled Gauntlet,Gantelet précieux,fr
+Juggernaut Emblem,Emblème de Colosse,fr
+Kinetic Barrier,Barrière cinétique,fr
+Knight's Vow,Vœu du chevalier,fr
+Kraken's Fury,Fureur du kraken,fr
+Last Whisper,Dernier souffle,fr
+Lesser Mirrored Persona,Personnalité miroir mineure,fr
+Lich Bane,Fléau de liche,fr
+Lightshield Crest,Blason des Lightshield,fr
+Locket of the Iron Solari,Médaillon de l'Iron Solari,fr
+Longshot Emblem,Emblème de Tireur d'élite,fr
+Lucky Doubloon,Pièce porte-bonheur,fr
+Luden's Tempest,Tempête de Luden,fr
+Magnetron Coil,Bobine magnétron,fr
+Mending Echoes,Échos réparateurs,fr
+Micro-Rockets,Micro-roquettes,fr
+Mining Drill,Foreuse,fr
+Mirrored Persona,Personnalité miroir,fr
+Mittens,Moufles,fr
+Momentum Drive,Propulseur,fr
+Morellonomicon,Morellonomicon,fr
+Nashor's Tooth,Dent de Nashor,fr
+Needlessly Large Rod,Baguette trop grosse,fr
+Negatron Cloak,Manteau de Négatron,fr
+Noxus Emblem,Emblème de Noxus,fr
+Overclocked Capacitors,Technoboucliers surcadencés,fr
+Pile O' Citrus,Pile d'agrumes,fr
+Piltover Emblem,Emblème de Piltover,fr
+Protector's Vow,Vœu du protecteur,fr
+Prowler's Claw,Griffes du rôdeur,fr
+Quicksilver,Mercure,fr
+Quickstriker Emblem,Emblème d'Assaillant,fr
+Rabadon's Deathcap,Coiffe de Rabadon,fr
+Rapid Firecannon,Canon ultrarapide,fr
+Realm Warp,Portail transdimensionnel,fr
+Recurve Bow,Arc courbe,fr
+Red Buff,Buff rouge,fr
+Seeker's Armguard,Protège-bras du savant,fr
+Shadow Puppet,Clone des ombres,fr
+Shroud of Stillness,Linceul d'apaisement,fr
+Silvermere Dawn,Aube de Haut-Lac-d'Argent,fr
+Slayer Emblem,Emblème de Bourreau,fr
+Sparring Gloves,Gants d'entraînement,fr
+Spatula,Spatule,fr
+Spear of Shojin,Lance de Shojin,fr
+Spectral Cutlass,Sabre spectral,fr
+Spirit Visage,Visage spirituel,fr
+Statikk Shiv,Poignard de Statikk,fr
+Steadfast Heart,Cœur intrépide,fr
+Sterak's Gage,Gage de Sterak,fr
+Striker's Flail,Fléau vengeur,fr
+Sunfire Cape,Cape solaire,fr
+Superior Lifeform,Forme de vie supérieure,fr
+Suspicious Trench Coat,Trench-coat suspect,fr
+Syren's Broadside,Navire Syren,fr
+Tactician's Cape,Cape du Tacticien,fr
+Tactician's Crown,Couronne du Tacticien,fr
+Tactician's Shield,Bouclier du Tacticien,fr
+Talisman Of Ascension,Talisman de l'ascension,fr
+Tear of the Goddess,Larme de la déesse,fr
+The Indomitable,L'indomptable,fr
+Thief's Gloves,Gants de voleur,fr
+Titan's Resolve,Détermination du titan,fr
+Titanic Hydra,Hydre titanesque,fr
+Tome of Traits,Tome des emblèmes,fr
+Treasure Typhoon,Trésor des profondeurs,fr
+Tuned Oscillator,Oscillateur calibré,fr
+Unending Despair,Désespoir infini,fr
+Unstable Core,Noyau instable,fr
+Upgrade!,Amélioration !,fr
+Vanquisher Emblem,Emblème de Conquérant,fr
+Virtue of the Martyr,Vertu du martyr,fr
+Void Emblem,Emblème du Néant,fr
+Void Gauntlet,Gantelet du Néant,fr
+Void Staff,Bâton du vide,fr
+Voltage Conduit,Conduit voltage,fr
+Warden Emblem,Emblème de Rempart,fr
+Warmog's Armor,Armure de Warmog,fr
+Wit's End,Au bout du rouleau,fr
+Withered Relic,Relique flétrie,fr
+Yordle Emblem,Emblème de Yordle,fr
+Zaun Emblem,Emblème de Zaun,fr
+Zeke's Herald,Blason de Zeke,fr
+Zephyr,Zéphyr,fr
+Zz'Rot Portal,Portail de Zz'Rot,fr

@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,Атрокс,ru
+Ahri,Ари,ru
+Ambessa,Амбесса,ru
+Anivia,Анивия,ru
+Annie,Энни,ru
+Aphelios,Афелий,ru
+Ashe,Эш,ru
+Aurelion Sol,Аурелион Сол,ru
+Azir,Азир,ru
+Bard,Бард,ru
+Baron Nashor,Барон Нашор,ru
+Bel'Veth,Бел'Вет,ru
+Blitzcrank,Блицкранк,ru
+Braum,Браум,ru
+Briar,Брайер,ru
+Brock,Брок,ru
+Caitlyn,Кейтлин,ru
+Cho'Gath,Чо'Гат,ru
+Darius,Дариус,ru
+Diana,Диана,ru
+Dr. Mundo,Доктор Мундо,ru
+Draven,Дрейвен,ru
+Ekko,Экко,ru
+Elder Dragon,Старший дракон,ru
+Fiddlesticks,Фиддлстикс,ru
+Fizz,Физз,ru
+Galio,Галио,ru
+Gangplank,Гангпланк,ru
+Garen,Гарен,ru
+Golem,Голем,ru
+Graves,Грейвз,ru
+Gwen,Гвен,ru
+Illaoi,Иллаой,ru
+Jarvan IV,Джарван IV,ru
+Jhin,Джин,ru
+Jinx,Джинкс,ru
+Kai'Sa,Кай'Са,ru
+Kalista,Калиста,ru
+Kennen,Кеннен,ru
+Kindred,Киндред,ru
+Kobuko & Yuumi,Кобуко и Юми,ru
+Kog'Maw,Ког'Мао,ru
+LeBlanc,Ле Блан,ru
+Leona,Леона,ru
+Lissandra,Лиссандра,ru
+Loris,Лорис,ru
+Lucian & Senna,Люциан и Сенна,ru
+Lulu,Лулу,ru
+Lux,Люкс,ru
+Malzahar,Мальзахар,ru
+Mel,Мэл,ru
+Milio,Милио,ru
+Miss Fortune,Мисс Фортуна,ru
+Nasus,Насус,ru
+Nautilus,Наутилус,ru
+Neeko,Нико,ru
+Nidalee,Нидали,ru
+Orianna,Орианна,ru
+Ornn,Орн,ru
+Piltover Invention,Пилтоверское изобретение,ru
+Poppy,Поппи,ru
+Qiyana,Киана,ru
+Rek'Sai,Рек'Сай,ru
+Renekton,Ренектон,ru
+Rift Herald,Герольд Бездны,ru
+Rift Scuttler,Пугливый краб,ru
+Rumble,Рамбл,ru
+Ryze,Райз,ru
+Sejuani,Седжуани,ru
+Seraphine,Серафина,ru
+Sett,Сетт,ru
+Shen,Шен,ru
+Shyvana,Шивана,ru
+Singed,Синджед,ru
+Sion,Сион,ru
+Skarner,Скарнер,ru
+Sona,Сона,ru
+Swain,Свейн,ru
+Sylas,Сайлас,ru
+T-Hex,Хекстек-рекс,ru
+Tahm Kench,Таам Кенч,ru
+Taric,Тарик,ru
+Teemo,Тимо,ru
+Thresh,Треш,ru
+Training Dummy,Тренировочный манекен,ru
+Tristana,Тристана,ru
+Tryndamere,Триндамир,ru
+Twisted Fate,Твистед Фэйт,ru
+Vayne,Вейн,ru
+Veigar,Вейгар,ru
+Vi,Вай,ru
+Viego,Виего,ru
+Volibear,Волибир,ru
+Warwick,Варвик,ru
+Wukong,Вуконг,ru
+Xerath,Зерат,ru
+Xin Zhao,Ксин Жао,ru
+Yasuo,Ясуо,ru
+Yone,Ёнэ,ru
+Yorick,Йорик,ru
+Yunara,Юнара,ru
+Zaahen,Заахен,ru
+Ziggs,Зиггс,ru
+Zilean,Зилеан,ru
+Zoe,Зои,ru
+Arcanist,Адепт магии,ru
+Ascendant,Вознесшийся,ru
+Assimilator,Ассимиляция,ru
+Bilgewater,Билджвотер,ru
+Blacksmith,Кузнец,ru
+Bruiser,Громила,ru
+Caretaker,Опекун,ru
+Chainbreaker,Избавитель,ru
+Chosen Wolves,Избранные Волки,ru
+Chronokeeper,Хранитель времени,ru
+Dark Child,Дитя тьмы,ru
+Darkin,Даркин,ru
+Defender,Страж,ru
+Demacia,Демасия,ru
+Disruptor,Интервент,ru
+Dragonborn,Драконорожденная,ru
+Dragonguards,Стражи драконов,ru
+Emperor,Император,ru
+Eternal,Вечные,ru
+Freljord,Фрельйорд,ru
+Glutton,Гурман,ru
+Gunslinger,Стрелок,ru
+Harvester,Жнец,ru
+Heroic,Героический,ru
+HexMech,Хекс-механизм,ru
+Huntress,Охотница,ru
+Immortal,Бессмертный,ru
+Invoker,Колдун,ru
+Ionia,Иония,ru
+Ixtal,Ишталь,ru
+Juggernaut,Джаггернаут,ru
+Longshot,Дальнострел,ru
+Noxus,Ноксус,ru
+Piltover,Пилтовер,ru
+Poison Pals,Ядовитые друзья,ru
+Quickstriker,Задира,ru
+Riftscourge,Гроза Ущелья,ru
+Rune Mage,Рунный маг,ru
+Sentinels of Light,Стражи света,ru
+Shadow Isles,Сумрачные острова,ru
+Shurima,Шуримa,ru
+Slayer,Душегуб,ru
+Soulbound,Связанная душа,ru
+Star Forger,Создатель звезд,ru
+Targon,Таргон,ru
+The Boss,Босс,ru
+Timewinders,Временные ключи,ru
+Vanquisher,Завоеватель,ru
+Void,Бездна,ru
+Warden,Хранитель,ru
+World Ender,Губитель мира,ru
+Yordle,Йордл,ru
+Zaun,Заун,ru
+3 Threes,3 тройки,ru
+A Magic Roll,Магические кости,ru
+Advanced Loan,Крупный займ,ru
+Air Axiom,Аксиома воздуха,ru
+Arcane Viktor-y,Победа Виктора из ''Аркейна'',ru
+Artillery Barrage,Артиллерийский шквал,ru
+Ascension,Вознесение,ru
+Band of Thieves,Воровская шайка,ru
+Belt Overflow,Переизбыток поясов,ru
+Best Friends,Лучшие друзья,ru
+Big Friend,Большой друг,ru
+Big Grab Bag,Большой мешок с сюрпризом,ru
+Binary Airdrop,Двойная доставка,ru
+Birthday Present,Подарок на день рождения,ru
+Birthday Reunion,Празднование юбилея,ru
+Blood Offering,Кровавое подношение,ru
+Bodyguard Training,Подготовка телохранителя,ru
+Boxing Lessons,Уроки бокса,ru
+Branching Out,Расширение дела,ru
+Bringer of Ruin,Вестник гибели,ru
+Bronze For Life,Бронза навек,ru
+Buried Treasures,Закопанные сокровища,ru
+Care Package,Посылка,ru
+Caretaker's Ally,Союзник,ru
+Celestial Blessing,Благословение небес,ru
+Chaotic Evolution,Хаотичная эволюция,ru
+Commerce Core,Суть коммерции,ru
+Component Buffet,Собери сам,ru
+Construct a Companion,Создание спутника,ru
+Cooking Pot,Кухонная утварь,ru
+Coronation,Коронация,ru
+Corrosion,Коррозия,ru
+Cosmic Calling,Зов Вселенной,ru
+Crafted Crafting,Искусное искусство,ru
+Crash Test Dummies,Манекены для краш-тестов,ru
+Crown's Will,Воля короны,ru
+Cry Me A River,Слезы рекой,ru
+Darkwill's Invasion,Вторжение Дарквилла,ru
+Deadlier Blades,Смертоносные клинки,ru
+Deadlier Caps,Более смертельные шляпы,ru
+Defense of the Placidium,Защита Пласидиума,ru
+Demacia Forever,Демасия вечна,ru
+Double Trouble,Близнецы,ru
+Dummify,Манекенофикация,ru
+Duo Queue,Игра в паре,ru
+Earth Axiom,Аксиома земли,ru
+Epic Rolldown,Эпические обновления,ru
+Exclusive Customization,Эксклюзивная кастомизация,ru
+Exiles,Изгнание,ru
+Expected Unexpectedness,Ожидаемая неожиданность,ru
+Explosive Growth,Взрывной рост,ru
+Eye For An Eye,Око за око,ru
+Feed the Flames,Распаленное пламя,ru
+Find Your Center,Центр внимания,ru
+Fire Axiom,Аксиома огня,ru
+Focused Fire,Прицельная стрельба,ru
+Giant and Mighty,Могучие исполины,ru
+Gilded Steel,Позолоченная сталь,ru
+Glass Cannon,Стеклянная пушка,ru
+Going Long,Игра вдолгую,ru
+Gold Destiny,Золотая судьба,ru
+Golemify,Големификация,ru
+Good For Something,Хоть какая-то польза,ru
+Growth Mindset,Стратегия роста,ru
+Hard Commit,Целеустремленность,ru
+Healing Orbs,Сфера лечения,ru
+Heart of Steel,Стальное сердце,ru
+Heavy Is the Crown,Тяжел венец,ru
+Hedge Fund,Страховой фонд,ru
+Hefty Rolls,Увесистый куш,ru
+Heroic Grab Bag,Геройский мешок с сюрпризом,ru
+Hexgate Travel,Путешествие через хексврата,ru
+High Voltage,Высокое напряжение,ru
+Hold the Line,Держать строй!,ru
+Indecision,Нерешительность,ru
+Indiscriminate Killer,Убийство без разбора,ru
+Invested,Инвестиции,ru
+Iron Assets,Железный аргумент,ru
+Item Grab Bag,Мешок предметов,ru
+Jeweled Lotus,Драгоценный лотос,ru
+Just Hit,Свежая поставка,ru
+Kahunahuna,Кахунахуна,ru
+Last Second Save,В последнюю секунду,ru
+Late Game Scaling,Мощь на позднем этапе,ru
+Late Game Specialist,Специалист по поздним этапам,ru
+Leap of Faith,Прыжок веры,ru
+Legion of Threes,Легион троек,ru
+Level Up!,Новый уровень!,ru
+Lifting Competition,Состязание силачей,ru
+Lineup,Построение,ru
+Little Buddies,Маленькие друзья,ru
+Lucky Gloves,Счастливые перчатки,ru
+Mace's Will,Воля булавы,ru
+Makeshift Armor,Самодельный доспех,ru
+Mess Hall,Столовая,ru
+Min-Max,Минмаксинг,ru
+Missed Connections,Номер один,ru
+Money Monsoon,Золотой ураган,ru
+On a Roll,В ударе,ru
+"One Buff, Two Buff","Одно усиление, два усиления",ru
+One Twos Three,"Раз, два, три",ru
+"One, Two, Five!","Раз, два, пять!",ru
+Pandora's Bench,Скамейка Пандоры,ru
+Pandora's Items,Предметы Пандоры,ru
+Patience is a Virtue,Терпение,ru
+Placebo,Плацебо,ru
+Plot Armor,Сюжетная защита,ru
+Portable Forge,Переносная кузница,ru
+Precision and Grace,Точность и изящество,ru
+Preparation,Подготовка,ru
+Prismatic Destiny,Призматическая судьба,ru
+Prismatic Ticket,Призматический билет,ru
+Promised Protection,Обещание защиты,ru
+Pyromaniac,Пироман,ru
+Radiant Rascal,Лучезарный плут,ru
+Radiant Relics,Лучезарные реликвии,ru
+Raining Gold,Дождь из монет,ru
+Recombobulator,Рекомбинатор,ru
+ReinFOURcement,Четырехкратное усиление,ru
+Replication,Репликация,ru
+Restart Mission,Перезапуск миссии,ru
+Retribution,Возмездие,ru
+Rolling For Days,Вечное обновление,ru
+Savings Account,Накопительный вклад,ru
+Second Wind,Второе дыхание,ru
+Seraphim's Staff,Посох серафима,ru
+Shimmerscale Essence,Златоносная сущность,ru
+Shopping Spree,Покупки,ru
+Silco's Revenge,Месть Силко,ru
+Silver Destiny,Серебряная судьба,ru
+Silver Spoon,Серебряная ложка,ru
+Slightly Magic Roll,Обновление с капелькой магии,ru
+Small Grab Bag,Небольшой мешок с сюрпризом,ru
+Solo Plate,Один доспех,ru
+Soul Awakening,Пробуждение души,ru
+Spear's Will,Воля копья,ru
+Spirit of Redemption,Дух искупления,ru
+Spreading Roots,Расползающиеся корни,ru
+Staffsmith,Мастер посохов,ru
+Stand United,Плечом к плечу,ru
+Stars Are Born,Рождение звезды,ru
+Starter Kit,Стартовый набор,ru
+Sweet Treats,Сладкие угощения,ru
+Sword Overflow,Переизбыток мечей,ru
+Swordsmith,Мастер мечей,ru
+Teaming Up,Игра в команде,ru
+The Axiomata,Аксиомы,ru
+The Golden Dragon,Золотой дракон,ru
+The Ruined King,Падший король,ru
+The Trait Tree,Дерево особенностей,ru
+The World Runes,Мировые руны,ru
+Thorn-Plated Armor,Шипованная броня,ru
+"Tiny, but Deadly","Мал, да удал",ru
+Tons of Stats!,Тонны показателей!,ru
+Trade Sector,Торговый сектор,ru
+Trials of Twilight,Испытание сумраком,ru
+Trifecta,Триада,ru
+Twin Guardians,Два стража,ru
+Two Much Value,Высокая ценность,ru
+Two Trick,Дважды два,ru
+U.R.F,У.Р.Ф.,ru
+Unsealed From Steel,Свобода от оков стали,ru
+Upward Mobility,Карьерный рост,ru
+Wand Overflow,Переизбыток жезлов,ru
+Warlord's Honor,Честь полководца,ru
+Water Axiom,Аксиома воды,ru
+We Stick Together,Держимся вместе,ru
+Wild Growth,Буйный рост,ru
+Win Out,Настоящий триумф,ru
+Wood Axiom,Аксиома дерева,ru
+Woven Magic,Плетение магии,ru
+90 Caliber Nets,Сети 90 калибра,ru
+Acceleration Gate,Врата ускорения,ru
+Adaptive Helm,Адаптивный шлем,ru
+Aegis of Dawn,Эгида рассвета,ru
+Aegis of Dusk,Эгида сумерек,ru
+Arcanist Emblem,Эмблема адепта магии,ru
+Archangel's Staff,Посох архангела,ru
+Armor Nullifier,Нейтрализатор брони,ru
+B.F. Sword,Самый Лучший Меч,ru
+Barknuckles,Ракушечный кастет,ru
+Bilgewater Emblem,Эмблема Билджвотера,ru
+Bilgewater Lesser Champion Duplicator,Малый Дубликатор чемпионов из Билджвотера,ru
+Black Market Restock,Пополнение черного рынка,ru
+Blackmarket Explosives,Взрывчатка с черного рынка,ru
+Blast Shield,Пламеотражатель,ru
+Blighting Jewel,Вредоносный самоцвет,ru
+Bloodthirster,Кровопийца,ru
+Blue Buff,Синее усиление,ru
+Bramble Vest,Терновый жилет,ru
+Brigand's Dice,Разбойничьи кости,ru
+Bruiser Emblem,Эмблема громилы,ru
+Cappa Juice,Шапучий напиток,ru
+Captain's Brew,Варево капитана,ru
+Captain's Hat,Шляпа капитана,ru
+Chain Vest,Кольчуга,ru
+Chalice of Power,Чаша силы,ru
+Continuum Cogs,Шестерни континуума,ru
+Corrupt Vampiric Scepter,Нечестивый Вампирский скипетр,ru
+Crownguard,Королевский венец,ru
+Cursed Blade,Проклятый клинок,ru
+Cutthroat's Cutlass,Сабля головореза,ru
+Dawncore,Ядро рассвета,ru
+Dead Man's Dagger,Кинжал мертвеца,ru
+Deathblade,Клинок смерти,ru
+Defender Emblem,Эмблема стража,ru
+Demacia Emblem,Эмблема Демасии,ru
+Disruptor Emblem,Эмблема интервента,ru
+Dragon's Claw,Коготь дракона,ru
+Dreadway Cannon,Пушка ''Кошмара'',ru
+E.M.P.,ЭМИ,ru
+Echo Engine,Эхо-движок,ru
+Edge of Night,Грань ночи,ru
+Electrical Overload,Электрическая перегрузка,ru
+Eternal Pact,Вечный договор,ru
+Evenshroud,Вечерний покров,ru
+First Mate's Flintlock,Пистоль первого помощника,ru
+First One's Free!,Первая покупка бесплатно!,ru
+Fishbones,Скелетница,ru
+Flickerblades,Летающие ножи,ru
+Forbidden Idol,Запретный идол,ru
+Freljord Emblem,Эмблема Фрельйорда,ru
+Frying Pan,Сковородка,ru
+Gargoyle Stoneplate,Каменный доспех гаргульи,ru
+Giant Slayer,Убийца великанов,ru
+Giant's Belt,Пояс великана,ru
+Gigantification Ray,Луч увеличения,ru
+Guinsoo's Rageblade,Клинок ярости Гинсу,ru
+Gunslinger Emblem,Эмблема стрелка,ru
+Hand Of Justice,Рука правосудия,ru
+Haunted Spyglass,Призрачная подзорная труба,ru
+Hellfire Hatchet,Топор адского пламени,ru
+Hextech Gunblade,Хекстековый штык,ru
+Horizon Focus,Хекстековый прицел,ru
+Infinity Edge,Грань Бесконечности,ru
+Innervating Locket,Восстанавливающий медальон,ru
+Invoker Emblem,Эмблема колдуна,ru
+Ionia Emblem,Эмблема Ионии,ru
+Ionic Spark,Ионийская искра,ru
+Ixtal Emblem,Эмблема Ишталя,ru
+Jeweled Gauntlet,Драгоценная перчатка,ru
+Juggernaut Emblem,Эмблема джаггернаута,ru
+Kinetic Barrier,Кинетический барьер,ru
+Knight's Vow,Клятва рыцаря,ru
+Kraken's Fury,Ярость кракена,ru
+Last Whisper,Предсмертный шепот,ru
+Lesser Mirrored Persona,Малое Зеркальное отражение,ru
+Lich Bane,Гроза Личей,ru
+Lightshield Crest,Герб Лайтшилдов,ru
+Locket of the Iron Solari,Медальон Железных Солари,ru
+Longshot Emblem,Эмблема дальнострела,ru
+Lucky Doubloon,Счастливый дублон,ru
+Luden's Tempest,Буря Людена,ru
+Magnetron Coil,Катушка магнетрона,ru
+Mending Echoes,Эхо восстановления,ru
+Micro-Rockets,Микро-ракеты,ru
+Mining Drill,Шахтерский бур,ru
+Mirrored Persona,Зеркальное отражение,ru
+Mittens,Варежки,ru
+Momentum Drive,Импульсный ускоритель,ru
+Morellonomicon,Мореллономикон,ru
+Nashor's Tooth,Зуб Нашора,ru
+Needlessly Large Rod,Слишком Большой Жезл,ru
+Negatron Cloak,Поглощающий плащ,ru
+Noxus Emblem,Эмблема Ноксуса,ru
+Overclocked Capacitors,Перегруженные конденсаторы,ru
+Pile O' Citrus,Груда апельсинов,ru
+Piltover Emblem,Эмблема Пилтовера,ru
+Protector's Vow,Клятва защитника,ru
+Prowler's Claw,Коготь охотника,ru
+Quicksilver,Стремительное серебро,ru
+Quickstriker Emblem,Эмблема задиры,ru
+Rabadon's Deathcap,Смертельная шляпа Рабадона,ru
+Rapid Firecannon,Скорострельная пушка,ru
+Realm Warp,Искривление пространства,ru
+Recurve Bow,Изогнутый лук,ru
+Red Buff,Красное усиление,ru
+Seeker's Armguard,Наручи Искательницы,ru
+Shadow Puppet,Теневая марионетка,ru
+Shroud of Stillness,Покров тишины,ru
+Silvermere Dawn,Сильвермирская заря,ru
+Slayer Emblem,Эмблема душегуба,ru
+Sparring Gloves,Тренировочные перчатки,ru
+Spatula,Лопатка,ru
+Spear of Shojin,Копье Седзина,ru
+Spectral Cutlass,Призрачная сабля,ru
+Spirit Visage,Облачение духов,ru
+Statikk Shiv,Заточка Статикка,ru
+Steadfast Heart,Верное сердце,ru
+Sterak's Gage,Испытание Стерака,ru
+Striker's Flail,Цеп вышибалы,ru
+Sunfire Cape,Накидка солнечного пламени,ru
+Superior Lifeform,Величайшая особь,ru
+Suspicious Trench Coat,Подозрительный плащ,ru
+Syren's Broadside,Бортовой залп ''Сирены'',ru
+Tactician's Cape,Мантия тактика,ru
+Tactician's Crown,Корона тактика,ru
+Tactician's Shield,Щит тактика,ru
+Talisman Of Ascension,Талисман вознесения,ru
+Tear of the Goddess,Слеза богини,ru
+The Indomitable,Неукротимость,ru
+Thief's Gloves,Перчатки вора,ru
+Titan's Resolve,Решимость титана,ru
+Titanic Hydra,Титаническая гидра,ru
+Tome of Traits,Книга особенностей,ru
+Treasure Typhoon,Драгоценный тайфун,ru
+Tuned Oscillator,Настроенный генератор,ru
+Unending Despair,Бесконечное отчаяние,ru
+Unstable Core,Нестабильное ядро,ru
+Upgrade!,Улучшение!,ru
+Vanquisher Emblem,Эмблема завоевателя,ru
+Virtue of the Martyr,Добродетель мученика,ru
+Void Emblem,Эмблема Бездны,ru
+Void Gauntlet,Перчатка Бездны,ru
+Void Staff,Посох Бездны,ru
+Voltage Conduit,Проводник заряда,ru
+Warden Emblem,Эмблема хранителя,ru
+Warmog's Armor,Доспех Вармога,ru
+Wit's End,Смерть Разума,ru
+Withered Relic,Иссушенная реликвия,ru
+Yordle Emblem,Эмблема йордлов,ru
+Zaun Emblem,Эмблема Зауна,ru
+Zeke's Herald,Вестник Зика,ru
+Zephyr,Западный ветер,ru
+Zz'Rot Portal,Портал Зз'Рота,ru

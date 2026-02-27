@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,Aatrox,id
+Ahri,Ahri,id
+Ambessa,Ambessa,id
+Anivia,Anivia,id
+Annie,Annie,id
+Aphelios,Aphelios,id
+Ashe,Ashe,id
+Aurelion Sol,Aurelion Sol,id
+Azir,Azir,id
+Bard,Bard,id
+Baron Nashor,Baron Nashor,id
+Bel'Veth,Bel'Veth,id
+Blitzcrank,Blitzcrank,id
+Braum,Braum,id
+Briar,Briar,id
+Brock,Brock,id
+Caitlyn,Caitlyn,id
+Cho'Gath,Cho'Gath,id
+Darius,Darius,id
+Diana,Diana,id
+Dr. Mundo,Dr. Mundo,id
+Draven,Draven,id
+Ekko,Ekko,id
+Elder Dragon,Elder Dragon,id
+Fiddlesticks,Fiddlesticks,id
+Fizz,Fizz,id
+Galio,Galio,id
+Gangplank,Gangplank,id
+Garen,Garen,id
+Golem,Golem,id
+Graves,Graves,id
+Gwen,Gwen,id
+Illaoi,Illaoi,id
+Jarvan IV,Jarvan IV,id
+Jhin,Jhin,id
+Jinx,Jinx,id
+Kai'Sa,Kai'Sa,id
+Kalista,Kalista,id
+Kennen,Kennen,id
+Kindred,Kindred,id
+Kobuko & Yuumi,Kobuko & Yuumi,id
+Kog'Maw,Kog'Maw,id
+LeBlanc,LeBlanc,id
+Leona,Leona,id
+Lissandra,Lissandra,id
+Loris,Loris,id
+Lucian & Senna,Lucian & Senna,id
+Lulu,Lulu,id
+Lux,Lux,id
+Malzahar,Malzahar,id
+Mel,Mel,id
+Milio,Milio,id
+Miss Fortune,Miss Fortune,id
+Nasus,Nasus,id
+Nautilus,Nautilus,id
+Neeko,Neeko,id
+Nidalee,Nidalee,id
+Orianna,Orianna,id
+Ornn,Ornn,id
+Piltover Invention,Piltover Invention,id
+Poppy,Poppy,id
+Qiyana,Qiyana,id
+Rek'Sai,Rek'Sai,id
+Renekton,Renekton,id
+Rift Herald,Rift Herald,id
+Rift Scuttler,Rift Scuttler,id
+Rumble,Rumble,id
+Ryze,Ryze,id
+Sejuani,Sejuani,id
+Seraphine,Seraphine,id
+Sett,Sett,id
+Shen,Shen,id
+Shyvana,Shyvana,id
+Singed,Singed,id
+Sion,Sion,id
+Skarner,Skarner,id
+Sona,Sona,id
+Swain,Swain,id
+Sylas,Sylas,id
+T-Hex,T-Hex,id
+Tahm Kench,Tahm Kench,id
+Taric,Taric,id
+Teemo,Teemo,id
+Thresh,Thresh,id
+Training Dummy,Training Dummy,id
+Tristana,Tristana,id
+Tryndamere,Tryndamere,id
+Twisted Fate,Twisted Fate,id
+Vayne,Vayne,id
+Veigar,Veigar,id
+Vi,Vi,id
+Viego,Viego,id
+Volibear,Volibear,id
+Warwick,Warwick,id
+Wukong,Wukong,id
+Xerath,Xerath,id
+Xin Zhao,Xin Zhao,id
+Yasuo,Yasuo,id
+Yone,Yone,id
+Yorick,Yorick,id
+Yunara,Yunara,id
+Zaahen,Zaahen,id
+Ziggs,Ziggs,id
+Zilean,Zilean,id
+Zoe,Zoe,id
+Arcanist,Arcanist,id
+Ascendant,Ascendant,id
+Assimilator,Assimilator,id
+Bilgewater,Bilgewater,id
+Blacksmith,Blacksmith,id
+Bruiser,Bruiser,id
+Caretaker,Caretaker,id
+Chainbreaker,Chainbreaker,id
+Chosen Wolves,Chosen Wolves,id
+Chronokeeper,Chronokeeper,id
+Dark Child,Dark Child,id
+Darkin,Darkin,id
+Defender,Defender,id
+Demacia,Demacia,id
+Disruptor,Disruptor,id
+Dragonborn,Dragonborn,id
+Dragonguards,Dragonguards,id
+Emperor,Emperor,id
+Eternal,Eternal,id
+Freljord,Freljord,id
+Glutton,Glutton,id
+Gunslinger,Gunslinger,id
+Harvester,Harvester,id
+Heroic,Heroic,id
+HexMech,HexMech,id
+Huntress,Huntress,id
+Immortal,Immortal,id
+Invoker,Invoker,id
+Ionia,Ionia,id
+Ixtal,Ixtal,id
+Juggernaut,Juggernaut,id
+Longshot,Longshot,id
+Noxus,Noxus,id
+Piltover,Piltover,id
+Poison Pals,Poison Pals,id
+Quickstriker,Quickstriker,id
+Riftscourge,Riftscourge,id
+Rune Mage,Rune Mage,id
+Sentinels of Light,Sentinels of Light,id
+Shadow Isles,Shadow Isles,id
+Shurima,Shurima,id
+Slayer,Slayer,id
+Soulbound,Soulbound,id
+Star Forger,Star Forger,id
+Targon,Targon,id
+The Boss,The Boss,id
+Timewinders,Timewinders,id
+Vanquisher,Vanquisher,id
+Void,Void,id
+Warden,Warden,id
+World Ender,World Ender,id
+Yordle,Yordle,id
+Zaun,Zaun,id
+3 Threes,3 Threes,id
+A Magic Roll,A Magic Roll,id
+Advanced Loan,Advanced Loan,id
+Air Axiom,Air Axiom,id
+Arcane Viktor-y,Arcane Viktor-y,id
+Artillery Barrage,Artillery Barrage,id
+Ascension,Ascension,id
+Band of Thieves,Band of Thieves,id
+Belt Overflow,Belt Overflow,id
+Best Friends,Best Friends,id
+Big Friend,Big Friend,id
+Big Grab Bag,Big Grab Bag,id
+Binary Airdrop,Binary Airdrop,id
+Birthday Present,Birthday Present,id
+Birthday Reunion,Birthday Reunion,id
+Blood Offering,Blood Offering,id
+Bodyguard Training,Bodyguard Training,id
+Boxing Lessons,Boxing Lessons,id
+Branching Out,Branching Out,id
+Bringer of Ruin,Bringer of Ruin,id
+Bronze For Life,Bronze For Life,id
+Buried Treasures,Buried Treasure,id
+Care Package,Care Package,id
+Caretaker's Ally,Caretaker's Ally,id
+Celestial Blessing,Celestial Blessing,id
+Chaotic Evolution,Chaotic Evolution,id
+Commerce Core,Commerce Core,id
+Component Buffet,Component Buffet,id
+Construct a Companion,Construct a Companion,id
+Cooking Pot,Cooking Pot,id
+Coronation,Coronation,id
+Corrosion,Corrosion,id
+Cosmic Calling,Cosmic Calling,id
+Crafted Crafting,Crafted Crafting,id
+Crash Test Dummies,Crash Test Dummy,id
+Crown's Will,Crown's Will,id
+Cry Me A River,Cry Me A River,id
+Darkwill's Invasion,Darkwill's Invasion,id
+Deadlier Blades,Deadlier Blades,id
+Deadlier Caps,Deadlier Caps,id
+Defense of the Placidium,Defense of the Placidium,id
+Demacia Forever,Demacia Forever,id
+Double Trouble,Double Trouble,id
+Dummify,Dummify,id
+Duo Queue,Duo Queue,id
+Earth Axiom,Earth Axiom,id
+Epic Rolldown,Epic Rolldown,id
+Exclusive Customization,Exclusive Customization,id
+Exiles,Exiles,id
+Expected Unexpectedness,Expected Unexpectedness,id
+Explosive Growth,Explosive Growth,id
+Eye For An Eye,Eye For An Eye,id
+Feed the Flames,Feed the Flames,id
+Find Your Center,Find Your Center,id
+Fire Axiom,Fire Axiom,id
+Focused Fire,Focused Fire,id
+Giant and Mighty,Giant and Mighty,id
+Gilded Steel,Gilded Steel,id
+Glass Cannon,Glass Cannon,id
+Going Long,Going Long,id
+Gold Destiny,Gold Destiny,id
+Golemify,Golemify,id
+Good For Something,Good For Something,id
+Growth Mindset,Growth Mindset,id
+Hard Commit,Hard Commit,id
+Healing Orbs,Healing Orbs,id
+Heart of Steel,Heart of Steel,id
+Heavy Is the Crown,Heavy Is the Crown,id
+Hedge Fund,Hedge Fund,id
+Hefty Rolls,Hefty Rolls,id
+Heroic Grab Bag,Heroic Grab Bag,id
+Hexgate Travel,Hexgate Travel,id
+High Voltage,High Voltage,id
+Hold the Line,Hold the Line,id
+Indecision,Indecision,id
+Indiscriminate Killer,Indiscriminate Killer,id
+Invested,Invested,id
+Iron Assets,Iron Assets,id
+Item Grab Bag,Item Grab Bag,id
+Jeweled Lotus,Jeweled Lotus,id
+Just Hit,Just Hit,id
+Kahunahuna,Kahunahuna,id
+Last Second Save,Last Second Save,id
+Late Game Scaling,Late Game Scaling,id
+Late Game Specialist,Late Game Specialist,id
+Leap of Faith,Leap of Faith,id
+Legion of Threes,Legion of Threes,id
+Level Up!,Level Up!,id
+Lifting Competition,Lifting Competition,id
+Lineup,Lineup,id
+Little Buddies,Little Buddies,id
+Lucky Gloves,Lucky Gloves,id
+Mace's Will,Mace's Will,id
+Makeshift Armor,Makeshift Armor,id
+Mess Hall,Mess Hall,id
+Min-Max,Min-Max,id
+Missed Connections,Missed Connections,id
+Money Monsoon,Money Monsoon,id
+On a Roll,On a Roll,id
+"One Buff, Two Buff","One Buff, Two Buff",id
+One Twos Three,One Twos Three,id
+"One, Two, Five!","One, Two, Five!",id
+Pandora's Bench,Pandora's Bench,id
+Pandora's Items,Pandora's Items,id
+Patience is a Virtue,Patience is a Virtue,id
+Placebo,Placebo,id
+Plot Armor,Plot Armor,id
+Portable Forge,Portable Forge,id
+Precision and Grace,Precision and Grace,id
+Preparation,Preparation,id
+Prismatic Destiny,Prismatic Destiny,id
+Prismatic Ticket,Prismatic Ticket,id
+Promised Protection,Promised Protection,id
+Pyromaniac,Pyromaniac,id
+Radiant Rascal,Radiant Rascal,id
+Radiant Relics,Radiant Relics,id
+Raining Gold,Raining Gold,id
+Recombobulator,Recombobulator,id
+ReinFOURcement,ReinFOURcement,id
+Replication,Replication,id
+Restart Mission,Restart Mission,id
+Retribution,Retribution,id
+Rolling For Days,Rolling For Days,id
+Savings Account,Savings Account,id
+Second Wind,Second Wind,id
+Seraphim's Staff,Seraphim's Staff,id
+Shimmerscale Essence,Shimmerscale Essence,id
+Shopping Spree,Shopping Spree,id
+Silco's Revenge,Silco's Revenge,id
+Silver Destiny,Silver Destiny,id
+Silver Spoon,Silver Spoon,id
+Slightly Magic Roll,Slightly Magic Roll,id
+Small Grab Bag,Small Grab Bag,id
+Solo Plate,Solo Plate,id
+Soul Awakening,Soul Awakening,id
+Spear's Will,Spear's Will,id
+Spirit of Redemption,Spirit of Redemption,id
+Spreading Roots,Spreading Roots,id
+Staffsmith,Staffsmith,id
+Stand United,Stand United,id
+Stars Are Born,Stars Are Born,id
+Starter Kit,Starter Kit,id
+Sweet Treats,Sweet Treats,id
+Sword Overflow,Sword Overflow,id
+Swordsmith,Swordsmith,id
+Teaming Up,Teaming Up,id
+The Axiomata,The Axiomata,id
+The Golden Dragon,The Golden Dragon,id
+The Ruined King,The Ruined King,id
+The Trait Tree,The Trait Tree,id
+The World Runes,World Rune,id
+Thorn-Plated Armor,Thorn-Plated Armor,id
+"Tiny, but Deadly","Tiny, but Deadly",id
+Tons of Stats!,Tons of Stats!,id
+Trade Sector,Trade Sector,id
+Trials of Twilight,Trials of Twilight,id
+Trifecta,Trifecta,id
+Twin Guardians,Twin Guardian,id
+Two Much Value,Two Much Value,id
+Two Trick,Two Trick,id
+U.R.F,U.R.F,id
+Unsealed From Steel,Unsealed From Steel,id
+Upward Mobility,Upward Mobility,id
+Wand Overflow,Wand Overflow,id
+Warlord's Honor,Warlord's Honor,id
+Water Axiom,Water Axiom,id
+We Stick Together,We Stick Together,id
+Wild Growth,Wild Growth,id
+Win Out,Win Out,id
+Wood Axiom,Wood Axiom,id
+Woven Magic,Woven Magic,id
+90 Caliber Nets,90 Caliber Nets,id
+Acceleration Gate,Acceleration Gate,id
+Adaptive Helm,Adaptive Helm,id
+Aegis of Dawn,Aegis of Dawn,id
+Aegis of Dusk,Aegis of Dusk,id
+Arcanist Emblem,Emblem Arcanist,id
+Archangel's Staff,Archangel's Staff,id
+Armor Nullifier,Armor Nullifier,id
+B.F. Sword,B.F. Sword,id
+Barknuckles,Barknuckles,id
+Bilgewater Emblem,Emblem Bilgewater,id
+Bilgewater Lesser Champion Duplicator,Bilgewater Lesser Champion Duplicator,id
+Black Market Restock,Black Market Restock,id
+Blackmarket Explosives,Blackmarket Explosives,id
+Blast Shield,Blast Shield,id
+Blighting Jewel,Blighting Jewel,id
+Bloodthirster,Bloodthirster,id
+Blue Buff,Blue Buff,id
+Bramble Vest,Bramble Vest,id
+Brigand's Dice,Brigand's Dice,id
+Bruiser Emblem,Emblem Bruiser,id
+Cappa Juice,Cappa Juice,id
+Captain's Brew,Captain's Brew,id
+Captain's Hat,Captain's Hat,id
+Chain Vest,Chain Vest,id
+Chalice of Power,Chalice of Power,id
+Continuum Cogs,Continuum Cogs,id
+Corrupt Vampiric Scepter,Corrupt Vampiric Scepter,id
+Crownguard,Crownguard,id
+Cursed Blade,Cursed Blade,id
+Cutthroat's Cutlass,Cutthroat's Cutlass,id
+Dawncore,Dawncore,id
+Dead Man's Dagger,Dead Man's Dagger,id
+Deathblade,Deathblade,id
+Defender Emblem,Emblem Defender,id
+Demacia Emblem,Emblem Demacia,id
+Disruptor Emblem,Emblem Disruptor,id
+Dragon's Claw,Dragon's Claw,id
+Dreadway Cannon,Dreadway Cannon,id
+E.M.P.,E.M.P.,id
+Echo Engine,Echo Engine,id
+Edge of Night,Edge of Night,id
+Electrical Overload,Electrical Overload,id
+Eternal Pact,Eternal Pact,id
+Evenshroud,Evenshroud,id
+First Mate's Flintlock,First Mate's Flintlock,id
+First One's Free!,First One's Free!,id
+Fishbones,Fishbones,id
+Flickerblades,Flickerblade,id
+Forbidden Idol,Forbidden Idol,id
+Freljord Emblem,Emblem Freljord,id
+Frying Pan,Frying Pan,id
+Gargoyle Stoneplate,Gargoyle Stoneplate,id
+Giant Slayer,Giant Slayer,id
+Giant's Belt,Giant's Belt,id
+Gigantification Ray,Gigantification Ray,id
+Guinsoo's Rageblade,Guinsoo's Rageblade,id
+Gunslinger Emblem,Emblem Gunslinger,id
+Hand Of Justice,Hand Of Justice,id
+Haunted Spyglass,Haunted Spyglass,id
+Hellfire Hatchet,Hellfire Hatchet,id
+Hextech Gunblade,Hextech Gunblade,id
+Horizon Focus,Horizon Focus,id
+Infinity Edge,Infinity Edge,id
+Innervating Locket,Innervating Locket,id
+Invoker Emblem,Emblem Invoker,id
+Ionia Emblem,Emblem Ionia,id
+Ionic Spark,Ionic Spark,id
+Ixtal Emblem,Emblem Ixtal,id
+Jeweled Gauntlet,Jeweled Gauntlet,id
+Juggernaut Emblem,Emblem Juggernaut,id
+Kinetic Barrier,Kinetic Barrier,id
+Knight's Vow,Knight's Vow,id
+Kraken's Fury,Kraken's Fury,id
+Last Whisper,Last Whisper,id
+Lesser Mirrored Persona,Lesser Mirrored Persona,id
+Lich Bane,Lich Bane,id
+Lightshield Crest,Lightshield Crest,id
+Locket of the Iron Solari,Locket of the Iron Solari,id
+Longshot Emblem,Emblem Longshot,id
+Lucky Doubloon,Lucky Doubloon,id
+Luden's Tempest,Luden's Tempest,id
+Magnetron Coil,Magnetron Coil,id
+Mending Echoes,Mending Echoes,id
+Micro-Rockets,Micro-Rockets,id
+Mining Drill,Mining Drill,id
+Mirrored Persona,Mirrored Persona,id
+Mittens,Mittens,id
+Momentum Drive,Momentum Drive,id
+Morellonomicon,Morellonomicon,id
+Nashor's Tooth,Nashor's Tooth,id
+Needlessly Large Rod,Needlessly Large Rod,id
+Negatron Cloak,Negatron Cloak,id
+Noxus Emblem,Emblem Noxus,id
+Overclocked Capacitors,Overclocked Capacitors,id
+Pile O' Citrus,Pile O' Citrus,id
+Piltover Emblem,Emblem Piltover,id
+Protector's Vow,Protector's Vow,id
+Prowler's Claw,Prowler's Claw,id
+Quicksilver,Quicksilver,id
+Quickstriker Emblem,Emblem Quickstriker,id
+Rabadon's Deathcap,Rabadon's Deathcap,id
+Rapid Firecannon,Rapid Firecannon,id
+Realm Warp,Realm Warp,id
+Recurve Bow,Recurve Bow,id
+Red Buff,Red Buff,id
+Seeker's Armguard,Seeker's Armguard,id
+Shadow Puppet,Shadow Puppet,id
+Shroud of Stillness,Shroud of Stillness,id
+Silvermere Dawn,Silvermere Dawn,id
+Slayer Emblem,Emblem Slayer,id
+Sparring Gloves,Sparring Gloves,id
+Spatula,Spatula,id
+Spear of Shojin,Spear of Shojin,id
+Spectral Cutlass,Spectral Cutlass,id
+Spirit Visage,Spirit Visage,id
+Statikk Shiv,Statikk Shiv,id
+Steadfast Heart,Steadfast Heart,id
+Sterak's Gage,Sterak's Gage,id
+Striker's Flail,Striker's Flail,id
+Sunfire Cape,Sunfire Cape,id
+Superior Lifeform,Superior Lifeform,id
+Suspicious Trench Coat,Suspicious Trench Coat,id
+Syren's Broadside,Syren's Broadside,id
+Tactician's Cape,Tactician's Cape,id
+Tactician's Crown,Tactician's Crown,id
+Tactician's Shield,Tactician's Shield,id
+Talisman Of Ascension,Talisman Of Ascension,id
+Tear of the Goddess,Tear of the Goddess,id
+The Indomitable,The Indomitable,id
+Thief's Gloves,Thief's Gloves,id
+Titan's Resolve,Titan's Resolve,id
+Titanic Hydra,Titanic Hydra,id
+Tome of Traits,Tome of Trait,id
+Treasure Typhoon,Treasure Typhoon,id
+Tuned Oscillator,Tuned Oscillator,id
+Unending Despair,Unending Despair,id
+Unstable Core,Unstable Core,id
+Upgrade!,Upgrade!,id
+Vanquisher Emblem,Emblem Vanquisher,id
+Virtue of the Martyr,Virtue of the Martyr,id
+Void Emblem,Emblem Void,id
+Void Gauntlet,Void Gauntlet,id
+Void Staff,Void Staff,id
+Voltage Conduit,Voltage Conduit,id
+Warden Emblem,Emblem Warden,id
+Warmog's Armor,Warmog's Armor,id
+Wit's End,Wit's End,id
+Withered Relic,Withered Relic,id
+Yordle Emblem,Emblem Yordle,id
+Zaun Emblem,Emblem Zaun,id
+Zeke's Herald,Zeke's Herald,id
+Zephyr,Zephyr,id
+Zz'Rot Portal,Zz'Rot Portal,id

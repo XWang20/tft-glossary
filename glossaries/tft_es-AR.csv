@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,Aatrox,es-AR
+Ahri,Ahri,es-AR
+Ambessa,Ambessa,es-AR
+Anivia,Anivia,es-AR
+Annie,Annie,es-AR
+Aphelios,Aphelios,es-AR
+Ashe,Ashe,es-AR
+Aurelion Sol,Aurelion Sol,es-AR
+Azir,Azir,es-AR
+Bard,Bardo,es-AR
+Baron Nashor,Barón Nashor,es-AR
+Bel'Veth,Bel'Veth,es-AR
+Blitzcrank,Blitzcrank,es-AR
+Braum,Braum,es-AR
+Briar,Briar,es-AR
+Brock,Brock,es-AR
+Caitlyn,Caitlyn,es-AR
+Cho'Gath,Cho'Gath,es-AR
+Darius,Darius,es-AR
+Diana,Diana,es-AR
+Dr. Mundo,Dr. Mundo,es-AR
+Draven,Draven,es-AR
+Ekko,Ekko,es-AR
+Elder Dragon,Dragón Ancestral,es-AR
+Fiddlesticks,Fiddlesticks,es-AR
+Fizz,Fizz,es-AR
+Galio,Galio,es-AR
+Gangplank,Gangplank,es-AR
+Garen,Garen,es-AR
+Golem,Gólem,es-AR
+Graves,Graves,es-AR
+Gwen,Gwen,es-AR
+Illaoi,Illaoi,es-AR
+Jarvan IV,Jarvan IV,es-AR
+Jhin,Jhin,es-AR
+Jinx,Jinx,es-AR
+Kai'Sa,Kai'Sa,es-AR
+Kalista,Kalista,es-AR
+Kennen,Kennen,es-AR
+Kindred,Kindred,es-AR
+Kobuko & Yuumi,Kobuko y Yuumi,es-AR
+Kog'Maw,Kog'Maw,es-AR
+LeBlanc,LeBlanc,es-AR
+Leona,Leona,es-AR
+Lissandra,Lissandra,es-AR
+Loris,Loris,es-AR
+Lucian & Senna,Lucian y Senna,es-AR
+Lulu,Lulu,es-AR
+Lux,Lux,es-AR
+Malzahar,Malzahar,es-AR
+Mel,Mel,es-AR
+Milio,Milio,es-AR
+Miss Fortune,Miss Fortune,es-AR
+Nasus,Nasus,es-AR
+Nautilus,Nautilus,es-AR
+Neeko,Neeko,es-AR
+Nidalee,Nidalee,es-AR
+Orianna,Orianna,es-AR
+Ornn,Ornn,es-AR
+Piltover Invention,Invento de Piltóver,es-AR
+Poppy,Poppy,es-AR
+Qiyana,Qiyana,es-AR
+Rek'Sai,Rek'Sai,es-AR
+Renekton,Renekton,es-AR
+Rift Herald,Her. de la Grieta,es-AR
+Rift Scuttler,Cangrejo Escurridizo,es-AR
+Rumble,Rumble,es-AR
+Ryze,Ryze,es-AR
+Sejuani,Sejuani,es-AR
+Seraphine,Seraphine,es-AR
+Sett,Sett,es-AR
+Shen,Shen,es-AR
+Shyvana,Shyvana,es-AR
+Singed,Singed,es-AR
+Sion,Sion,es-AR
+Skarner,Skarner,es-AR
+Sona,Sona,es-AR
+Swain,Swain,es-AR
+Sylas,Sylas,es-AR
+T-Hex,T-Hex,es-AR
+Tahm Kench,Tahm Kench,es-AR
+Taric,Taric,es-AR
+Teemo,Teemo,es-AR
+Thresh,Thresh,es-AR
+Training Dummy,Muñeco de Entrenamiento,es-AR
+Tristana,Tristana,es-AR
+Tryndamere,Tryndamere,es-AR
+Twisted Fate,Twisted Fate,es-AR
+Vayne,Vayne,es-AR
+Veigar,Veigar,es-AR
+Vi,Vi,es-AR
+Viego,Viego,es-AR
+Volibear,Volibear,es-AR
+Warwick,Warwick,es-AR
+Wukong,Wukong,es-AR
+Xerath,Xerath,es-AR
+Xin Zhao,Xin Zhao,es-AR
+Yasuo,Yasuo,es-AR
+Yone,Yone,es-AR
+Yorick,Yorick,es-AR
+Yunara,Yunara,es-AR
+Zaahen,Zaahen,es-AR
+Ziggs,Ziggs,es-AR
+Zilean,Zilean,es-AR
+Zoe,Zoe,es-AR
+Arcanist,Arcanista,es-AR
+Ascendant,Ascendente,es-AR
+Assimilator,Asimilador,es-AR
+Bilgewater,Aguasturbias,es-AR
+Blacksmith,Herrero,es-AR
+Bruiser,Matón,es-AR
+Caretaker,Cuidador,es-AR
+Chainbreaker,Rompecadenas,es-AR
+Chosen Wolves,Lobos Elegidos,es-AR
+Chronokeeper,Guard. del Tiempo,es-AR
+Dark Child,H. de la Oscuridad,es-AR
+Darkin,Darkin,es-AR
+Defender,Defensor,es-AR
+Demacia,Demacia,es-AR
+Disruptor,Disruptor,es-AR
+Dragonborn,La Hija del Dragón,es-AR
+Dragonguards,Guardia Dracónica,es-AR
+Emperor,Imperial,es-AR
+Eternal,Eterno,es-AR
+Freljord,El Fréljord,es-AR
+Glutton,Glotón,es-AR
+Gunslinger,Pistolero,es-AR
+Harvester,Cosechador,es-AR
+Heroic,Heroico,es-AR
+HexMech,Mecha Hex,es-AR
+Huntress,Cazadora,es-AR
+Immortal,Inmortal,es-AR
+Invoker,Conjurador,es-AR
+Ionia,Jonia,es-AR
+Ixtal,Ixtal,es-AR
+Juggernaut,Coloso,es-AR
+Longshot,Tirolargo,es-AR
+Noxus,Noxus,es-AR
+Piltover,Piltóver,es-AR
+Poison Pals,Los Tóxicos,es-AR
+Quickstriker,Ataque Relámpago,es-AR
+Riftscourge,Plaga de la Grieta,es-AR
+Rune Mage,Mago Rúnico,es-AR
+Sentinels of Light,Centinelas de la Luz,es-AR
+Shadow Isles,Islas de la Sombra,es-AR
+Shurima,Shurima,es-AR
+Slayer,Fulminador,es-AR
+Soulbound,Vínculo,es-AR
+Star Forger,Forjador de Estrellas,es-AR
+Targon,Targón,es-AR
+The Boss,El Jefe,es-AR
+Timewinders,Rebobinadores del Tiempo,es-AR
+Vanquisher,Vencedor,es-AR
+Void,Vacío,es-AR
+Warden,Protector,es-AR
+World Ender,Dest. de Mundos,es-AR
+Yordle,Yordle,es-AR
+Zaun,Zaun,es-AR
+3 Threes,3 Tres,es-AR
+A Magic Roll,Tirada Mágica,es-AR
+Advanced Loan,Préstamo Anticipado,es-AR
+Air Axiom,Axioma del Aire,es-AR
+Arcane Viktor-y,Viktoria Arcana,es-AR
+Artillery Barrage,Torrente de Artillería,es-AR
+Ascension,Ascenso,es-AR
+Band of Thieves,Banda de Ladrones,es-AR
+Belt Overflow,Cinturón XL,es-AR
+Best Friends,Mejores Amigos,es-AR
+Big Friend,Gran Amigo,es-AR
+Big Grab Bag,Bolsa de Sorpresas grande,es-AR
+Binary Airdrop,Lanzamiento Aéreo Binario,es-AR
+Birthday Present,Regalo de cumpleaños,es-AR
+Birthday Reunion,Reunión de Cumpleaños,es-AR
+Blood Offering,Ofrenda de Sangre,es-AR
+Bodyguard Training,Entrenamiento de Guardaespaldas,es-AR
+Boxing Lessons,Lecciones de Boxeo,es-AR
+Branching Out,Ramificación,es-AR
+Bringer of Ruin,Heraldo de la Ruina,es-AR
+Bronze For Life,Bronce de por Vida,es-AR
+Buried Treasures,Tesoros Enterrados,es-AR
+Care Package,Paquete de Cuidados,es-AR
+Caretaker's Ally,Alianza del Guardián,es-AR
+Celestial Blessing,Bendición Celestial,es-AR
+Chaotic Evolution,Evolución Caótica,es-AR
+Commerce Core,Núcleo Comercial,es-AR
+Component Buffet,Buffet de componentes,es-AR
+Construct a Companion,Construye tu Compi,es-AR
+Cooking Pot,Cacerola,es-AR
+Coronation,Coronación,es-AR
+Corrosion,Corrosión,es-AR
+Cosmic Calling,Llamado Cósmico,es-AR
+Crafted Crafting,Artesanía Creativa,es-AR
+Crash Test Dummies,Muñecos de Prueba para Choques,es-AR
+Crown's Will,Voluntad de la Corona,es-AR
+Cry Me A River,Llora Todo lo que Quieras,es-AR
+Darkwill's Invasion,Invasión de Darkwill,es-AR
+Deadlier Blades,Espadas Más Letales,es-AR
+Deadlier Caps,Sombreros Más Letales,es-AR
+Defense of the Placidium,Defensa del Placidium,es-AR
+Demacia Forever,Demacia por Siempre,es-AR
+Double Trouble,Problema Doble,es-AR
+Dummify,¿Hacemos un Muñeco?,es-AR
+Duo Queue,Cola Dúo,es-AR
+Earth Axiom,Axioma de Tierra,es-AR
+Epic Rolldown,Rerroleo Épico,es-AR
+Exclusive Customization,Personalización exclusiva,es-AR
+Exiles,Exiliados,es-AR
+Expected Unexpectedness,Espera lo Inesperado,es-AR
+Explosive Growth,Crecimiento Explosivo,es-AR
+Eye For An Eye,Ojo por Ojo,es-AR
+Feed the Flames,Alimenta las Llamas,es-AR
+Find Your Center,Halla tu Centro,es-AR
+Fire Axiom,Axioma del Fuego,es-AR
+Focused Fire,Fuego Concentrado,es-AR
+Giant and Mighty,Fuerte y Enorme,es-AR
+Gilded Steel,Acero Dorado,es-AR
+Glass Cannon,Cañón de Cristal,es-AR
+Going Long,Acumular,es-AR
+Gold Destiny,Destino de Oro,es-AR
+Golemify,Golemificación,es-AR
+Good For Something,Bueno para Algo,es-AR
+Growth Mindset,Plan de Crecimiento,es-AR
+Hard Commit,Gran Compromiso,es-AR
+Healing Orbs,Orbes de curación,es-AR
+Heart of Steel,Corazón de Acero,es-AR
+Heavy Is the Crown,Pesada es la Corona,es-AR
+Hedge Fund,Fondo de inversión,es-AR
+Hefty Rolls,Grandes Intentos,es-AR
+Heroic Grab Bag,Bolsa de Sorpresas Heroica,es-AR
+Hexgate Travel,Viaje por el Portal Hex,es-AR
+High Voltage,Alto Voltaje,es-AR
+Hold the Line,Mantén la Posición,es-AR
+Indecision,Indecisión,es-AR
+Indiscriminate Killer,Verdugo Indiscriminado,es-AR
+Invested,Inversión,es-AR
+Iron Assets,Recursos de Hierro,es-AR
+Item Grab Bag,Bolsa de Objetos,es-AR
+Jeweled Lotus,Loto Adornado,es-AR
+Just Hit,Tú Pégales,es-AR
+Kahunahuna,Kahunahuna,es-AR
+Last Second Save,Salvada de último momento,es-AR
+Late Game Scaling,Progresión en el juego tardío,es-AR
+Late Game Specialist,Especialista en el juego tardío,es-AR
+Leap of Faith,Salto de Fe,es-AR
+Legion of Threes,Legión de Tres,es-AR
+Level Up!,¡Sube de nivel!,es-AR
+Lifting Competition,Competencia de Pesas,es-AR
+Lineup,Alineación,es-AR
+Little Buddies,Amiguitos,es-AR
+Lucky Gloves,Guantes de la Suerte,es-AR
+Mace's Will,Voluntad del Mazo,es-AR
+Makeshift Armor,Armadura Improvisada,es-AR
+Mess Hall,Comedor,es-AR
+Min-Max,Mínimo/Máximo,es-AR
+Missed Connections,Conexiones fallidas,es-AR
+Money Monsoon,Monzón Millonario,es-AR
+On a Roll,En racha,es-AR
+"One Buff, Two Buff","Una Mejora, Dos Mejoras",es-AR
+One Twos Three,Uno Doooos Tres,es-AR
+"One, Two, Five!","Uno, dos, ¡cinco!",es-AR
+Pandora's Bench,Banca de Pandora,es-AR
+Pandora's Items,Objetos de Pandora,es-AR
+Patience is a Virtue,La Paciencia es una Virtud,es-AR
+Placebo,Placebo,es-AR
+Plot Armor,La trama lo protege,es-AR
+Portable Forge,Forja Portátil,es-AR
+Precision and Grace,Precisión y Elegancia,es-AR
+Preparation,Preparación,es-AR
+Prismatic Destiny,Destino Prismático,es-AR
+Prismatic Ticket,Boleto Prismático,es-AR
+Promised Protection,Protección Prometida,es-AR
+Pyromaniac,Piromanía,es-AR
+Radiant Rascal,Rufián Radiante,es-AR
+Radiant Relics,Reliquias Radiantes,es-AR
+Raining Gold,Lluvia de oro,es-AR
+Recombobulator,Megamorfosis,es-AR
+ReinFOURcement,Cuatro Refuerzos,es-AR
+Replication,Réplica,es-AR
+Restart Mission,Reiniciar Misión,es-AR
+Retribution,Retribución,es-AR
+Rolling For Days,Actualiza sin parar,es-AR
+Savings Account,Cuenta de Ahorros,es-AR
+Second Wind,Segundo Aire,es-AR
+Seraphim's Staff,Báculo del Serafín,es-AR
+Shimmerscale Essence,Esencia de Brilloescama,es-AR
+Shopping Spree,Compras compulsivas,es-AR
+Silco's Revenge,Venganza de Silco,es-AR
+Silver Destiny,Destino de Plata,es-AR
+Silver Spoon,Cuchara de plata,es-AR
+Slightly Magic Roll,Tirada Ligeramente Mágica,es-AR
+Small Grab Bag,Bolsa de Sorpresas Pequeña,es-AR
+Solo Plate,Solo Pétreo,es-AR
+Soul Awakening,Despertar del Alma,es-AR
+Spear's Will,Voluntad de la Lanza,es-AR
+Spirit of Redemption,Espíritu de Redención,es-AR
+Spreading Roots,Raíces Propagadoras,es-AR
+Staffsmith,Fabricante de Varas,es-AR
+Stand United,Unidos,es-AR
+Stars Are Born,Estrellas Nacientes,es-AR
+Starter Kit,Paquete de iniciación,es-AR
+Sweet Treats,Dulces Golosinas,es-AR
+Sword Overflow,Espada Desmedida,es-AR
+Swordsmith,Fabricante de Espadas,es-AR
+Teaming Up,Forma equipo,es-AR
+The Axiomata,Los Axiomata,es-AR
+The Golden Dragon,El Dragón Dorado,es-AR
+The Ruined King,El Rey Arruinado,es-AR
+The Trait Tree,El Árbol de Rasgos,es-AR
+The World Runes,Las Runas Geogénicas,es-AR
+Thorn-Plated Armor,Armadura Espinosa,es-AR
+"Tiny, but Deadly",Pequeño pero mortífero,es-AR
+Tons of Stats!,¡Milestadísticas!,es-AR
+Trade Sector,Sector de Intercambio,es-AR
+Trials of Twilight,Desafíos del Crepúsculo,es-AR
+Trifecta,Trifecta,es-AR
+Twin Guardians,Guardianes Gemelos,es-AR
+Two Much Value,Demasiado Valor,es-AR
+Two Trick,Doblete,es-AR
+U.R.F,U.R.F.,es-AR
+Unsealed From Steel,Libre del Acero,es-AR
+Upward Mobility,Trepador Social,es-AR
+Wand Overflow,Sobrecarga de Varas,es-AR
+Warlord's Honor,Honor del Caudillo,es-AR
+Water Axiom,Axioma del Agua,es-AR
+We Stick Together,No nos Separamos,es-AR
+Wild Growth,Enormamiento,es-AR
+Win Out,A Remontar,es-AR
+Wood Axiom,Axioma de Madera,es-AR
+Woven Magic,Magia Tejida,es-AR
+90 Caliber Nets,Redes Calibre 90,es-AR
+Acceleration Gate,Portal de Aceleración,es-AR
+Adaptive Helm,Yelmo Adaptable,es-AR
+Aegis of Dawn,Égida del Amanecer,es-AR
+Aegis of Dusk,Égida del Ocaso,es-AR
+Arcanist Emblem,Emblema de Arcanista,es-AR
+Archangel's Staff,Báculo del Arcángel,es-AR
+Armor Nullifier,Aniquilador de Armadura,es-AR
+B.F. Sword,Espadón,es-AR
+Barknuckles,Nudillos de Percebe,es-AR
+Bilgewater Emblem,Emblema de Aguasturbias,es-AR
+Bilgewater Lesser Champion Duplicator,Duplicador de Campeón menor de Aguasturbias,es-AR
+Black Market Restock,Reabastecimiento del Mercado Negro,es-AR
+Blackmarket Explosives,Explosivos del Mercado Negro,es-AR
+Blast Shield,Escudo Explosivo,es-AR
+Blighting Jewel,Joya Maldita,es-AR
+Bloodthirster,La Sanguinaria,es-AR
+Blue Buff,Mejora azul,es-AR
+Bramble Vest,Vesta Espinosa,es-AR
+Brigand's Dice,Dado del Forajido,es-AR
+Bruiser Emblem,Emblema de Matones,es-AR
+Cappa Juice,Juguito de Gorrito,es-AR
+Captain's Brew,Brebaje del Capitán,es-AR
+Captain's Hat,Sombrero del Capitán,es-AR
+Chain Vest,Cota de Malla,es-AR
+Chalice of Power,Cáliz de Poder,es-AR
+Continuum Cogs,Engranaje Continuo,es-AR
+Corrupt Vampiric Scepter,Cetro Vampírico Corrupto,es-AR
+Crownguard,Guardia de la Corona,es-AR
+Cursed Blade,Cuchilla Maldita,es-AR
+Cutthroat's Cutlass,Sable Despiadado,es-AR
+Dawncore,Esfera del Amanecer,es-AR
+Dead Man's Dagger,Daga del Hombre Muerto,es-AR
+Deathblade,Filo de la Muerte,es-AR
+Defender Emblem,Emblema de Defensor,es-AR
+Demacia Emblem,Emblema de Demacia,es-AR
+Disruptor Emblem,Emblema de Disruptor,es-AR
+Dragon's Claw,Garra de Dragón,es-AR
+Dreadway Cannon,Cañón del Heraldo de la Muerte,es-AR
+E.M.P.,P.E.M.,es-AR
+Echo Engine,Ecomotor,es-AR
+Edge of Night,Filo de la Noche,es-AR
+Electrical Overload,Descarga Eléctrica,es-AR
+Eternal Pact,Pacto Eterno,es-AR
+Evenshroud,Manto del Ocaso,es-AR
+First Mate's Flintlock,Fusil de Chispa del Primer Oficial,es-AR
+First One's Free!,¡La primera es gratis!,es-AR
+Fishbones,Carapescado,es-AR
+Flickerblades,Cuchillas Raudas,es-AR
+Forbidden Idol,Ídolo Prohibido,es-AR
+Freljord Emblem,Emblema del Fréljord,es-AR
+Frying Pan,Sartén,es-AR
+Gargoyle Stoneplate,Armadura Pétrea,es-AR
+Giant Slayer,Verdugo de Gigantes,es-AR
+Giant's Belt,Cinturón de Gigante,es-AR
+Gigantification Ray,Rayo de Gigantificación,es-AR
+Guinsoo's Rageblade,Espadafuria de Guinsoo,es-AR
+Gunslinger Emblem,Emblema de Pistolero,es-AR
+Hand Of Justice,Mano de la Justicia,es-AR
+Haunted Spyglass,Catalejo Embrujado,es-AR
+Hellfire Hatchet,Hacha de Fuego Infernal,es-AR
+Hextech Gunblade,Sablepistola Hextech,es-AR
+Horizon Focus,Enfoque al Horizonte,es-AR
+Infinity Edge,Filo del Infinito,es-AR
+Innervating Locket,Relicario Enervante,es-AR
+Invoker Emblem,Emblema de Conjurador,es-AR
+Ionia Emblem,Emblema de Jonia,es-AR
+Ionic Spark,Chispa Iónica,es-AR
+Ixtal Emblem,Emblema de Ixtal,es-AR
+Jeweled Gauntlet,Guantelete Deslumbrante,es-AR
+Juggernaut Emblem,Emblema de Coloso,es-AR
+Kinetic Barrier,Barrera Cinética,es-AR
+Knight's Vow,Promesa del Caballero,es-AR
+Kraken's Fury,Furia del Kraken,es-AR
+Last Whisper,Último Suspiro,es-AR
+Lesser Mirrored Persona,Persona en Espejo menor,es-AR
+Lich Bane,Maldición del Liche,es-AR
+Lightshield Crest,Cresta de Escudo de Luz,es-AR
+Locket of the Iron Solari,Relicario de los Solari de Hierro,es-AR
+Longshot Emblem,Emblema de Tirolargo,es-AR
+Lucky Doubloon,Doblón de la Suerte,es-AR
+Luden's Tempest,Tempestad de Luden,es-AR
+Magnetron Coil,Bobina de Magnetrón,es-AR
+Mending Echoes,Ecos Reparadores,es-AR
+Micro-Rockets,Microcohetes,es-AR
+Mining Drill,Taladro de Excavación,es-AR
+Mirrored Persona,Persona en Espejo,es-AR
+Mittens,Mitones,es-AR
+Momentum Drive,Motor de Impulso,es-AR
+Morellonomicon,Morellonomicón,es-AR
+Nashor's Tooth,Diente de Nashor,es-AR
+Needlessly Large Rod,Vara Innecesariamente Grande,es-AR
+Negatron Cloak,Capa de Negatrones,es-AR
+Noxus Emblem,Emblema de Noxus,es-AR
+Overclocked Capacitors,Condensadores Sobrecargados,es-AR
+Pile O' Citrus,Pila de Cítricos,es-AR
+Piltover Emblem,Emblema de Piltóver,es-AR
+Protector's Vow,Juramento del Protector,es-AR
+Prowler's Claw,Garra del Merodeador,es-AR
+Quicksilver,Capa Mercurial,es-AR
+Quickstriker Emblem,Emblema de Ataque Relámpago,es-AR
+Rabadon's Deathcap,Sombrero Mortífero de Rabadon,es-AR
+Rapid Firecannon,Cañón de Fuego Rápido,es-AR
+Realm Warp,Distorsión del Entorno,es-AR
+Recurve Bow,Arco Recurvado,es-AR
+Red Buff,Mejora Roja,es-AR
+Seeker's Armguard,Guardabrazo del Buscador,es-AR
+Shadow Puppet,Marioneta Sombría,es-AR
+Shroud of Stillness,Manto de Quietud,es-AR
+Silvermere Dawn,Amanecer Plateado,es-AR
+Slayer Emblem,Emblema de Fulminador,es-AR
+Sparring Gloves,Guantes de Combate,es-AR
+Spatula,Espátula,es-AR
+Spear of Shojin,Lanza de Shojin,es-AR
+Spectral Cutlass,Sable Espectral,es-AR
+Spirit Visage,Apariencia Espiritual,es-AR
+Statikk Shiv,Daga de Statikk,es-AR
+Steadfast Heart,Espíritu Firme,es-AR
+Sterak's Gage,Guantelete de Sterak,es-AR
+Striker's Flail,Mangual del Guerrero,es-AR
+Sunfire Cape,Capa de Fuego Solar,es-AR
+Superior Lifeform,Forma de Vida Superior,es-AR
+Suspicious Trench Coat,Gabardina Sospechosa,es-AR
+Syren's Broadside,Andanada de La Sirena,es-AR
+Tactician's Cape,Capa de Estratega,es-AR
+Tactician's Crown,Corona de Estratega,es-AR
+Tactician's Shield,Escudo del Estratega,es-AR
+Talisman Of Ascension,Talismán de Ascensión,es-AR
+Tear of the Goddess,Lágrima de la Diosa,es-AR
+The Indomitable,El Indomable,es-AR
+Thief's Gloves,Guantes de Ladrón,es-AR
+Titan's Resolve,Valor del Titán,es-AR
+Titanic Hydra,Hidra Titánica,es-AR
+Tome of Traits,Tomo de Rasgos,es-AR
+Treasure Typhoon,Tifón del Tesoro,es-AR
+Tuned Oscillator,Resonador Afinado,es-AR
+Unending Despair,Desesperación Eterna,es-AR
+Unstable Core,Núcleo Inestable,es-AR
+Upgrade!,¡Mejora!,es-AR
+Vanquisher Emblem,Emblema de Vencedor,es-AR
+Virtue of the Martyr,Virtud del Mártir,es-AR
+Void Emblem,Emblema del Vacío,es-AR
+Void Gauntlet,Guantelete del Vacío,es-AR
+Void Staff,Báculo del Vacío,es-AR
+Voltage Conduit,Conducto Voltaico,es-AR
+Warden Emblem,Emblema de Protector,es-AR
+Warmog's Armor,Armadura de Warmog,es-AR
+Wit's End,Al Filo de la Cordura,es-AR
+Withered Relic,Reliquia Marchita,es-AR
+Yordle Emblem,Emblema de Yordle,es-AR
+Zaun Emblem,Emblema de Zaun,es-AR
+Zeke's Herald,Heraldo de Zeke,es-AR
+Zephyr,Céfiro,es-AR
+Zz'Rot Portal,Portal Zz'Rot,es-AR

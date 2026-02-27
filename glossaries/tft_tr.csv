@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,Aatrox,tr
+Ahri,Ahri,tr
+Ambessa,Ambessa,tr
+Anivia,Anivia,tr
+Annie,Annie,tr
+Aphelios,Aphelios,tr
+Ashe,Ashe,tr
+Aurelion Sol,Aurelion Sol,tr
+Azir,Azir,tr
+Bard,Bard,tr
+Baron Nashor,Baron Nashor,tr
+Bel'Veth,Bel'Veth,tr
+Blitzcrank,Blitzcrank,tr
+Braum,Braum,tr
+Briar,Briar,tr
+Brock,Brock,tr
+Caitlyn,Caitlyn,tr
+Cho'Gath,Cho'Gath,tr
+Darius,Darius,tr
+Diana,Diana,tr
+Dr. Mundo,Dr. Mundo,tr
+Draven,Draven,tr
+Ekko,Ekko,tr
+Elder Dragon,Kadim Ejderha,tr
+Fiddlesticks,Fiddlesticks,tr
+Fizz,Fizz,tr
+Galio,Galio,tr
+Gangplank,Gangplank,tr
+Garen,Garen,tr
+Golem,Golem,tr
+Graves,Graves,tr
+Gwen,Gwen,tr
+Illaoi,Illaoi,tr
+Jarvan IV,Jarvan IV,tr
+Jhin,Jhin,tr
+Jinx,Jinx,tr
+Kai'Sa,Kai'Sa,tr
+Kalista,Kalista,tr
+Kennen,Kennen,tr
+Kindred,Kindred,tr
+Kobuko & Yuumi,Kobuko ve Yuumi,tr
+Kog'Maw,Kog'Maw,tr
+LeBlanc,LeBlanc,tr
+Leona,Leona,tr
+Lissandra,Lissandra,tr
+Loris,Loris,tr
+Lucian & Senna,Lucian ve Senna,tr
+Lulu,Lulu,tr
+Lux,Lux,tr
+Malzahar,Malzahar,tr
+Mel,Mel,tr
+Milio,Milio,tr
+Miss Fortune,Miss Fortune,tr
+Nasus,Nasus,tr
+Nautilus,Nautilus,tr
+Neeko,Neeko,tr
+Nidalee,Nidalee,tr
+Orianna,Orianna,tr
+Ornn,Ornn,tr
+Piltover Invention,Piltover İcadı,tr
+Poppy,Poppy,tr
+Qiyana,Qiyana,tr
+Rek'Sai,Rek'Sai,tr
+Renekton,Renekton,tr
+Rift Herald,Vadi'nin Alameti,tr
+Rift Scuttler,Yampiri Yengeç,tr
+Rumble,Rumble,tr
+Ryze,Ryze,tr
+Sejuani,Sejuani,tr
+Seraphine,Seraphine,tr
+Sett,Sett,tr
+Shen,Shen,tr
+Shyvana,Shyvana,tr
+Singed,Singed,tr
+Sion,Sion,tr
+Skarner,Skarner,tr
+Sona,Sona,tr
+Swain,Swain,tr
+Sylas,Sylas,tr
+T-Hex,T-Hex,tr
+Tahm Kench,Tahm Kench,tr
+Taric,Taric,tr
+Teemo,Teemo,tr
+Thresh,Thresh,tr
+Training Dummy,Hedef Kuklası,tr
+Tristana,Tristana,tr
+Tryndamere,Tryndamere,tr
+Twisted Fate,Twisted Fate,tr
+Vayne,Vayne,tr
+Veigar,Veigar,tr
+Vi,Vi,tr
+Viego,Viego,tr
+Volibear,Volibear,tr
+Warwick,Warwick,tr
+Wukong,Wukong,tr
+Xerath,Xerath,tr
+Xin Zhao,Xin Zhao,tr
+Yasuo,Yasuo,tr
+Yone,Yone,tr
+Yorick,Yorick,tr
+Yunara,Yunara,tr
+Zaahen,Zaahen,tr
+Ziggs,Ziggs,tr
+Zilean,Zilean,tr
+Zoe,Zoe,tr
+Arcanist,Sihir Üstadı,tr
+Ascendant,Yükselmiş,tr
+Assimilator,Özümseyici,tr
+Bilgewater,Bilgewater,tr
+Blacksmith,Demirci,tr
+Bruiser,Kavgacı,tr
+Caretaker,Bakıcı,tr
+Chainbreaker,Zincirkıran,tr
+Chosen Wolves,Seçilmiş Kurtlar,tr
+Chronokeeper,Zaman Bekçisi,tr
+Dark Child,Şeytan Çekici,tr
+Darkin,Darkin,tr
+Defender,Savunucu,tr
+Demacia,Demacia,tr
+Disruptor,Bozguncu,tr
+Dragonborn,Ejderkanı,tr
+Dragonguards,Ejder Muhafızları,tr
+Emperor,İmparator,tr
+Eternal,Ebedi,tr
+Freljord,Freljord,tr
+Glutton,Obur,tr
+Gunslinger,Silahşor,tr
+Harvester,Hasatçı,tr
+Heroic,Kahraman,tr
+HexMech,Hex-Meka,tr
+Huntress,Avcı,tr
+Immortal,Ölümsüz,tr
+Invoker,Manabaz,tr
+Ionia,Ionia,tr
+Ixtal,Ixtal,tr
+Juggernaut,Ezergeçer,tr
+Longshot,Mesafeci,tr
+Noxus,Noxus,tr
+Piltover,Piltover,tr
+Poison Pals,Zehir Zemberekler,tr
+Quickstriker,Atik,tr
+Riftscourge,Vadi Belası,tr
+Rune Mage,Rün Büyücüsü,tr
+Sentinels of Light,Işık Muhafızları,tr
+Shadow Isles,Gölge Adalar,tr
+Shurima,Shurima,tr
+Slayer,Biçici,tr
+Soulbound,Ruhdaş,tr
+Star Forger,Yıldızların Hâkimi,tr
+Targon,Targon,tr
+The Boss,Patron,tr
+Timewinders,Zaman Bükenler,tr
+Vanquisher,Hışımlı,tr
+Void,Hiçlik,tr
+Warden,Gardiyan,tr
+World Ender,Dünyaların Sonu,tr
+Yordle,Yordle,tr
+Zaun,Zaun,tr
+3 Threes,3 Üç Altınlık,tr
+A Magic Roll,Büyülü Zarlar,tr
+Advanced Loan,Yüklü Borç,tr
+Air Axiom,Hava Aksiyomu,tr
+Arcane Viktor-y,Viktor'un Sihri,tr
+Artillery Barrage,Havan Bombardımanı,tr
+Ascension,Yükseliş,tr
+Band of Thieves,Hırsız Çetesi,tr
+Belt Overflow,Kemer Fazlalığı,tr
+Best Friends,Can Dostları,tr
+Big Friend,Büyük Dost,tr
+Big Grab Bag,Büyük Çekiliş,tr
+Binary Airdrop,Çifte Hava İkmali,tr
+Birthday Present,Doğum Günü Hediyesi,tr
+Birthday Reunion,Doğum Günü Buluşması,tr
+Blood Offering,Kan Adağı,tr
+Bodyguard Training,Koruma Eğitimi,tr
+Boxing Lessons,Boks Dersi,tr
+Branching Out,Dallan Budaklan,tr
+Bringer of Ruin,Yıkımın Alameti,tr
+Bronze For Life,Bronzdan Şaşma,tr
+Buried Treasures,Gömülü Hazineler,tr
+Care Package,İhtiyaç Paketi,tr
+Caretaker's Ally,Koruyucunun Müttefiki,tr
+Celestial Blessing,Semavi Lütuf,tr
+Chaotic Evolution,Kaotik Evrim,tr
+Commerce Core,Ticaretin Özü,tr
+Component Buffet,Açık Büfe,tr
+Construct a Companion,Tam Donanımlı,tr
+Cooking Pot,Sağlıklı Beslenme,tr
+Coronation,Taç Giyme Töreni,tr
+Corrosion,Korozyon,tr
+Cosmic Calling,Kozmik Çağrı,tr
+Crafted Crafting,El Emeği Göz Nuru,tr
+Crash Test Dummies,Kukla Yağmuru!,tr
+Crown's Will,Tacın Dileği,tr
+Cry Me A River,Gözyaşları Sel,tr
+Darkwill's Invasion,Darkwill'in İşgali,tr
+Deadlier Blades,Ölümcül Bıçaklar,tr
+Deadlier Caps,Güçlü Şapkalar,tr
+Defense of the Placidium,Placidium Savunması,tr
+Demacia Forever,Ebediyen Demacia,tr
+Double Trouble,Çifte Bela,tr
+Dummify,Kuklaya Dönüştür,tr
+Duo Queue,Çifte Ödül,tr
+Earth Axiom,Toprak Aksiyomu,tr
+Epic Rolldown,Destansı Yenileme,tr
+Exclusive Customization,Kişiselleştirme Fırsatı,tr
+Exiles,Sürgünler,tr
+Expected Unexpectedness,Beklenen Beklenmezlik,tr
+Explosive Growth,Ani Büyüme,tr
+Eye For An Eye,Göze Göz,tr
+Feed the Flames,Alevleri Körükle,tr
+Find Your Center,Merkezini Bul,tr
+Fire Axiom,Ateş Aksiyomu,tr
+Focused Fire,Odaklı Ateş,tr
+Giant and Mighty,Devasa ve Güçlü,tr
+Gilded Steel,Yaldızlı Çelik,tr
+Glass Cannon,Güçlü Ama Kırılgan,tr
+Going Long,Gözü Yükseklerde,tr
+Gold Destiny,Altın Kader,tr
+Golemify,Golem'e Dönüştür,tr
+Good For Something,Kedi Olalı Bir Fare,tr
+Growth Mindset,Gelişim Odaklı,tr
+Hard Commit,Sadakat,tr
+Healing Orbs,Şifalı Küreler,tr
+Heart of Steel,Çelikten Yürek,tr
+Heavy Is the Crown,Bu Taç Ağır,tr
+Hedge Fund,Serbest Yatırım Fonu,tr
+Hefty Rolls,Etkili Yenilemeler,tr
+Heroic Grab Bag,Kahraman Çekilişi,tr
+Hexgate Travel,Hexgeçit Seyahati,tr
+High Voltage,Yüksek Voltaj,tr
+Hold the Line,Safları Koru,tr
+Indecision,Kararsızlık,tr
+Indiscriminate Killer,Herkesin Katili,tr
+Invested,Yatırımın Getirisi,tr
+Iron Assets,Kıymetli Metaller,tr
+Item Grab Bag,Eşya Çekilişi,tr
+Jeweled Lotus,Mücevherli Nilüfer,tr
+Just Hit,Aradığını Bul,tr
+Kahunahuna,Saklı Gerçek,tr
+Last Second Save,Son Saniyede Kurtuluş,tr
+Late Game Scaling,İleri Safha Gücü,tr
+Late Game Specialist,İleri Safhalarda Görüşürüz,tr
+Leap of Faith,İlahi Ders,tr
+Legion of Threes,Üçler Ordusu,tr
+Level Up!,Seviye Atla!,tr
+Lifting Competition,Ağırlık Kaldırma Yarışması,tr
+Lineup,Dizilim,tr
+Little Buddies,Minik Dostlar,tr
+Lucky Gloves,Şanslı Eldiven,tr
+Mace's Will,Gürzün Dileği,tr
+Makeshift Armor,Eğreti Zırh,tr
+Mess Hall,Yemekhane,tr
+Min-Max,Kusursuzluk Arayışı,tr
+Missed Connections,Tanışma Toplantısı,tr
+Money Monsoon,Gökten Yağan Altın,tr
+On a Roll,Yenilemeye Devam,tr
+"One Buff, Two Buff",İki Kat Güçlendirme,tr
+One Twos Three,Bir İkiler Üç,tr
+"One, Two, Five!","Bir, İki, Beş!",tr
+Pandora's Bench,Pandora'nın Yedekleri,tr
+Pandora's Items,Pandora'nın Eşyaları,tr
+Patience is a Virtue,Sabır Erdemdir,tr
+Placebo,Plasebo Etkisi,tr
+Plot Armor,Ana Karaktere Bir Şey Olmaz,tr
+Portable Forge,Taşınabilir Ocak,tr
+Precision and Grace,İsabetli ve Zarif,tr
+Preparation,Hazırlık,tr
+Prismatic Destiny,Prizmatik Kader,tr
+Prismatic Ticket,Prizmatik Bilet,tr
+Promised Protection,Koruma Yemini,tr
+Pyromaniac,Kundakçı,tr
+Radiant Rascal,Işıltılı Serseri,tr
+Radiant Relics,Işıltılı Yadigârlar,tr
+Raining Gold,Altın Sağanağı,tr
+Recombobulator,Evriştirici,tr
+ReinFOURcement,Dört Dörtlük,tr
+Replication,Kopyalama Süreci,tr
+Restart Mission,Tekrar Dene,tr
+Retribution,Adaletin Yumruğu,tr
+Rolling For Days,Durmadan Yenile,tr
+Savings Account,Birikim Hesabı,tr
+Second Wind,İkinci Şans,tr
+Seraphim's Staff,Melek Asası,tr
+Shimmerscale Essence,Parlakpul Özü,tr
+Shopping Spree,Alışveriş Çılgınlığı,tr
+Silco's Revenge,Silco'nun İntikamı,tr
+Silver Destiny,Gümüş Kader,tr
+Silver Spoon,Eşsiz Deneyim,tr
+Slightly Magic Roll,Kısmen Büyülü Zar,tr
+Small Grab Bag,Ufak Çekiliş,tr
+Solo Plate,Yalnız Zırh,tr
+Soul Awakening,Ruh Uyanışı,tr
+Spear's Will,Mızrağın Dileği,tr
+Spirit of Redemption,Kefaret Ruhu,tr
+Spreading Roots,Yayılan Kökler,tr
+Staffsmith,Sopa İşçisi,tr
+Stand United,Birlikten Kuvvet Doğar,tr
+Stars Are Born,Doğuştan Yıldızlar,tr
+Starter Kit,Başlangıç Seti,tr
+Sweet Treats,Tatlı Atıştırmalıklar,tr
+Sword Overflow,Kılıç Fazlalığı,tr
+Swordsmith,Kılıç İşçisi,tr
+Teaming Up,Takım Çalışması,tr
+The Axiomata,Aksiyomlar,tr
+The Golden Dragon,Altın Ejder,tr
+The Ruined King,Mahvolmuş Kral,tr
+The Trait Tree,Özellik Ağacı,tr
+The World Runes,Dünya Rünleri,tr
+Thorn-Plated Armor,Çivi Kaplamalı Zırh,tr
+"Tiny, but Deadly",Minik Ama Ölümcül,tr
+Tons of Stats!,Tonlarca Nitelik!,tr
+Trade Sector,Ticaret Bölgesi,tr
+Trials of Twilight,Alacakaranlık İmtihanları,tr
+Trifecta,Üçlük,tr
+Twin Guardians,İkiz Muhafızlar,tr
+Two Much Value,İki Elin Sesi Var,tr
+Two Trick,İkinin Gücü,tr
+U.R.F,U.R.F.,tr
+Unsealed From Steel,Çelikten Dışarı,tr
+Upward Mobility,Daimi Yükseliş,tr
+Wand Overflow,Sopa Fazlalığı,tr
+Warlord's Honor,Cengâver Onuru,tr
+Water Axiom,Su Aksiyomu,tr
+We Stick Together,Birliğin Gücü,tr
+Wild Growth,Vahşi Büyüme,tr
+Win Out,Hızlı Yükseliş,tr
+Wood Axiom,Tahta Aksiyomu,tr
+Woven Magic,Dokuma Büyü,tr
+90 Caliber Nets,90 Kalibrelik Ağlar,tr
+Acceleration Gate,Hızlandırma Geçidi,tr
+Adaptive Helm,Değişken Miğfer,tr
+Aegis of Dawn,Şafak Kalkanı,tr
+Aegis of Dusk,Alacakaranlık Kalkanı,tr
+Arcanist Emblem,Sihir Üstadı Amblemi,tr
+Archangel's Staff,Başmelek Asası,tr
+Armor Nullifier,Zırhsavar,tr
+B.F. Sword,TEK Kılıcı,tr
+Barknuckles,Dayanıklı Muşta,tr
+Bilgewater Emblem,Bilgewater Amblemi,tr
+Bilgewater Lesser Champion Duplicator,Bilgewater Küçük Şampiyon Çoğaltıcı,tr
+Black Market Restock,Karaborsa Stoklarını Yenile,tr
+Blackmarket Explosives,Karaborsa Patlayıcıları,tr
+Blast Shield,Patlama Kalkanı,tr
+Blighting Jewel,Felaket Mücevheri,tr
+Bloodthirster,Kanasusamış,tr
+Blue Buff,Mavi Güçlendirme,tr
+Bramble Vest,Dikenli Yelek,tr
+Brigand's Dice,Haydut Zarı,tr
+Bruiser Emblem,Kavgacı Amblemi,tr
+Cappa Juice,Şapkat Nektarı,tr
+Captain's Brew,Kaptanın Tarifi,tr
+Captain's Hat,Kaptanın Şapkası,tr
+Chain Vest,Zincir Yelek,tr
+Chalice of Power,Güç Kadehi,tr
+Continuum Cogs,Süreklilik Çarkları,tr
+Corrupt Vampiric Scepter,Yozlaşmış Vampirî Asa,tr
+Crownguard,Kraliyet Başlığı,tr
+Cursed Blade,Lanetli Kılıç,tr
+Cutthroat's Cutlass,Belalı Palası,tr
+Dawncore,Şafağın Özü,tr
+Dead Man's Dagger,Ölü Adamın Hançeri,tr
+Deathblade,Ölüm Kılıcı,tr
+Defender Emblem,Savunucu Amblemi,tr
+Demacia Emblem,Demacia Amblemi,tr
+Disruptor Emblem,Bozguncu Amblemi,tr
+Dragon's Claw,Ejder Pençesi,tr
+Dreadway Cannon,Dehşet Yolu Topu,tr
+E.M.P.,Elektromanyetik Darbe,tr
+Echo Engine,Yankı Makinesi,tr
+Edge of Night,Gecenin Kıyısı,tr
+Electrical Overload,Aşırı Elektriklenme,tr
+Eternal Pact,Ebedi Anlaşma,tr
+Evenshroud,Denge Örtüsü,tr
+First Mate's Flintlock,İkinci Kaptanın Tabancası,tr
+First One's Free!,İlki Bedelsiz!,tr
+Fishbones,Kılçık,tr
+Flickerblades,Tezbıçak,tr
+Forbidden Idol,Yasak İdol,tr
+Freljord Emblem,Freljord Amblemi,tr
+Frying Pan,Kızartma Tavası,tr
+Gargoyle Stoneplate,Gargoyl Taşzırhı,tr
+Giant Slayer,Dev Katili,tr
+Giant's Belt,Dev Kemeri,tr
+Gigantification Ray,Devleştirme Işını,tr
+Guinsoo's Rageblade,Guinsoo'nun Hiddeti,tr
+Gunslinger Emblem,Silahşor Amblemi,tr
+Hand Of Justice,Adaletin Eli,tr
+Haunted Spyglass,Lanetli Dürbün,tr
+Hellfire Hatchet,Cehennem Ateşi Baltası,tr
+Hextech Gunblade,Hextech Silahkılıç,tr
+Horizon Focus,Ufukgetiren,tr
+Infinity Edge,Ebedi Kılıç,tr
+Innervating Locket,Zindelik Broşu,tr
+Invoker Emblem,Manabaz Amblemi,tr
+Ionia Emblem,Ionia Amblemi,tr
+Ionic Spark,İyon Kıvılcımı,tr
+Ixtal Emblem,Ixtal Amblemi,tr
+Jeweled Gauntlet,Mücevherli Eldiven,tr
+Juggernaut Emblem,Ezergeçer Amblemi,tr
+Kinetic Barrier,Kinetik Bariyer,tr
+Knight's Vow,Şövalyenin Adağı,tr
+Kraken's Fury,Kraken'in Öfkesi,tr
+Last Whisper,Son Fısıltı,tr
+Lesser Mirrored Persona,Küçük Benlik Aynası,tr
+Lich Bane,Lich Boğan,tr
+Lightshield Crest,Lightshield Arması,tr
+Locket of the Iron Solari,Demir Solari'nin Broşu,tr
+Longshot Emblem,Mesafeci Amblemi,tr
+Lucky Doubloon,Şanslı Para,tr
+Luden's Tempest,Luden'in Çığlığı,tr
+Magnetron Coil,Magnetron Bobini,tr
+Mending Echoes,Şifalı Yankılar,tr
+Micro-Rockets,Mikro Roketler,tr
+Mining Drill,Maden Matkabı,tr
+Mirrored Persona,Benlik Aynası,tr
+Mittens,Pofuduk Eldiven,tr
+Momentum Drive,İvme Sürücüsü,tr
+Morellonomicon,Morellonomikon,tr
+Nashor's Tooth,Nashor'un Dişi,tr
+Needlessly Large Rod,Aşırı Büyük Sopa,tr
+Negatron Cloak,Negatron Pelerini,tr
+Noxus Emblem,Noxus Amblemi,tr
+Overclocked Capacitors,Aşırı Yüklü Kapasitörler,tr
+Pile O' Citrus,Portakal Yığını,tr
+Piltover Emblem,Piltover Amblemi,tr
+Protector's Vow,Muhafızın Adağı,tr
+Prowler's Claw,Sinsi Pençe,tr
+Quicksilver,Cıva,tr
+Quickstriker Emblem,Atik Amblemi,tr
+Rabadon's Deathcap,Rabadon'un Şapkası,tr
+Rapid Firecannon,Bombardıman Topu,tr
+Realm Warp,Mekân Sapması,tr
+Recurve Bow,Nişancı Yayı,tr
+Red Buff,Kırmızı Güçlendirme,tr
+Seeker's Armguard,Maceracının Pazubendi,tr
+Shadow Puppet,Gölge Kukla,tr
+Shroud of Stillness,Sükûnet Örtüsü,tr
+Silvermere Dawn,Gümüşgöl Şafağı,tr
+Slayer Emblem,Biçici Amblemi,tr
+Sparring Gloves,İdman Eldiveni,tr
+Spatula,Spatula,tr
+Spear of Shojin,Shojin'in Mızrağı,tr
+Spectral Cutlass,Hortlak Palası,tr
+Spirit Visage,Ruh Gömleği,tr
+Statikk Shiv,Statikk Hançer,tr
+Steadfast Heart,Kararlı Yürek,tr
+Sterak's Gage,Sterak'ın Güvencesi,tr
+Striker's Flail,Hücum Gürzü,tr
+Sunfire Cape,Günateşi Pelerini,tr
+Superior Lifeform,Üstün Yaşam Formu,tr
+Suspicious Trench Coat,Gizemli Trençkot,tr
+Syren's Broadside,Siren'in Alabandası,tr
+Tactician's Cape,Strateji Ustası Pelerini,tr
+Tactician's Crown,Strateji Ustası Tacı,tr
+Tactician's Shield,Strateji Ustası Kalkanı,tr
+Talisman Of Ascension,Uluların Tılsımı,tr
+Tear of the Goddess,Tanrıça'nın Gözyaşı,tr
+The Indomitable,Yenilmez,tr
+Thief's Gloves,Hırsız Eldiveni,tr
+Titan's Resolve,Titanın Azmi,tr
+Titanic Hydra,Haşmetli Hydra,tr
+Tome of Traits,Özellikler Kitabı,tr
+Treasure Typhoon,Hazine Tayfunu,tr
+Tuned Oscillator,Ayarlı Osilatör,tr
+Unending Despair,Sonsuz Çaresizlik,tr
+Unstable Core,Dengesiz Çekirdek,tr
+Upgrade!,Geliştir!,tr
+Vanquisher Emblem,Hışımlı Amblemi,tr
+Virtue of the Martyr,Fedakârlığın Erdemi,tr
+Void Emblem,Hiçlik Amblemi,tr
+Void Gauntlet,Hiçlik Eldiveni,tr
+Void Staff,Hiçlik Değneği,tr
+Voltage Conduit,Voltaj İletimi,tr
+Warden Emblem,Gardiyan Amblemi,tr
+Warmog's Armor,Warmog'un Zırhı,tr
+Wit's End,Aklın Sonu,tr
+Withered Relic,Yıpranmış Antika,tr
+Yordle Emblem,Yordle Amblemi,tr
+Zaun Emblem,Zaun Amblemi,tr
+Zeke's Herald,Zeke'nin Sancağı,tr
+Zephyr,Karayel,tr
+Zz'Rot Portal,Zz'Rot Kapısı,tr

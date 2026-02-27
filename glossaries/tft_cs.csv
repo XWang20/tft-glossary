@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,Aatrox,cs
+Ahri,Ahri,cs
+Ambessa,Ambessa,cs
+Anivia,Anivia,cs
+Annie,Annie,cs
+Aphelios,Aphelios,cs
+Ashe,Ashe,cs
+Aurelion Sol,Aurelion Sol,cs
+Azir,Azir,cs
+Bard,Bard,cs
+Baron Nashor,Baron Nashor,cs
+Bel'Veth,Bel'Veth,cs
+Blitzcrank,Blitzcrank,cs
+Braum,Braum,cs
+Briar,Briar,cs
+Brock,Brock,cs
+Caitlyn,Caitlyn,cs
+Cho'Gath,Cho'Gath,cs
+Darius,Darius,cs
+Diana,Diana,cs
+Dr. Mundo,Dr. Mundo,cs
+Draven,Draven,cs
+Ekko,Ekko,cs
+Elder Dragon,Starší drak,cs
+Fiddlesticks,Fiddlesticks,cs
+Fizz,Fizz,cs
+Galio,Galio,cs
+Gangplank,Gangplank,cs
+Garen,Garen,cs
+Golem,Golem,cs
+Graves,Graves,cs
+Gwen,Gwen,cs
+Illaoi,Illaoi,cs
+Jarvan IV,Jarvan IV.,cs
+Jhin,Jhin,cs
+Jinx,Jinx,cs
+Kai'Sa,Kai'Sa,cs
+Kalista,Kalista,cs
+Kennen,Kennen,cs
+Kindred,Kindred,cs
+Kobuko & Yuumi,Kobuko a Yuumi,cs
+Kog'Maw,Kog'Maw,cs
+LeBlanc,LeBlanc,cs
+Leona,Leona,cs
+Lissandra,Lissandra,cs
+Loris,Loris,cs
+Lucian & Senna,Lucian a Senna,cs
+Lulu,Lulu,cs
+Lux,Lux,cs
+Malzahar,Malzahar,cs
+Mel,Mel,cs
+Milio,Milio,cs
+Miss Fortune,Miss Fortune,cs
+Nasus,Nasus,cs
+Nautilus,Nautilus,cs
+Neeko,Neeko,cs
+Nidalee,Nidalee,cs
+Orianna,Orianna,cs
+Ornn,Ornn,cs
+Piltover Invention,Piltoverský vynález,cs
+Poppy,Poppy,cs
+Qiyana,Qiyana,cs
+Rek'Sai,Rek'Sai,cs
+Renekton,Renekton,cs
+Rift Herald,Žlebový herald,cs
+Rift Scuttler,Říční krab,cs
+Rumble,Rumble,cs
+Ryze,Ryze,cs
+Sejuani,Sejuani,cs
+Seraphine,Seraphine,cs
+Sett,Sett,cs
+Shen,Shen,cs
+Shyvana,Shyvana,cs
+Singed,Singed,cs
+Sion,Sion,cs
+Skarner,Skarner,cs
+Sona,Sona,cs
+Swain,Swain,cs
+Sylas,Sylas,cs
+T-Hex,T-Hex,cs
+Tahm Kench,Tahm Kench,cs
+Taric,Taric,cs
+Teemo,Teemo,cs
+Thresh,Thresh,cs
+Training Dummy,Cvičná loutka,cs
+Tristana,Tristana,cs
+Tryndamere,Tryndamere,cs
+Twisted Fate,Twisted Fate,cs
+Vayne,Vayne,cs
+Veigar,Veigar,cs
+Vi,Vi,cs
+Viego,Viego,cs
+Volibear,Volibear,cs
+Warwick,Warwick,cs
+Wukong,Wukong,cs
+Xerath,Xerath,cs
+Xin Zhao,Xin Zhao,cs
+Yasuo,Yasuo,cs
+Yone,Yone,cs
+Yorick,Yorick,cs
+Yunara,Yunara,cs
+Zaahen,Zaahen,cs
+Ziggs,Ziggs,cs
+Zilean,Zilean,cs
+Zoe,Zoe,cs
+Arcanist,Znalec arkán,cs
+Ascendant,Povznesený,cs
+Assimilator,Asimilátor,cs
+Bilgewater,Bilgewater,cs
+Blacksmith,Kovář,cs
+Bruiser,Ranař,cs
+Caretaker,Opatrovník,cs
+Chainbreaker,Lamač okovů,cs
+Chosen Wolves,Vyvolení vlci,cs
+Chronokeeper,Strážce času,cs
+Dark Child,Temné dítě,cs
+Darkin,Darkin,cs
+Defender,Obránce,cs
+Demacia,Demacie,cs
+Disruptor,Narušitel,cs
+Dragonborn,Drakorozená,cs
+Dragonguards,Dračí strážci,cs
+Emperor,Císař,cs
+Eternal,Věčný,cs
+Freljord,Freljord,cs
+Glutton,Žrout,cs
+Gunslinger,Pistolník,cs
+Harvester,Sklízeč,cs
+Heroic,Hrdina,cs
+HexMech,Magirobot,cs
+Huntress,Lovkyně,cs
+Immortal,Nesmrtelný,cs
+Invoker,Kouzelník,cs
+Ionia,Ionie,cs
+Ixtal,Ixtal,cs
+Juggernaut,Kolos,cs
+Longshot,Střelec,cs
+Noxus,Noxus,cs
+Piltover,Piltover,cs
+Poison Pals,Toxická dvojka,cs
+Quickstriker,Mrštná čepel,cs
+Riftscourge,Zhouba Žlebu,cs
+Rune Mage,Runový mág,cs
+Sentinels of Light,Strážci světla,cs
+Shadow Isles,Stínové ostrovy,cs
+Shurima,Shurima,cs
+Slayer,Přemožitel,cs
+Soulbound,Nerozlučný,cs
+Star Forger,Stvořitel hvězd,cs
+Targon,Targon,cs
+The Boss,Velký kápo,cs
+Timewinders,Vládci času,cs
+Vanquisher,Ničitel,cs
+Void,Prázdnota,cs
+Warden,Strážce,cs
+World Ender,Konec veškerenstva,cs
+Yordle,Yordl,cs
+Zaun,Zaun,cs
+3 Threes,Tři trojky,cs
+A Magic Roll,Kouzelný hod,cs
+Advanced Loan,Pokročilá půjčka,cs
+Air Axiom,Axiom vzduchu,cs
+Arcane Viktor-y,Viktorův triumf,cs
+Artillery Barrage,Dělostřelecká salva,cs
+Ascension,Vzestup,cs
+Band of Thieves,Tlupa zlodějů,cs
+Belt Overflow,Pevné opasky,cs
+Best Friends,Nejlepší přátelé,cs
+Big Friend,Velký kámoš,cs
+Big Grab Bag,Velká dárková taška,cs
+Binary Airdrop,Binární zásobování,cs
+Birthday Present,Dárek k narozeninám,cs
+Birthday Reunion,Narozeninové setkání,cs
+Blood Offering,Krvavá oběť,cs
+Bodyguard Training,Výcvik tělesného strážce,cs
+Boxing Lessons,Lekce v boxu,cs
+Branching Out,Rozvětvení,cs
+Bringer of Ruin,Nositel zkázy,cs
+Bronze For Life,Bronz nad zlato,cs
+Buried Treasures,Zakopané poklady,cs
+Care Package,Dárkový balíček,cs
+Caretaker's Ally,Opatrovníkův spojenec,cs
+Celestial Blessing,Požehnání nebes,cs
+Chaotic Evolution,Chaotická evoluce,cs
+Commerce Core,Jádro obchodu,cs
+Component Buffet,Výstavka předmětů,cs
+Construct a Companion,Stavebnice společníků,cs
+Cooking Pot,Společná kuchyně,cs
+Coronation,Korunovace,cs
+Corrosion,Koroze,cs
+Cosmic Calling,Kosmické volání,cs
+Crafted Crafting,Zručná výroba,cs
+Crash Test Dummies,Sebevražední panáci,cs
+Crown's Will,Vůle koruny,cs
+Cry Me A River,Potok slz,cs
+Darkwill's Invasion,Darkwillova invaze,cs
+Deadlier Blades,Vražednější čepele,cs
+Deadlier Caps,Vražednější klobouky,cs
+Defense of the Placidium,Obrana Placidia,cs
+Demacia Forever,Demacie je věčná,cs
+Double Trouble,Dvojitý malér,cs
+Dummify,"Marioneta, to jsem já",cs
+Duo Queue,Tandemová fronta,cs
+Earth Axiom,Axiom země,cs
+Epic Rolldown,Epický výlov,cs
+Exclusive Customization,Exkluzivní úprava,cs
+Exiles,Vyhnanci,cs
+Expected Unexpectedness,Očekávaná neočekávanost,cs
+Explosive Growth,Výbušný růst,cs
+Eye For An Eye,Oko za oko,cs
+Feed the Flames,Krmení plamenů,cs
+Find Your Center,Najdi své těžiště,cs
+Fire Axiom,Axiom ohně,cs
+Focused Fire,Soustředěná palba,cs
+Giant and Mighty,Velikost a síla,cs
+Gilded Steel,Pozlacená ocel,cs
+Glass Cannon,Skleněné dělo,cs
+Going Long,Dlouhodobá investice,cs
+Gold Destiny,Zlatý osud,cs
+Golemify,Zrození golema,cs
+Good For Something,Aspoň k něčemu,cs
+Growth Mindset,Zaměření na růst,cs
+Hard Commit,Neodvolatelná volba,cs
+Healing Orbs,Léčivá oka,cs
+Heart of Steel,Srdce z oceli,cs
+Heavy Is the Crown,Tíha koruny,cs
+Hedge Fund,Investiční fond,cs
+Hefty Rolls,Pádné hody,cs
+Heroic Grab Bag,Hrdinská dárková taška,cs
+Hexgate Travel,Cesta magibránou,cs
+High Voltage,Vysoké napětí,cs
+Hold the Line,Pevná linie,cs
+Indecision,Nerozhodnost,cs
+Indiscriminate Killer,Nevybíravý zabiják,cs
+Invested,Investice,cs
+Iron Assets,Železné vybavení,cs
+Item Grab Bag,Dárková taška s předměty,cs
+Jeweled Lotus,Zdobený květ,cs
+Just Hit,Běž do toho,cs
+Kahunahuna,Kahunahuna,cs
+Last Second Save,Pomoc v pravou chvíli,cs
+Late Game Scaling,Zesílení do závěru hry,cs
+Late Game Specialist,Specialista na závěrečnou fázi,cs
+Leap of Faith,Krakenův skok,cs
+Legion of Threes,Legie tří,cs
+Level Up!,Nová úroveň!,cs
+Lifting Competition,Vzpěračská soutěž,cs
+Lineup,Nástup,cs
+Little Buddies,Malí kámoši,cs
+Lucky Gloves,Rukavice pro štěstí,cs
+Mace's Will,Vůle palcátu,cs
+Makeshift Armor,Provizorní zbroj,cs
+Mess Hall,Bitva v jídelně,cs
+Min-Max,Pečlivé ladění,cs
+Missed Connections,Ztracené konexe,cs
+Money Monsoon,Zlatý monzun,cs
+On a Roll,Hvězdná obnova,cs
+"One Buff, Two Buff","Jeden buff, dva buffy",cs
+One Twos Three,"Raz, dva, tři",cs
+"One, Two, Five!","Raz, dva, pět!",cs
+Pandora's Bench,Pandořina střídačka,cs
+Pandora's Items,Pandořiny předměty,cs
+Patience is a Virtue,Trpělivost je ctnost,cs
+Placebo,Placebo,cs
+Plot Armor,Sdílená zbroj,cs
+Portable Forge,Přenosná kovárna,cs
+Precision and Grace,Přesnost a ladnost,cs
+Preparation,Příprava,cs
+Prismatic Destiny,Spektrální osud,cs
+Prismatic Ticket,Spektrální vstupenka,cs
+Promised Protection,Přislíbená ochrana,cs
+Pyromaniac,Pyroman,cs
+Radiant Rascal,Zářivý rošťák,cs
+Radiant Relics,Zářivé relikvie,cs
+Raining Gold,Déšť zlaťáků,cs
+Recombobulator,Rekombobulátor,cs
+ReinFOURcement,Cenná posila,cs
+Replication,Replikace,cs
+Restart Mission,Restartování mise,cs
+Retribution,Odplata,cs
+Rolling For Days,Vybíravé výběry,cs
+Savings Account,Spořicí účet,cs
+Second Wind,Druhý dech,cs
+Seraphim's Staff,Serafínova hůl,cs
+Shimmerscale Essence,Esence Mihotavců,cs
+Shopping Spree,Nákupní horečka,cs
+Silco's Revenge,Silcova pomsta,cs
+Silver Destiny,Stříbrný osud,cs
+Silver Spoon,Stříbrná lžička,cs
+Slightly Magic Roll,Mírně magický hod,cs
+Small Grab Bag,Malá dárková taška,cs
+Solo Plate,Sólový plát,cs
+Soul Awakening,Probuzení duše,cs
+Spear's Will,Vůle oštěpu,cs
+Spirit of Redemption,Duch odplaty,cs
+Spreading Roots,Rozrůstání kořenů,cs
+Staffsmith,Výrobce holí,cs
+Stand United,Stůjme při sobě,cs
+Stars Are Born,Zrození hvězd,cs
+Starter Kit,Počáteční sada,cs
+Sweet Treats,Slaďounké dobroty,cs
+Sword Overflow,Přebytek mečů,cs
+Swordsmith,Výrobce mečů,cs
+Teaming Up,Sehraný tým,cs
+The Axiomata,Axiomata,cs
+The Golden Dragon,Zlatý drak,cs
+The Ruined King,Padlý král,cs
+The Trait Tree,Strom vlastností,cs
+The World Runes,Runy světa,cs
+Thorn-Plated Armor,Trnové brnění,cs
+"Tiny, but Deadly","Drobní, ale vražední",cs
+Tons of Stats!,Nálož atributů!,cs
+Trade Sector,Obchodní sektor,cs
+Trials of Twilight,Zkoušky soumraku,cs
+Trifecta,Trojice,cs
+Twin Guardians,Strážná dvojice,cs
+Two Much Value,Viděti dvojmo,cs
+Two Trick,Dvojitý trik,cs
+U.R.F,U.R.F.,cs
+Unsealed From Steel,Osvobození z oceli,cs
+Upward Mobility,Vytrvalý vzestup,cs
+Wand Overflow,Přebytek holí,cs
+Warlord's Honor,Vojevůdcova čest,cs
+Water Axiom,Axiom vody,cs
+We Stick Together,Držíme pospolu,cs
+Wild Growth,Rychlorůst,cs
+Win Out,Závěrečný spurt,cs
+Wood Axiom,Axiom dřeva,cs
+Woven Magic,Splétaná magie,cs
+90 Caliber Nets,Těžké sítě,cs
+Acceleration Gate,Urychlovací brána,cs
+Adaptive Helm,Přizpůsobivá přilba,cs
+Aegis of Dawn,Štít úsvitu,cs
+Aegis of Dusk,Štít soumraku,cs
+Arcanist Emblem,Emblém Znalce arkán,cs
+Archangel's Staff,Archandělova hůl,cs
+Armor Nullifier,Ničitel zbroje,cs
+B.F. Sword,K. V. meč,cs
+Barknuckles,Pancéřoví vilejši,cs
+Bilgewater Emblem,Emblém Bilgewateru,cs
+Bilgewater Lesser Champion Duplicator,Bilgewaterský Menší duplikátor šampionů,cs
+Black Market Restock,Nová nabídka na černém trhu,cs
+Blackmarket Explosives,Výbušniny z černého trhu,cs
+Blast Shield,Ochranný štít,cs
+Blighting Jewel,Klenot nákazy,cs
+Bloodthirster,Krvežíznivec,cs
+Blue Buff,Modrý buff,cs
+Bramble Vest,Ostnatá vesta,cs
+Brigand's Dice,Lupičovy kostky,cs
+Bruiser Emblem,Emblém Ranaře,cs
+Cappa Juice,Šťáva Cappa,cs
+Captain's Brew,Kapitánský lektvar,cs
+Captain's Hat,Kapitánský klobouk,cs
+Chain Vest,Kroužková vesta,cs
+Chalice of Power,Pohár moci,cs
+Continuum Cogs,Kolečka kontinua,cs
+Corrupt Vampiric Scepter,Zrádné upírské žezlo,cs
+Crownguard,Korunní stráž,cs
+Cursed Blade,Prokleté ostří,cs
+Cutthroat's Cutlass,Hrdlořezova šavle,cs
+Dawncore,Jádro úsvitu,cs
+Dead Man's Dagger,Dýka mrtvého muže,cs
+Deathblade,Čepel smrti,cs
+Defender Emblem,Emblém Obránce,cs
+Demacia Emblem,Emblém Demacie,cs
+Disruptor Emblem,Emblém Narušitele,cs
+Dragon's Claw,Dračí spár,cs
+Dreadway Cannon,Děsivcovo dělo,cs
+E.M.P.,E. M. P.,cs
+Echo Engine,Ozvěnový pohon,cs
+Edge of Night,Přelom noci,cs
+Electrical Overload,Elektrické přesycení,cs
+Eternal Pact,Věčná dohoda,cs
+Evenshroud,Večerháv,cs
+First Mate's Flintlock,Mušketa prvního důstojníka,cs
+First One's Free!,První je zdarma!,cs
+Fishbones,Rakeťák,cs
+Flickerblades,Blikavé čepele,cs
+Forbidden Idol,Zapovězená modla,cs
+Freljord Emblem,Emblém Freljordu,cs
+Frying Pan,Litinová pánev,cs
+Gargoyle Stoneplate,Chrličův kamenný plát,cs
+Giant Slayer,Zabiják obrů,cs
+Giant's Belt,Obrův opasek,cs
+Gigantification Ray,Gigantifikační paprsek,cs
+Guinsoo's Rageblade,Guinsoova zuřivá čepel,cs
+Gunslinger Emblem,Emblém Pistolníka,cs
+Hand Of Justice,Ruka spravedlnosti,cs
+Haunted Spyglass,Přízračný dalekohled,cs
+Hellfire Hatchet,Sekera pekelného ohně,cs
+Hextech Gunblade,Magitechnická puškočepel,cs
+Horizon Focus,Soustředěný horizont,cs
+Infinity Edge,Ostří nekonečna,cs
+Innervating Locket,Medailon stimulace,cs
+Invoker Emblem,Emblém Kouzelníka,cs
+Ionia Emblem,Emblém Ionie,cs
+Ionic Spark,Iontová jiskra,cs
+Ixtal Emblem,Emblém Ixtalu,cs
+Jeweled Gauntlet,Zdobená pěstnice,cs
+Juggernaut Emblem,Emblém Kolosu,cs
+Kinetic Barrier,Kinetická bariéra,cs
+Knight's Vow,Rytířský slib,cs
+Kraken's Fury,Krakenův hněv,cs
+Last Whisper,Poslední zašeptání,cs
+Lesser Mirrored Persona,Menší Zrcadlová osobnost,cs
+Lich Bane,Zhouba lichů,cs
+Lightshield Crest,Erb Lightshieldů,cs
+Locket of the Iron Solari,Medailónek železných Solari,cs
+Longshot Emblem,Emblém Střelce,cs
+Lucky Doubloon,Dublon pro štěstí,cs
+Luden's Tempest,Ludenova bouře,cs
+Magnetron Coil,Magnetronová cívka,cs
+Mending Echoes,Léčivé ozvěny,cs
+Micro-Rockets,Mikrorakety,cs
+Mining Drill,Důlní vrták,cs
+Mirrored Persona,Zrcadlová osobnost,cs
+Mittens,Palčáky,cs
+Momentum Drive,Setrvačníkový pohon,cs
+Morellonomicon,Morellonomicon,cs
+Nashor's Tooth,Nashorův tesák,cs
+Needlessly Large Rod,Zbytečně dlouhá hůl,cs
+Negatron Cloak,Negatronový plášť,cs
+Noxus Emblem,Emblém Noxu,cs
+Overclocked Capacitors,Přetaktované kondenzátory,cs
+Pile O' Citrus,Hromada citrusů,cs
+Piltover Emblem,Emblém Piltoveru,cs
+Protector's Vow,Ochráncův slib,cs
+Prowler's Claw,Lovcův dráp,cs
+Quicksilver,Rtuť,cs
+Quickstriker Emblem,Emblém Mrštné čepele,cs
+Rabadon's Deathcap,Rabadonův smrtící klobouk,cs
+Rapid Firecannon,Rychlopalné ohnivé dělo,cs
+Realm Warp,Průchod světy,cs
+Recurve Bow,Reflexní luk,cs
+Red Buff,Červený buff,cs
+Seeker's Armguard,Stopařčin chránič,cs
+Shadow Puppet,Stínová loutka,cs
+Shroud of Stillness,Rouška nehybnosti,cs
+Silvermere Dawn,Úsvit nad Stříbromořím,cs
+Slayer Emblem,Emblém Přemožitele,cs
+Sparring Gloves,Tréninkové rukavice,cs
+Spatula,Obracečka,cs
+Spear of Shojin,Oštěp Šódžinu,cs
+Spectral Cutlass,Přízračná šavle,cs
+Spirit Visage,Otisk duše,cs
+Statikk Shiv,Statikkova kudla,cs
+Steadfast Heart,Nezlomné srdce,cs
+Sterak's Gage,Sterakova zástava,cs
+Striker's Flail,Útočníkův řemdih,cs
+Sunfire Cape,Plášť slunečního žáru,cs
+Superior Lifeform,Nadřazená životní forma,cs
+Suspicious Trench Coat,Podezřelý pršiplášť,cs
+Syren's Broadside,Boční salva ze Sirény,cs
+Tactician's Cape,Taktikův plášť,cs
+Tactician's Crown,Taktikova koruna,cs
+Tactician's Shield,Taktikův štít,cs
+Talisman Of Ascension,Amulet Vyzdvižení,cs
+Tear of the Goddess,Slza bohyně,cs
+The Indomitable,Nezdolný,cs
+Thief's Gloves,Zlodějské rukavice,cs
+Titan's Resolve,Titánské odhodlání,cs
+Titanic Hydra,Titánská hydra,cs
+Tome of Traits,Kniha vlastností,cs
+Treasure Typhoon,Tajfun pokladů,cs
+Tuned Oscillator,Vyladěný oscilátor,cs
+Unending Despair,Nekonečné zoufalství,cs
+Unstable Core,Nestabilní jádro,cs
+Upgrade!,Vylepšení!,cs
+Vanquisher Emblem,Emblém Ničitele,cs
+Virtue of the Martyr,Mučedníkova ctnost,cs
+Void Emblem,Emblém Prázdnoty,cs
+Void Gauntlet,Pěstnice Prázdnoty,cs
+Void Staff,Hůl Prázdnoty,cs
+Voltage Conduit,Elektrický vodič,cs
+Warden Emblem,Emblém Strážce,cs
+Warmog's Armor,Warmogova zbroj,cs
+Wit's End,Nouzová,cs
+Withered Relic,Oprýskaná relikvie,cs
+Yordle Emblem,Emblém Yordla,cs
+Zaun Emblem,Emblém Zaunu,cs
+Zeke's Herald,Zekeův posel,cs
+Zephyr,Vánek,cs
+Zz'Rot Portal,Portál Zz'Rotu,cs

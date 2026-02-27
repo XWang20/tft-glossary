@@ -1,0 +1,484 @@
+source,target,tgt_lng
+Aatrox,Aatrox,de
+Ahri,Ahri,de
+Ambessa,Ambessa,de
+Anivia,Anivia,de
+Annie,Annie,de
+Aphelios,Aphelios,de
+Ashe,Ashe,de
+Aurelion Sol,Aurelion Sol,de
+Azir,Azir,de
+Bard,Bard,de
+Baron Nashor,Baron Nashor,de
+Bel'Veth,Bel'Veth,de
+Blitzcrank,Blitzcrank,de
+Braum,Braum,de
+Briar,Briar,de
+Brock,Brock,de
+Caitlyn,Caitlyn,de
+Cho'Gath,Cho'Gath,de
+Darius,Darius,de
+Diana,Diana,de
+Dr. Mundo,Dr. Mundo,de
+Draven,Draven,de
+Ekko,Ekko,de
+Elder Dragon,Ahnendrache,de
+Fiddlesticks,Fiddlesticks,de
+Fizz,Fizz,de
+Galio,Galio,de
+Gangplank,Gangplank,de
+Garen,Garen,de
+Golem,Golem,de
+Graves,Graves,de
+Gwen,Gwen,de
+Illaoi,Illaoi,de
+Jarvan IV,Jarvan IV.,de
+Jhin,Jhin,de
+Jinx,Jinx,de
+Kai'Sa,Kai'Sa,de
+Kalista,Kalista,de
+Kennen,Kennen,de
+Kindred,Kindred,de
+Kobuko & Yuumi,Kobuko & Yuumi,de
+Kog'Maw,Kog'Maw,de
+LeBlanc,LeBlanc,de
+Leona,Leona,de
+Lissandra,Lissandra,de
+Loris,Loris,de
+Lucian & Senna,Lucian und Senna,de
+Lulu,Lulu,de
+Lux,Lux,de
+Malzahar,Malzahar,de
+Mel,Mel,de
+Milio,Milio,de
+Miss Fortune,Miss Fortune,de
+Nasus,Nasus,de
+Nautilus,Nautilus,de
+Neeko,Neeko,de
+Nidalee,Nidalee,de
+Orianna,Orianna,de
+Ornn,Ornn,de
+Piltover Invention,Piltover-Erfindung,de
+Poppy,Poppy,de
+Qiyana,Qiyana,de
+Rek'Sai,Rek'Sai,de
+Renekton,Renekton,de
+Rift Herald,Herold der Kluft,de
+Rift Scuttler,Kluftkrabbler,de
+Rumble,Rumble,de
+Ryze,Ryze,de
+Sejuani,Sejuani,de
+Seraphine,Seraphine,de
+Sett,Sett,de
+Shen,Shen,de
+Shyvana,Shyvana,de
+Singed,Singed,de
+Sion,Sion,de
+Skarner,Skarner,de
+Sona,Sona,de
+Swain,Swain,de
+Sylas,Sylas,de
+T-Hex,T-Hex,de
+Tahm Kench,Tahm Kench,de
+Taric,Taric,de
+Teemo,Teemo,de
+Thresh,Thresh,de
+Training Dummy,Übungspuppe,de
+Tristana,Tristana,de
+Tryndamere,Tryndamere,de
+Twisted Fate,Twisted Fate,de
+Vayne,Vayne,de
+Veigar,Veigar,de
+Vi,Vi,de
+Viego,Viego,de
+Volibear,Volibear,de
+Warwick,Warwick,de
+Wukong,Wukong,de
+Xerath,Xerath,de
+Xin Zhao,Xin Zhao,de
+Yasuo,Yasuo,de
+Yone,Yone,de
+Yorick,Yorick,de
+Yunara,Yunara,de
+Zaahen,Zaahen,de
+Ziggs,Ziggs,de
+Zilean,Zilean,de
+Zoe,Zoe,de
+Arcanist,Arkanist,de
+Ascendant,Aszendent,de
+Assimilator,Assimilator,de
+Bilgewater,Bilgewasser,de
+Blacksmith,Schmied,de
+Bruiser,Raufbold,de
+Caretaker,Beschützer,de
+Chainbreaker,Kettensprenger,de
+Chosen Wolves,Auserwählte Wölfe,de
+Chronokeeper,Zeitwächter,de
+Dark Child,Kind der Finsternis,de
+Darkin,Düsterer,de
+Defender,Verteidiger,de
+Demacia,Demacia,de
+Disruptor,Unterbrecher,de
+Dragonborn,Drachengeborene,de
+Dragonguards,Drachenwächter,de
+Emperor,Imperial,de
+Eternal,Ewiger,de
+Freljord,Freljord,de
+Glutton,Vielfraß,de
+Gunslinger,Revolverheld,de
+Harvester,Ernte,de
+Heroic,Heldenhaft,de
+HexMech,HexMech,de
+Huntress,Jägerin,de
+Immortal,Unsterblich,de
+Invoker,Anrufer,de
+Ionia,Ionia,de
+Ixtal,Ixtal,de
+Juggernaut,Moloch,de
+Longshot,Weitschuss,de
+Noxus,Noxus,de
+Piltover,Piltover,de
+Poison Pals,Giftkumpel,de
+Quickstriker,Anstürmer,de
+Riftscourge,Kluftgeißel,de
+Rune Mage,Runenmagier,de
+Sentinels of Light,Wächter des Lichts,de
+Shadow Isles,Schatteninseln,de
+Shurima,Shurima,de
+Slayer,Schlächter,de
+Soulbound,Seelenverbindung,de
+Star Forger,Sternenschmied,de
+Targon,Targon,de
+The Boss,Der Boss,de
+Timewinders,Zeitspuler,de
+Vanquisher,Bezwinger,de
+Void,Leere,de
+Warden,Wächter,de
+World Ender,Weltenvernichter,de
+Yordle,Yordle,de
+Zaun,Zhaun,de
+3 Threes,3 Dreier,de
+A Magic Roll,Ein magischer Wurf,de
+Advanced Loan,Erweiterter Kredit,de
+Air Axiom,Luftaxiom,de
+Arcane Viktor-y,Arcane-Viktor-y,de
+Artillery Barrage,Artilleriesalve,de
+Ascension,Aufstieg,de
+Band of Thieves,Diebesbande,de
+Belt Overflow,Gürtel im Überfluss,de
+Best Friends,Beste Freunde,de
+Big Friend,Großer Freund,de
+Big Grab Bag,Große Wundertüte,de
+Binary Airdrop,Binärer Abwurf,de
+Birthday Present,Geburtstagsgeschenk,de
+Birthday Reunion,Geburtstags-Wiedervereinigung,de
+Blood Offering,Blutopfer,de
+Bodyguard Training,Leibwache-Training,de
+Boxing Lessons,Boxunterricht,de
+Branching Out,Selbstständig machen,de
+Bringer of Ruin,Vorbote des Verfalls,de
+Bronze For Life,"Einmal Bronze, immer Bronze",de
+Buried Treasures,Vergrabene Schätze,de
+Care Package,Hilfspaket,de
+Caretaker's Ally,Verbündeter des Beschützers,de
+Celestial Blessing,Himmlischer Segen,de
+Chaotic Evolution,Chaotische Evolution,de
+Commerce Core,Kommerzkern,de
+Component Buffet,Komponenten-Buffet,de
+Construct a Companion,Baue einen Begleiter,de
+Cooking Pot,Kochtopf,de
+Coronation,Krönung,de
+Corrosion,Korrosion,de
+Cosmic Calling,Kosmischer Ruf,de
+Crafted Crafting,Raffinierte Herstellung,de
+Crash Test Dummies,Crash-Test-Dummies,de
+Crown's Will,Krönender Wille,de
+Cry Me A River,Heul doch …,de
+Darkwill's Invasion,Darkwill-Invasion,de
+Deadlier Blades,Tödlichere Klingen,de
+Deadlier Caps,Tödlichere Hauben,de
+Defense of the Placidium,Verteidigung am Plazidium,de
+Demacia Forever,Demacia für immer,de
+Double Trouble,Doppelter Ärger,de
+Dummify,Puppifizierung,de
+Duo Queue,Duo-Warteschlange,de
+Earth Axiom,Erdaxiom,de
+Epic Rolldown,Epische Ladung,de
+Exclusive Customization,Exklusive Feinabstimmung,de
+Exiles,Verbannte,de
+Expected Unexpectedness,Erwartetes Unerwartetes,de
+Explosive Growth,Explosives Wachstum,de
+Eye For An Eye,Auge um Auge,de
+Feed the Flames,Schüre das Feuer,de
+Find Your Center,Finde deine Mitte,de
+Fire Axiom,Feueraxiom,de
+Focused Fire,Fokussiertes Feuer,de
+Giant and Mighty,Groß und mächtig,de
+Gilded Steel,Vergoldeter Stahl,de
+Glass Cannon,Glaskanone,de
+Going Long,Auf lange Sicht,de
+Gold Destiny,Goldenes Schicksal,de
+Golemify,Golemifizierung,de
+Good For Something,Zu etwas nütze,de
+Growth Mindset,Fortschrittsdenken,de
+Hard Commit,Bindende Verpflichtung,de
+Healing Orbs,Heilende Kugeln,de
+Heart of Steel,Herz aus Stahl,de
+Heavy Is the Crown,Schwer ist die Krone,de
+Hedge Fund,Risikofonds,de
+Hefty Rolls,Starke Aktualisierungen,de
+Heroic Grab Bag,Heldenhafte Wundertüte,de
+Hexgate Travel,Hexportal-Reise,de
+High Voltage,Hochspannung,de
+Hold the Line,Nicht nachlassen,de
+Indecision,Unentschlossenheit,de
+Indiscriminate Killer,Willkürlicher Killer,de
+Invested,Investiert,de
+Iron Assets,Eiserne Güter,de
+Item Grab Bag,Gegenstand-Wundertüte,de
+Jeweled Lotus,Juwelenbesetzter Lotus,de
+Just Hit,Einfach treffen,de
+Kahunahuna,Kahunahuna,de
+Last Second Save,Rettung in letzter Sekunde,de
+Late Game Scaling,Skalierung im späten Spiel,de
+Late Game Specialist,Endgame-Experte,de
+Leap of Faith,Erschütternder Glaube,de
+Legion of Threes,Die Legion der Drei,de
+Level Up!,Neue Stufe!,de
+Lifting Competition,Wettkampf im Gewichtheben,de
+Lineup,Aufstellung,de
+Little Buddies,Kleine Freunde,de
+Lucky Gloves,Glückshandschuhe,de
+Mace's Will,Der Wille des Hammers,de
+Makeshift Armor,Improvisierte Rüstung,de
+Mess Hall,Kantien,de
+Min-Max,Min-Max,de
+Missed Connections,Verfehlte Verbindung,de
+Money Monsoon,Geldmonsun,de
+On a Roll,Das geht ab,de
+"One Buff, Two Buff","Ein Buff, zwei Buff",de
+One Twos Three,"Eins, zweierlei, drei",de
+"One, Two, Five!","Eins, zwei, fünf!",de
+Pandora's Bench,Pandoras Bank,de
+Pandora's Items,Pandoras Gegenstände,de
+Patience is a Virtue,Geduld ist eine Tugend,de
+Placebo,Placebo,de
+Plot Armor,Knallhart,de
+Portable Forge,Tragbare Schmiede,de
+Precision and Grace,Präzision und Grazie,de
+Preparation,Vorbereitung,de
+Prismatic Destiny,Prismatisches Schicksal,de
+Prismatic Ticket,Prismatisches Ticket,de
+Promised Protection,Versprochener Schutz,de
+Pyromaniac,Pyromant,de
+Radiant Rascal,Strahlender Halunke,de
+Radiant Relics,Lichtrelikte,de
+Raining Gold,Goldregen,de
+Recombobulator,Rekombinator,de
+ReinFOURcement,Vier-Gold-Verstärkung,de
+Replication,Klonprogramm,de
+Restart Mission,Wiederaufnahme der Mission,de
+Retribution,Vergeltung,de
+Rolling For Days,Aktualisierungstaumel,de
+Savings Account,Sparkonto,de
+Second Wind,Aufschwung,de
+Seraphim's Staff,Flügelstab,de
+Shimmerscale Essence,Essenz der Schimmerschuppen,de
+Shopping Spree,Einkaufsbummel,de
+Silco's Revenge,Silcos Rache,de
+Silver Destiny,Silbernes Schicksal,de
+Silver Spoon,Silberlöffel,de
+Slightly Magic Roll,Etwas magische Aktualisierung,de
+Small Grab Bag,Kleine Wundertüte,de
+Solo Plate,Solo-Steinpanzer,de
+Soul Awakening,Seelenerwachen,de
+Spear's Will,Der Wille des Speeres,de
+Spirit of Redemption,Geist der Erlösung,de
+Spreading Roots,Wachsende Wurzeln,de
+Staffsmith,Stabschmied,de
+Stand United,Geeinter Halt,de
+Stars Are Born,Geborene Stars,de
+Starter Kit,Starter-Paket,de
+Sweet Treats,Süße Leckereien,de
+Sword Overflow,Schwertüberfluss,de
+Swordsmith,Schwertschmied,de
+Teaming Up,Zusammenarbeit,de
+The Axiomata,Die Axiomata,de
+The Golden Dragon,Der goldene Drache,de
+The Ruined King,Der gestürzte König,de
+The Trait Tree,Der Attributsbaum,de
+The World Runes,Die Weltrunen,de
+Thorn-Plated Armor,Dornenpanzerrüstung,de
+"Tiny, but Deadly","Winzig, aber tödlich",de
+Tons of Stats!,Tonnenweise Werte!,de
+Trade Sector,Handelssektor,de
+Trials of Twilight,Prüfungen des Zwielichts,de
+Trifecta,Dreifaltigkeit,de
+Twin Guardians,Zwillingswächter,de
+Two Much Value,Zu viel Wert,de
+Two Trick,Zweier-Trick,de
+U.R.F,U.R.F.,de
+Unsealed From Steel,Frei von Stahl,de
+Upward Mobility,Aufwärtsmobilität,de
+Wand Overflow,Stabüberfluss,de
+Warlord's Honor,Ehre des Kriegsfürsten,de
+Water Axiom,Wasseraxiom,de
+We Stick Together,Wir halten zusammen,de
+Wild Growth,Wildwuchs,de
+Win Out,Siegeszug,de
+Wood Axiom,Holzaxiom,de
+Woven Magic,Verwobene Magie,de
+90 Caliber Nets,Kaliber 90-Netze,de
+Acceleration Gate,Beschleunigungstor,de
+Adaptive Helm,Adaptiver Helm,de
+Aegis of Dawn,Ägide der Morgendämmerung,de
+Aegis of Dusk,Ägide der Abenddämmerung,de
+Arcanist Emblem,Arkanist-Emblem,de
+Archangel's Staff,Stab des Erzengels,de
+Armor Nullifier,Rüstungsnullifizierer,de
+B.F. Sword,Riesenschwert,de
+Barknuckles,Bloße Faust,de
+Bilgewater Emblem,Bilgewasser-Emblem,de
+Bilgewater Lesser Champion Duplicator,Kleiner Bilgewasser-Champion-Duplikator,de
+Black Market Restock,Schwarzmarktaufstockung,de
+Blackmarket Explosives,Schwarzmarktsprengstoff,de
+Blast Shield,Schockschild,de
+Blighting Jewel,Pestjuwel,de
+Bloodthirster,Blutdürster,de
+Blue Buff,Blauer Buff,de
+Bramble Vest,Dornenweste,de
+Brigand's Dice,Räuberwürfel,de
+Bruiser Emblem,Raufbold-Emblem,de
+Cappa Juice,Cappa-Trank,de
+Captain's Brew,Kapitänsgetränk,de
+Captain's Hat,Kapitänshut,de
+Chain Vest,Kettenweste,de
+Chalice of Power,Kelch der Macht,de
+Continuum Cogs,Kontinuum-Zahnräder,de
+Corrupt Vampiric Scepter,Verdorbenes vampirisches Zepter,de
+Crownguard,Kronwacht,de
+Cursed Blade,Verfluchte Klinge,de
+Cutthroat's Cutlass,Entermesser des Halsabschneiders,de
+Dawncore,Dämmerkern,de
+Dead Man's Dagger,Dolch des toten Mannes,de
+Deathblade,Klinge des Todes,de
+Defender Emblem,Verteidiger-Emblem,de
+Demacia Emblem,Demacia-Emblem,de
+Disruptor Emblem,Unterbrecher-Emblem,de
+Dragon's Claw,Drachenklaue,de
+Dreadway Cannon,Schreckenskanone,de
+E.M.P.,E.M.P.,de
+Echo Engine,Echomotor,de
+Edge of Night,Saum der Nacht,de
+Electrical Overload,Elektrische Überladung,de
+Eternal Pact,Ewiger Pakt,de
+Evenshroud,Abendschleier,de
+First Mate's Flintlock,Steinschloss des ersten Mats,de
+First One's Free!,Das erste Mal ist kostenlos!,de
+Fishbones,Gräte,de
+Flickerblades,Flimmerklingen,de
+Forbidden Idol,Verbotener Götze,de
+Freljord Emblem,Freljord-Emblem,de
+Frying Pan,Bratpfanne,de
+Gargoyle Stoneplate,Steinpanzer des Wasserspeiers,de
+Giant Slayer,Riesenschlächter,de
+Giant's Belt,Gürtel des Riesen,de
+Gigantification Ray,Riesenwachstumsstrahl,de
+Guinsoo's Rageblade,Guinsoos Wutklinge,de
+Gunslinger Emblem,Revolverheld-Emblem,de
+Hand Of Justice,Hand der Gerechtigkeit,de
+Haunted Spyglass,Verfluchtes Fernglas,de
+Hellfire Hatchet,Kriegsbeil des Höllenfeuers,de
+Hextech Gunblade,Hextech-Gunblade,de
+Horizon Focus,Horizontfokus,de
+Infinity Edge,Klinge der Unendlichkeit,de
+Innervating Locket,Verstärkendes Amulett,de
+Invoker Emblem,Anrufer-Emblem,de
+Ionia Emblem,Ionia-Emblem,de
+Ionic Spark,Ionischer Funke,de
+Ixtal Emblem,Ixtal-Emblem,de
+Jeweled Gauntlet,Juwelenbesetzter Handschuh,de
+Juggernaut Emblem,Moloch-Emblem,de
+Kinetic Barrier,Kinetische Barriere,de
+Knight's Vow,Ritterschwur,de
+Kraken's Fury,Zorn des Kraken,de
+Last Whisper,Letzter Atemzug,de
+Lesser Mirrored Persona,Kleine gespiegelte Persona,de
+Lich Bane,Fluch des Lichs,de
+Lightshield Crest,Lichtschild-Wappen,de
+Locket of the Iron Solari,Amulett der eisernen Solari,de
+Longshot Emblem,Weitschuss-Emblem,de
+Lucky Doubloon,Glücksdublonen,de
+Luden's Tempest,Ludens Sturm,de
+Magnetron Coil,Magnetron-Spule,de
+Mending Echoes,Heilende Echos,de
+Micro-Rockets,Mikroraketen,de
+Mining Drill,Bergbaubohrer,de
+Mirrored Persona,Gespiegelte Persona,de
+Mittens,Fäustlinge,de
+Momentum Drive,Momentum-Antrieb,de
+Morellonomicon,Morellonomikon,de
+Nashor's Tooth,Nashors Zahn,de
+Needlessly Large Rod,Übergroßer Stab,de
+Negatron Cloak,Negatron-Mantel,de
+Noxus Emblem,Noxus-Emblem,de
+Overclocked Capacitors,Übertaktete Kondensatoren,de
+Pile O' Citrus,Zitronenhaufen,de
+Piltover Emblem,Piltover-Emblem,de
+Protector's Vow,Schwur des Beschützers,de
+Prowler's Claw,Klaue des Meuchlers,de
+Quicksilver,Quecksilber,de
+Quickstriker Emblem,Anstürmer-Emblem,de
+Rabadon's Deathcap,Rabadons Todeshaube,de
+Rapid Firecannon,Schnellfeuer-Geschütz,de
+Realm Warp,Weltentor,de
+Recurve Bow,Rekursivbogen,de
+Red Buff,Roter Buff,de
+Seeker's Armguard,Armschutz des Suchenden,de
+Shadow Puppet,Schattenpuppe,de
+Shroud of Stillness,Tuch der Stille,de
+Silvermere Dawn,Dämmerung von Silbersee,de
+Slayer Emblem,Schlächter-Emblem,de
+Sparring Gloves,Kampfhandschuhe,de
+Spatula,Pfannenwender,de
+Spear of Shojin,Speer von Shojin,de
+Spectral Cutlass,Spektrales Entermesser,de
+Spirit Visage,Geistessicht,de
+Statikk Shiv,Statikks Stich,de
+Steadfast Heart,Unerschütterliches Herz,de
+Sterak's Gage,Steraks Pegel,de
+Striker's Flail,Stürmerflegel,de
+Sunfire Cape,Sonnenfeuer-Umhang,de
+Superior Lifeform,Überlegene Lebensform,de
+Suspicious Trench Coat,Verdächtiger Trenchcoat,de
+Syren's Broadside,Breitseite der Syren,de
+Tactician's Cape,Umhang des Taktikers,de
+Tactician's Crown,Krone des Taktikers,de
+Tactician's Shield,Schild des Taktikers,de
+Talisman Of Ascension,Amulett des Aufstiegs,de
+Tear of the Goddess,Träne der Göttin,de
+The Indomitable,Der Unbeugsame,de
+Thief's Gloves,Handschuhe des Diebs,de
+Titan's Resolve,Entschlossenheit des Titanen,de
+Titanic Hydra,Titanische Hydra,de
+Tome of Traits,Wälzer der Attribute,de
+Treasure Typhoon,Schatztaifun,de
+Tuned Oscillator,Abgestimmter Oszillator,de
+Unending Despair,Endlose Verzweiflung,de
+Unstable Core,Instabiler Kern,de
+Upgrade!,Aufwertung!,de
+Vanquisher Emblem,Bezwinger-Emblem,de
+Virtue of the Martyr,Tugend des Märtyrers,de
+Void Emblem,Leere-Emblem,de
+Void Gauntlet,Leerenhandschuh,de
+Void Staff,Leerenstab,de
+Voltage Conduit,Spannungsleitung,de
+Warden Emblem,Wächter-Emblem,de
+Warmog's Armor,Warmogs Rüstung,de
+Wit's End,Ende der Weisheit,de
+Withered Relic,Verwittertes Relikt,de
+Yordle Emblem,Yordle-Emblem,de
+Zaun Emblem,Zhaun-Emblem,de
+Zeke's Herald,Zekes Herold,de
+Zephyr,Zephir,de
+Zz'Rot Portal,Zz'Rot-Portal,de

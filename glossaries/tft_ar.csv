@@ -1482,7 +1482,7 @@ Zz'Rot Portal,بوابة ززروت,ar
 工具卡,utility card,ar
 对位,positioning,ar
 吃鸡,first place,ar
-吃分,gain LP,ar
+吃分,top 4,ar
 掉分,lose LP,ar
 D牌,roll down,ar
 抽牌,rolling,ar
@@ -47404,3 +47404,71 @@ scrimming,scrim,ar
 战力,combat,ar
 战力海克斯,combat augment,ar
 经济海克斯,econ augment,ar
+前四,top 4,ar
+后四,bot 4,ar
+第一,first place,ar
+第八,eighth place,ar
+炸了,bombed out,ar
+寄了,it's over,ar
+崩了,fell apart,ar
+稳了,stabilized,ar
+拉经济,build econ,ar
+攒钱,save gold,ar
+破产,broke,ar
+裸装,no items,ar
+质量,board quality,ar
+血压,stress/pressure,ar
+锁血,stabilize HP,ar
+卖血,lose on purpose,ar
+天胡,perfect start,ar
+开局,early game,ar
+中期,mid game,ar
+后期,late game,ar
+决赛圈,final rounds,ar
+费卡,cost unit,ar
+一费,1-cost,ar
+二费,2-cost,ar
+三费,3-cost,ar
+四费,4-cost,ar
+五费,5-cost,ar
+一星,1-star,ar
+二星,2-star,ar
+三星,3-star,ar
+两星,2-star,ar
+转职,emblem,ar
+纹章,emblem,ar
+羁绊,trait,ar
+阵容,comp,ar
+成型,complete comp,ar
+拉满,maxed out,ar
+断牌,out of units,ar
+卡池,champion pool,ar
+对子,pair,ar
+站位,positioning,ar
+换位,reposition,ar
+缩角,corner,ar
+一排,one row,ar
+分散,spread out,ar
+集中,cluster,ar
+贪装,greed items,ar
+速合,slam items early,ar
+慢合,hold components,ar
+预判,predict,ar
+读牌,read the lobby,ar
+看牌,scout,ar
+侦查,scout,ar
+版本,patch,ar
+赛季,set,ar
+改版,patch update,ar
+环境,meta,ar
+强势,strong/S-tier,ar
+弱势,weak,ar
+版本答案,meta comp,ar
+T0,S-tier,ar
+T1,A-tier,ar
+T2,B-tier,ar
+合装,combine items,ar
+拆装,remove items,ar
+嫁装,transfer items,ar
+装备给谁,who to itemize,ar
+出装思路,itemization guide,ar

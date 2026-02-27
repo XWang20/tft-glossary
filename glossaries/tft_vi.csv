@@ -1481,7 +1481,7 @@ Zz'Rot Portal,Thông Đạo Zz'rot,vi
 工具卡,utility card,vi
 对位,positioning,vi
 吃鸡,first place,vi
-吃分,gain LP,vi
+吃分,top 4,vi
 掉分,lose LP,vi
 D牌,roll down,vi
 抽牌,rolling,vi
@@ -47535,3 +47535,71 @@ scrimming,scrim,vi
 战力,combat,vi
 战力海克斯,combat augment,vi
 经济海克斯,econ augment,vi
+前四,top 4,vi
+后四,bot 4,vi
+第一,first place,vi
+第八,eighth place,vi
+炸了,bombed out,vi
+寄了,it's over,vi
+崩了,fell apart,vi
+稳了,stabilized,vi
+拉经济,build econ,vi
+攒钱,save gold,vi
+破产,broke,vi
+裸装,no items,vi
+质量,board quality,vi
+血压,stress/pressure,vi
+锁血,stabilize HP,vi
+卖血,lose on purpose,vi
+天胡,perfect start,vi
+开局,early game,vi
+中期,mid game,vi
+后期,late game,vi
+决赛圈,final rounds,vi
+费卡,cost unit,vi
+一费,1-cost,vi
+二费,2-cost,vi
+三费,3-cost,vi
+四费,4-cost,vi
+五费,5-cost,vi
+一星,1-star,vi
+二星,2-star,vi
+三星,3-star,vi
+两星,2-star,vi
+转职,emblem,vi
+纹章,emblem,vi
+羁绊,trait,vi
+阵容,comp,vi
+成型,complete comp,vi
+拉满,maxed out,vi
+断牌,out of units,vi
+卡池,champion pool,vi
+对子,pair,vi
+站位,positioning,vi
+换位,reposition,vi
+缩角,corner,vi
+一排,one row,vi
+分散,spread out,vi
+集中,cluster,vi
+贪装,greed items,vi
+速合,slam items early,vi
+慢合,hold components,vi
+预判,predict,vi
+读牌,read the lobby,vi
+看牌,scout,vi
+侦查,scout,vi
+版本,patch,vi
+赛季,set,vi
+改版,patch update,vi
+环境,meta,vi
+强势,strong/S-tier,vi
+弱势,weak,vi
+版本答案,meta comp,vi
+T0,S-tier,vi
+T1,A-tier,vi
+T2,B-tier,vi
+合装,combine items,vi
+拆装,remove items,vi
+嫁装,transfer items,vi
+装备给谁,who to itemize,vi
+出装思路,itemization guide,vi

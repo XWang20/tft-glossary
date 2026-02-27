@@ -1482,7 +1482,7 @@ Zz'Rot Portal,Πύλη Ζζ'Ροτ,el
 工具卡,utility card,el
 对位,positioning,el
 吃鸡,first place,el
-吃分,gain LP,el
+吃分,top 4,el
 掉分,lose LP,el
 D牌,roll down,el
 抽牌,rolling,el
@@ -47334,3 +47334,71 @@ scrimming,scrim,el
 战力,combat,el
 战力海克斯,combat augment,el
 经济海克斯,econ augment,el
+前四,top 4,el
+后四,bot 4,el
+第一,first place,el
+第八,eighth place,el
+炸了,bombed out,el
+寄了,it's over,el
+崩了,fell apart,el
+稳了,stabilized,el
+拉经济,build econ,el
+攒钱,save gold,el
+破产,broke,el
+裸装,no items,el
+质量,board quality,el
+血压,stress/pressure,el
+锁血,stabilize HP,el
+卖血,lose on purpose,el
+天胡,perfect start,el
+开局,early game,el
+中期,mid game,el
+后期,late game,el
+决赛圈,final rounds,el
+费卡,cost unit,el
+一费,1-cost,el
+二费,2-cost,el
+三费,3-cost,el
+四费,4-cost,el
+五费,5-cost,el
+一星,1-star,el
+二星,2-star,el
+三星,3-star,el
+两星,2-star,el
+转职,emblem,el
+纹章,emblem,el
+羁绊,trait,el
+阵容,comp,el
+成型,complete comp,el
+拉满,maxed out,el
+断牌,out of units,el
+卡池,champion pool,el
+对子,pair,el
+站位,positioning,el
+换位,reposition,el
+缩角,corner,el
+一排,one row,el
+分散,spread out,el
+集中,cluster,el
+贪装,greed items,el
+速合,slam items early,el
+慢合,hold components,el
+预判,predict,el
+读牌,read the lobby,el
+看牌,scout,el
+侦查,scout,el
+版本,patch,el
+赛季,set,el
+改版,patch update,el
+环境,meta,el
+强势,strong/S-tier,el
+弱势,weak,el
+版本答案,meta comp,el
+T0,S-tier,el
+T1,A-tier,el
+T2,B-tier,el
+合装,combine items,el
+拆装,remove items,el
+嫁装,transfer items,el
+装备给谁,who to itemize,el
+出装思路,itemization guide,el

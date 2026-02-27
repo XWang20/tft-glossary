@@ -1370,7 +1370,7 @@ Zz'Rot Portal,虚空之门,zh-MY
 工具卡,工具卡,zh-MY
 对位,对位,zh-MY
 吃鸡,吃鸡,zh-MY
-吃分,吃分,zh-MY
+吃分,top 4,zh-MY
 掉分,掉分,zh-MY
 D牌,D牌,zh-MY
 抽牌,抽牌,zh-MY
@@ -47589,3 +47589,71 @@ scrimming,scrim,zh-MY
 战力,combat,zh-MY
 战力海克斯,combat augment,zh-MY
 经济海克斯,econ augment,zh-MY
+前四,top 4,zh-MY
+后四,bot 4,zh-MY
+第一,first place,zh-MY
+第八,eighth place,zh-MY
+炸了,bombed out,zh-MY
+寄了,it's over,zh-MY
+崩了,fell apart,zh-MY
+稳了,stabilized,zh-MY
+拉经济,build econ,zh-MY
+攒钱,save gold,zh-MY
+破产,broke,zh-MY
+裸装,no items,zh-MY
+质量,board quality,zh-MY
+血压,stress/pressure,zh-MY
+锁血,stabilize HP,zh-MY
+卖血,lose on purpose,zh-MY
+天胡,perfect start,zh-MY
+开局,early game,zh-MY
+中期,mid game,zh-MY
+后期,late game,zh-MY
+决赛圈,final rounds,zh-MY
+费卡,cost unit,zh-MY
+一费,1-cost,zh-MY
+二费,2-cost,zh-MY
+三费,3-cost,zh-MY
+四费,4-cost,zh-MY
+五费,5-cost,zh-MY
+一星,1-star,zh-MY
+二星,2-star,zh-MY
+三星,3-star,zh-MY
+两星,2-star,zh-MY
+转职,emblem,zh-MY
+纹章,emblem,zh-MY
+羁绊,trait,zh-MY
+阵容,comp,zh-MY
+成型,complete comp,zh-MY
+拉满,maxed out,zh-MY
+断牌,out of units,zh-MY
+卡池,champion pool,zh-MY
+对子,pair,zh-MY
+站位,positioning,zh-MY
+换位,reposition,zh-MY
+缩角,corner,zh-MY
+一排,one row,zh-MY
+分散,spread out,zh-MY
+集中,cluster,zh-MY
+贪装,greed items,zh-MY
+速合,slam items early,zh-MY
+慢合,hold components,zh-MY
+预判,predict,zh-MY
+读牌,read the lobby,zh-MY
+看牌,scout,zh-MY
+侦查,scout,zh-MY
+版本,patch,zh-MY
+赛季,set,zh-MY
+改版,patch update,zh-MY
+环境,meta,zh-MY
+强势,strong/S-tier,zh-MY
+弱势,weak,zh-MY
+版本答案,meta comp,zh-MY
+T0,S-tier,zh-MY
+T1,A-tier,zh-MY
+T2,B-tier,zh-MY
+合装,combine items,zh-MY
+拆装,remove items,zh-MY
+嫁装,transfer items,zh-MY
+装备给谁,who to itemize,zh-MY
+出装思路,itemization guide,zh-MY

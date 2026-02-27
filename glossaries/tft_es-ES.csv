@@ -1481,7 +1481,7 @@ Zz'Rot Portal,Portal Zz'Rot,es-ES
 工具卡,utility card,es-ES
 对位,positioning,es-ES
 吃鸡,first place,es-ES
-吃分,gain LP,es-ES
+吃分,top 4,es-ES
 掉分,lose LP,es-ES
 D牌,roll down,es-ES
 抽牌,rolling,es-ES
@@ -47530,3 +47530,71 @@ scrimming,scrim,es-ES
 战力,combat,es-ES
 战力海克斯,combat augment,es-ES
 经济海克斯,econ augment,es-ES
+前四,top 4,es-ES
+后四,bot 4,es-ES
+第一,first place,es-ES
+第八,eighth place,es-ES
+炸了,bombed out,es-ES
+寄了,it's over,es-ES
+崩了,fell apart,es-ES
+稳了,stabilized,es-ES
+拉经济,build econ,es-ES
+攒钱,save gold,es-ES
+破产,broke,es-ES
+裸装,no items,es-ES
+质量,board quality,es-ES
+血压,stress/pressure,es-ES
+锁血,stabilize HP,es-ES
+卖血,lose on purpose,es-ES
+天胡,perfect start,es-ES
+开局,early game,es-ES
+中期,mid game,es-ES
+后期,late game,es-ES
+决赛圈,final rounds,es-ES
+费卡,cost unit,es-ES
+一费,1-cost,es-ES
+二费,2-cost,es-ES
+三费,3-cost,es-ES
+四费,4-cost,es-ES
+五费,5-cost,es-ES
+一星,1-star,es-ES
+二星,2-star,es-ES
+三星,3-star,es-ES
+两星,2-star,es-ES
+转职,emblem,es-ES
+纹章,emblem,es-ES
+羁绊,trait,es-ES
+阵容,comp,es-ES
+成型,complete comp,es-ES
+拉满,maxed out,es-ES
+断牌,out of units,es-ES
+卡池,champion pool,es-ES
+对子,pair,es-ES
+站位,positioning,es-ES
+换位,reposition,es-ES
+缩角,corner,es-ES
+一排,one row,es-ES
+分散,spread out,es-ES
+集中,cluster,es-ES
+贪装,greed items,es-ES
+速合,slam items early,es-ES
+慢合,hold components,es-ES
+预判,predict,es-ES
+读牌,read the lobby,es-ES
+看牌,scout,es-ES
+侦查,scout,es-ES
+版本,patch,es-ES
+赛季,set,es-ES
+改版,patch update,es-ES
+环境,meta,es-ES
+强势,strong/S-tier,es-ES
+弱势,weak,es-ES
+版本答案,meta comp,es-ES
+T0,S-tier,es-ES
+T1,A-tier,es-ES
+T2,B-tier,es-ES
+合装,combine items,es-ES
+拆装,remove items,es-ES
+嫁装,transfer items,es-ES
+装备给谁,who to itemize,es-ES
+出装思路,itemization guide,es-ES

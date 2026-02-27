@@ -1481,7 +1481,7 @@ Zz'Rot Portal,Zz'Rot Kapısı,tr
 工具卡,utility card,tr
 对位,positioning,tr
 吃鸡,first place,tr
-吃分,gain LP,tr
+吃分,top 4,tr
 掉分,lose LP,tr
 D牌,roll down,tr
 抽牌,rolling,tr
@@ -47510,3 +47510,71 @@ scrimming,scrim,tr
 战力,combat,tr
 战力海克斯,combat augment,tr
 经济海克斯,econ augment,tr
+前四,top 4,tr
+后四,bot 4,tr
+第一,first place,tr
+第八,eighth place,tr
+炸了,bombed out,tr
+寄了,it's over,tr
+崩了,fell apart,tr
+稳了,stabilized,tr
+拉经济,build econ,tr
+攒钱,save gold,tr
+破产,broke,tr
+裸装,no items,tr
+质量,board quality,tr
+血压,stress/pressure,tr
+锁血,stabilize HP,tr
+卖血,lose on purpose,tr
+天胡,perfect start,tr
+开局,early game,tr
+中期,mid game,tr
+后期,late game,tr
+决赛圈,final rounds,tr
+费卡,cost unit,tr
+一费,1-cost,tr
+二费,2-cost,tr
+三费,3-cost,tr
+四费,4-cost,tr
+五费,5-cost,tr
+一星,1-star,tr
+二星,2-star,tr
+三星,3-star,tr
+两星,2-star,tr
+转职,emblem,tr
+纹章,emblem,tr
+羁绊,trait,tr
+阵容,comp,tr
+成型,complete comp,tr
+拉满,maxed out,tr
+断牌,out of units,tr
+卡池,champion pool,tr
+对子,pair,tr
+站位,positioning,tr
+换位,reposition,tr
+缩角,corner,tr
+一排,one row,tr
+分散,spread out,tr
+集中,cluster,tr
+贪装,greed items,tr
+速合,slam items early,tr
+慢合,hold components,tr
+预判,predict,tr
+读牌,read the lobby,tr
+看牌,scout,tr
+侦查,scout,tr
+版本,patch,tr
+赛季,set,tr
+改版,patch update,tr
+环境,meta,tr
+强势,strong/S-tier,tr
+弱势,weak,tr
+版本答案,meta comp,tr
+T0,S-tier,tr
+T1,A-tier,tr
+T2,B-tier,tr
+合装,combine items,tr
+拆装,remove items,tr
+嫁装,transfer items,tr
+装备给谁,who to itemize,tr
+出装思路,itemization guide,tr

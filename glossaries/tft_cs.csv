@@ -1481,7 +1481,7 @@ Zz'Rot Portal,Portál Zz'Rotu,cs
 工具卡,utility card,cs
 对位,positioning,cs
 吃鸡,first place,cs
-吃分,gain LP,cs
+吃分,top 4,cs
 掉分,lose LP,cs
 D牌,roll down,cs
 抽牌,rolling,cs
@@ -47523,3 +47523,71 @@ scrimming,scrim,cs
 战力,combat,cs
 战力海克斯,combat augment,cs
 经济海克斯,econ augment,cs
+前四,top 4,cs
+后四,bot 4,cs
+第一,first place,cs
+第八,eighth place,cs
+炸了,bombed out,cs
+寄了,it's over,cs
+崩了,fell apart,cs
+稳了,stabilized,cs
+拉经济,build econ,cs
+攒钱,save gold,cs
+破产,broke,cs
+裸装,no items,cs
+质量,board quality,cs
+血压,stress/pressure,cs
+锁血,stabilize HP,cs
+卖血,lose on purpose,cs
+天胡,perfect start,cs
+开局,early game,cs
+中期,mid game,cs
+后期,late game,cs
+决赛圈,final rounds,cs
+费卡,cost unit,cs
+一费,1-cost,cs
+二费,2-cost,cs
+三费,3-cost,cs
+四费,4-cost,cs
+五费,5-cost,cs
+一星,1-star,cs
+二星,2-star,cs
+三星,3-star,cs
+两星,2-star,cs
+转职,emblem,cs
+纹章,emblem,cs
+羁绊,trait,cs
+阵容,comp,cs
+成型,complete comp,cs
+拉满,maxed out,cs
+断牌,out of units,cs
+卡池,champion pool,cs
+对子,pair,cs
+站位,positioning,cs
+换位,reposition,cs
+缩角,corner,cs
+一排,one row,cs
+分散,spread out,cs
+集中,cluster,cs
+贪装,greed items,cs
+速合,slam items early,cs
+慢合,hold components,cs
+预判,predict,cs
+读牌,read the lobby,cs
+看牌,scout,cs
+侦查,scout,cs
+版本,patch,cs
+赛季,set,cs
+改版,patch update,cs
+环境,meta,cs
+强势,strong/S-tier,cs
+弱势,weak,cs
+版本答案,meta comp,cs
+T0,S-tier,cs
+T1,A-tier,cs
+T2,B-tier,cs
+合装,combine items,cs
+拆装,remove items,cs
+嫁装,transfer items,cs
+装备给谁,who to itemize,cs
+出装思路,itemization guide,cs

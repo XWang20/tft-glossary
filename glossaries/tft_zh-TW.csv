@@ -1459,7 +1459,7 @@ Zz'Rot Portal,虛空之門,zh-TW
 工具卡,工具卡,zh-TW
 对位,对位,zh-TW
 吃鸡,吃鸡,zh-TW
-吃分,吃分,zh-TW
+吃分,top 4,zh-TW
 掉分,掉分,zh-TW
 D牌,D牌,zh-TW
 抽牌,抽牌,zh-TW
@@ -47339,3 +47339,71 @@ scrimming,scrim,zh-TW
 战力,combat,zh-TW
 战力海克斯,combat augment,zh-TW
 经济海克斯,econ augment,zh-TW
+前四,top 4,zh-TW
+后四,bot 4,zh-TW
+第一,first place,zh-TW
+第八,eighth place,zh-TW
+炸了,bombed out,zh-TW
+寄了,it's over,zh-TW
+崩了,fell apart,zh-TW
+稳了,stabilized,zh-TW
+拉经济,build econ,zh-TW
+攒钱,save gold,zh-TW
+破产,broke,zh-TW
+裸装,no items,zh-TW
+质量,board quality,zh-TW
+血压,stress/pressure,zh-TW
+锁血,stabilize HP,zh-TW
+卖血,lose on purpose,zh-TW
+天胡,perfect start,zh-TW
+开局,early game,zh-TW
+中期,mid game,zh-TW
+后期,late game,zh-TW
+决赛圈,final rounds,zh-TW
+费卡,cost unit,zh-TW
+一费,1-cost,zh-TW
+二费,2-cost,zh-TW
+三费,3-cost,zh-TW
+四费,4-cost,zh-TW
+五费,5-cost,zh-TW
+一星,1-star,zh-TW
+二星,2-star,zh-TW
+三星,3-star,zh-TW
+两星,2-star,zh-TW
+转职,emblem,zh-TW
+纹章,emblem,zh-TW
+羁绊,trait,zh-TW
+阵容,comp,zh-TW
+成型,complete comp,zh-TW
+拉满,maxed out,zh-TW
+断牌,out of units,zh-TW
+卡池,champion pool,zh-TW
+对子,pair,zh-TW
+站位,positioning,zh-TW
+换位,reposition,zh-TW
+缩角,corner,zh-TW
+一排,one row,zh-TW
+分散,spread out,zh-TW
+集中,cluster,zh-TW
+贪装,greed items,zh-TW
+速合,slam items early,zh-TW
+慢合,hold components,zh-TW
+预判,predict,zh-TW
+读牌,read the lobby,zh-TW
+看牌,scout,zh-TW
+侦查,scout,zh-TW
+版本,patch,zh-TW
+赛季,set,zh-TW
+改版,patch update,zh-TW
+环境,meta,zh-TW
+强势,strong/S-tier,zh-TW
+弱势,weak,zh-TW
+版本答案,meta comp,zh-TW
+T0,S-tier,zh-TW
+T1,A-tier,zh-TW
+T2,B-tier,zh-TW
+合装,combine items,zh-TW
+拆装,remove items,zh-TW
+嫁装,transfer items,zh-TW
+装备给谁,who to itemize,zh-TW
+出装思路,itemization guide,zh-TW

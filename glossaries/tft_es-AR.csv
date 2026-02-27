@@ -1481,7 +1481,7 @@ Zz'Rot Portal,Portal Zz'Rot,es-AR
 工具卡,utility card,es-AR
 对位,positioning,es-AR
 吃鸡,first place,es-AR
-吃分,gain LP,es-AR
+吃分,top 4,es-AR
 掉分,lose LP,es-AR
 D牌,roll down,es-AR
 抽牌,rolling,es-AR
@@ -47502,3 +47502,71 @@ scrimming,scrim,es-AR
 战力,combat,es-AR
 战力海克斯,combat augment,es-AR
 经济海克斯,econ augment,es-AR
+前四,top 4,es-AR
+后四,bot 4,es-AR
+第一,first place,es-AR
+第八,eighth place,es-AR
+炸了,bombed out,es-AR
+寄了,it's over,es-AR
+崩了,fell apart,es-AR
+稳了,stabilized,es-AR
+拉经济,build econ,es-AR
+攒钱,save gold,es-AR
+破产,broke,es-AR
+裸装,no items,es-AR
+质量,board quality,es-AR
+血压,stress/pressure,es-AR
+锁血,stabilize HP,es-AR
+卖血,lose on purpose,es-AR
+天胡,perfect start,es-AR
+开局,early game,es-AR
+中期,mid game,es-AR
+后期,late game,es-AR
+决赛圈,final rounds,es-AR
+费卡,cost unit,es-AR
+一费,1-cost,es-AR
+二费,2-cost,es-AR
+三费,3-cost,es-AR
+四费,4-cost,es-AR
+五费,5-cost,es-AR
+一星,1-star,es-AR
+二星,2-star,es-AR
+三星,3-star,es-AR
+两星,2-star,es-AR
+转职,emblem,es-AR
+纹章,emblem,es-AR
+羁绊,trait,es-AR
+阵容,comp,es-AR
+成型,complete comp,es-AR
+拉满,maxed out,es-AR
+断牌,out of units,es-AR
+卡池,champion pool,es-AR
+对子,pair,es-AR
+站位,positioning,es-AR
+换位,reposition,es-AR
+缩角,corner,es-AR
+一排,one row,es-AR
+分散,spread out,es-AR
+集中,cluster,es-AR
+贪装,greed items,es-AR
+速合,slam items early,es-AR
+慢合,hold components,es-AR
+预判,predict,es-AR
+读牌,read the lobby,es-AR
+看牌,scout,es-AR
+侦查,scout,es-AR
+版本,patch,es-AR
+赛季,set,es-AR
+改版,patch update,es-AR
+环境,meta,es-AR
+强势,strong/S-tier,es-AR
+弱势,weak,es-AR
+版本答案,meta comp,es-AR
+T0,S-tier,es-AR
+T1,A-tier,es-AR
+T2,B-tier,es-AR
+合装,combine items,es-AR
+拆装,remove items,es-AR
+嫁装,transfer items,es-AR
+装备给谁,who to itemize,es-AR
+出装思路,itemization guide,es-AR

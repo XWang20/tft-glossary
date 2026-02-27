@@ -48022,7 +48022,7 @@ UwU砲,UwU魔爆炮,zh-CN
 工具人,utility unit,zh-CN
 D牌,roll down,zh-CN
 吃鸡,first place,zh-CN
-吃分,gain LP,zh-CN
+吃分,top 4,zh-CN
 散件,components,zh-CN
 肉装,tank items,zh-CN
 输出装,damage items,zh-CN
@@ -48248,3 +48248,72 @@ scrimming,打训练赛,zh-CN
 战力,combat,zh-CN
 战力海克斯,combat augment,zh-CN
 经济海克斯,econ augment,zh-CN
+前四,top 4,zh-CN
+后四,bot 4,zh-CN
+第一,first place,zh-CN
+第八,eighth place,zh-CN
+炸了,bombed out,zh-CN
+寄了,it's over,zh-CN
+崩了,fell apart,zh-CN
+稳了,stabilized,zh-CN
+拉经济,build econ,zh-CN
+攒钱,save gold,zh-CN
+破产,broke,zh-CN
+裸装,no items,zh-CN
+质量,board quality,zh-CN
+血压,stress/pressure,zh-CN
+锁血,stabilize HP,zh-CN
+卖血,lose on purpose,zh-CN
+天胡,perfect start,zh-CN
+开局,early game,zh-CN
+中期,mid game,zh-CN
+后期,late game,zh-CN
+决赛圈,final rounds,zh-CN
+费卡,cost unit,zh-CN
+一费,1-cost,zh-CN
+二费,2-cost,zh-CN
+三费,3-cost,zh-CN
+四费,4-cost,zh-CN
+五费,5-cost,zh-CN
+一星,1-star,zh-CN
+二星,2-star,zh-CN
+三星,3-star,zh-CN
+两星,2-star,zh-CN
+金铲铲,Spatula,zh-CN
+转职,emblem,zh-CN
+纹章,emblem,zh-CN
+羁绊,trait,zh-CN
+阵容,comp,zh-CN
+成型,complete comp,zh-CN
+拉满,maxed out,zh-CN
+断牌,out of units,zh-CN
+卡池,champion pool,zh-CN
+对子,pair,zh-CN
+站位,positioning,zh-CN
+换位,reposition,zh-CN
+缩角,corner,zh-CN
+一排,one row,zh-CN
+分散,spread out,zh-CN
+集中,cluster,zh-CN
+贪装,greed items,zh-CN
+速合,slam items early,zh-CN
+慢合,hold components,zh-CN
+预判,predict,zh-CN
+读牌,read the lobby,zh-CN
+看牌,scout,zh-CN
+侦查,scout,zh-CN
+版本,patch,zh-CN
+赛季,set,zh-CN
+改版,patch update,zh-CN
+环境,meta,zh-CN
+强势,strong/S-tier,zh-CN
+弱势,weak,zh-CN
+版本答案,meta comp,zh-CN
+T0,S-tier,zh-CN
+T1,A-tier,zh-CN
+T2,B-tier,zh-CN
+合装,combine items,zh-CN
+拆装,remove items,zh-CN
+嫁装,transfer items,zh-CN
+装备给谁,who to itemize,zh-CN
+出装思路,itemization guide,zh-CN

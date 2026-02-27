@@ -1001,7 +1001,7 @@ Zz'Rot Portal,ジ＝ロット ポータル,ja
 工具卡,utility card,ja
 对位,positioning,ja
 吃鸡,first place,ja
-吃分,gain LP,ja
+吃分,top 4,ja
 掉分,lose LP,ja
 D牌,roll down,ja
 抽牌,rolling,ja
@@ -48615,3 +48615,71 @@ scrimming,scrim,ja
 战力,combat,ja
 战力海克斯,combat augment,ja
 经济海克斯,econ augment,ja
+前四,top 4,ja
+后四,bot 4,ja
+第一,first place,ja
+第八,eighth place,ja
+炸了,bombed out,ja
+寄了,it's over,ja
+崩了,fell apart,ja
+稳了,stabilized,ja
+拉经济,build econ,ja
+攒钱,save gold,ja
+破产,broke,ja
+裸装,no items,ja
+质量,board quality,ja
+血压,stress/pressure,ja
+锁血,stabilize HP,ja
+卖血,lose on purpose,ja
+天胡,perfect start,ja
+开局,early game,ja
+中期,mid game,ja
+后期,late game,ja
+决赛圈,final rounds,ja
+费卡,cost unit,ja
+一费,1-cost,ja
+二费,2-cost,ja
+三费,3-cost,ja
+四费,4-cost,ja
+五费,5-cost,ja
+一星,1-star,ja
+二星,2-star,ja
+三星,3-star,ja
+两星,2-star,ja
+转职,emblem,ja
+纹章,emblem,ja
+羁绊,trait,ja
+阵容,comp,ja
+成型,complete comp,ja
+拉满,maxed out,ja
+断牌,out of units,ja
+卡池,champion pool,ja
+对子,pair,ja
+站位,positioning,ja
+换位,reposition,ja
+缩角,corner,ja
+一排,one row,ja
+分散,spread out,ja
+集中,cluster,ja
+贪装,greed items,ja
+速合,slam items early,ja
+慢合,hold components,ja
+预判,predict,ja
+读牌,read the lobby,ja
+看牌,scout,ja
+侦查,scout,ja
+版本,patch,ja
+赛季,set,ja
+改版,patch update,ja
+环境,meta,ja
+强势,strong/S-tier,ja
+弱势,weak,ja
+版本答案,meta comp,ja
+T0,S-tier,ja
+T1,A-tier,ja
+T2,B-tier,ja
+合装,combine items,ja
+拆装,remove items,ja
+嫁装,transfer items,ja
+装备给谁,who to itemize,ja
+出装思路,itemization guide,ja

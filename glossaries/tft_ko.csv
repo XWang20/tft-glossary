@@ -1482,7 +1482,7 @@ Zz'Rot Portal,즈롯 차원문,ko
 工具卡,utility card,ko
 对位,positioning,ko
 吃鸡,first place,ko
-吃分,gain LP,ko
+吃分,top 4,ko
 掉分,lose LP,ko
 D牌,roll down,ko
 抽牌,rolling,ko
@@ -47396,3 +47396,71 @@ scrimming,scrim,ko
 战力,combat,ko
 战力海克斯,combat augment,ko
 经济海克斯,econ augment,ko
+前四,top 4,ko
+后四,bot 4,ko
+第一,first place,ko
+第八,eighth place,ko
+炸了,bombed out,ko
+寄了,it's over,ko
+崩了,fell apart,ko
+稳了,stabilized,ko
+拉经济,build econ,ko
+攒钱,save gold,ko
+破产,broke,ko
+裸装,no items,ko
+质量,board quality,ko
+血压,stress/pressure,ko
+锁血,stabilize HP,ko
+卖血,lose on purpose,ko
+天胡,perfect start,ko
+开局,early game,ko
+中期,mid game,ko
+后期,late game,ko
+决赛圈,final rounds,ko
+费卡,cost unit,ko
+一费,1-cost,ko
+二费,2-cost,ko
+三费,3-cost,ko
+四费,4-cost,ko
+五费,5-cost,ko
+一星,1-star,ko
+二星,2-star,ko
+三星,3-star,ko
+两星,2-star,ko
+转职,emblem,ko
+纹章,emblem,ko
+羁绊,trait,ko
+阵容,comp,ko
+成型,complete comp,ko
+拉满,maxed out,ko
+断牌,out of units,ko
+卡池,champion pool,ko
+对子,pair,ko
+站位,positioning,ko
+换位,reposition,ko
+缩角,corner,ko
+一排,one row,ko
+分散,spread out,ko
+集中,cluster,ko
+贪装,greed items,ko
+速合,slam items early,ko
+慢合,hold components,ko
+预判,predict,ko
+读牌,read the lobby,ko
+看牌,scout,ko
+侦查,scout,ko
+版本,patch,ko
+赛季,set,ko
+改版,patch update,ko
+环境,meta,ko
+强势,strong/S-tier,ko
+弱势,weak,ko
+版本答案,meta comp,ko
+T0,S-tier,ko
+T1,A-tier,ko
+T2,B-tier,ko
+合装,combine items,ko
+拆装,remove items,ko
+嫁装,transfer items,ko
+装备给谁,who to itemize,ko
+出装思路,itemization guide,ko

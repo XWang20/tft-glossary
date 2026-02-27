@@ -1482,7 +1482,7 @@ Zz'Rot Portal,Portal de Zz'Rot,pt-BR
 工具卡,utility card,pt-BR
 对位,positioning,pt-BR
 吃鸡,first place,pt-BR
-吃分,gain LP,pt-BR
+吃分,top 4,pt-BR
 掉分,lose LP,pt-BR
 D牌,roll down,pt-BR
 抽牌,rolling,pt-BR
@@ -47495,3 +47495,71 @@ scrimming,scrim,pt-BR
 战力,combat,pt-BR
 战力海克斯,combat augment,pt-BR
 经济海克斯,econ augment,pt-BR
+前四,top 4,pt-BR
+后四,bot 4,pt-BR
+第一,first place,pt-BR
+第八,eighth place,pt-BR
+炸了,bombed out,pt-BR
+寄了,it's over,pt-BR
+崩了,fell apart,pt-BR
+稳了,stabilized,pt-BR
+拉经济,build econ,pt-BR
+攒钱,save gold,pt-BR
+破产,broke,pt-BR
+裸装,no items,pt-BR
+质量,board quality,pt-BR
+血压,stress/pressure,pt-BR
+锁血,stabilize HP,pt-BR
+卖血,lose on purpose,pt-BR
+天胡,perfect start,pt-BR
+开局,early game,pt-BR
+中期,mid game,pt-BR
+后期,late game,pt-BR
+决赛圈,final rounds,pt-BR
+费卡,cost unit,pt-BR
+一费,1-cost,pt-BR
+二费,2-cost,pt-BR
+三费,3-cost,pt-BR
+四费,4-cost,pt-BR
+五费,5-cost,pt-BR
+一星,1-star,pt-BR
+二星,2-star,pt-BR
+三星,3-star,pt-BR
+两星,2-star,pt-BR
+转职,emblem,pt-BR
+纹章,emblem,pt-BR
+羁绊,trait,pt-BR
+阵容,comp,pt-BR
+成型,complete comp,pt-BR
+拉满,maxed out,pt-BR
+断牌,out of units,pt-BR
+卡池,champion pool,pt-BR
+对子,pair,pt-BR
+站位,positioning,pt-BR
+换位,reposition,pt-BR
+缩角,corner,pt-BR
+一排,one row,pt-BR
+分散,spread out,pt-BR
+集中,cluster,pt-BR
+贪装,greed items,pt-BR
+速合,slam items early,pt-BR
+慢合,hold components,pt-BR
+预判,predict,pt-BR
+读牌,read the lobby,pt-BR
+看牌,scout,pt-BR
+侦查,scout,pt-BR
+版本,patch,pt-BR
+赛季,set,pt-BR
+改版,patch update,pt-BR
+环境,meta,pt-BR
+强势,strong/S-tier,pt-BR
+弱势,weak,pt-BR
+版本答案,meta comp,pt-BR
+T0,S-tier,pt-BR
+T1,A-tier,pt-BR
+T2,B-tier,pt-BR
+合装,combine items,pt-BR
+拆装,remove items,pt-BR
+嫁装,transfer items,pt-BR
+装备给谁,who to itemize,pt-BR
+出装思路,itemization guide,pt-BR

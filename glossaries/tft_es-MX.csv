@@ -1481,7 +1481,7 @@ Zz'Rot Portal,Portal Zz'Rot,es-MX
 工具卡,utility card,es-MX
 对位,positioning,es-MX
 吃鸡,first place,es-MX
-吃分,gain LP,es-MX
+吃分,top 4,es-MX
 掉分,lose LP,es-MX
 D牌,roll down,es-MX
 抽牌,rolling,es-MX
@@ -47502,3 +47502,71 @@ scrimming,scrim,es-MX
 战力,combat,es-MX
 战力海克斯,combat augment,es-MX
 经济海克斯,econ augment,es-MX
+前四,top 4,es-MX
+后四,bot 4,es-MX
+第一,first place,es-MX
+第八,eighth place,es-MX
+炸了,bombed out,es-MX
+寄了,it's over,es-MX
+崩了,fell apart,es-MX
+稳了,stabilized,es-MX
+拉经济,build econ,es-MX
+攒钱,save gold,es-MX
+破产,broke,es-MX
+裸装,no items,es-MX
+质量,board quality,es-MX
+血压,stress/pressure,es-MX
+锁血,stabilize HP,es-MX
+卖血,lose on purpose,es-MX
+天胡,perfect start,es-MX
+开局,early game,es-MX
+中期,mid game,es-MX
+后期,late game,es-MX
+决赛圈,final rounds,es-MX
+费卡,cost unit,es-MX
+一费,1-cost,es-MX
+二费,2-cost,es-MX
+三费,3-cost,es-MX
+四费,4-cost,es-MX
+五费,5-cost,es-MX
+一星,1-star,es-MX
+二星,2-star,es-MX
+三星,3-star,es-MX
+两星,2-star,es-MX
+转职,emblem,es-MX
+纹章,emblem,es-MX
+羁绊,trait,es-MX
+阵容,comp,es-MX
+成型,complete comp,es-MX
+拉满,maxed out,es-MX
+断牌,out of units,es-MX
+卡池,champion pool,es-MX
+对子,pair,es-MX
+站位,positioning,es-MX
+换位,reposition,es-MX
+缩角,corner,es-MX
+一排,one row,es-MX
+分散,spread out,es-MX
+集中,cluster,es-MX
+贪装,greed items,es-MX
+速合,slam items early,es-MX
+慢合,hold components,es-MX
+预判,predict,es-MX
+读牌,read the lobby,es-MX
+看牌,scout,es-MX
+侦查,scout,es-MX
+版本,patch,es-MX
+赛季,set,es-MX
+改版,patch update,es-MX
+环境,meta,es-MX
+强势,strong/S-tier,es-MX
+弱势,weak,es-MX
+版本答案,meta comp,es-MX
+T0,S-tier,es-MX
+T1,A-tier,es-MX
+T2,B-tier,es-MX
+合装,combine items,es-MX
+拆装,remove items,es-MX
+嫁装,transfer items,es-MX
+装备给谁,who to itemize,es-MX
+出装思路,itemization guide,es-MX

@@ -1481,7 +1481,7 @@ Zz'Rot Portal,Zz'Rot-Portal,de
 工具卡,utility card,de
 对位,positioning,de
 吃鸡,first place,de
-吃分,gain LP,de
+吃分,top 4,de
 掉分,lose LP,de
 D牌,roll down,de
 抽牌,rolling,de
@@ -47479,3 +47479,71 @@ scrimming,scrim,de
 战力,combat,de
 战力海克斯,combat augment,de
 经济海克斯,econ augment,de
+前四,top 4,de
+后四,bot 4,de
+第一,first place,de
+第八,eighth place,de
+炸了,bombed out,de
+寄了,it's over,de
+崩了,fell apart,de
+稳了,stabilized,de
+拉经济,build econ,de
+攒钱,save gold,de
+破产,broke,de
+裸装,no items,de
+质量,board quality,de
+血压,stress/pressure,de
+锁血,stabilize HP,de
+卖血,lose on purpose,de
+天胡,perfect start,de
+开局,early game,de
+中期,mid game,de
+后期,late game,de
+决赛圈,final rounds,de
+费卡,cost unit,de
+一费,1-cost,de
+二费,2-cost,de
+三费,3-cost,de
+四费,4-cost,de
+五费,5-cost,de
+一星,1-star,de
+二星,2-star,de
+三星,3-star,de
+两星,2-star,de
+转职,emblem,de
+纹章,emblem,de
+羁绊,trait,de
+阵容,comp,de
+成型,complete comp,de
+拉满,maxed out,de
+断牌,out of units,de
+卡池,champion pool,de
+对子,pair,de
+站位,positioning,de
+换位,reposition,de
+缩角,corner,de
+一排,one row,de
+分散,spread out,de
+集中,cluster,de
+贪装,greed items,de
+速合,slam items early,de
+慢合,hold components,de
+预判,predict,de
+读牌,read the lobby,de
+看牌,scout,de
+侦查,scout,de
+版本,patch,de
+赛季,set,de
+改版,patch update,de
+环境,meta,de
+强势,strong/S-tier,de
+弱势,weak,de
+版本答案,meta comp,de
+T0,S-tier,de
+T1,A-tier,de
+T2,B-tier,de
+合装,combine items,de
+拆装,remove items,de
+嫁装,transfer items,de
+装备给谁,who to itemize,de
+出装思路,itemization guide,de

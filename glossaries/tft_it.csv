@@ -1481,7 +1481,7 @@ Zz'Rot Portal,Portale Zz'Rot,it
 工具卡,utility card,it
 对位,positioning,it
 吃鸡,first place,it
-吃分,gain LP,it
+吃分,top 4,it
 掉分,lose LP,it
 D牌,roll down,it
 抽牌,rolling,it
@@ -47505,3 +47505,71 @@ scrimming,scrim,it
 战力,combat,it
 战力海克斯,combat augment,it
 经济海克斯,econ augment,it
+前四,top 4,it
+后四,bot 4,it
+第一,first place,it
+第八,eighth place,it
+炸了,bombed out,it
+寄了,it's over,it
+崩了,fell apart,it
+稳了,stabilized,it
+拉经济,build econ,it
+攒钱,save gold,it
+破产,broke,it
+裸装,no items,it
+质量,board quality,it
+血压,stress/pressure,it
+锁血,stabilize HP,it
+卖血,lose on purpose,it
+天胡,perfect start,it
+开局,early game,it
+中期,mid game,it
+后期,late game,it
+决赛圈,final rounds,it
+费卡,cost unit,it
+一费,1-cost,it
+二费,2-cost,it
+三费,3-cost,it
+四费,4-cost,it
+五费,5-cost,it
+一星,1-star,it
+二星,2-star,it
+三星,3-star,it
+两星,2-star,it
+转职,emblem,it
+纹章,emblem,it
+羁绊,trait,it
+阵容,comp,it
+成型,complete comp,it
+拉满,maxed out,it
+断牌,out of units,it
+卡池,champion pool,it
+对子,pair,it
+站位,positioning,it
+换位,reposition,it
+缩角,corner,it
+一排,one row,it
+分散,spread out,it
+集中,cluster,it
+贪装,greed items,it
+速合,slam items early,it
+慢合,hold components,it
+预判,predict,it
+读牌,read the lobby,it
+看牌,scout,it
+侦查,scout,it
+版本,patch,it
+赛季,set,it
+改版,patch update,it
+环境,meta,it
+强势,strong/S-tier,it
+弱势,weak,it
+版本答案,meta comp,it
+T0,S-tier,it
+T1,A-tier,it
+T2,B-tier,it
+合装,combine items,it
+拆装,remove items,it
+嫁装,transfer items,it
+装备给谁,who to itemize,it
+出装思路,itemization guide,it

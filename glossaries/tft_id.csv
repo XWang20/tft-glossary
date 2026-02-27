@@ -1482,7 +1482,7 @@ Zz'Rot Portal,Zz'Rot Portal,id
 工具卡,utility card,id
 对位,positioning,id
 吃鸡,first place,id
-吃分,gain LP,id
+吃分,top 4,id
 掉分,lose LP,id
 D牌,roll down,id
 抽牌,rolling,id
@@ -48877,3 +48877,71 @@ scrimming,scrim,id
 战力,combat,id
 战力海克斯,combat augment,id
 经济海克斯,econ augment,id
+前四,top 4,id
+后四,bot 4,id
+第一,first place,id
+第八,eighth place,id
+炸了,bombed out,id
+寄了,it's over,id
+崩了,fell apart,id
+稳了,stabilized,id
+拉经济,build econ,id
+攒钱,save gold,id
+破产,broke,id
+裸装,no items,id
+质量,board quality,id
+血压,stress/pressure,id
+锁血,stabilize HP,id
+卖血,lose on purpose,id
+天胡,perfect start,id
+开局,early game,id
+中期,mid game,id
+后期,late game,id
+决赛圈,final rounds,id
+费卡,cost unit,id
+一费,1-cost,id
+二费,2-cost,id
+三费,3-cost,id
+四费,4-cost,id
+五费,5-cost,id
+一星,1-star,id
+二星,2-star,id
+三星,3-star,id
+两星,2-star,id
+转职,emblem,id
+纹章,emblem,id
+羁绊,trait,id
+阵容,comp,id
+成型,complete comp,id
+拉满,maxed out,id
+断牌,out of units,id
+卡池,champion pool,id
+对子,pair,id
+站位,positioning,id
+换位,reposition,id
+缩角,corner,id
+一排,one row,id
+分散,spread out,id
+集中,cluster,id
+贪装,greed items,id
+速合,slam items early,id
+慢合,hold components,id
+预判,predict,id
+读牌,read the lobby,id
+看牌,scout,id
+侦查,scout,id
+版本,patch,id
+赛季,set,id
+改版,patch update,id
+环境,meta,id
+强势,strong/S-tier,id
+弱势,weak,id
+版本答案,meta comp,id
+T0,S-tier,id
+T1,A-tier,id
+T2,B-tier,id
+合装,combine items,id
+拆装,remove items,id
+嫁装,transfer items,id
+装备给谁,who to itemize,id
+出装思路,itemization guide,id

@@ -1482,7 +1482,7 @@ Zz'Rot Portal,Портал Зз'Рота,ru
 工具卡,utility card,ru
 对位,positioning,ru
 吃鸡,first place,ru
-吃分,gain LP,ru
+吃分,top 4,ru
 掉分,lose LP,ru
 D牌,roll down,ru
 抽牌,rolling,ru
@@ -47398,3 +47398,71 @@ scrimming,scrim,ru
 战力,combat,ru
 战力海克斯,combat augment,ru
 经济海克斯,econ augment,ru
+前四,top 4,ru
+后四,bot 4,ru
+第一,first place,ru
+第八,eighth place,ru
+炸了,bombed out,ru
+寄了,it's over,ru
+崩了,fell apart,ru
+稳了,stabilized,ru
+拉经济,build econ,ru
+攒钱,save gold,ru
+破产,broke,ru
+裸装,no items,ru
+质量,board quality,ru
+血压,stress/pressure,ru
+锁血,stabilize HP,ru
+卖血,lose on purpose,ru
+天胡,perfect start,ru
+开局,early game,ru
+中期,mid game,ru
+后期,late game,ru
+决赛圈,final rounds,ru
+费卡,cost unit,ru
+一费,1-cost,ru
+二费,2-cost,ru
+三费,3-cost,ru
+四费,4-cost,ru
+五费,5-cost,ru
+一星,1-star,ru
+二星,2-star,ru
+三星,3-star,ru
+两星,2-star,ru
+转职,emblem,ru
+纹章,emblem,ru
+羁绊,trait,ru
+阵容,comp,ru
+成型,complete comp,ru
+拉满,maxed out,ru
+断牌,out of units,ru
+卡池,champion pool,ru
+对子,pair,ru
+站位,positioning,ru
+换位,reposition,ru
+缩角,corner,ru
+一排,one row,ru
+分散,spread out,ru
+集中,cluster,ru
+贪装,greed items,ru
+速合,slam items early,ru
+慢合,hold components,ru
+预判,predict,ru
+读牌,read the lobby,ru
+看牌,scout,ru
+侦查,scout,ru
+版本,patch,ru
+赛季,set,ru
+改版,patch update,ru
+环境,meta,ru
+强势,strong/S-tier,ru
+弱势,weak,ru
+版本答案,meta comp,ru
+T0,S-tier,ru
+T1,A-tier,ru
+T2,B-tier,ru
+合装,combine items,ru
+拆装,remove items,ru
+嫁装,transfer items,ru
+装备给谁,who to itemize,ru
+出装思路,itemization guide,ru

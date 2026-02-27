@@ -1481,7 +1481,7 @@ Zz'Rot Portal,Portal Zz'rot,pl
 工具卡,utility card,pl
 对位,positioning,pl
 吃鸡,first place,pl
-吃分,gain LP,pl
+吃分,top 4,pl
 掉分,lose LP,pl
 D牌,roll down,pl
 抽牌,rolling,pl
@@ -47526,3 +47526,71 @@ scrimming,scrim,pl
 战力,combat,pl
 战力海克斯,combat augment,pl
 经济海克斯,econ augment,pl
+前四,top 4,pl
+后四,bot 4,pl
+第一,first place,pl
+第八,eighth place,pl
+炸了,bombed out,pl
+寄了,it's over,pl
+崩了,fell apart,pl
+稳了,stabilized,pl
+拉经济,build econ,pl
+攒钱,save gold,pl
+破产,broke,pl
+裸装,no items,pl
+质量,board quality,pl
+血压,stress/pressure,pl
+锁血,stabilize HP,pl
+卖血,lose on purpose,pl
+天胡,perfect start,pl
+开局,early game,pl
+中期,mid game,pl
+后期,late game,pl
+决赛圈,final rounds,pl
+费卡,cost unit,pl
+一费,1-cost,pl
+二费,2-cost,pl
+三费,3-cost,pl
+四费,4-cost,pl
+五费,5-cost,pl
+一星,1-star,pl
+二星,2-star,pl
+三星,3-star,pl
+两星,2-star,pl
+转职,emblem,pl
+纹章,emblem,pl
+羁绊,trait,pl
+阵容,comp,pl
+成型,complete comp,pl
+拉满,maxed out,pl
+断牌,out of units,pl
+卡池,champion pool,pl
+对子,pair,pl
+站位,positioning,pl
+换位,reposition,pl
+缩角,corner,pl
+一排,one row,pl
+分散,spread out,pl
+集中,cluster,pl
+贪装,greed items,pl
+速合,slam items early,pl
+慢合,hold components,pl
+预判,predict,pl
+读牌,read the lobby,pl
+看牌,scout,pl
+侦查,scout,pl
+版本,patch,pl
+赛季,set,pl
+改版,patch update,pl
+环境,meta,pl
+强势,strong/S-tier,pl
+弱势,weak,pl
+版本答案,meta comp,pl
+T0,S-tier,pl
+T1,A-tier,pl
+T2,B-tier,pl
+合装,combine items,pl
+拆装,remove items,pl
+嫁装,transfer items,pl
+装备给谁,who to itemize,pl
+出装思路,itemization guide,pl

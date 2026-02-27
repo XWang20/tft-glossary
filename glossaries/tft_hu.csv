@@ -1482,7 +1482,7 @@ Zz'Rot Portal,Zz'Rot-kapu,hu
 工具卡,utility card,hu
 对位,positioning,hu
 吃鸡,first place,hu
-吃分,gain LP,hu
+吃分,top 4,hu
 掉分,lose LP,hu
 D牌,roll down,hu
 抽牌,rolling,hu
@@ -47366,3 +47366,71 @@ scrimming,scrim,hu
 战力,combat,hu
 战力海克斯,combat augment,hu
 经济海克斯,econ augment,hu
+前四,top 4,hu
+后四,bot 4,hu
+第一,first place,hu
+第八,eighth place,hu
+炸了,bombed out,hu
+寄了,it's over,hu
+崩了,fell apart,hu
+稳了,stabilized,hu
+拉经济,build econ,hu
+攒钱,save gold,hu
+破产,broke,hu
+裸装,no items,hu
+质量,board quality,hu
+血压,stress/pressure,hu
+锁血,stabilize HP,hu
+卖血,lose on purpose,hu
+天胡,perfect start,hu
+开局,early game,hu
+中期,mid game,hu
+后期,late game,hu
+决赛圈,final rounds,hu
+费卡,cost unit,hu
+一费,1-cost,hu
+二费,2-cost,hu
+三费,3-cost,hu
+四费,4-cost,hu
+五费,5-cost,hu
+一星,1-star,hu
+二星,2-star,hu
+三星,3-star,hu
+两星,2-star,hu
+转职,emblem,hu
+纹章,emblem,hu
+羁绊,trait,hu
+阵容,comp,hu
+成型,complete comp,hu
+拉满,maxed out,hu
+断牌,out of units,hu
+卡池,champion pool,hu
+对子,pair,hu
+站位,positioning,hu
+换位,reposition,hu
+缩角,corner,hu
+一排,one row,hu
+分散,spread out,hu
+集中,cluster,hu
+贪装,greed items,hu
+速合,slam items early,hu
+慢合,hold components,hu
+预判,predict,hu
+读牌,read the lobby,hu
+看牌,scout,hu
+侦查,scout,hu
+版本,patch,hu
+赛季,set,hu
+改版,patch update,hu
+环境,meta,hu
+强势,strong/S-tier,hu
+弱势,weak,hu
+版本答案,meta comp,hu
+T0,S-tier,hu
+T1,A-tier,hu
+T2,B-tier,hu
+合装,combine items,hu
+拆装,remove items,hu
+嫁装,transfer items,hu
+装备给谁,who to itemize,hu
+出装思路,itemization guide,hu

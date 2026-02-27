@@ -1482,7 +1482,7 @@ Zz'Rot Portal,Zz'Rot Portal,th
 工具卡,utility card,th
 对位,positioning,th
 吃鸡,first place,th
-吃分,gain LP,th
+吃分,top 4,th
 掉分,lose LP,th
 D牌,roll down,th
 抽牌,rolling,th
@@ -48909,3 +48909,71 @@ scrimming,scrim,th
 战力,combat,th
 战力海克斯,combat augment,th
 经济海克斯,econ augment,th
+前四,top 4,th
+后四,bot 4,th
+第一,first place,th
+第八,eighth place,th
+炸了,bombed out,th
+寄了,it's over,th
+崩了,fell apart,th
+稳了,stabilized,th
+拉经济,build econ,th
+攒钱,save gold,th
+破产,broke,th
+裸装,no items,th
+质量,board quality,th
+血压,stress/pressure,th
+锁血,stabilize HP,th
+卖血,lose on purpose,th
+天胡,perfect start,th
+开局,early game,th
+中期,mid game,th
+后期,late game,th
+决赛圈,final rounds,th
+费卡,cost unit,th
+一费,1-cost,th
+二费,2-cost,th
+三费,3-cost,th
+四费,4-cost,th
+五费,5-cost,th
+一星,1-star,th
+二星,2-star,th
+三星,3-star,th
+两星,2-star,th
+转职,emblem,th
+纹章,emblem,th
+羁绊,trait,th
+阵容,comp,th
+成型,complete comp,th
+拉满,maxed out,th
+断牌,out of units,th
+卡池,champion pool,th
+对子,pair,th
+站位,positioning,th
+换位,reposition,th
+缩角,corner,th
+一排,one row,th
+分散,spread out,th
+集中,cluster,th
+贪装,greed items,th
+速合,slam items early,th
+慢合,hold components,th
+预判,predict,th
+读牌,read the lobby,th
+看牌,scout,th
+侦查,scout,th
+版本,patch,th
+赛季,set,th
+改版,patch update,th
+环境,meta,th
+强势,strong/S-tier,th
+弱势,weak,th
+版本答案,meta comp,th
+T0,S-tier,th
+T1,A-tier,th
+T2,B-tier,th
+合装,combine items,th
+拆装,remove items,th
+嫁装,transfer items,th
+装备给谁,who to itemize,th
+出装思路,itemization guide,th

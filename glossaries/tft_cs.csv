@@ -1489,7 +1489,7 @@ D牌,roll down,cs
 功能装,utility items,cs
 肉装,tank items,cs
 输出装,damage items,cs
-橙装,artifact,cs
+橙装,神器,cs
 构筑,comp build,cs
 牌库,champion pool,cs
 强势期,power spike,cs
@@ -1501,7 +1501,6 @@ D牌,roll down,cs
 破甲,armor shred,cs
 减抗,resistance reduction,cs
 重伤,grievous wounds,cs
-嫁妆,innate item,cs
 赌狗,reroll player,cs
 白嫖,naturaled,cs
 掉血,bleeding HP,cs

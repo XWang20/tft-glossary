@@ -1490,7 +1490,7 @@ D牌,roll down,ar
 功能装,utility items,ar
 肉装,tank items,ar
 输出装,damage items,ar
-橙装,artifact,ar
+橙装,神器,ar
 构筑,comp build,ar
 牌库,champion pool,ar
 强势期,power spike,ar
@@ -1502,7 +1502,6 @@ D牌,roll down,ar
 破甲,armor shred,ar
 减抗,resistance reduction,ar
 重伤,grievous wounds,ar
-嫁妆,innate item,ar
 赌狗,reroll player,ar
 白嫖,naturaled,ar
 掉血,bleeding HP,ar

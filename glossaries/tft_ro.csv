@@ -1490,7 +1490,7 @@ D牌,roll down,ro
 功能装,utility items,ro
 肉装,tank items,ro
 输出装,damage items,ro
-橙装,artifact,ro
+橙装,神器,ro
 构筑,comp build,ro
 牌库,champion pool,ro
 强势期,power spike,ro
@@ -1502,7 +1502,6 @@ D牌,roll down,ro
 破甲,armor shred,ro
 减抗,resistance reduction,ro
 重伤,grievous wounds,ro
-嫁妆,innate item,ro
 赌狗,reroll player,ro
 白嫖,naturaled,ro
 掉血,bleeding HP,ro

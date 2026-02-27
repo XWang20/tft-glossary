@@ -1490,7 +1490,7 @@ D牌,roll down,el
 功能装,utility items,el
 肉装,tank items,el
 输出装,damage items,el
-橙装,artifact,el
+橙装,神器,el
 构筑,comp build,el
 牌库,champion pool,el
 强势期,power spike,el
@@ -1502,7 +1502,6 @@ D牌,roll down,el
 破甲,armor shred,el
 减抗,resistance reduction,el
 重伤,grievous wounds,el
-嫁妆,innate item,el
 赌狗,reroll player,el
 白嫖,naturaled,el
 掉血,bleeding HP,el

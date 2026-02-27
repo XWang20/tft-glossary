@@ -1490,7 +1490,7 @@ D牌,roll down,id
 功能装,utility items,id
 肉装,tank items,id
 输出装,damage items,id
-橙装,artifact,id
+橙装,神器,id
 构筑,comp build,id
 牌库,champion pool,id
 强势期,power spike,id
@@ -1502,7 +1502,6 @@ D牌,roll down,id
 破甲,armor shred,id
 减抗,resistance reduction,id
 重伤,grievous wounds,id
-嫁妆,innate item,id
 赌狗,reroll player,id
 白嫖,naturaled,id
 掉血,bleeding HP,id

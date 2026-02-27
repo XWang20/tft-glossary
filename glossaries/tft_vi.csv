@@ -1489,7 +1489,7 @@ D牌,roll down,vi
 功能装,utility items,vi
 肉装,tank items,vi
 输出装,damage items,vi
-橙装,artifact,vi
+橙装,神器,vi
 构筑,comp build,vi
 牌库,champion pool,vi
 强势期,power spike,vi
@@ -1501,7 +1501,6 @@ D牌,roll down,vi
 破甲,armor shred,vi
 减抗,resistance reduction,vi
 重伤,grievous wounds,vi
-嫁妆,innate item,vi
 赌狗,reroll player,vi
 白嫖,naturaled,vi
 掉血,bleeding HP,vi

@@ -37,7 +37,7 @@ Works with **any of 23 languages as source** — English, Chinese, Korean, Japan
 | Abbreviations | 70+ | IE → Infinity Edge, ASol → Aurelion Sol, bilge → Bilgewater |
 | Community slang | 200+ | slam → 合装备, highroll → 运气好, BIS → 神装 |
 | Chinese slang | 130+ | 偷偷 → TG, 青龙刀 → Shojin, 半空城 → open fort |
-| **Total per CSV** | **~48,000** | 23 languages × bidirectional |
+| **Total per CSV** | **~45,000** | 23 languages × bidirectional |
 
 ## Full Cross-Language Support
 
@@ -71,9 +71,9 @@ Every CSV accepts source text in **all 23 supported languages**. No matter which
 ```
 ├── meta/tft.json              # Metadata
 └── glossaries/
-    ├── tft_zh-CN.csv          # → Simplified Chinese (~48,000 rows)
-    ├── tft_ja.csv             # → Japanese (~48,000 rows)
-    ├── tft_ko.csv             # → Korean (~47,000 rows)
+    ├── tft_zh-CN.csv          # → Simplified Chinese (~45,000 rows)
+    ├── tft_ja.csv             # → Japanese (~45,000 rows)
+    ├── tft_ko.csv             # → Korean (~45,000 rows)
     └── ... (23 files total)
 ```
 

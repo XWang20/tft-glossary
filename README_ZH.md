@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-CN
 | 英文缩写 | 70+ | IE → 无尽之刃, ASol → 奥瑞利安·索尔, bilge → 比尔吉沃特 |
 | 英文俚语 | 200+ | slam → 合装备, highroll → 运气好, BIS → 神装 |
 | 中文俚语 | 130+ | 偷偷 → TG, 青龙刀 → Shojin, 半空城 → open fort |
-| **每个 CSV 总计** | **~48,000 条** | 23 种语言双向互译 |
+| **每个 CSV 总计** | **~45,000 条** | 23 种语言双向互译 |
 
 ## 全语言互译
 
@@ -70,9 +70,9 @@ https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-CN
 ```
 ├── meta/tft.json              # 元数据
 └── glossaries/
-    ├── tft_zh-CN.csv          # → 简体中文（~48,000 条）
-    ├── tft_ja.csv             # → 日文（~48,000 条）
-    ├── tft_ko.csv             # → 韩文（~47,000 条）
+    ├── tft_zh-CN.csv          # → 简体中文（~45,000 条）
+    ├── tft_ja.csv             # → 日文（~45,000 条）
+    ├── tft_ko.csv             # → 韩文（~45,000 条）
     └── ...（共 23 个文件）
 ```
 

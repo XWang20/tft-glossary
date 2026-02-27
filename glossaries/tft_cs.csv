@@ -47470,3 +47470,9 @@ scrim,scrim,cs
 scrims,scrim,cs
 scrimming,scrim,cs
 训练赛,scrim,cs
+有同行,I'm contested,cs
+很多同行,heavily contested,cs
+两家同行,two-way contested,cs
+三家同行,three-way contested,cs
+没人玩,uncontested,cs
+无同行,uncontested,cs

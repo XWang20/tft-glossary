@@ -48824,3 +48824,9 @@ scrim,scrim,id
 scrims,scrim,id
 scrimming,scrim,id
 训练赛,scrim,id
+有同行,I'm contested,id
+很多同行,heavily contested,id
+两家同行,two-way contested,id
+三家同行,three-way contested,id
+没人玩,uncontested,id
+无同行,uncontested,id

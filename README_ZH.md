@@ -2,44 +2,53 @@
 
 # TFT S16 多语言术语表
 
-给 [沉浸式翻译](https://immersivetranslate.com/) 浏览器插件用的云顶之弈 S16 术语表。看英文/日文 TFT 攻略时，自动翻译棋子名、羁绊、装备、强化符文。
+给 [沉浸式翻译](https://immersivetranslate.com/) 浏览器插件用的云顶之弈 S16 术语表。看外服 TFT 攻略时，自动翻译棋子名、羁绊、装备、海克斯和社区俚语。
 
 ## 使用方法
 
 ### 1. 装插件
 安装 [沉浸式翻译](https://immersivetranslate.com/)（Chrome / Firefox / Edge / Safari 都有）
 
+⚠️ **重要：** 翻译引擎必须选 AI 翻译（比如硅基流动、GLM-4 Flash，都免费）。Google/微软翻译**不支持**术语替换。
+
 ### 2. 导入术语表
 1. 打开插件设置 → 术语表
-2. 选「从 URL 导入」
-3. 粘贴：
+2. 导入 CSV，下载对应语言文件
+
+**中文用户：**
 ```
-https://raw.githubusercontent.com/XWang20/tft-glossary/main/meta/tft.json
+https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-CN.csv
 ```
-4. 搞定
 
 ### 3. 开始用
-打开任何 TFT 英文网页（tactics.tools、lolchess.gg 等），插件会自动翻译术语。看日文攻略也能用。
+打开任何 TFT 网页（tactics.tools、lolchess.gg、op.gg/tft、YouTube 字幕等），插件会自动翻译术语。
 
-## 内容
+支持 **23 种语言互译** — 英文、韩文、日文、法文、德文……任何语言的页面都能翻。
+
+## 覆盖内容
 
 | 类别 | 数量 | 举例 |
 |------|------|------|
-| 棋子 | 105 | Aatrox → 亚托克斯 |
+| 棋子 | 115 | Aatrox → 亚托克斯 |
 | 羁绊 | 53 | Slayer → 杀戮者 |
-| 强化符文 | 177 | Placebo → 安慰剂 |
-| 装备 | 150 | Deathcap → 灭世者的帽子 |
-| **合计** | **485** | |
+| 海克斯 | 1,200+ | Placebo → 安慰剂, Celestial Blessing → 星界祝福 |
+| 装备 | 150+ | Deathcap → 灭世者的帽子 |
+| 英文缩写 | 70+ | IE → 无尽之刃, ASol → 奥瑞利安·索尔, bilge → 比尔吉沃特 |
+| 英文俚语 | 200+ | slam → 合装备, highroll → 运气好, BIS → 神装 |
+| 中文俚语 | 130+ | 偷偷 → TG, 青龙刀 → Shojin, 半空城 → open fort |
+| **每个 CSV 总计** | **~48,000 条** | 23 种语言双向互译 |
 
-## 三语源
+## 全语言互译
 
-每个目标语言文件同时包含英文、中文、日文三种源语言的映射：
+每个 CSV 都包含 **23 种语言** 作为源语言。不管你下载哪个语言的文件：
 
-- 看英文页面 → 翻译成你的语言
-- 看中文页面 → 翻译成你的语言
-- 看日文页面 → 翻译成你的语言
+- 英→你的语言 ✅
+- 韩→你的语言 ✅
+- 中→你的语言 ✅
+- 法→你的语言 ✅
+- 任意 23 种语言→你的语言 ✅
 
-### 支持 23 种目标语言
+### 支持 23 种语言
 
 | 代码 | 语言 | 代码 | 语言 |
 |------|------|------|------|
@@ -61,9 +70,9 @@ https://raw.githubusercontent.com/XWang20/tft-glossary/main/meta/tft.json
 ```
 ├── meta/tft.json              # 元数据
 └── glossaries/
-    ├── tft_zh-CN.csv          # → 简体中文（966 条）
-    ├── tft_ja.csv             # → 日文（966 条）
-    ├── tft_ko.csv             # → 韩文（1447 条）
+    ├── tft_zh-CN.csv          # → 简体中文（~48,000 条）
+    ├── tft_ja.csv             # → 日文（~48,000 条）
+    ├── tft_ko.csv             # → 韩文（~47,000 条）
     └── ...（共 23 个文件）
 ```
 
@@ -71,7 +80,11 @@ CSV 格式：`source,target,tgt_lng`
 
 ## 数据来源
 
-所有翻译来自 [CommunityDragon](https://raw.communitydragon.org/pbe/) PBE 数据，即 Riot 官方游戏内翻译。
+- **官方翻译：** [CommunityDragon](https://raw.communitydragon.org/pbe/) PBE 数据（Riot 官方游戏内 29 个语言区的翻译）
+- **社区俚语和缩写：** 来自 YouTube/B站 TFT 主播（Subzeroark、Broseph、leduck、手刃猫咪、云顶CPU、云顶小温柔等）
+- **人工校对：** TFT 社区玩家验证
+
+由 [@XWang20](https://github.com/XWang20) 训练的 AI agent 构建和维护。
 
 ## 许可
 

@@ -1,449 +1,395 @@
 source,target,tgt_lng
+1个霸符，2个霸符,붉고 푸른 효과,ko
+2のトリック,이중 기술,ko
+3 Threes,3단계 셋,ko
+3×3,3단계 셋,ko
+3の軍団,3단계 군단,ko
+8级D干的传说,서사적 새로고침,ko
+90 Caliber Nets,90구경 투망,ko
+90口径绳网,90구경 투망,ko
+A Magic Roll,마법 주사위,ko
 Aatrox,아트록스,ko
+Acceleration Gate,가속 관문,ko
+Adaptive Helm,적응형 투구,ko
+Advanced Loan,대출 선지급,ko
+Aegis of Dawn,새벽의 방패,ko
+Aegis of Dusk,황혼의 방패,ko
 Ahri,아리,ko
+Air Axiom,대기 액시옴,ko
 Ambessa,암베사,ko
 Anivia,애니비아,ko
 Annie,애니,ko
 Aphelios,아펠리오스,ko
+Arcane Viktor-y,아케인 빅토르이!,ko
+Arcane ビクタリー,아케인 빅토르이!,ko
+Arcanist,비전 마법사,ko
+Arcanist Emblem,비전 마법사 상징,ko
+Archangel's Staff,대천사의 지팡이,ko
+Armor Nullifier,방어구 무효화,ko
+Artillery Barrage,미사일 폭격,ko
+Ascendant,초월체,ko
+Ascension,초월,ko
 Ashe,애쉬,ko
+Assimilator,흡수자,ko
 Aurelion Sol,아우렐리온 솔,ko
 Azir,아지르,ko
+B.F. Sword,B.F. 대검,ko
+B.F.ソード,B.F. 대검,ko
+Band of Thieves,도둑 무리,ko
 Bard,바드,ko
+Barknuckles,따개비 장갑,ko
 Baron Nashor,내셔 남작,ko
 Bel'Veth,벨베스,ko
-Blitzcrank,블리츠크랭크,ko
-Braum,브라움,ko
-Briar,브라이어,ko
-Brock,브록,ko
-Caitlyn,케이틀린,ko
-Cho'Gath,초가스,ko
-Darius,다리우스,ko
-Diana,다이애나,ko
-Dr. Mundo,문도 박사,ko
-Draven,드레이븐,ko
-Ekko,에코,ko
-Elder Dragon,장로 드래곤,ko
-Fiddlesticks,피들스틱,ko
-Fizz,피즈,ko
-Galio,갈리오,ko
-Gangplank,갱플랭크,ko
-Garen,가렌,ko
-Golem,골렘,ko
-Graves,그레이브즈,ko
-Gwen,그웬,ko
-Illaoi,일라오이,ko
-Jarvan IV,자르반 4세,ko
-Jhin,진,ko
-Jinx,징크스,ko
-Kai'Sa,카이사,ko
-Kalista,칼리스타,ko
-Kennen,케넨,ko
-Kindred,킨드레드,ko
-Kobuko & Yuumi,코부코와 유미,ko
-Kog'Maw,코그모,ko
-LeBlanc,르블랑,ko
-Leona,레오나,ko
-Lissandra,리산드라,ko
-Loris,로리스,ko
-Lucian & Senna,루시안과 세나,ko
-Lulu,룰루,ko
-Lux,럭스,ko
-Malzahar,말자하,ko
-Mel,멜,ko
-Milio,밀리오,ko
-Miss Fortune,미스 포츈,ko
-Nasus,나서스,ko
-Nautilus,노틸러스,ko
-Neeko,니코,ko
-Nidalee,니달리,ko
-Orianna,오리아나,ko
-Ornn,오른,ko
-Piltover Invention,필트오버 발명품,ko
-Poppy,뽀삐,ko
-Qiyana,키아나,ko
-Rek'Sai,렉사이,ko
-Renekton,레넥톤,ko
-Rift Herald,협곡의 전령,ko
-Rift Scuttler,협곡 바위 게,ko
-Rumble,럼블,ko
-Ryze,라이즈,ko
-Sejuani,세주아니,ko
-Seraphine,세라핀,ko
-Sett,세트,ko
-Shen,쉔,ko
-Shyvana,쉬바나,ko
-Singed,신지드,ko
-Sion,사이온,ko
-Skarner,스카너,ko
-Sona,소나,ko
-Swain,스웨인,ko
-Sylas,사일러스,ko
-T-Hex,T-헥스,ko
-Tahm Kench,탐 켄치,ko
-Taric,타릭,ko
-Teemo,티모,ko
-Thresh,쓰레쉬,ko
-Training Dummy,훈련 봇,ko
-Tristana,트리스타나,ko
-Tryndamere,트린다미어,ko
-Twisted Fate,트위스티드 페이트,ko
-Vayne,베인,ko
-Veigar,베이가,ko
-Vi,바이,ko
-Viego,비에고,ko
-Volibear,볼리베어,ko
-Warwick,워윅,ko
-Wukong,오공,ko
-Xerath,제라스,ko
-Xin Zhao,신 짜오,ko
-Yasuo,야스오,ko
-Yone,요네,ko
-Yorick,요릭,ko
-Yunara,유나라,ko
-Zaahen,자헨,ko
-Ziggs,직스,ko
-Zilean,질리언,ko
-Zoe,조이,ko
-Arcanist,비전 마법사,ko
-Ascendant,초월체,ko
-Assimilator,흡수자,ko
-Bilgewater,빌지워터,ko
-Blacksmith,대장장이,ko
-Bruiser,난동꾼,ko
-Caretaker,관리인,ko
-Chainbreaker,사슬파괴자,ko
-Chosen Wolves,선택받은 늑대,ko
-Chronokeeper,시간의 수호자,ko
-Dark Child,어둠의 아이,ko
-Darkin,다르킨,ko
-Defender,엄호대,ko
-Demacia,데마시아,ko
-Disruptor,방해꾼,ko
-Dragonborn,용족,ko
-Dragonguards,용 감시단,ko
-Emperor,황제,ko
-Eternal,영겁,ko
-Freljord,프렐요드,ko
-Glutton,대식가,ko
-Gunslinger,총잡이,ko
-Harvester,수확자,ko
-Heroic,영웅,ko
-HexMech,마법공학기계,ko
-Huntress,여사냥꾼,ko
-Immortal,불멸자,ko
-Invoker,기원자,ko
-Ionia,아이오니아,ko
-Ixtal,이쉬탈,ko
-Juggernaut,전쟁기계,ko
-Longshot,원거리 사격,ko
-Noxus,녹서스,ko
-Piltover,필트오버,ko
-Poison Pals,독성 친구들,ko
-Quickstriker,기동타격대,ko
-Riftscourge,균열의 재앙,ko
-Rune Mage,룬 마법사,ko
-Sentinels of Light,빛의 감시자,ko
-Shadow Isles,그림자 군도,ko
-Shurima,슈리마,ko
-Slayer,학살자,ko
-Soulbound,영혼결속자,ko
-Star Forger,별의 창조자,ko
-Targon,타곤,ko
-The Boss,우두머리,ko
-Timewinders,시간의 톱니바퀴,ko
-Vanquisher,토벌자,ko
-Void,공허,ko
-Warden,파수꾼,ko
-World Ender,세계의 종결자,ko
-Yordle,요들,ko
-Zaun,자운,ko
-3 Threes,3단계 셋,ko
-A Magic Roll,마법 주사위,ko
-Advanced Loan,대출 선지급,ko
-Air Axiom,대기 액시옴,ko
-Arcane Viktor-y,아케인 빅토르이!,ko
-Artillery Barrage,미사일 폭격,ko
-Ascension,초월,ko
-Band of Thieves,도둑 무리,ko
 Belt Overflow,넘치는 허리띠,ko
 Best Friends,단짝,ko
 Big Friend,커다란 친구,ko
 Big Grab Bag,큰 꾸러미,ko
+Bilgewater,빌지워터,ko
+Bilgewater Emblem,빌지워터 상징,ko
+Bilgewater Lesser Champion Duplicator,빌지워터 하급 챔피언 복제기,ko
 Binary Airdrop,이중 공중 보급,ko
 Birthday Present,생일 선물,ko
 Birthday Reunion,생일 모임,ko
+Black Market Restock,암시장 재입고,ko
+Blackmarket Explosives,암시장 폭발물,ko
+Blacksmith,대장장이,ko
+Blast Shield,폭발 보호막,ko
+Blighting Jewel,역병의 보석,ko
+Blitzcrank,블리츠크랭크,ko
 Blood Offering,피의 공물,ko
+Bloodthirster,피바라기,ko
+Blue Buff,푸른 파수꾼,ko
 Bodyguard Training,경호대 훈련,ko
 Boxing Lessons,권투 교습,ko
+Bramble Vest,덤불 조끼,ko
 Branching Out,가지 뻗기,ko
+Braum,브라움,ko
+Briar,브라이어,ko
+Brigand's Dice,약탈자의 주사위,ko
 Bringer of Ruin,파멸의 인도자,ko
+Brock,브록,ko
 Bronze For Life,영원한 브론즈,ko
+Bruiser,난동꾼,ko
+Bruiser Emblem,난동꾼 상징,ko
 Buried Treasures,파묻힌 보물,ko
+Caitlyn,케이틀린,ko
+Cappa Juice,카파 주스,ko
+Captain's Brew,선장의 비법,ko
+Captain's Hat,선장의 모자,ko
 Care Package,선물 꾸러미,ko
+Caretaker,관리인,ko
 Caretaker's Ally,수호자의 친구,ko
 Celestial Blessing,천상의 축복,ko
+Chain Vest,쇠사슬 조끼,ko
+Chainbreaker,사슬파괴자,ko
+Chalice of Power,힘의 성배,ko
 Chaotic Evolution,혼돈의 진화,ko
+Cho'Gath,초가스,ko
+Chosen Wolves,선택받은 늑대,ko
+Chronokeeper,시간의 수호자,ko
 Commerce Core,거래 중심지,ko
 Component Buffet,입맛대로 고르는 부품,ko
 Construct a Companion,동료 제작,ko
+Continuum Cogs,연속체 톱니바퀴,ko
 Cooking Pot,요리용 냄비,ko
 Coronation,대관식,ko
 Corrosion,부식,ko
+Corrupt Vampiric Scepter,타락한 흡혈의 낫,ko
 Cosmic Calling,우주의 부름,ko
 Crafted Crafting,정교한 공예,ko
 Crash Test Dummies,충돌 시험용 봇,ko
 Crown's Will,왕관의 의지,ko
+Crownguard,크라운가드,ko
 Cry Me A River,실컷 울어봐라,ko
+Cursed Blade,저주받은 칼날,ko
+Cutthroat's Cutlass,불한당의 해적검,ko
+C位的觉悟,중심 잡기,ko
+DD街区,교환의 장,ko
+Darius,다리우스,ko
+Dark Child,어둠의 아이,ko
+Darkin,다르킨,ko
 Darkwill's Invasion,다크윌의 침공,ko
+Dawncore,새벽심장,ko
+Dead Man's Dagger,망자의 단검,ko
 Deadlier Blades,치명적인 칼날,ko
 Deadlier Caps,더욱 치명적인 모자,ko
+Deathblade,죽음의 검,ko
+Defender,엄호대,ko
+Defender Emblem,엄호대 상징,ko
 Defense of the Placidium,플레시디엄 수호,ko
+Demacia,데마시아,ko
+Demacia Emblem,데마시아 상징,ko
 Demacia Forever,데마시아여 영원하라,ko
+Diana,다이애나,ko
+Disruptor,방해꾼,ko
+Disruptor Emblem,방해꾼 상징,ko
 Double Trouble,문제가 두 배,ko
+Dr. Mundo,문도 박사,ko
+Dragon's Claw,용의 발톱,ko
+Dragonborn,용족,ko
+Dragonguards,용 감시단,ko
+Draven,드레이븐,ko
+Dreadway Cannon,드레드웨이 대포,ko
 Dummify,훈련 봇 변환,ko
 Duo Queue,2인조,ko
+D个痛快！,새로고침의 날,ko
+E.M.P.,전자기 펄스,ko
 Earth Axiom,대지 액시옴,ko
+Echo Engine,메아리 엔진,ko
+Edge of Night,밤의 끝자락,ko
+Ekko,에코,ko
+Elder Dragon,장로 드래곤,ko
+Electrical Overload,전류 과부하,ko
+Emperor,황제,ko
 Epic Rolldown,서사적 새로고침,ko
+Eternal,영겁,ko
+Eternal Pact,영원한 서약,ko
+Evenshroud,저녁갑주,ko
 Exclusive Customization,특별 맞춤 설정,ko
 Exiles,추방자,ko
 Expected Unexpectedness,예상된 예상 밖의 결과,ko
 Explosive Growth,폭발적인 성장,ko
 Eye For An Eye,눈에는 눈,ko
 Feed the Flames,땔감 제공,ko
+Fiddlesticks,피들스틱,ko
 Find Your Center,중심 잡기,ko
 Fire Axiom,화염 액시옴,ko
+First Mate's Flintlock,일등 항해사의 화승총,ko
+First One's Free!,첫 번째는 공짜!,ko
+Fishbones,생선대가리,ko
+Fizz,피즈,ko
+Flickerblades,명멸검,ko
 Focused Fire,화력 집중,ko
+Forbidden Idol,금지된 우상,ko
+Freljord,프렐요드,ko
+Freljord Emblem,프렐요드 상징,ko
+Frying Pan,프라이팬,ko
+Galio,갈리오,ko
+Gangplank,갱플랭크,ko
+Garen,가렌,ko
+Gargoyle Stoneplate,가고일 돌갑옷,ko
+Giant Slayer,거인 학살자,ko
 Giant and Mighty,거대하고 강력한,ko
+Giant's Belt,거인의 허리띠,ko
+Gigantification Ray,거대화 광선,ko
 Gilded Steel,도금 강철,ko
 Glass Cannon,유리 대포,ko
+Glutton,대식가,ko
 Going Long,장기 투자,ko
 Gold Destiny,금빛 운명,ko
+Golem,골렘,ko
 Golemify,골렘화,ko
 Good For Something,다 쓸 데가 있다니까,ko
+Graves,그레이브즈,ko
 Growth Mindset,성장형 사고방식,ko
+Guinsoo's Rageblade,구인수의 격노검,ko
+Gunslinger,총잡이,ko
+Gunslinger Emblem,총잡이 상징,ko
+Gwen,그웬,ko
+Hand Of Justice,정의의 손길,ko
 Hard Commit,극진한 헌신,ko
+Harvester,수확자,ko
+Haunted Spyglass,귀신 들린 망원경,ko
 Healing Orbs,회복의 구,ko
 Heart of Steel,강철의 심장,ko
 Heavy Is the Crown,왕관의 무게,ko
 Hedge Fund,헤지 펀드,ko
 Hefty Rolls,두둑한 새로고침,ko
+Hellfire Hatchet,지옥불 손도끼,ko
+Heroic,영웅,ko
 Heroic Grab Bag,영웅 꾸러미,ko
+HexMech,마법공학기계,ko
 Hexgate Travel,마법공학 정거장 여행,ko
+Hextech Gunblade,마법공학 총검,ko
 High Voltage,고전압,ko
 Hold the Line,진형 유지,ko
+Horizon Focus,지평선의 초점,ko
+Huntress,여사냥꾼,ko
+Illaoi,일라오이,ko
+Immortal,불멸자,ko
 Indecision,우유부단,ko
 Indiscriminate Killer,무차별적 살인자,ko
+Infinity Edge,무한의 대검,ko
+Innervating Locket,활력증진의 펜던트,ko
 Invested,투자,ko
+Invoker,기원자,ko
+Invoker Emblem,기원자 상징,ko
+Ionia,아이오니아,ko
+Ionia Emblem,아이오니아 상징,ko
+Ionic Spark,이온 충격기,ko
 Iron Assets,유용한 금속,ko
 Item Grab Bag,아이템 꾸러미,ko
+Ixtal,이쉬탈,ko
+Ixtal Emblem,이쉬탈 상징,ko
+Jarvan IV,자르반 4세,ko
+Jeweled Gauntlet,보석 건틀릿,ko
 Jeweled Lotus,보석 연꽃,ko
+Jhin,진,ko
+Jinx,징크스,ko
+Juggernaut,전쟁기계,ko
+Juggernaut Emblem,전쟁기계 상징,ko
 Just Hit,그냥 눌러,ko
 Kahunahuna,에너지 파동,ko
+Kai'Sa,카이사,ko
+Kalista,칼리스타,ko
+Kennen,케넨,ko
+Kindred,킨드레드,ko
+Kinetic Barrier,동적 방어막,ko
+Knight's Vow,기사의 맹세,ko
+Kobuko & Yuumi,코부코와 유미,ko
+Kog'Maw,코그모,ko
+Kraken's Fury,크라켄의 분노,ko
+L-90 カリバーネット,90구경 투망,ko
 Last Second Save,마지막 세이브,ko
+Last Whisper,최후의 속삭임,ko
 Late Game Scaling,후반 성장,ko
 Late Game Specialist,후반 전문가,ko
+LeBlanc,르블랑,ko
 Leap of Faith,믿음의 도약,ko
 Legion of Threes,3단계 군단,ko
+Leona,레오나,ko
+Lesser Mirrored Persona,하급 거울의 환영,ko
 Level Up!,레벨 업!,ko
+Lich Bane,리치베인,ko
 Lifting Competition,역도 대회,ko
+Lightshield Crest,라이트실드 문장,ko
 Lineup,정렬,ko
+Lissandra,리산드라,ko
 Little Buddies,작은 친구들,ko
+Locket of the Iron Solari,강철의 솔라리 펜던트,ko
+Longshot,원거리 사격,ko
+Longshot Emblem,원거리 사격 상징,ko
+Loris,로리스,ko
+Lucian & Senna,루시안과 세나,ko
+Lucky Doubloon,행운의 금화,ko
 Lucky Gloves,행운의 장갑,ko
+Luden's Tempest,루덴의 폭풍,ko
+Lulu,룰루,ko
+Lux,럭스,ko
 Mace's Will,철퇴의 의지,ko
+Magnetron Coil,자전관 코일,ko
 Makeshift Armor,임시변통 방어구,ko
+Malzahar,말자하,ko
+Mel,멜,ko
+Mending Echoes,회복의 메아리,ko
 Mess Hall,급식소,ko
+Micro-Rockets,초소형 로켓,ko
+Milio,밀리오,ko
 Min-Max,최적화,ko
+Mining Drill,채굴 드릴,ko
+Mirrored Persona,거울의 환영,ko
+Miss Fortune,미스 포츈,ko
 Missed Connections,연결 불가,ko
+Mittens,방한 장갑,ko
+Momentum Drive,탄력 구동,ko
 Money Monsoon,돈 폭풍,ko
+Morellonomicon,모렐로노미콘,ko
+Nashor's Tooth,내셔의 이빨,ko
+Nasus,나서스,ko
+Nautilus,노틸러스,ko
+Needlessly Large Rod,쓸데없이 큰 지팡이,ko
+Neeko,니코,ko
+Negatron Cloak,음전자 망토,ko
+Nidalee,니달리,ko
+Noxus,녹서스,ko
+Noxus Emblem,녹서스 상징,ko
 On a Roll,승승장구,ko
 "One Buff, Two Buff",붉고 푸른 효과,ko
 One Twos Three,"하나, 둘, 셋",ko
 "One, Two, Five!","하나, 둘, 다섯!",ko
+Orianna,오리아나,ko
+Ornn,오른,ko
+Overclocked Capacitors,과열된 축전기,ko
 Pandora's Bench,판도라의 대기석,ko
 Pandora's Items,판도라의 아이템,ko
 Patience is a Virtue,참는 자에게 복을,ko
+Pile O' Citrus,귤 더미,ko
+Piltover,필트오버,ko
+Piltover Emblem,필트오버 상징,ko
+Piltover Invention,필트오버 발명품,ko
 Placebo,위약 효과,ko
 Plot Armor,주인공 버프,ko
+Poison Pals,독성 친구들,ko
+Poppy,뽀삐,ko
 Portable Forge,휴대용 대장간,ko
 Precision and Grace,정확하고 우아하게,ko
 Preparation,준비,ko
 Prismatic Destiny,프리즘 운명,ko
 Prismatic Ticket,프리즘 티켓,ko
 Promised Protection,약속된 보호,ko
+Protector's Vow,수호자의 맹세,ko
+Prowler's Claw,자객의 발톱,ko
 Pyromaniac,불장난,ko
+Qiyana,키아나,ko
+Quicksilver,수은,ko
+Quickstriker,기동타격대,ko
+Quickstriker Emblem,기동타격대 상징,ko
+Rabadon's Deathcap,라바돈의 죽음모자,ko
 Radiant Rascal,찬란한 장난꾸러기,ko
 Radiant Relics,찬란한 유물,ko
 Raining Gold,돈벼락,ko
+Rapid Firecannon,고속 연사포,ko
+Realm Warp,공간 왜곡,ko
 Recombobulator,대격변 생성기,ko
+Recurve Bow,곡궁,ko
+Red Buff,붉은 덩굴정령,ko
 ReinFOURcement,4후지원,ko
+Rek'Sai,렉사이,ko
+Renekton,레넥톤,ko
 Replication,복제,ko
 Restart Mission,임무 재시작,ko
 Retribution,응징,ko
+Rift Herald,협곡의 전령,ko
+Rift Scuttler,협곡 바위 게,ko
+Riftscourge,균열의 재앙,ko
 Rolling For Days,새로고침의 날,ko
+Rumble,럼블,ko
+Rune Mage,룬 마법사,ko
+Ryze,라이즈,ko
 Savings Account,예금 계좌,ko
 Second Wind,재생의 바람,ko
+Seeker's Armguard,추적자의 팔목 보호대,ko
+Sejuani,세주아니,ko
+Sentinels of Light,빛의 감시자,ko
 Seraphim's Staff,고위천사의 지팡이,ko
+Seraphine,세라핀,ko
+Sett,세트,ko
+Shadow Isles,그림자 군도,ko
+Shadow Puppet,그림자 꼭두각시,ko
+Shen,쉔,ko
 Shimmerscale Essence,빛비늘 정수,ko
 Shopping Spree,흥청망청,ko
+Shroud of Stillness,침묵의 장막,ko
+Shurima,슈리마,ko
+Shyvana,쉬바나,ko
 Silco's Revenge,실코의 복수,ko
 Silver Destiny,은빛 운명,ko
 Silver Spoon,은수저,ko
+Silvermere Dawn,은빛 여명,ko
+Singed,신지드,ko
+Sion,사이온,ko
+Skarner,스카너,ko
+Slayer,학살자,ko
+Slayer Emblem,학살자 상징,ko
 Slightly Magic Roll,약간 신비한 주사위,ko
 Small Grab Bag,작은 꾸러미,ko
 Solo Plate,고독한 방패,ko
+Sona,소나,ko
 Soul Awakening,영혼 각성,ko
+Soulbound,영혼결속자,ko
+Sparring Gloves,연습용 장갑,ko
+Spatula,뒤집개,ko
+Spear of Shojin,쇼진의 창,ko
 Spear's Will,창의 의지,ko
+Spectral Cutlass,망령 해적검,ko
+Spirit Visage,정령의 형상,ko
 Spirit of Redemption,구원의 영혼,ko
 Spreading Roots,뻗어가는 뿌리,ko
 Staffsmith,지팡이 제작자,ko
 Stand United,단결된 의지,ko
+Star Forger,별의 창조자,ko
 Stars Are Born,별들의 탄생,ko
 Starter Kit,입문용 키트,ko
-Sweet Treats,달콤한 간식,ko
-Sword Overflow,넘치는 대검,ko
-Swordsmith,검 제작자,ko
-Teaming Up,협력,ko
-The Axiomata,액시오마타,ko
-The Golden Dragon,황금 드래곤,ko
-The Ruined King,몰락한 왕,ko
-The Trait Tree,특성 나무,ko
-The World Runes,세계 룬,ko
-Thorn-Plated Armor,가시 박힌 갑옷,ko
-"Tiny, but Deadly",작지만 치명적인,ko
-Tons of Stats!,엄청나게 이로운 효과!,ko
-Trade Sector,교환의 장,ko
-Trials of Twilight,황혼의 시험,ko
-Trifecta,삼인방,ko
-Twin Guardians,쌍둥이 수호자,ko
-Two Much Value,2만한 가치,ko
-Two Trick,이중 기술,ko
-U.R.F,U.R.F,ko
-Unsealed From Steel,강철로부터 풀려난 봉인,ko
-Upward Mobility,출세가도,ko
-Wand Overflow,넘치는 지팡이,ko
-Warlord's Honor,대장군의 명예,ko
-Water Axiom,물 액시옴,ko
-We Stick Together,하나로 뭉치는 거지,ko
-Wild Growth,급성장,ko
-Win Out,성취,ko
-Wood Axiom,나무 액시옴,ko
-Woven Magic,얽힌 마법,ko
-90 Caliber Nets,90구경 투망,ko
-Acceleration Gate,가속 관문,ko
-Adaptive Helm,적응형 투구,ko
-Aegis of Dawn,새벽의 방패,ko
-Aegis of Dusk,황혼의 방패,ko
-Arcanist Emblem,비전 마법사 상징,ko
-Archangel's Staff,대천사의 지팡이,ko
-Armor Nullifier,방어구 무효화,ko
-B.F. Sword,B.F. 대검,ko
-Barknuckles,따개비 장갑,ko
-Bilgewater Emblem,빌지워터 상징,ko
-Bilgewater Lesser Champion Duplicator,빌지워터 하급 챔피언 복제기,ko
-Black Market Restock,암시장 재입고,ko
-Blackmarket Explosives,암시장 폭발물,ko
-Blast Shield,폭발 보호막,ko
-Blighting Jewel,역병의 보석,ko
-Bloodthirster,피바라기,ko
-Blue Buff,푸른 파수꾼,ko
-Bramble Vest,덤불 조끼,ko
-Brigand's Dice,약탈자의 주사위,ko
-Bruiser Emblem,난동꾼 상징,ko
-Cappa Juice,카파 주스,ko
-Captain's Brew,선장의 비법,ko
-Captain's Hat,선장의 모자,ko
-Chain Vest,쇠사슬 조끼,ko
-Chalice of Power,힘의 성배,ko
-Continuum Cogs,연속체 톱니바퀴,ko
-Corrupt Vampiric Scepter,타락한 흡혈의 낫,ko
-Crownguard,크라운가드,ko
-Cursed Blade,저주받은 칼날,ko
-Cutthroat's Cutlass,불한당의 해적검,ko
-Dawncore,새벽심장,ko
-Dead Man's Dagger,망자의 단검,ko
-Deathblade,죽음의 검,ko
-Defender Emblem,엄호대 상징,ko
-Demacia Emblem,데마시아 상징,ko
-Disruptor Emblem,방해꾼 상징,ko
-Dragon's Claw,용의 발톱,ko
-Dreadway Cannon,드레드웨이 대포,ko
-E.M.P.,전자기 펄스,ko
-Echo Engine,메아리 엔진,ko
-Edge of Night,밤의 끝자락,ko
-Electrical Overload,전류 과부하,ko
-Eternal Pact,영원한 서약,ko
-Evenshroud,저녁갑주,ko
-First Mate's Flintlock,일등 항해사의 화승총,ko
-First One's Free!,첫 번째는 공짜!,ko
-Fishbones,생선대가리,ko
-Flickerblades,명멸검,ko
-Forbidden Idol,금지된 우상,ko
-Freljord Emblem,프렐요드 상징,ko
-Frying Pan,프라이팬,ko
-Gargoyle Stoneplate,가고일 돌갑옷,ko
-Giant Slayer,거인 학살자,ko
-Giant's Belt,거인의 허리띠,ko
-Gigantification Ray,거대화 광선,ko
-Guinsoo's Rageblade,구인수의 격노검,ko
-Gunslinger Emblem,총잡이 상징,ko
-Hand Of Justice,정의의 손길,ko
-Haunted Spyglass,귀신 들린 망원경,ko
-Hellfire Hatchet,지옥불 손도끼,ko
-Hextech Gunblade,마법공학 총검,ko
-Horizon Focus,지평선의 초점,ko
-Infinity Edge,무한의 대검,ko
-Innervating Locket,활력증진의 펜던트,ko
-Invoker Emblem,기원자 상징,ko
-Ionia Emblem,아이오니아 상징,ko
-Ionic Spark,이온 충격기,ko
-Ixtal Emblem,이쉬탈 상징,ko
-Jeweled Gauntlet,보석 건틀릿,ko
-Juggernaut Emblem,전쟁기계 상징,ko
-Kinetic Barrier,동적 방어막,ko
-Knight's Vow,기사의 맹세,ko
-Kraken's Fury,크라켄의 분노,ko
-Last Whisper,최후의 속삭임,ko
-Lesser Mirrored Persona,하급 거울의 환영,ko
-Lich Bane,리치베인,ko
-Lightshield Crest,라이트실드 문장,ko
-Locket of the Iron Solari,강철의 솔라리 펜던트,ko
-Longshot Emblem,원거리 사격 상징,ko
-Lucky Doubloon,행운의 금화,ko
-Luden's Tempest,루덴의 폭풍,ko
-Magnetron Coil,자전관 코일,ko
-Mending Echoes,회복의 메아리,ko
-Micro-Rockets,초소형 로켓,ko
-Mining Drill,채굴 드릴,ko
-Mirrored Persona,거울의 환영,ko
-Mittens,방한 장갑,ko
-Momentum Drive,탄력 구동,ko
-Morellonomicon,모렐로노미콘,ko
-Nashor's Tooth,내셔의 이빨,ko
-Needlessly Large Rod,쓸데없이 큰 지팡이,ko
-Negatron Cloak,음전자 망토,ko
-Noxus Emblem,녹서스 상징,ko
-Overclocked Capacitors,과열된 축전기,ko
-Pile O' Citrus,귤 더미,ko
-Piltover Emblem,필트오버 상징,ko
-Protector's Vow,수호자의 맹세,ko
-Prowler's Claw,자객의 발톱,ko
-Quicksilver,수은,ko
-Quickstriker Emblem,기동타격대 상징,ko
-Rabadon's Deathcap,라바돈의 죽음모자,ko
-Rapid Firecannon,고속 연사포,ko
-Realm Warp,공간 왜곡,ko
-Recurve Bow,곡궁,ko
-Red Buff,붉은 덩굴정령,ko
-Seeker's Armguard,추적자의 팔목 보호대,ko
-Shadow Puppet,그림자 꼭두각시,ko
-Shroud of Stillness,침묵의 장막,ko
-Silvermere Dawn,은빛 여명,ko
-Slayer Emblem,학살자 상징,ko
-Sparring Gloves,연습용 장갑,ko
-Spatula,뒤집개,ko
-Spear of Shojin,쇼진의 창,ko
-Spectral Cutlass,망령 해적검,ko
-Spirit Visage,정령의 형상,ko
 Statikk Shiv,스태틱의 단검,ko
 Steadfast Heart,굳건한 심장,ko
 Sterak's Gage,스테락의 도전,ko
@@ -451,34 +397,1052 @@ Striker's Flail,타격대의 철퇴,ko
 Sunfire Cape,태양불꽃 망토,ko
 Superior Lifeform,우월한 존재,ko
 Suspicious Trench Coat,수상한 외투,ko
+Swain,스웨인,ko
+Sweet Treats,달콤한 간식,ko
+Sword Overflow,넘치는 대검,ko
+Swordsmith,검 제작자,ko
+Sylas,사일러스,ko
 Syren's Broadside,사이렌호 함포 공격,ko
+T-Hex,T-헥스,ko
 Tactician's Cape,전략가의 망토,ko
 Tactician's Crown,전략가의 왕관,ko
 Tactician's Shield,전략가의 방패,ko
+Tahm Kench,탐 켄치,ko
 Talisman Of Ascension,승천의 부적,ko
+Targon,타곤,ko
+Taric,타릭,ko
+Teaming Up,협력,ko
 Tear of the Goddess,여신의 눈물,ko
+Teemo,티모,ko
+The Axiomata,액시오마타,ko
+The Boss,우두머리,ko
+The Golden Dragon,황금 드래곤,ko
 The Indomitable,불굴,ko
+The Ruined King,몰락한 왕,ko
+The Trait Tree,특성 나무,ko
+The World Runes,세계 룬,ko
 Thief's Gloves,도적의 장갑,ko
+Thorn-Plated Armor,가시 박힌 갑옷,ko
+Thresh,쓰레쉬,ko
+Timewinders,시간의 톱니바퀴,ko
+"Tiny, but Deadly",작지만 치명적인,ko
 Titan's Resolve,거인의 결의,ko
 Titanic Hydra,거대한 히드라,ko
 Tome of Traits,특성의 고서,ko
+Tons of Stats!,엄청나게 이로운 효과!,ko
+Trade Sector,교환의 장,ko
+Training Dummy,훈련 봇,ko
 Treasure Typhoon,보물 태풍,ko
+Trials of Twilight,황혼의 시험,ko
+Trifecta,삼인방,ko
+Tristana,트리스타나,ko
+Tryndamere,트린다미어,ko
 Tuned Oscillator,조정된 발진기,ko
+Twin Guardians,쌍둥이 수호자,ko
+Twisted Fate,트위스티드 페이트,ko
+Two Much Value,2만한 가치,ko
+Two Trick,이중 기술,ko
+U.R.F,U.R.F,ko
+U.R.F.,U.R.F,ko
 Unending Despair,끝없는 절망,ko
+Unsealed From Steel,강철로부터 풀려난 봉인,ko
 Unstable Core,불안정한 핵,ko
 Upgrade!,업그레이드!,ko
+Upward Mobility,출세가도,ko
+Vanquisher,토벌자,ko
 Vanquisher Emblem,토벌자 상징,ko
+Vayne,베인,ko
+Veigar,베이가,ko
+Vi,바이,ko
+Viego,비에고,ko
 Virtue of the Martyr,순교자의 미덕,ko
+Void,공허,ko
 Void Emblem,공허 상징,ko
 Void Gauntlet,공허 건틀릿,ko
 Void Staff,공허의 지팡이,ko
+Volibear,볼리베어,ko
 Voltage Conduit,전압 도관,ko
+Wand Overflow,넘치는 지팡이,ko
+Warden,파수꾼,ko
 Warden Emblem,파수꾼 상징,ko
+Warlord's Honor,대장군의 명예,ko
 Warmog's Armor,워모그의 갑옷,ko
+Warwick,워윅,ko
+Water Axiom,물 액시옴,ko
+We Stick Together,하나로 뭉치는 거지,ko
+Wild Growth,급성장,ko
+Win Out,성취,ko
 Wit's End,마법사의 최후,ko
 Withered Relic,해진 유물,ko
+Wood Axiom,나무 액시옴,ko
+World Ender,세계의 종결자,ko
+Woven Magic,얽힌 마법,ko
+Wukong,오공,ko
+Xerath,제라스,ko
+Xin Zhao,신 짜오,ko
+Yasuo,야스오,ko
+Yone,요네,ko
+Yordle,요들,ko
 Yordle Emblem,요들 상징,ko
+Yorick,요릭,ko
+Yunara,유나라,ko
+Zaahen,자헨,ko
+Zaun,자운,ko
 Zaun Emblem,자운 상징,ko
 Zeke's Herald,지크의 전령,ko
 Zephyr,서풍,ko
+Ziggs,직스,ko
+Zilean,질리언,ko
+Zoe,조이,ko
 Zz'Rot Portal,즈롯 차원문,ko
+“塞壬号”的舷炮,사이렌호 함포 공격,ko
+いつでも一緒,하나로 뭉치는 거지,ko
+おおきくなぁれ！,급성장,ko
+お得な2,2만한 가치,ko
+ここがセンター,중심 잡기,ko
+たっぷりリロール,두둑한 새로고침,ko
+ちょっとだけ魔法のダイス,약간 신비한 주사위,ko
+へら,뒤집개,ko
+もっと怖いキャップ,더욱 치명적인 모자,ko
+アイオニア,아이오니아,ko
+アイオニアの紋章,아이오니아 상징,ko
+アイオニック スパーク,이온 충격기,ko
+アイテム福袋,아이템 꾸러미,ko
+アクシオマタ,액시오마타,ko
+アクセルゲート,가속 관문,ko
+アシミレーター,흡수자,ko
+アジール,아지르,ko
+アセンション,초월,ko
+アダプティブ ヘルム,적응형 투구,ko
+アッシュ,애쉬,ko
+アップグレード！,업그레이드!,ko
+アニビア,애니비아,ko
+アニー,애니,ko
+アフェリオス,아펠리오스,ko
+アルカニスト,비전 마법사,ko
+アルカニストの紋章,비전 마법사 상징,ko
+アンベッサ,암베사,ko
+アークエンジェル スタッフ,대천사의 지팡이,ko
+アーマー ナリファイア,방어구 무효화,ko
+アーリ,아리,ko
+イシュタル,이쉬탈,ko
+イシュタルの紋章,이쉬탈 상징,ko
+イモータル,불멸자,ko
+イラオイ,일라오이,ko
+インフィニティ エッジ,무한의 대검,ko
+インヴォーカー,기원자,ko
+インヴォーカーの紋章,기원자 상징,ko
+イーブンシュラウド,저녁갑주,ko
+ウィッツ エンド,마법사의 최후,ko
+ウォーロードの名誉,대장군의 명예,ko
+ウーコン,오공,ko
+エイトロックス,아트록스,ko
+エグザイル,추방자,ko
+エコー,에코,ko
+エコーエンジン,메아리 엔진,ko
+エターナル,영겁,ko
+エピックなロールダウン,서사적 새로고침,ko
+エルダードラゴン,장로 드래곤,ko
+エレクトリカル オーバーロード,전류 과부하,ko
+エンペラー,황제,ko
+オリアナ,오리아나,ko
+オレリオン・ソル,아우렐리온 솔,ko
+オーバークロック コンデンサー,과열된 축전기,ko
+オーン,오른,ko
+カイ＝サ,카이사,ko
+カナとカネ,유용한 금속,ko
+カフナフナ,에너지 파동,ko
+カリスタ,칼리스타,ko
+ガリオ,갈리오,ko
+ガレン,가렌,ko
+ガングプランク,갱플랭크,ko
+ガンスリンガー,총잡이,ko
+ガンスリンガーの紋章,총잡이 상징,ko
+ガーゴイル ストーンプレート,가고일 돌갑옷,ko
+キネティックバリア,동적 방어막,ko
+キャプテンの帽子,선장의 모자,ko
+キャプテンの醸造酒,선장의 비법,ko
+キヤナ,키아나,ko
+キンドレッド,킨드레드,ko
+ギリギリの救出,마지막 세이브,ko
+クイックシルバー,수은,ko
+クラウンの決意,왕관의 의지,ko
+クラウンガード,크라운가드,ko
+クラーケンの怒り,크라켄의 분노,ko
+クロノキーパー,시간의 수호자,ko
+グインソー レイジブレード,구인수의 격노검,ko
+グウェン,그웬,ko
+グラスキャノン,유리 대포,ko
+グラットン,대식가,ko
+グレイブス,그레이브즈,ko
+ケアテイカー,관리인,ko
+ケイトリン,케이틀린,ko
+ケネン,케넨,ko
+ケンカの作法,폭발 보호막,ko
+コグ＝マウ,코그모,ko
+コブコ&ユーミ,코부코와 유미,ko
+コマース コア,거래 중심지,ko
+コンパニオン作成,동료 제작,ko
+ゴールドの運命,금빛 운명,ko
+ゴールドの雨,돈벼락,ko
+ゴーレム,골렘,ko
+ゴーレム化,골렘화,ko
+サイオン,사이온,ko
+サイラス,사일러스,ko
+サンファイア ケープ,태양불꽃 망토,ko
+ザ・ボス,우두머리,ko
+ザーヘン,자헨,ko
+シェン,쉔,ko
+シマースケールのエッセンス,빛비늘 정수,ko
+シャドウアイル,그림자 군도,ko
+シュリーマ,슈리마,ko
+ショウジンの矛,쇼진의 창,ko
+シルコの復讐,실코의 복수,ko
+シルバーの運命,은빛 운명,ko
+シルバーミアの夜明け,은빛 여명,ko
+シンジド,신지드,ko
+シン・ジャオ,신 짜오,ko
+シヴァーナ,쉬바나,ko
+シーカー アームガード,추적자의 팔목 보호대,ko
+ジグス,직스,ko
+ジャイアント スレイヤー,거인 학살자,ko
+ジャイアント ベルト,거인의 허리띠,ko
+ジャイアント&マイティ,거대하고 강력한,ko
+ジャガーノート,전쟁기계,ko
+ジャガーノートの紋章,전쟁기계 상징,ko
+ジャストヒット,그냥 눌러,ko
+ジャーヴァンⅣ,자르반 4세,ko
+ジュエル ガントレット,보석 건틀릿,ko
+ジュエル ロータス,보석 연꽃,ko
+ジリアン,질리언,ko
+ジン,진,ko
+ジンクス,징크스,ko
+ジークの使者,지크의 전령,ko
+ジ＝ロット ポータル,즈롯 차원문,ko
+スウェイン,스웨인,ko
+スカーナー,스카너,ko
+スタティック シヴ,스태틱의 단검,ko
+スターターキット,입문용 키트,ko
+スターフォージャー,별의 창조자,ko
+スター誕生,별들의 탄생,ko
+ステラックの篭手,스테락의 도전,ko
+ステータスマシマシ,엄청나게 이로운 효과!,ko
+ストライカー フレイル,타격대의 철퇴,ko
+スパーリング グローブ,연습용 장갑,ko
+スピリット ビサージュ,정령의 형상,ko
+スペクトラル カトラス,망령 해적검,ko
+スレイヤー,학살자,ko
+スレイヤーの紋章,학살자 상징,ko
+スレッシュ,쓰레쉬,ko
+セイレーン号の片舷砲,사이렌호 함포 공격,ko
+セジュアニ,세주아니,ko
+セト,세트,ko
+セラフィムの杖,고위천사의 지팡이,ko
+セラフィーン,세라핀,ko
+ゼファー,서풍,ko
+ゼラス,제라스,ko
+ソウルの目覚め,영혼 각성,ko
+ソウルバウンド,영혼결속자,ko
+ソナ,소나,ko
+ソラリのロケット,강철의 솔라리 펜던트,ko
+ソード オーバーフロー,넘치는 대검,ko
+ソーンプレートアーマー,가시 박힌 갑옷,ko
+ゾウン,자운,ko
+ゾウンの紋章,자운 상징,ko
+ゾーイ,조이,ko
+タイタン ハイドラ,거대한 히드라,ko
+タイムワインダー,시간의 톱니바퀴,ko
+タクティシャンのケープ,전략가의 망토,ko
+タクティシャンの王冠,전략가의 왕관,ko
+タクティシャンの盾,전략가의 방패,ko
+タム・ケンチ,탐 켄치,ko
+タリック,타릭,ko
+ターゴン,타곤,ko
+ダイアナ,다이애나,ko
+ダブルトラブル,문제가 두 배,ko
+ダミー,훈련 봇,ko
+ダミー化,훈련 봇 변환,ko
+ダリウス,다리우스,ko
+ダーキン,다르킨,ko
+ダークウィルの侵略,다크윌의 침공,ko
+ダークチャイルド,어둠의 아이,ko
+チェイン ベスト,쇠사슬 조끼,ko
+チェインブレイカー,사슬파괴자,ko
+チューンド オシレーター,조정된 발진기,ko
+チョ＝ガス,초가스,ko
+ツイステッド・フェイト,트위스티드 페이트,ko
+ツインガーディアン,쌍둥이 수호자,ko
+ティーモ,티모,ko
+ディスラプター,방해꾼,ko
+ディスラプターの紋章,방해꾼 상징,ko
+ディフェンダー,엄호대,ko
+ディフェンダーの紋章,엄호대 상징,ko
+デスブレード,죽음의 검,ko
+デッド マン ダガー,망자의 단검,ko
+デッドリアー ブレード,치명적인 칼날,ko
+デマーシア,데마시아,ko
+デマーシアの紋章,데마시아 상징,ko
+デマーシアよ永遠に,데마시아여 영원하라,ko
+デュオキュー,2인조,ko
+トライフェクタ,삼인방,ko
+トリスターナ,트리스타나,ko
+トリンダメア,트린다미어,ko
+トレードセクター,교환의 장,ko
+ドクター・ムンド,문도 박사,ko
+ドラゴン クロウ,용의 발톱,ko
+ドラゴンの守護者,용 감시단,ko
+ドラゴンボーン,용족,ko
+ドレイヴン,드레이븐,ko
+ドレッドウェイの砲撃,드레드웨이 대포,ko
+ドーンコア,새벽심장,ko
+ナイト エッジ,밤의 끝자락,ko
+ナサス,나서스,ko
+ナッシャー トゥース,내셔의 이빨,ko
+ニダリー,니달리,ko
+ニーコ,니코,ko
+ネガトロン クローク,음전자 망토,ko
+ノクサス,녹서스,ko
+ノクサスの紋章,녹서스 상징,ko
+ノーチラス,노틸러스,ko
+ハントレス,여사냥꾼,ko
+ハンド オブ ジャスティス,정의의 손길,ko
+ハーベスター,수확자,ko
+バイナリー空中投下,이중 공중 보급,ko
+バフが1つ、バフが2つ,붉고 푸른 효과,ko
+バロンナッシャー,내셔 남작,ko
+バークナックル,따개비 장갑,ko
+バースデー リユニオン,생일 모임,ko
+バースデープレゼント,생일 선물,ko
+バード,바드,ko
+パンドラのアイテム,판도라의 아이템,ko
+パンドラのベンチ,판도라의 대기석,ko
+ヒロイック,영웅,ko
+ヒーリングオーブ,회복의 구,ko
+ビッグフレンド,커다란 친구,ko
+ビルジウォーター,빌지워터,ko
+ビルジウォーターの小型チャンピオン複製器,빌지워터 하급 챔피언 복제기,ko
+ビルジウォーターの紋章,빌지워터 상징,ko
+ピルトーヴァー,필트오버,ko
+ピルトーヴァーの発明品,필트오버 발명품,ko
+ピルトーヴァーの紋章,필트오버 상징,ko
+フィズ,피즈,ko
+フィッシュボーン,생선대가리,ko
+フィドルスティックス,피들스틱,ko
+フォビドゥン アイドル,금지된 우상,ko
+フライパン,프라이팬,ko
+フリッカーブレード,명멸검,ko
+フレヨルド,프렐요드,ko
+フレヨルドの紋章,프렐요드 상징,ko
+ブライアー,브라이어,ko
+ブラウム,브라움,ko
+ブラックスミス,대장장이,ko
+ブラックマーケットの再入荷,암시장 재입고,ko
+ブラックマーケットの爆発物,암시장 폭발물,ko
+ブラッドサースター,피바라기,ko
+ブランブル ベスト,덤불 조끼,ko
+ブリッツクランク,블리츠크랭크,ko
+ブルーザー,난동꾼,ko
+ブルーザーの紋章,난동꾼 상징,ko
+ブルーバフ,푸른 파수꾼,ko
+ブロック,브록,ko
+プラシディウムの防衛,플레시디엄 수호,ko
+プラシーボ,위약 효과,ko
+プリズムの運命,프리즘 운명,ko
+プリズムチケット,프리즘 티켓,ko
+プロテクターの誓い,수호자의 맹세,ko
+プローラー クロウ,자객의 발톱,ko
+ヘクスゲート トラベル,마법공학 정거장 여행,ko
+ヘクステック ガンブレード,마법공학 총검,ko
+ヘクスメック,마법공학기계,ko
+ヘッジファンド,헤지 펀드,ko
+ベイガー,베이가,ko
+ベストフレンド,단짝,ko
+ベルト オーバーフロー,넘치는 허리띠,ko
+ベル＝ヴェス,벨베스,ko
+ホライゾン フォーカス,지평선의 초점,ko
+ボクシングのレッスン,권투 교습,ko
+ボディーガードの訓練,경호대 훈련,ko
+ボリベア,볼리베어,ko
+ポイズンパル,독성 친구들,ko
+ポッピー,뽀삐,ko
+ポータブル フォージ,휴대용 대장간,ko
+ポータルワープ,공간 왜곡,ko
+マイクロロケット,초소형 로켓,ko
+マグネトロンコイル,자전관 코일,ko
+マルザハール,말자하,ko
+マーターズ ヴァーチュ,순교자의 미덕,ko
+ミスコネクション,연결 불가,ko
+ミス・フォーチュン,미스 포츈,ko
+ミッションの再開,임무 재시작,ko
+ミトン,방한 장갑,ko
+ミニマックス,최적화,ko
+ミリオ,밀리오,ko
+ムダニ デカイ ロッド,쓸데없이 큰 지팡이,ko
+メイスの決意,철퇴의 의지,ko
+メル,멜,ko
+モメンタムドライブ,탄력 구동,ko
+モレロノミコン,모렐로노미콘,ko
+ヤスオ,야스오,ko
+ユナラ,유나라,ko
+ヨネ,요네,ko
+ヨリック,요릭,ko
+ヨードル,요들,ko
+ヨードルの紋章,요들 상징,ko
+ライズ,라이즈,ko
+ライトシールドのクレスト,라이트실드 문장,ko
+ラインナップ,정렬,ko
+ラスト ウィスパー,최후의 속삭임,ko
+ラッキーグローブ,행운의 장갑,ko
+ラックス,럭스,ko
+ラバドン デスキャップ,라바돈의 죽음모자,ko
+ラピッド ファイアキャノン,고속 연사포,ko
+ランブル,럼블,ko
+リカーブ ボウ,곡궁,ko
+リサンドラ,리산드라,ko
+リッチ ベイン,리치베인,ko
+リデンプションの魂,구원의 영혼,ko
+リフティング大会,역도 대회,ko
+リフトスカトル,협곡 바위 게,ko
+リフトスカージ,균열의 재앙,ko
+リフトヘラルド,협곡의 전령,ko
+ルシアン&セナ,루시안과 세나,ko
+ルブラン,르블랑,ko
+ルル,룰루,ko
+ルーデン テンペスト,루덴의 폭풍,ko
+ルーンメイジ,룬 마법사,ko
+レイトゲーム スケーリング,후반 성장,ko
+レイトゲーム スペシャリスト,후반 전문가,ko
+レオナ,레오나,ko
+レク＝サイ,렉사이,ko
+レッドバフ,붉은 덩굴정령,ko
+レディアントの遺物,찬란한 유물,ko
+レネクトン,레넥톤,ko
+レベルアップ！,레벨 업!,ko
+ロリス,로리스,ko
+ロングショット,원거리 사격,ko
+ロングショットの紋章,원거리 사격 상징,ko
+ローリングデイズ,새로고침의 날,ko
+ワン、ツー、ファイブ！,"하나, 둘, 다섯!",ko
+ワン、ツーツー、スリー,"하나, 둘, 셋",ko
+ワンド オーバーフロー,넘치는 지팡이,ko
+ワーウィック,워윅,ko
+ワーデン,파수꾼,ko
+ワーデンの紋章,파수꾼 상징,ko
+ワーモグ アーマー,워모그의 갑옷,ko
+ワールドエンダー,세계의 종결자,ko
+ワールドルーン,세계 룬,ko
+ヴァイ,바이,ko
+ヴァンキッシャー,토벌자,ko
+ヴァンキッシャーの紋章,토벌자 상징,ko
+ヴィエゴ,비에고,ko
+ヴェイン,베인,ko
+ヴォイド,공허,ko
+ヴォイド ガントレット,공허 건틀릿,ko
+ヴォイド スタッフ,공허의 지팡이,ko
+ヴォイドの紋章,공허 상징,ko
+一二二三,"하나, 둘, 셋",ko
+一人前プレート,고독한 방패,ko
+一等航海士のフリントロック,일등 항해사의 화승총,ko
+一致団結,단결된 의지,ko
+一致団結,협력,ko
+一，二，五！,"하나, 둘, 다섯!",ko
+三幻神,3단계 군단,ko
+三项赛,삼인방,ko
+三，三，三！,3단계 셋,ko
+上方移動,출세가도,ko
+上进心,출세가도,ko
+不安定なコア,불안정한 핵,ko
+不屈,불굴,ko
+不滅の協定,영원한 서약,ko
+不稳定核心,불안정한 핵,ko
+不落魔锋,불멸자,ko
+与狼共舞,선택받은 늑대,ko
+专属定制,특별 맞춤 설정,ko
+世界符文,세계 룬,ko
+两把刷子,이중 기술,ko
+主人公補正,주인공 버프,ko
+主宰,전쟁기계,ko
+主宰纹章,전쟁기계 상징,ko
+丽桑卓,리산드라,ko
+举重比赛,역도 대회,ko
+乐芙兰,르블랑,ko
+二进制空投,이중 공중 보급,ko
+亚恒,자헨,ko
+亚托克斯,아트록스,ko
+亚索,야스오,ko
+亡者的短剑,망자의 단검,ko
+仕送り,선물 꾸러미,ko
+以眼还眼,눈에는 눈,ko
+以绪塔尔,이쉬탈,ko
+以绪塔尔纹章,이쉬탈 상징,ko
+优柔寡断,우유부단,ko
+伺机待发,준비,ko
+佐伊,조이,ko
+佛耶戈,비에고,ko
+便携锻炉,휴대용 대장간,ko
+俄洛伊,일라오이,ko
+信仰之跃,믿음의 도약,ko
+信仰震,믿음의 도약,ko
+修复型回响,회복의 메아리,ko
+假人化,훈련 봇 변환,ko
+储蓄账户,예금 계좌,ko
+優柔不断,우유부단,ko
+元初公理,액시오마타,ko
+光の番人,빛의 감시자,ko
+光明哨兵,빛의 감시자,ko
+光明圣物,찬란한 유물,ko
+光明无赖,찬란한 장난꾸러기,ko
+光盾徽章,라이트실드 문장,ko
+克格莫,코그모,ko
+入门套件,입문용 키트,ko
+全身全霊,극진한 헌신,ko
+兰博,럼블,ko
+关爱包裹,선물 꾸러미,ko
+兹若特传送门,즈롯 차원문,ko
+内瑟斯,나서스,ko
+冕卫,크라운가드,ko
+凯南,케넨,ko
+凯特琳,케이틀린,ko
+列队,정렬,ko
+利落保镖,경호대 훈련,ko
+别再错过,연결 불가,ko
+前借り,대출 선지급,ko
+前線維持,진형 유지,ko
+剑之工匠,검 제작자,ko
+剣鍛冶,검 제작자,ko
+力の聖杯,힘의 성배,ko
+加冕礼,대관식,ko
+加速之门,가속 관문,ko
+加里奥,갈리오,ko
+劣化版鏡像のペルソナ,하급 거울의 환영,ko
+动能屏障,동적 방어막,ko
+动量驱动器,탄력 구동,ko
+勝ち抜け,성취,ko
+千珏,킨드레드,ko
+升星之运,승승장구,ko
+升级咯！,레벨 업!,ko
+升级！,업그레이드!,ko
+卑尔维斯,벨베스,ko
+单身板甲,고독한 방패,ko
+卡莉丝塔,칼리스타,ko
+卡莎,카이사,ko
+卢登的激荡,루덴의 폭풍,ko
+卢锡安与赛娜,루시안과 세나,ko
+即席アーマー,임시변통 방어구,ko
+厄斐琉斯,아펠리오스,ko
+厄运小姐,미스 포츈,ko
+厨神阿福,U.R.F,ko
+双城赢家,아케인 빅토르이!,ko
+双子守护神,쌍둥이 수호자,ko
+双排,2인조,ko
+反响,복제,ko
+反曲之弓,곡궁,ko
+变形重组器,대격변 생성기,ko
+可大可小,최적화,ko
+可酷伯与悠米,코부코와 유미,ko
+吉格斯,직스,ko
+后期专家,후반 전문가,ko
+后期收益,후반 성장,ko
+呪いの刃,저주받은 칼날,ko
+呪われた望遠鏡,귀신 들린 망원경,ko
+嗜火,불장난,ko
+嘉文四世,자르반 4세,ko
+四费增援,4후지원,ko
+回声引擎,메아리 엔진,ko
+圣盾使的誓约,수호자의 맹세,ko
+坚守防线,진형 유지,ko
+坚定之心,굳건한 심장,ko
+埋もれた宝物,파묻힌 보물,ko
+基克的先驱,지크의 전령,ko
+基兰,질리언,ko
+基础装备自助餐,입맛대로 고르는 부품,ko
+報復,응징,ko
+塔姆,탐 켄치,ko
+塔里克,타릭,ko
+塞拉斯,사일러스,ko
+复苏之风,재생의 바람,ko
+夕闇の加護,황혼의 방패,ko
+夜之锋刃,밤의 끝자락,ko
+夜明けの加護,새벽의 방패,ko
+大きな福袋,큰 꾸러미,ko
+大买特买,흥청망청,ko
+大刷特刷,두둑한 새로고침,ko
+大剑溢流,넘치는 대검,ko
+大副的燧发枪,일등 항해사의 화승총,ko
+大哥罩我,커다란 친구,ko
+大地のアクシオム,대지 액시옴,ko
+大天使之杖,대천사의 지팡이,ko
+大炮火力网,미사일 폭격,ko
+大百宝袋,큰 꾸러미,ko
+大砲の雨,미사일 폭격,ko
+大而有力,거대하고 강력한,ko
+天の祝福,천상의 축복,ko
+天生二星,별들의 탄생,ko
+天降金币,돈벼락,ko
+奇亚娜,키아나,ko
+奈德丽,니달리,ko
+奥恩,오른,ko
+奥瑞利安·索尔,아우렐리온 솔,ko
+奥莉安娜,오리아나,ko
+女神の涙,여신의 눈물,ko
+女神之泪,여신의 눈물,ko
+好きなだけ泣くがいい,실컷 울어봐라,ko
+好事成双,문제가 두 배,ko
+妮蔻,니코,ko
+娑娜,소나,ko
+孙悟空,오공,ko
+宇宙の呼び声,우주의 부름,ko
+安妮,애니,ko
+安慰剂,위약 효과,ko
+安蓓萨,암베사,ko
+宝藏台风,보물 태풍,ko
+密银黎明,은빛 여명,ko
+对冲基金,헤지 펀드,ko
+小さくても強烈,작지만 치명적인,ko
+小さな仲間たち,작은 친구들,ko
+小さな福袋,작은 꾸러미,ko
+小伙伴,작은 친구들,ko
+小小福袋,작은 꾸러미,ko
+小而致命,작지만 치명적인,ko
+山積みのシトラス,귤 더미,ko
+山隐之焰,대장장이,ko
+岩土公理,대지 액시옴,ko
+岩宝,브록,ko
+峡谷先锋,협곡의 전령,ko
+峡谷迅捷蟹,협곡 바위 게,ko
+崔丝塔娜,트리스타나,ko
+崔斯特,트위스티드 페이트,ko
+巧みなクラフト,정교한 공예,ko
+巨人の誓い,거인의 결의,ko
+巨人杀手,거인 학살자,ko
+巨人腰带,거인의 허리띠,ko
+巨型九头蛇,거대한 히드라,ko
+巨大化ビーム,거대화 광선,ko
+巨大化射线,거대화 광선,ko
+巨神峰,타곤,ko
+巨龙之爪,용의 발톱,ko
+巨龙卫士,용 감시단,ko
+巫妖之祸,리치베인,ko
+巴德,바드,ko
+布里茨,블리츠크랭크,ko
+布隆,브라움,ko
+希尔科的复仇,실코의 복수,ko
+希瓦娜,쉬바나,ko
+帽子ジュース,카파 주스,ko
+帽子饮品,카파 주스,ko
+幸运手套,행운의 장갑,ko
+幸运达布隆金币,행운의 금화,ko
+幸運の金貨,행운의 금화,ko
+幽魂弯刀,망령 해적검,ko
+広がる根,뻗어가는 뿌리,ko
+庇護者のお供,수호자의 친구,ko
+应急护甲,임시변통 방어구,ko
+应急护盾,주인공 버프,ko
+弗雷尔卓德,프렐요드,ko
+弗雷尔卓德纹章,프렐요드 상징,ko
+强盗的骰子,약탈자의 주사위,ko
+强袭者的链枷,타격대의 철퇴,ko
+影の操り人形,그림자 꼭두각시,ko
+征服者,토벌자,ko
+征服者纹章,토벌자 상징,ko
+微型导弹,초소형 로켓,ko
+德玛西亚,데마시아,ko
+德玛西亚万岁,데마시아여 영원하라,ko
+德玛西亚纹章,데마시아 상징,ko
+德莱厄斯,다리우스,ko
+德莱文,드레이븐,ko
+心之钢,강철의 심장,ko
+心身統御のペンダント,활력증진의 펜던트,ko
+忍耐の美徳,참는 자에게 복을,ko
+思惑買い,장기 투자,ko
+怪しげなトレンチコート,수상한 외투,ko
+恕瑞玛,슈리마,ko
+恶火小斧,지옥불 손도끼,ko
+想定内の意外性,예상된 예상 밖의 결과,ko
+意料之中的意外,예상된 예상 밖의 결과,ko
+慎,쉔,ko
+成吨的属性！,엄청나게 이로운 효과!,ko
+成堆柑橘,귤 더미,ko
+成長志向,성장형 사고방식,ko
+成长型思维,성장형 사고방식,ko
+戦闘準備,준비,ko
+戴冠式,대관식,ko
+承诺之护,약속된 보호,ko
+投資完了,투자,ko
+投资,투자,ko
+护卫,엄호대,ko
+护卫纹章,엄호대 상징,ko
+护甲消除器,방어구 무효화,ko
+拉克丝,럭스,ko
+拳击课程,권투 교습,ko
+拳套,연습용 장갑,ko
+挑个好伙计！,동료 제작,ko
+振奋盔甲,정령의 형상,ko
+採掘ドリル,채굴 드릴,ko
+探索者的护臂,추적자의 팔목 보호대,ko
+提莫,티모,ko
+揺るがぬ心,굳건한 심장,ko
+摇钱树,돈 폭풍,ko
+救赎盔甲,구원의 영혼,ko
+斗士,난동꾼,ko
+斗士纹章,난동꾼 상징,ko
+料理鍋,요리용 냄비,ko
+斯卡纳,스카너,ko
+斯塔缇克电刃,스태틱의 단검,ko
+斯特拉克的挑战护手,스테락의 도전,ko
+斯维因,스웨인,ko
+无尽之刃,무한의 대검,ko
+无差别攻击,무차별적 살인자,ko
+无序进化,혼돈의 진화,ko
+无用大棒,쓸데없이 큰 지팡이,ko
+无终恨意,끝없는 절망,ko
+日炎斗篷,태양불꽃 망토,ko
+时光守护者,시간의 수호자,ko
+时间旅者,시간의 톱니바퀴,ko
+星界感召,우주의 부름,ko
+星界游神,관리인,ko
+星界赐福,천상의 축복,ko
+時の歯車,연속체 톱니바퀴,ko
+普朗克,갱플랭크,ko
+普通預金口座,예금 계좌,ko
+普雷西典保卫战,플레시디엄 수호,ko
+智慧末刃,마법사의 최후,ko
+暗影岛,그림자 군도,ko
+暗影木偶,그림자 꼭두각시,ko
+暗行者之爪,자객의 발톱,ko
+暗裔,다르킨,ko
+暗裔剑魔,세계의 종결자,ko
+暮光试炼,황혼의 시험,ko
+暴风之剑,B.F. 대검,ko
+曲境折跃,공간 왜곡,ko
+更要命的帽子,더욱 치명적인 모자,ko
+更要命的战刃,치명적인 칼날,ko
+最佳好友,단짝,ko
+最初の1つは無料！,첫 번째는 공짜!,ko
+最后一秒营救,마지막 세이브,ko
+最后的轻语,최후의 속삭임,ko
+最強の四配者,4후지원,ko
+有効活用,다 쓸 데가 있다니까,ko
+有用之材,다 쓸 데가 있다니까,ko
+朔极之矛,쇼진의 창,ko
+木のアクシオム,나무 액시옴,ko
+权杖意志,철퇴의 의지,ko
+杖之工匠,지팡이 제작자,ko
+杖鍛冶,지팡이 제작자,ko
+枪手,총잡이,ko
+枪手纹章,총잡이 상징,ko
+枯朽の遺物,해진 유물,ko
+枯死の宝石,역병의 보석,ko
+枯萎圣物,해진 유물,ko
+枯萎珠宝,역병의 보석,ko
+格温,그웬,ko
+格雷福斯,그레이브즈,ko
+梅尔,멜,ko
+棘刺背心,덤불 조끼,ko
+棘刺镀板铠甲,가시 박힌 갑옷,ko
+森罗公理,나무 액시옴,ko
+棱彩命运,프리즘 운명,ko
+棱彩门票,프리즘 티켓,ko
+構成拡大,가지 뻗기,ko
+槍の決意,창의 의지,ko
+次级镜像人格面具,하급 거울의 환영,ko
+正义之手,정의의 손길,ko
+正义巨像,영웅,ko
+正义报复,응징,ko
+死亡之刃,죽음의 검,ko
+殉道美德,순교자의 미덕,ko
+残酷弯刀,불한당의 해적검,ko
+殺し屋のカトラス,불한당의 해적검,ko
+比尔吉沃特,빌지워터,ko
+比尔吉沃特 次级英雄复制器,빌지워터 하급 챔피언 복제기,ko
+比尔吉沃特纹章,빌지워터 상징,ko
+气旋公理,대기 액시옴,ko
+水のアクシオム,물 액시옴,ko
+水乳交融,하나로 뭉치는 거지,ko
+水银,수은,ko
+永恒契约,영원한 서약,ko
+永恩,요네,ko
+永猎双子,영겁,ko
+沃利贝尔,볼리베어,ko
+沃里克,워윅,ko
+沈黙の帳,침묵의 장막,ko
+沙漠皇帝,황제,ko
+河流之王,대식가,ko
+治疗法球,회복의 구,ko
+法师,비전 마법사,ko
+法师纹章,비전 마법사 상징,ko
+法杖溢流,넘치는 지팡이,ko
+波比,뽀삐,ko
+泪流成河,실컷 울어봐라,ko
+泰坦的坚决,거인의 결의,ko
+泰达米尔,트린다미어,ko
+泽拉斯,제라스,ko
+洛里斯,로리스,ko
+浪人,추방자,ko
+海克斯机甲,마법공학기계,ko
+海克斯科技枪刃,마법공학 총검,ko
+海克斯霸龙,T-헥스,ko
+海克斯飞门之旅,마법공학 정거장 여행,ko
+海妖之怒,크라켄의 분노,ko
+涌泉公理,물 액시옴,ko
+混乱回復装置,대격변 생성기,ko
+混沌の進化,혼돈의 진화,ko
+游神的盟友,수호자의 친구,ko
+滅びの王,몰락한 왕,ko
+潘朵拉的备战席,판도라의 대기석,ko
+潘朵拉的装备,판도라의 아이템,ko
+激发之匣,활력증진의 펜던트,ko
+火上浇油,땔감 제공,ko
+灭世者的死亡之帽,라바돈의 죽음모자,ko
+灵风,서풍,ko
+灵魂唤醒,영혼 각성,ko
+災禍の使者,파멸의 인도자,ko
+炎のアクシオム,화염 액시옴,ko
+炎の愛好家,불장난,ko
+炎を強めて,땔감 제공,ko
+点击即送,그냥 눌러,ko
+炽天使之拥,고위천사의 지팡이,ko
+炽焰公理,화염 액시옴,ko
+烁刃,명멸검,ko
+烬,진,ko
+無差別殺人者,무차별적 살인자,ko
+爆炸式增长,폭발적인 성장,ko
+爆発的成長,폭발적인 성장,ko
+爆裂护盾,폭발 보호막,ko
+特性の書,특성의 고서,ko
+特性の木,특성 나무,ko
+狂徒铠甲,워모그의 갑옷,ko
+狂野女猎手,여사냥꾼,ko
+狂野生长,급성장,ko
+狙神,원거리 사격,ko
+狙神纹章,원거리 사격 상징,ko
+猛将的荣耀,대장군의 명예,ko
+獄炎のハチェット,지옥불 손도끼,ko
+王冠とは重きもの,왕관의 무게,ko
+王冠之重,왕관의 무게,ko
+王冠意志,왕관의 의지,ko
+玛尔扎哈,말자하,ko
+玻璃大炮,유리 대포,ko
+珍藏财宝,파묻힌 보물,ko
+珠光护手,보석 건틀릿,ko
+珠光莲花,보석 연꽃,ko
+瑞兹,라이즈,ko
+瑟庄妮,세주아니,ko
+瑟提,세트,ko
+璐璐,룰루,ko
+甘いおやつ,달콤한 간식,ko
+甜点,달콤한 간식,ko
+生日礼物,생일 선물,ko
+生日聚会,생일 모임,ko
+生涯ブロンズ,영원한 브론즈,ko
+由二生D,2만한 가치,ko
+电压导管,전압 도관,ko
+电流过载,전류 과부하,ko
+电磁脉冲,전자기 펄스,ko
+略奪者のダイス,약탈자의 주사위,ko
+疾射火炮,고속 연사포,ko
+癒しのこだま,회복의 메아리,ko
+登上最高峰,성취,ko
+白银命运,은빛 운명,ko
+皮尔特沃夫,필트오버,ko
+皮尔特沃夫发明,필트오버 발명품,ko
+皮尔特沃夫纹章,필트오버 상징,ko
+盖伦,가렌,ko
+盗賊のグローブ,도적의 장갑,ko
+盗賊団,도둑 무리,ko
+目には目を,눈에는 눈,ko
+石像鬼石板甲,가고일 돌갑옷,ko
+破灭使者,파멸의 인도자,ko
+破败之王,몰락한 왕,ko
+硬性承诺,극진한 헌신,ko
+碰撞测试假人,충돌 시험용 봇,ko
+確約された守護,약속된 보호,ko
+磁控线圈,자전관 코일,ko
+祖安,자운,ko
+祖安纹章,자운 상징,ko
+神盾使,파수꾼,ko
+神盾使纹章,파수꾼 상징,ko
+神谕者,기원자,ko
+神谕者纹章,기원자 상징,ko
+禁忌雕像,금지된 우상,ko
+离子火花,이온 충격기,ko
+科加斯,초가스,ko
+秘传奥义,에너지 파동,ko
+穢れたヴァンパイア セプター,타락한 흡혈의 낫,ko
+窃贼帮派,도둑 무리,ko
+窃贼手套,도적의 장갑,ko
+符文法师,룬 마법사,ko
+第一份免费！,첫 번째는 공짜!,ko
+米利欧,밀리오,ko
+精准而优雅,정확하고 우아하게,ko
+精密かつ優雅,정확하고 우아하게,ko
+精心打造,정교한 공예,ko
+系魂圣枪,영혼결속자,ko
+素材ビュッフェ,입맛대로 고르는 부품,ko
+紡がれし魔法,얽힌 마법,ko
+終わりなき絶望,끝없는 절망,ko
+絶好調,승승장구,ko
+红霸符,붉은 덩굴정령,ko
+约德尔人,요들,ko
+约德尔人纹章,요들 상징,ko
+约里克,요릭,ko
+纳什之牙,내셔의 이빨,ko
+纳什男爵,균열의 재앙,ko
+纳什男爵,내셔 남작,ko
+纹章之书,특성의 고서,ko
+纺织魔法,얽힌 마법,ko
+终身黄铜,영원한 브론즈,ko
+绝命毒师,독성 친구들,ko
+维迦,베이가,ko
+羁绊树,특성 나무,ko
+耀光使,방해꾼,ko
+耀光使纹章,방해꾼 상징,ko
+耐心是一种美德,참는 자에게 복을,ko
+联合作战,단결된 의지,ko
+能量圣杯,힘의 성배,ko
+腐蚀,부식,ko
+腐食,부식,ko
+腕豪,우두머리,ko
+腰带溢流,넘치는 허리띠,ko
+船长的帽子,선장의 모자,ko
+船长的酿造品,선장의 비법,ko
+艾克,에코,ko
+艾尼维亚,애니비아,ko
+艾希,애쉬,ko
+艾欧尼亚,아이오니아,ko
+艾欧尼亚纹章,아이오니아 상징,ko
+节外生枝,가지 뻗기,ko
+芸阿娜,유나라,ko
+英勇福袋,영웅 꾸러미,ko
+英雄のラッキーバッグ,영웅 꾸러미,ko
+莫雷洛秘典,모렐로노미콘,ko
+菲兹,피즈,ko
+萨勒芬妮,세라핀,ko
+蒙多医生,문도 박사,ko
+蓝霸符,푸른 파수꾼,ko
+蔓延之根,뻗어가는 뿌리,ko
+蔚,바이,ko
+蕾欧娜,레오나,ko
+薄暮法袍,저녁갑주,ko
+薇恩,베인,ko
+虚空,공허,ko
+虚空之女,흡수자,ko
+虚空之杖,공허의 지팡이,ko
+虚空护手,공허 건틀릿,ko
+虚空纹章,공허 상징,ko
+血の供物,피의 공물,ko
+衝突試験用ダミー,충돌 시험용 봇,ko
+裁决战士,학살자,ko
+裁决战士纹章,학살자 상징,ko
+装备百宝袋,아이템 꾸러미,ko
+複製,복제,ko
+视界专注,지평선의 초점,ko
+解封魔武,강철로부터 풀려난 봉인,ko
+解脱者,사슬파괴자,ko
+训练假人,훈련 봇,ko
+诅咒之刃,저주받은 칼날,ko
+诺克萨斯,녹서스,ko
+诺克萨斯纹章,녹서스 상징,ko
+诺提勒斯,노틸러스,ko
+调谐振荡器,조정된 발진기,ko
+財宝の竜巻,보물 태풍,ko
+買い物三昧,흥청망청,ko
+贝蕾亚,브라이어,ko
+负极斗篷,음전자 망토,ko
+贸易中心,거래 중심지,ko
+费德提克,피들스틱,ko
+赛恩,사이온,ko
+赵信,신 짜오,ko
+起死回生,재생의 바람,ko
+超越のタリスマン,승천의 부적,ko
+超越生体,우월한 존재,ko
+超越者,초월체,ko
+超频电容器,과열된 축전기,ko
+輝く悪党,찬란한 장난꾸러기,ko
+轻量魔法投掷,약간 신비한 주사위,ko
+辛吉德,신지드,ko
+达克威尔入侵,다크윌의 침공,ko
+迅击战士,기동타격대,ko
+迅击战士纹章,기동타격대 상징,ko
+远古巨龙,장로 드래곤,ko
+远古巫灵,초월체,ko
+远古恐惧,수확자,ko
+连指手套,방한 장갑,ko
+连续齿轮,연속체 톱니바퀴,ko
+迷离风衣,수상한 외투,ko
+适应性头盔,적응형 투구,ko
+遥遥领先,장기 투자,ko
+選ばれし狼,선택받은 늑대,ko
+酒吧指虎,따개비 장갑,ko
+采矿钻机,채굴 드릴,ko
+重启任务,임무 재시작,ko
+金のモンスーン,돈 폭풍,ko
+金ピカの鋼,도금 강철,ko
+金克丝,징크스,ko
+金色炊具,요리용 냄비,ko
+金铲铲,뒤집개,ko
+金铲铲冠冕,전략가의 왕관,ko
+金锅铲冠冕,전략가의 망토,ko
+金锅锅,프라이팬,ko
+金锅锅冠冕,전략가의 방패,ko
+金霖龙,황금 드래곤,ko
+金鳞精粹,빛비늘 정수,ko
+銀の匙,은수저,ko
+鋼からの解放,강철로부터 풀려난 봉인,ko
+鋼の心,강철의 심장,ko
+鏡像のペルソナ,거울의 환영,ko
+钢铁烈阳之匣,강철의 솔라리 펜던트,ko
+银汤匙,은수저,ko
+铸星龙王,별의 창조자,ko
+锁子甲,쇠사슬 조끼,ko
+锤石,쓰레쉬,ko
+镀金钢铁,도금 강철,ko
+镜像人格面具,거울의 환영,ko
+长矛意志,창의 의지,ko
+阿兹尔,아지르,ko
+阿狸,아리,ko
+限定カスタマイズ,특별 맞춤 설정,ko
+集中火力,화력 집중,ko
+集中砲火,화력 집중,ko
+集结战队,협력,ko
+雷克塞,렉사이,ko
+雷克顿,레넥톤,ko
+震畏大炮,드레드웨이 대포,ko
+静止法衣,침묵의 장막,ko
+韋駄天,기동타격대,ko
+韋駄天の紋章,기동타격대 상징,ko
+顽强不屈,불굴,ko
+風のアクシオム,대기 액시옴,ko
+飞升,초월,ko
+飞升护符,승천의 부적,ko
+食堂,급식소,ko
+饭厅,급식소,ko
+饮血剑,피바라기,ko
+騎士の誓い,기사의 맹세,ko
+骑士之誓,기사의 맹세,ko
+高压电,고전압,ko
+高级生命体,우월한 존재,ko
+高级贷款,대출 선지급,ko
+高電圧,고전압,ko
+高電圧管,전압 도관,ko
+鬼影望远镜,귀신 들린 망원경,ko
+鬼索的狂暴之刃,구인수의 격노검,ko
+魔像,골렘,ko
+魔像化,골렘화,ko
+魔法のダイス,마법 주사위,ko
+魔法投掷,마법 주사위,ko
+鱼骨头,생선대가리,ko
+鲜血祭品,피의 공물,ko
+黄昏の試練,황혼의 시험,ko
+黄昏圣盾,황혼의 방패,ko
+黄金の龍,황금 드래곤,ko
+黄金命运,금빛 운명,ko
+黎明圣盾,새벽의 방패,ko
+黎明核心,새벽심장,ko
+黑市炸药,암시장 폭발물,ko
+黑市补货,암시장 재입고,ko
+黑暗之女,어둠의 아이,ko
+黑暗吸血鬼节杖,타락한 흡혈의 낫,ko
+黑铁资产,유용한 금속,ko
+黛安娜,다이애나,ko
+龙血武姬,용족,ko

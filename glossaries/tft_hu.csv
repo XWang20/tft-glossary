@@ -1,449 +1,395 @@
 source,target,tgt_lng
+1个霸符，2个霸符,"Egy erősítés, két erősítés",hu
+2のトリック,Dupla trükk,hu
+3 Threes,3 hármas,hu
+3×3,3 hármas,hu
+3の軍団,Hármak légiója,hu
+8级D干的传说,Hatalmas sorsolás,hu
+90 Caliber Nets,90 kaliberes hálók,hu
+90口径绳网,90 kaliberes hálók,hu
+A Magic Roll,Varázsdobás,hu
 Aatrox,Aatrox,hu
+Acceleration Gate,Gyorsítókapu,hu
+Adaptive Helm,Adaptív sisak,hu
+Advanced Loan,Előleg,hu
+Aegis of Dawn,A Hajnal égisze,hu
+Aegis of Dusk,Az Alkony égisze,hu
 Ahri,Ahri,hu
+Air Axiom,Levegőaxióma,hu
 Ambessa,Ambessa,hu
 Anivia,Anivia,hu
 Annie,Annie,hu
 Aphelios,Aphelios,hu
+Arcane Viktor-y,Arcane Vidor Viktor,hu
+Arcane ビクタリー,Arcane Vidor Viktor,hu
+Arcanist,Főmágus,hu
+Arcanist Emblem,Főmágusok emblémája,hu
+Archangel's Staff,Arkangyal pálcája,hu
+Armor Nullifier,Páncélmegsemmisítő,hu
+Artillery Barrage,Ágyúsortűz,hu
+Ascendant,Felemelkedett,hu
+Ascension,Felemelkedés,hu
 Ashe,Ashe,hu
+Assimilator,Asszimiláló,hu
 Aurelion Sol,Aurelion Sol,hu
 Azir,Azir,hu
+B.F. Sword,K. N. kard,hu
+B.F.ソード,K. N. kard,hu
+Band of Thieves,Tolvajok bandája,hu
 Bard,Bard,hu
+Barknuckles,Kocsmajáró kesztyű,hu
 Baron Nashor,Baron Nashor,hu
 Bel'Veth,Bel'Veth,hu
-Blitzcrank,Blitzcrank,hu
-Braum,Braum,hu
-Briar,Briar,hu
-Brock,Brock,hu
-Caitlyn,Caitlyn,hu
-Cho'Gath,Cho'Gath,hu
-Darius,Darius,hu
-Diana,Diana,hu
-Dr. Mundo,Dr. Mundo,hu
-Draven,Draven,hu
-Ekko,Ekko,hu
-Elder Dragon,Ősi Sárkány,hu
-Fiddlesticks,Fiddlesticks,hu
-Fizz,Fizz,hu
-Galio,Galio,hu
-Gangplank,Gangplank,hu
-Garen,Garen,hu
-Golem,Gólem,hu
-Graves,Graves,hu
-Gwen,Gwen,hu
-Illaoi,Illaoi,hu
-Jarvan IV,IV. Jarvan,hu
-Jhin,Jhin,hu
-Jinx,Jinx,hu
-Kai'Sa,Kai'Sa,hu
-Kalista,Kalista,hu
-Kennen,Kennen,hu
-Kindred,Kindred,hu
-Kobuko & Yuumi,Kobuko és Yuumi,hu
-Kog'Maw,Kog'Maw,hu
-LeBlanc,LeBlanc,hu
-Leona,Leona,hu
-Lissandra,Lissandra,hu
-Loris,Loris,hu
-Lucian & Senna,Lucian és Senna,hu
-Lulu,Lulu,hu
-Lux,Lux,hu
-Malzahar,Malzahar,hu
-Mel,Mel,hu
-Milio,Milio,hu
-Miss Fortune,Miss Fortune,hu
-Nasus,Nasus,hu
-Nautilus,Nautilus,hu
-Neeko,Neeko,hu
-Nidalee,Nidalee,hu
-Orianna,Orianna,hu
-Ornn,Ornn,hu
-Piltover Invention,Piltoveri találmány,hu
-Poppy,Poppy,hu
-Qiyana,Qiyana,hu
-Rek'Sai,Rek'Sai,hu
-Renekton,Renekton,hu
-Rift Herald,A Szurdok Hírnöke,hu
-Rift Scuttler,Suhanó sutyerák,hu
-Rumble,Rumble,hu
-Ryze,Ryze,hu
-Sejuani,Sejuani,hu
-Seraphine,Seraphine,hu
-Sett,Sett,hu
-Shen,Shen,hu
-Shyvana,Shyvana,hu
-Singed,Singed,hu
-Sion,Sion,hu
-Skarner,Skarner,hu
-Sona,Sona,hu
-Swain,Swain,hu
-Sylas,Sylas,hu
-T-Hex,T-Hex,hu
-Tahm Kench,Tahm Kench,hu
-Taric,Taric,hu
-Teemo,Teemo,hu
-Thresh,Thresh,hu
-Training Dummy,Gyakorlófigura,hu
-Tristana,Tristana,hu
-Tryndamere,Tryndamere,hu
-Twisted Fate,Twisted Fate,hu
-Vayne,Vayne,hu
-Veigar,Veigar,hu
-Vi,Vi,hu
-Viego,Viego,hu
-Volibear,Volibear,hu
-Warwick,Warwick,hu
-Wukong,Wukong,hu
-Xerath,Xerath,hu
-Xin Zhao,Xin Zhao,hu
-Yasuo,Yasuo,hu
-Yone,Yone,hu
-Yorick,Yorick,hu
-Yunara,Yunara,hu
-Zaahen,Zaahen,hu
-Ziggs,Ziggs,hu
-Zilean,Zilean,hu
-Zoe,Zoe,hu
-Arcanist,Főmágus,hu
-Ascendant,Felemelkedett,hu
-Assimilator,Asszimiláló,hu
-Bilgewater,Bilgewateri,hu
-Blacksmith,Kovács,hu
-Bruiser,Zúzó,hu
-Caretaker,Gondviselő,hu
-Chainbreaker,Lánctörő,hu
-Chosen Wolves,Kiválasztott Farkasok,hu
-Chronokeeper,Az idő őre,hu
-Dark Child,Sötét gyermek,hu
-Darkin,Darkin,hu
-Defender,Védelmező,hu
-Demacia,Demaciai,hu
-Disruptor,Megszakító,hu
-Dragonborn,Sárkányfajzat,hu
-Dragonguards,Sárkányőrök,hu
-Emperor,Császári,hu
-Eternal,Örökkévaló,hu
-Freljord,Freljord,hu
-Glutton,Falánk,hu
-Gunslinger,Tüzér,hu
-Harvester,Arató,hu
-Heroic,Hősies,hu
-HexMech,HexMech,hu
-Huntress,Vadásznő,hu
-Immortal,Halhatatlan,hu
-Invoker,Szellemidéző,hu
-Ionia,Ioniai,hu
-Ixtal,Ixtali,hu
-Juggernaut,Buldózer,hu
-Longshot,Távoli tüzelő,hu
-Noxus,Noxusi,hu
-Piltover,Piltoveri,hu
-Poison Pals,Mérgező pajtik,hu
-Quickstriker,Gyorstámadó,hu
-Riftscourge,Szurdokvész,hu
-Rune Mage,Rúnamágus,hu
-Sentinels of Light,A Fény Őrzői,hu
-Shadow Isles,Árny-szigeteki,hu
-Shurima,Shurimai,hu
-Slayer,Gyilkos,hu
-Soulbound,Lélektárs,hu
-Star Forger,A csillagok kovácsa,hu
-Targon,Targoni,hu
-The Boss,A ring királya,hu
-Timewinders,Időbanditák,hu
-Vanquisher,Pusztító,hu
-Void,Üresség,hu
-Warden,Őrző,hu
-World Ender,Végítélet,hu
-Yordle,Yordle,hu
-Zaun,Zauni,hu
-3 Threes,3 hármas,hu
-A Magic Roll,Varázsdobás,hu
-Advanced Loan,Előleg,hu
-Air Axiom,Levegőaxióma,hu
-Arcane Viktor-y,Arcane Vidor Viktor,hu
-Artillery Barrage,Ágyúsortűz,hu
-Ascension,Felemelkedés,hu
-Band of Thieves,Tolvajok bandája,hu
 Belt Overflow,Övszállítmány,hu
 Best Friends,Legjobb barátok,hu
 Big Friend,Nagy barát,hu
 Big Grab Bag,Nagy zsákbamacska,hu
+Bilgewater,Bilgewateri,hu
+Bilgewater Emblem,Bilgewateri embléma,hu
+Bilgewater Lesser Champion Duplicator,Bilgewateri Csekélyebb Hősduplázó,hu
 Binary Airdrop,Utánpótlás,hu
 Birthday Present,Születésnapi ajándék,hu
 Birthday Reunion,Születésnapi találkozó,hu
+Black Market Restock,Feketepiaci készletfeltöltés,hu
+Blackmarket Explosives,Feketepiaci robbanószerek,hu
+Blacksmith,Kovács,hu
+Blast Shield,Energiapajzs,hu
+Blighting Jewel,Mételyékkő,hu
+Blitzcrank,Blitzcrank,hu
 Blood Offering,Véráldozat,hu
+Bloodthirster,Vérszomjas,hu
+Blue Buff,Kék erősítés,hu
 Bodyguard Training,Testőrképzés,hu
 Boxing Lessons,Bokszlecke,hu
+Bramble Vest,Bokormellény,hu
 Branching Out,A járatlan út,hu
+Braum,Braum,hu
+Briar,Briar,hu
+Brigand's Dice,Az útonálló kockája,hu
 Bringer of Ruin,Végzethozó,hu
+Brock,Brock,hu
 Bronze For Life,Bronz mindörökké II.,hu
+Bruiser,Zúzó,hu
+Bruiser Emblem,Zúzók emblémája,hu
 Buried Treasures,Eltemetett kincsek,hu
+Caitlyn,Caitlyn,hu
+Cappa Juice,Az erő itala,hu
+Captain's Brew,A kapitány főzete,hu
+Captain's Hat,A kapitány kalapja,hu
 Care Package,Ajándékcsomag,hu
+Caretaker,Gondviselő,hu
 Caretaker's Ally,A gondviselő barátja,hu
 Celestial Blessing,Égi áldás,hu
+Chain Vest,Sodronyozott mellény,hu
+Chainbreaker,Lánctörő,hu
+Chalice of Power,A hatalom kelyhe,hu
 Chaotic Evolution,Kaotikus evolúció,hu
+Cho'Gath,Cho'Gath,hu
+Chosen Wolves,Kiválasztott Farkasok,hu
+Chronokeeper,Az idő őre,hu
 Commerce Core,Kereskedelmi központ,hu
 Component Buffet,Svédasztalos összetevők,hu
 Construct a Companion,Építhető kísérő,hu
+Continuum Cogs,Kontinuum-fogaskerekek,hu
 Cooking Pot,Főzőedény,hu
 Coronation,Koronázás,hu
 Corrosion,Korrózió,hu
+Corrupt Vampiric Scepter,Megrontott vámpírjogar,hu
 Cosmic Calling,Kozmikus hívás,hu
 Crafted Crafting,Barkácsolt barkácsolás,hu
 Crash Test Dummies,Törésteszt bábuk,hu
 Crown's Will,A korona akarata,hu
+Crownguard,Koronaőr,hu
 Cry Me A River,Könnyek patakja,hu
+Cursed Blade,Elátkozott penge,hu
+Cutthroat's Cutlass,A martalóc szablyája,hu
+C位的觉悟,Találd meg önmagad,hu
+DD街区,Csereszektor,hu
+Darius,Darius,hu
+Dark Child,Sötét gyermek,hu
+Darkin,Darkin,hu
 Darkwill's Invasion,Darkwill inváziója,hu
+Dawncore,Hajnalmag,hu
+Dead Man's Dagger,Holtak tőre,hu
 Deadlier Blades,Halálosabb pengék,hu
 Deadlier Caps,Halálosabb süvegek,hu
+Deathblade,Halálpenge,hu
+Defender,Védelmező,hu
+Defender Emblem,Védelmezők emblémája,hu
 Defense of the Placidium,A Placidium védelme,hu
+Demacia,Demaciai,hu
+Demacia Emblem,Demaciai embléma,hu
 Demacia Forever,Éljen soká Demacia,hu
+Diana,Diana,hu
+Disruptor,Megszakító,hu
+Disruptor Emblem,Megszakítók emblémája,hu
 Double Trouble,Dupla élvezet,hu
+Dr. Mundo,Dr. Mundo,hu
+Dragon's Claw,Sárkánykarom,hu
+Dragonborn,Sárkányfajzat,hu
+Dragonguards,Sárkányőrök,hu
+Draven,Draven,hu
+Dreadway Cannon,Elrettentő ágyú,hu
 Dummify,Közös gyakorlás,hu
 Duo Queue,Páros várólista,hu
+D个痛快！,Újrasorsolás napestig,hu
+E.M.P.,E.M.P.,hu
 Earth Axiom,Földaxióma,hu
+Echo Engine,Visszhangmotor,hu
+Edge of Night,Az éj kardja,hu
+Ekko,Ekko,hu
+Elder Dragon,Ősi Sárkány,hu
+Electrical Overload,Elektromos túlterhelés,hu
+Emperor,Császári,hu
 Epic Rolldown,Hatalmas sorsolás,hu
+Eternal,Örökkévaló,hu
+Eternal Pact,Örök paktum,hu
+Evenshroud,Egyenlepel,hu
 Exclusive Customization,Exkluzív testreszabás,hu
 Exiles,Száműzöttek I.,hu
 Expected Unexpectedness,Várható váratlanság,hu
 Explosive Growth,Robbanásszerű fejlődés,hu
 Eye For An Eye,Szemet szemért,hu
 Feed the Flames,Tápláld a tüzet,hu
+Fiddlesticks,Fiddlesticks,hu
 Find Your Center,Találd meg önmagad,hu
 Fire Axiom,Tűzaxióma,hu
+First Mate's Flintlock,Az elsőtiszt pisztolya,hu
+First One's Free!,Az első ingyenes!,hu
+Fishbones,Halszálka,hu
+Fizz,Fizz,hu
+Flickerblades,Villanópengék,hu
 Focused Fire,Össztűz,hu
+Forbidden Idol,Tiltott bálvány,hu
+Freljord,Freljord,hu
+Freljord Emblem,Freljordi embléma,hu
+Frying Pan,Serpenyő,hu
+Galio,Galio,hu
+Gangplank,Gangplank,hu
+Garen,Garen,hu
+Gargoyle Stoneplate,A vízköpő sziklavértje,hu
+Giant Slayer,Óriásölő,hu
 Giant and Mighty,Hatalmas és erős,hu
+Giant's Belt,Az óriás öve,hu
+Gigantification Ray,Gigantifikációs sugár,hu
 Gilded Steel,Díszes acél,hu
 Glass Cannon,Törékeny tüzér I.,hu
+Glutton,Falánk,hu
 Going Long,Hosszú távú befektetés,hu
 Gold Destiny,Arany sors,hu
+Golem,Gólem,hu
 Golemify,Gólemépítés,hu
 Good For Something,Csak jó valamire I.,hu
+Graves,Graves,hu
 Growth Mindset,Növekedési stratégia,hu
+Guinsoo's Rageblade,Guinsoo dühpengéje,hu
+Gunslinger,Tüzér,hu
+Gunslinger Emblem,Tüzérek emblémája,hu
+Gwen,Gwen,hu
+Hand Of Justice,Az igazság ökle,hu
 Hard Commit,Elköteleződés,hu
+Harvester,Arató,hu
+Haunted Spyglass,Kísértetjárta távcső,hu
 Healing Orbs,Gyógyító gömbök I.,hu
 Heart of Steel,Acélszív,hu
 Heavy Is the Crown,Nehéz a korona,hu
 Hedge Fund,Fedezeti alap,hu
 Hefty Rolls,Nehéz sorsolások,hu
+Hellfire Hatchet,Pokoli csatabárd,hu
+Heroic,Hősies,hu
 Heroic Grab Bag,Hősies zsákbamacska,hu
+HexMech,HexMech,hu
 Hexgate Travel,Hexkapus utazás,hu
+Hextech Gunblade,Hextech lőpenge,hu
 High Voltage,Magasfeszültség,hu
 Hold the Line,Tartsd a frontot,hu
+Horizon Focus,Horizont,hu
+Huntress,Vadásznő,hu
+Illaoi,Illaoi,hu
+Immortal,Halhatatlan,hu
 Indecision,Döntésképtelenség I.,hu
 Indiscriminate Killer,Válogatás nélkül,hu
+Infinity Edge,Határtalan penge,hu
+Innervating Locket,Ösztönző medál,hu
 Invested,Elkötelezett,hu
+Invoker,Szellemidéző,hu
+Invoker Emblem,Szellemidézők emblémája,hu
+Ionia,Ioniai,hu
+Ionia Emblem,Ioniai embléma,hu
+Ionic Spark,Ionos szikra,hu
 Iron Assets,Vaseszközök,hu
 Item Grab Bag,Alkatrészes zsák,hu
+Ixtal,Ixtali,hu
+Ixtal Emblem,Ixtali embléma,hu
+Jarvan IV,IV. Jarvan,hu
+Jeweled Gauntlet,Drágaköves kesztyű,hu
 Jeweled Lotus,Drágaköves lótusz II.,hu
+Jhin,Jhin,hu
+Jinx,Jinx,hu
+Juggernaut,Buldózer,hu
+Juggernaut Emblem,Buldózerek emblémája,hu
 Just Hit,Mindent egyre,hu
 Kahunahuna,A nagy pofon,hu
+Kai'Sa,Kai'Sa,hu
+Kalista,Kalista,hu
+Kennen,Kennen,hu
+Kindred,Kindred,hu
+Kinetic Barrier,Kinetikus pajzs,hu
+Knight's Vow,Lovagi eskü,hu
+Kobuko & Yuumi,Kobuko és Yuumi,hu
+Kog'Maw,Kog'Maw,hu
+Kraken's Fury,A kraken haragja,hu
+L-90 カリバーネット,90 kaliberes hálók,hu
 Last Second Save,Az utolsó pillanatban,hu
+Last Whisper,Utolsó lehelet,hu
 Late Game Scaling,Végjátékbeli erőnövelés,hu
 Late Game Specialist,A végjáték szakértője,hu
+LeBlanc,LeBlanc,hu
 Leap of Faith,A hit ereje,hu
 Legion of Threes,Hármak légiója,hu
+Leona,Leona,hu
+Lesser Mirrored Persona,Csekélyebb Perszónatükör,hu
 Level Up!,Szintlépés!,hu
+Lich Bane,Félholt csapás,hu
 Lifting Competition,Súlyemelőverseny,hu
+Lightshield Crest,Fényőrző címer,hu
 Lineup,Alakzatba,hu
+Lissandra,Lissandra,hu
 Little Buddies,Apró cimborák,hu
+Locket of the Iron Solari,Az iron solarik medálja,hu
+Longshot,Távoli tüzelő,hu
+Longshot Emblem,Távoli tüzelők emblémája,hu
+Loris,Loris,hu
+Lucian & Senna,Lucian és Senna,hu
+Lucky Doubloon,Szerencsepénz,hu
 Lucky Gloves,Szerencsés kesztyű,hu
+Luden's Tempest,Luden vihara,hu
+Lulu,Lulu,hu
+Lux,Lux,hu
 Mace's Will,A buzogány akarata,hu
+Magnetron Coil,Magnetrontekercs,hu
 Makeshift Armor,Rögtönzött páncél,hu
+Malzahar,Malzahar,hu
+Mel,Mel,hu
+Mending Echoes,Jótékony visszhang,hu
 Mess Hall,Kajacsata,hu
+Micro-Rockets,Mikrorakéták,hu
+Milio,Milio,hu
 Min-Max,Min-max,hu
+Mining Drill,Bányászati fúró,hu
+Mirrored Persona,Perszónatükör,hu
+Miss Fortune,Miss Fortune,hu
 Missed Connections,Lekésett csatlakozás,hu
+Mittens,Egyujjas kesztyű,hu
+Momentum Drive,Lendülethajtómű,hu
 Money Monsoon,Pénzmonszun,hu
+Morellonomicon,Morellonomikon,hu
+Nashor's Tooth,Nashor foga,hu
+Nasus,Nasus,hu
+Nautilus,Nautilus,hu
+Needlessly Large Rod,Feleslegesen nagy pálca,hu
+Neeko,Neeko,hu
+Negatron Cloak,Negatron palást,hu
+Nidalee,Nidalee,hu
+Noxus,Noxusi,hu
+Noxus Emblem,Noxusi embléma,hu
 On a Roll,Jó sorozat,hu
 "One Buff, Two Buff","Egy erősítés, két erősítés",hu
 One Twos Three,"Egy, kettők, három",hu
 "One, Two, Five!","Egy, kettő, öt!",hu
+Orianna,Orianna,hu
+Ornn,Ornn,hu
+Overclocked Capacitors,Túlhajtott kondenzátorok,hu
 Pandora's Bench,Pandora kispadja,hu
 Pandora's Items,Pandora tárgyai II.,hu
 Patience is a Virtue,Türelem rózsát terem,hu
+Pile O' Citrus,Citrushalom,hu
+Piltover,Piltoveri,hu
+Piltover Emblem,Piltoveri embléma,hu
+Piltover Invention,Piltoveri találmány,hu
 Placebo,Placebo,hu
 Plot Armor,Narratív védelem,hu
+Poison Pals,Mérgező pajtik,hu
+Poppy,Poppy,hu
 Portable Forge,Hordozható kohó,hu
 Precision and Grace,Precizitás és kellem,hu
 Preparation,Felkészülés,hu
 Prismatic Destiny,Spektrum sors,hu
 Prismatic Ticket,Spektrum jegy,hu
 Promised Protection,Megígért oltalom,hu
+Protector's Vow,Az Oltalmazó esküje,hu
+Prowler's Claw,A portyázó karma,hu
 Pyromaniac,Piromániás,hu
+Qiyana,Qiyana,hu
+Quicksilver,Higany,hu
+Quickstriker,Gyorstámadó,hu
+Quickstriker Emblem,Gyorstámadók emblémája,hu
+Rabadon's Deathcap,Rabadon halálsüvege,hu
 Radiant Rascal,Sugárzó csirkefogó,hu
 Radiant Relics,Sugárzó ereklyék,hu
 Raining Gold,Aranyeső,hu
+Rapid Firecannon,Gyorstüzelő ágyú,hu
+Realm Warp,Világugrás,hu
 Recombobulator,Újraalkotó,hu
+Recurve Bow,Reflexíj,hu
+Red Buff,Vörös erősítés,hu
 ReinFOURcement,Négységben az erő,hu
+Rek'Sai,Rek'Sai,hu
+Renekton,Renekton,hu
 Replication,Másolás,hu
 Restart Mission,Küldetés újrakezdése,hu
 Retribution,Megtorlás,hu
+Rift Herald,A Szurdok Hírnöke,hu
+Rift Scuttler,Suhanó sutyerák,hu
+Riftscourge,Szurdokvész,hu
 Rolling For Days,Újrasorsolás napestig,hu
+Rumble,Rumble,hu
+Rune Mage,Rúnamágus,hu
+Ryze,Ryze,hu
 Savings Account,Pénzes persely,hu
 Second Wind,Megújult erő,hu
+Seeker's Armguard,Keresők karvértje,hu
+Sejuani,Sejuani,hu
+Sentinels of Light,A Fény Őrzői,hu
 Seraphim's Staff,Szeráf pálcája,hu
+Seraphine,Seraphine,hu
+Sett,Sett,hu
+Shadow Isles,Árny-szigeteki,hu
+Shadow Puppet,Árnybáb,hu
+Shen,Shen,hu
 Shimmerscale Essence,Csillámpikkely-esszencia,hu
 Shopping Spree,Bevásárló körút,hu
+Shroud of Stillness,A mozdulatlanság leple,hu
+Shurima,Shurimai,hu
+Shyvana,Shyvana,hu
 Silco's Revenge,Silco bosszúja,hu
 Silver Destiny,Ezüst sors,hu
 Silver Spoon,Ezüstkanál,hu
+Silvermere Dawn,Ezüsttóvári hajnal,hu
+Singed,Singed,hu
+Sion,Sion,hu
+Skarner,Skarner,hu
+Slayer,Gyilkos,hu
+Slayer Emblem,Gyilkosok emblémája,hu
 Slightly Magic Roll,Enyhén mágikus dobás,hu
 Small Grab Bag,Kis zsákbamacska,hu
 Solo Plate,Egyéni vért,hu
+Sona,Sona,hu
 Soul Awakening,Lelkek ébredése,hu
+Soulbound,Lélektárs,hu
+Sparring Gloves,Bokszkesztyű,hu
+Spatula,Spatula,hu
+Spear of Shojin,Shojin lándzsája,hu
 Spear's Will,A lándzsa akarata,hu
+Spectral Cutlass,Túlvilági szablya,hu
+Spirit Visage,Szellemarc,hu
 Spirit of Redemption,A megváltás szelleme,hu
 Spreading Roots,Szerteágazó gyökerek,hu
 Staffsmith,Botkovács,hu
 Stand United,Egységben az erő,hu
+Star Forger,A csillagok kovácsa,hu
 Stars Are Born,Csillagok születnek,hu
 Starter Kit,Kezdőcsomag,hu
-Sweet Treats,Édes falatok,hu
-Sword Overflow,Kardszállítmány,hu
-Swordsmith,Kardkovács,hu
-Teaming Up,Csapatkeresés,hu
-The Axiomata,Az Axiómák,hu
-The Golden Dragon,Az aranysárkány,hu
-The Ruined King,A letaszított király,hu
-The Trait Tree,Az adottságfa,hu
-The World Runes,A Világrúnák,hu
-Thorn-Plated Armor,Tüskés lemezpáncél,hu
-"Tiny, but Deadly","Kicsi, de halálos",hu
-Tons of Stats!,Tonnányi statisztika!,hu
-Trade Sector,Csereszektor,hu
-Trials of Twilight,Az alkony próbái,hu
-Trifecta,Hármas kombó I.,hu
-Twin Guardians,Ikerőrzők,hu
-Two Much Value,Dupla érték,hu
-Two Trick,Dupla trükk,hu
-U.R.F,U. R. F.,hu
-Unsealed From Steel,Felszabadítva az acélból,hu
-Upward Mobility,Felfelé irányuló mobilitás,hu
-Wand Overflow,Pálcaszállítmány,hu
-Warlord's Honor,Hadúri dicsőség,hu
-Water Axiom,Vízaxióma,hu
-We Stick Together,Összetartunk,hu
-Wild Growth,A vadon szava,hu
-Win Out,Biztos győzelem,hu
-Wood Axiom,Faaxióma,hu
-Woven Magic,Varázsszőttes,hu
-90 Caliber Nets,90 kaliberes hálók,hu
-Acceleration Gate,Gyorsítókapu,hu
-Adaptive Helm,Adaptív sisak,hu
-Aegis of Dawn,A Hajnal égisze,hu
-Aegis of Dusk,Az Alkony égisze,hu
-Arcanist Emblem,Főmágusok emblémája,hu
-Archangel's Staff,Arkangyal pálcája,hu
-Armor Nullifier,Páncélmegsemmisítő,hu
-B.F. Sword,K. N. kard,hu
-Barknuckles,Kocsmajáró kesztyű,hu
-Bilgewater Emblem,Bilgewateri embléma,hu
-Bilgewater Lesser Champion Duplicator,Bilgewateri Csekélyebb Hősduplázó,hu
-Black Market Restock,Feketepiaci készletfeltöltés,hu
-Blackmarket Explosives,Feketepiaci robbanószerek,hu
-Blast Shield,Energiapajzs,hu
-Blighting Jewel,Mételyékkő,hu
-Bloodthirster,Vérszomjas,hu
-Blue Buff,Kék erősítés,hu
-Bramble Vest,Bokormellény,hu
-Brigand's Dice,Az útonálló kockája,hu
-Bruiser Emblem,Zúzók emblémája,hu
-Cappa Juice,Az erő itala,hu
-Captain's Brew,A kapitány főzete,hu
-Captain's Hat,A kapitány kalapja,hu
-Chain Vest,Sodronyozott mellény,hu
-Chalice of Power,A hatalom kelyhe,hu
-Continuum Cogs,Kontinuum-fogaskerekek,hu
-Corrupt Vampiric Scepter,Megrontott vámpírjogar,hu
-Crownguard,Koronaőr,hu
-Cursed Blade,Elátkozott penge,hu
-Cutthroat's Cutlass,A martalóc szablyája,hu
-Dawncore,Hajnalmag,hu
-Dead Man's Dagger,Holtak tőre,hu
-Deathblade,Halálpenge,hu
-Defender Emblem,Védelmezők emblémája,hu
-Demacia Emblem,Demaciai embléma,hu
-Disruptor Emblem,Megszakítók emblémája,hu
-Dragon's Claw,Sárkánykarom,hu
-Dreadway Cannon,Elrettentő ágyú,hu
-E.M.P.,E.M.P.,hu
-Echo Engine,Visszhangmotor,hu
-Edge of Night,Az éj kardja,hu
-Electrical Overload,Elektromos túlterhelés,hu
-Eternal Pact,Örök paktum,hu
-Evenshroud,Egyenlepel,hu
-First Mate's Flintlock,Az elsőtiszt pisztolya,hu
-First One's Free!,Az első ingyenes!,hu
-Fishbones,Halszálka,hu
-Flickerblades,Villanópengék,hu
-Forbidden Idol,Tiltott bálvány,hu
-Freljord Emblem,Freljordi embléma,hu
-Frying Pan,Serpenyő,hu
-Gargoyle Stoneplate,A vízköpő sziklavértje,hu
-Giant Slayer,Óriásölő,hu
-Giant's Belt,Az óriás öve,hu
-Gigantification Ray,Gigantifikációs sugár,hu
-Guinsoo's Rageblade,Guinsoo dühpengéje,hu
-Gunslinger Emblem,Tüzérek emblémája,hu
-Hand Of Justice,Az igazság ökle,hu
-Haunted Spyglass,Kísértetjárta távcső,hu
-Hellfire Hatchet,Pokoli csatabárd,hu
-Hextech Gunblade,Hextech lőpenge,hu
-Horizon Focus,Horizont,hu
-Infinity Edge,Határtalan penge,hu
-Innervating Locket,Ösztönző medál,hu
-Invoker Emblem,Szellemidézők emblémája,hu
-Ionia Emblem,Ioniai embléma,hu
-Ionic Spark,Ionos szikra,hu
-Ixtal Emblem,Ixtali embléma,hu
-Jeweled Gauntlet,Drágaköves kesztyű,hu
-Juggernaut Emblem,Buldózerek emblémája,hu
-Kinetic Barrier,Kinetikus pajzs,hu
-Knight's Vow,Lovagi eskü,hu
-Kraken's Fury,A kraken haragja,hu
-Last Whisper,Utolsó lehelet,hu
-Lesser Mirrored Persona,Csekélyebb Perszónatükör,hu
-Lich Bane,Félholt csapás,hu
-Lightshield Crest,Fényőrző címer,hu
-Locket of the Iron Solari,Az iron solarik medálja,hu
-Longshot Emblem,Távoli tüzelők emblémája,hu
-Lucky Doubloon,Szerencsepénz,hu
-Luden's Tempest,Luden vihara,hu
-Magnetron Coil,Magnetrontekercs,hu
-Mending Echoes,Jótékony visszhang,hu
-Micro-Rockets,Mikrorakéták,hu
-Mining Drill,Bányászati fúró,hu
-Mirrored Persona,Perszónatükör,hu
-Mittens,Egyujjas kesztyű,hu
-Momentum Drive,Lendülethajtómű,hu
-Morellonomicon,Morellonomikon,hu
-Nashor's Tooth,Nashor foga,hu
-Needlessly Large Rod,Feleslegesen nagy pálca,hu
-Negatron Cloak,Negatron palást,hu
-Noxus Emblem,Noxusi embléma,hu
-Overclocked Capacitors,Túlhajtott kondenzátorok,hu
-Pile O' Citrus,Citrushalom,hu
-Piltover Emblem,Piltoveri embléma,hu
-Protector's Vow,Az Oltalmazó esküje,hu
-Prowler's Claw,A portyázó karma,hu
-Quicksilver,Higany,hu
-Quickstriker Emblem,Gyorstámadók emblémája,hu
-Rabadon's Deathcap,Rabadon halálsüvege,hu
-Rapid Firecannon,Gyorstüzelő ágyú,hu
-Realm Warp,Világugrás,hu
-Recurve Bow,Reflexíj,hu
-Red Buff,Vörös erősítés,hu
-Seeker's Armguard,Keresők karvértje,hu
-Shadow Puppet,Árnybáb,hu
-Shroud of Stillness,A mozdulatlanság leple,hu
-Silvermere Dawn,Ezüsttóvári hajnal,hu
-Slayer Emblem,Gyilkosok emblémája,hu
-Sparring Gloves,Bokszkesztyű,hu
-Spatula,Spatula,hu
-Spear of Shojin,Shojin lándzsája,hu
-Spectral Cutlass,Túlvilági szablya,hu
-Spirit Visage,Szellemarc,hu
 Statikk Shiv,Statikk töltőpengéje,hu
 Steadfast Heart,Állhatatos szív,hu
 Sterak's Gage,Sterak kihívása,hu
@@ -451,34 +397,1052 @@ Striker's Flail,Lecsapó buzogány,hu
 Sunfire Cape,Naptűz köpeny,hu
 Superior Lifeform,Felsőbbrendű létforma,hu
 Suspicious Trench Coat,Gyanús ballonkabát,hu
+Swain,Swain,hu
+Sweet Treats,Édes falatok,hu
+Sword Overflow,Kardszállítmány,hu
+Swordsmith,Kardkovács,hu
+Sylas,Sylas,hu
 Syren's Broadside,A Szirén sortüze,hu
+T-Hex,T-Hex,hu
 Tactician's Cape,Taktikus köpenye,hu
 Tactician's Crown,A taktikus koronája,hu
 Tactician's Shield,Taktikus pajzsa,hu
+Tahm Kench,Tahm Kench,hu
 Talisman Of Ascension,A felemelkedés talizmánja,hu
+Targon,Targoni,hu
+Taric,Taric,hu
+Teaming Up,Csapatkeresés,hu
 Tear of the Goddess,Istennő könnycseppje,hu
+Teemo,Teemo,hu
+The Axiomata,Az Axiómák,hu
+The Boss,A ring királya,hu
+The Golden Dragon,Az aranysárkány,hu
 The Indomitable,A rettenthetetlen,hu
+The Ruined King,A letaszított király,hu
+The Trait Tree,Az adottságfa,hu
+The World Runes,A Világrúnák,hu
 Thief's Gloves,Tolvajkesztyű,hu
+Thorn-Plated Armor,Tüskés lemezpáncél,hu
+Thresh,Thresh,hu
+Timewinders,Időbanditák,hu
+"Tiny, but Deadly","Kicsi, de halálos",hu
 Titan's Resolve,A titán elszántsága,hu
 Titanic Hydra,Titánhidra,hu
 Tome of Traits,Az adottságok könyve,hu
+Tons of Stats!,Tonnányi statisztika!,hu
+Trade Sector,Csereszektor,hu
+Training Dummy,Gyakorlófigura,hu
 Treasure Typhoon,Kincses tájfun,hu
+Trials of Twilight,Az alkony próbái,hu
+Trifecta,Hármas kombó I.,hu
+Tristana,Tristana,hu
+Tryndamere,Tryndamere,hu
 Tuned Oscillator,Hangolt oszcillátor,hu
+Twin Guardians,Ikerőrzők,hu
+Twisted Fate,Twisted Fate,hu
+Two Much Value,Dupla érték,hu
+Two Trick,Dupla trükk,hu
+U.R.F,U. R. F.,hu
+U.R.F.,U. R. F.,hu
 Unending Despair,Végtelen kétségbeesés,hu
+Unsealed From Steel,Felszabadítva az acélból,hu
 Unstable Core,Instabil mag,hu
 Upgrade!,Fejlesztés!,hu
+Upward Mobility,Felfelé irányuló mobilitás,hu
+Vanquisher,Pusztító,hu
 Vanquisher Emblem,Pusztítók emblémája,hu
+Vayne,Vayne,hu
+Veigar,Veigar,hu
+Vi,Vi,hu
+Viego,Viego,hu
 Virtue of the Martyr,Mártírerény,hu
+Void,Üresség,hu
 Void Emblem,Üresség embléma,hu
 Void Gauntlet,Ürességkesztyű,hu
 Void Staff,Az Üresség botja,hu
+Volibear,Volibear,hu
 Voltage Conduit,Feszültségvezető,hu
+Wand Overflow,Pálcaszállítmány,hu
+Warden,Őrző,hu
 Warden Emblem,Őrzők emblémája,hu
+Warlord's Honor,Hadúri dicsőség,hu
 Warmog's Armor,Warmog vértje,hu
+Warwick,Warwick,hu
+Water Axiom,Vízaxióma,hu
+We Stick Together,Összetartunk,hu
+Wild Growth,A vadon szava,hu
+Win Out,Biztos győzelem,hu
 Wit's End,Utolsó esély,hu
 Withered Relic,Sorvadt ereklye,hu
+Wood Axiom,Faaxióma,hu
+World Ender,Végítélet,hu
+Woven Magic,Varázsszőttes,hu
+Wukong,Wukong,hu
+Xerath,Xerath,hu
+Xin Zhao,Xin Zhao,hu
+Yasuo,Yasuo,hu
+Yone,Yone,hu
+Yordle,Yordle,hu
 Yordle Emblem,Yordle embléma,hu
+Yorick,Yorick,hu
+Yunara,Yunara,hu
+Zaahen,Zaahen,hu
+Zaun,Zauni,hu
 Zaun Emblem,Zauni embléma,hu
 Zeke's Herald,Zeke hírnöke,hu
 Zephyr,Zefír,hu
+Ziggs,Ziggs,hu
+Zilean,Zilean,hu
+Zoe,Zoe,hu
 Zz'Rot Portal,Zz'Rot-kapu,hu
+“塞壬号”的舷炮,A Szirén sortüze,hu
+いつでも一緒,Összetartunk,hu
+おおきくなぁれ！,A vadon szava,hu
+お得な2,Dupla érték,hu
+ここがセンター,Találd meg önmagad,hu
+たっぷりリロール,Nehéz sorsolások,hu
+ちょっとだけ魔法のダイス,Enyhén mágikus dobás,hu
+へら,Spatula,hu
+もっと怖いキャップ,Halálosabb süvegek,hu
+アイオニア,Ioniai,hu
+アイオニアの紋章,Ioniai embléma,hu
+アイオニック スパーク,Ionos szikra,hu
+アイテム福袋,Alkatrészes zsák,hu
+アクシオマタ,Az Axiómák,hu
+アクセルゲート,Gyorsítókapu,hu
+アシミレーター,Asszimiláló,hu
+アジール,Azir,hu
+アセンション,Felemelkedés,hu
+アダプティブ ヘルム,Adaptív sisak,hu
+アッシュ,Ashe,hu
+アップグレード！,Fejlesztés!,hu
+アニビア,Anivia,hu
+アニー,Annie,hu
+アフェリオス,Aphelios,hu
+アルカニスト,Főmágus,hu
+アルカニストの紋章,Főmágusok emblémája,hu
+アンベッサ,Ambessa,hu
+アークエンジェル スタッフ,Arkangyal pálcája,hu
+アーマー ナリファイア,Páncélmegsemmisítő,hu
+アーリ,Ahri,hu
+イシュタル,Ixtali,hu
+イシュタルの紋章,Ixtali embléma,hu
+イモータル,Halhatatlan,hu
+イラオイ,Illaoi,hu
+インフィニティ エッジ,Határtalan penge,hu
+インヴォーカー,Szellemidéző,hu
+インヴォーカーの紋章,Szellemidézők emblémája,hu
+イーブンシュラウド,Egyenlepel,hu
+ウィッツ エンド,Utolsó esély,hu
+ウォーロードの名誉,Hadúri dicsőség,hu
+ウーコン,Wukong,hu
+エイトロックス,Aatrox,hu
+エグザイル,Száműzöttek I.,hu
+エコー,Ekko,hu
+エコーエンジン,Visszhangmotor,hu
+エターナル,Örökkévaló,hu
+エピックなロールダウン,Hatalmas sorsolás,hu
+エルダードラゴン,Ősi Sárkány,hu
+エレクトリカル オーバーロード,Elektromos túlterhelés,hu
+エンペラー,Császári,hu
+オリアナ,Orianna,hu
+オレリオン・ソル,Aurelion Sol,hu
+オーバークロック コンデンサー,Túlhajtott kondenzátorok,hu
+オーン,Ornn,hu
+カイ＝サ,Kai'Sa,hu
+カナとカネ,Vaseszközök,hu
+カフナフナ,A nagy pofon,hu
+カリスタ,Kalista,hu
+ガリオ,Galio,hu
+ガレン,Garen,hu
+ガングプランク,Gangplank,hu
+ガンスリンガー,Tüzér,hu
+ガンスリンガーの紋章,Tüzérek emblémája,hu
+ガーゴイル ストーンプレート,A vízköpő sziklavértje,hu
+キネティックバリア,Kinetikus pajzs,hu
+キャプテンの帽子,A kapitány kalapja,hu
+キャプテンの醸造酒,A kapitány főzete,hu
+キヤナ,Qiyana,hu
+キンドレッド,Kindred,hu
+ギリギリの救出,Az utolsó pillanatban,hu
+クイックシルバー,Higany,hu
+クラウンの決意,A korona akarata,hu
+クラウンガード,Koronaőr,hu
+クラーケンの怒り,A kraken haragja,hu
+クロノキーパー,Az idő őre,hu
+グインソー レイジブレード,Guinsoo dühpengéje,hu
+グウェン,Gwen,hu
+グラスキャノン,Törékeny tüzér I.,hu
+グラットン,Falánk,hu
+グレイブス,Graves,hu
+ケアテイカー,Gondviselő,hu
+ケイトリン,Caitlyn,hu
+ケネン,Kennen,hu
+ケンカの作法,Energiapajzs,hu
+コグ＝マウ,Kog'Maw,hu
+コブコ&ユーミ,Kobuko és Yuumi,hu
+コマース コア,Kereskedelmi központ,hu
+コンパニオン作成,Építhető kísérő,hu
+ゴールドの運命,Arany sors,hu
+ゴールドの雨,Aranyeső,hu
+ゴーレム,Gólem,hu
+ゴーレム化,Gólemépítés,hu
+サイオン,Sion,hu
+サイラス,Sylas,hu
+サンファイア ケープ,Naptűz köpeny,hu
+ザ・ボス,A ring királya,hu
+ザーヘン,Zaahen,hu
+シェン,Shen,hu
+シマースケールのエッセンス,Csillámpikkely-esszencia,hu
+シャドウアイル,Árny-szigeteki,hu
+シュリーマ,Shurimai,hu
+ショウジンの矛,Shojin lándzsája,hu
+シルコの復讐,Silco bosszúja,hu
+シルバーの運命,Ezüst sors,hu
+シルバーミアの夜明け,Ezüsttóvári hajnal,hu
+シンジド,Singed,hu
+シン・ジャオ,Xin Zhao,hu
+シヴァーナ,Shyvana,hu
+シーカー アームガード,Keresők karvértje,hu
+ジグス,Ziggs,hu
+ジャイアント スレイヤー,Óriásölő,hu
+ジャイアント ベルト,Az óriás öve,hu
+ジャイアント&マイティ,Hatalmas és erős,hu
+ジャガーノート,Buldózer,hu
+ジャガーノートの紋章,Buldózerek emblémája,hu
+ジャストヒット,Mindent egyre,hu
+ジャーヴァンⅣ,IV. Jarvan,hu
+ジュエル ガントレット,Drágaköves kesztyű,hu
+ジュエル ロータス,Drágaköves lótusz II.,hu
+ジリアン,Zilean,hu
+ジン,Jhin,hu
+ジンクス,Jinx,hu
+ジークの使者,Zeke hírnöke,hu
+ジ＝ロット ポータル,Zz'Rot-kapu,hu
+スウェイン,Swain,hu
+スカーナー,Skarner,hu
+スタティック シヴ,Statikk töltőpengéje,hu
+スターターキット,Kezdőcsomag,hu
+スターフォージャー,A csillagok kovácsa,hu
+スター誕生,Csillagok születnek,hu
+ステラックの篭手,Sterak kihívása,hu
+ステータスマシマシ,Tonnányi statisztika!,hu
+ストライカー フレイル,Lecsapó buzogány,hu
+スパーリング グローブ,Bokszkesztyű,hu
+スピリット ビサージュ,Szellemarc,hu
+スペクトラル カトラス,Túlvilági szablya,hu
+スレイヤー,Gyilkos,hu
+スレイヤーの紋章,Gyilkosok emblémája,hu
+スレッシュ,Thresh,hu
+セイレーン号の片舷砲,A Szirén sortüze,hu
+セジュアニ,Sejuani,hu
+セト,Sett,hu
+セラフィムの杖,Szeráf pálcája,hu
+セラフィーン,Seraphine,hu
+ゼファー,Zefír,hu
+ゼラス,Xerath,hu
+ソウルの目覚め,Lelkek ébredése,hu
+ソウルバウンド,Lélektárs,hu
+ソナ,Sona,hu
+ソラリのロケット,Az iron solarik medálja,hu
+ソード オーバーフロー,Kardszállítmány,hu
+ソーンプレートアーマー,Tüskés lemezpáncél,hu
+ゾウン,Zauni,hu
+ゾウンの紋章,Zauni embléma,hu
+ゾーイ,Zoe,hu
+タイタン ハイドラ,Titánhidra,hu
+タイムワインダー,Időbanditák,hu
+タクティシャンのケープ,Taktikus köpenye,hu
+タクティシャンの王冠,A taktikus koronája,hu
+タクティシャンの盾,Taktikus pajzsa,hu
+タム・ケンチ,Tahm Kench,hu
+タリック,Taric,hu
+ターゴン,Targoni,hu
+ダイアナ,Diana,hu
+ダブルトラブル,Dupla élvezet,hu
+ダミー,Gyakorlófigura,hu
+ダミー化,Közös gyakorlás,hu
+ダリウス,Darius,hu
+ダーキン,Darkin,hu
+ダークウィルの侵略,Darkwill inváziója,hu
+ダークチャイルド,Sötét gyermek,hu
+チェイン ベスト,Sodronyozott mellény,hu
+チェインブレイカー,Lánctörő,hu
+チューンド オシレーター,Hangolt oszcillátor,hu
+チョ＝ガス,Cho'Gath,hu
+ツイステッド・フェイト,Twisted Fate,hu
+ツインガーディアン,Ikerőrzők,hu
+ティーモ,Teemo,hu
+ディスラプター,Megszakító,hu
+ディスラプターの紋章,Megszakítók emblémája,hu
+ディフェンダー,Védelmező,hu
+ディフェンダーの紋章,Védelmezők emblémája,hu
+デスブレード,Halálpenge,hu
+デッド マン ダガー,Holtak tőre,hu
+デッドリアー ブレード,Halálosabb pengék,hu
+デマーシア,Demaciai,hu
+デマーシアの紋章,Demaciai embléma,hu
+デマーシアよ永遠に,Éljen soká Demacia,hu
+デュオキュー,Páros várólista,hu
+トライフェクタ,Hármas kombó I.,hu
+トリスターナ,Tristana,hu
+トリンダメア,Tryndamere,hu
+トレードセクター,Csereszektor,hu
+ドクター・ムンド,Dr. Mundo,hu
+ドラゴン クロウ,Sárkánykarom,hu
+ドラゴンの守護者,Sárkányőrök,hu
+ドラゴンボーン,Sárkányfajzat,hu
+ドレイヴン,Draven,hu
+ドレッドウェイの砲撃,Elrettentő ágyú,hu
+ドーンコア,Hajnalmag,hu
+ナイト エッジ,Az éj kardja,hu
+ナサス,Nasus,hu
+ナッシャー トゥース,Nashor foga,hu
+ニダリー,Nidalee,hu
+ニーコ,Neeko,hu
+ネガトロン クローク,Negatron palást,hu
+ノクサス,Noxusi,hu
+ノクサスの紋章,Noxusi embléma,hu
+ノーチラス,Nautilus,hu
+ハントレス,Vadásznő,hu
+ハンド オブ ジャスティス,Az igazság ökle,hu
+ハーベスター,Arató,hu
+バイナリー空中投下,Utánpótlás,hu
+バフが1つ、バフが2つ,"Egy erősítés, két erősítés",hu
+バロンナッシャー,Baron Nashor,hu
+バークナックル,Kocsmajáró kesztyű,hu
+バースデー リユニオン,Születésnapi találkozó,hu
+バースデープレゼント,Születésnapi ajándék,hu
+バード,Bard,hu
+パンドラのアイテム,Pandora tárgyai II.,hu
+パンドラのベンチ,Pandora kispadja,hu
+ヒロイック,Hősies,hu
+ヒーリングオーブ,Gyógyító gömbök I.,hu
+ビッグフレンド,Nagy barát,hu
+ビルジウォーター,Bilgewateri,hu
+ビルジウォーターの小型チャンピオン複製器,Bilgewateri Csekélyebb Hősduplázó,hu
+ビルジウォーターの紋章,Bilgewateri embléma,hu
+ピルトーヴァー,Piltoveri,hu
+ピルトーヴァーの発明品,Piltoveri találmány,hu
+ピルトーヴァーの紋章,Piltoveri embléma,hu
+フィズ,Fizz,hu
+フィッシュボーン,Halszálka,hu
+フィドルスティックス,Fiddlesticks,hu
+フォビドゥン アイドル,Tiltott bálvány,hu
+フライパン,Serpenyő,hu
+フリッカーブレード,Villanópengék,hu
+フレヨルド,Freljord,hu
+フレヨルドの紋章,Freljordi embléma,hu
+ブライアー,Briar,hu
+ブラウム,Braum,hu
+ブラックスミス,Kovács,hu
+ブラックマーケットの再入荷,Feketepiaci készletfeltöltés,hu
+ブラックマーケットの爆発物,Feketepiaci robbanószerek,hu
+ブラッドサースター,Vérszomjas,hu
+ブランブル ベスト,Bokormellény,hu
+ブリッツクランク,Blitzcrank,hu
+ブルーザー,Zúzó,hu
+ブルーザーの紋章,Zúzók emblémája,hu
+ブルーバフ,Kék erősítés,hu
+ブロック,Brock,hu
+プラシディウムの防衛,A Placidium védelme,hu
+プラシーボ,Placebo,hu
+プリズムの運命,Spektrum sors,hu
+プリズムチケット,Spektrum jegy,hu
+プロテクターの誓い,Az Oltalmazó esküje,hu
+プローラー クロウ,A portyázó karma,hu
+ヘクスゲート トラベル,Hexkapus utazás,hu
+ヘクステック ガンブレード,Hextech lőpenge,hu
+ヘクスメック,HexMech,hu
+ヘッジファンド,Fedezeti alap,hu
+ベイガー,Veigar,hu
+ベストフレンド,Legjobb barátok,hu
+ベルト オーバーフロー,Övszállítmány,hu
+ベル＝ヴェス,Bel'Veth,hu
+ホライゾン フォーカス,Horizont,hu
+ボクシングのレッスン,Bokszlecke,hu
+ボディーガードの訓練,Testőrképzés,hu
+ボリベア,Volibear,hu
+ポイズンパル,Mérgező pajtik,hu
+ポッピー,Poppy,hu
+ポータブル フォージ,Hordozható kohó,hu
+ポータルワープ,Világugrás,hu
+マイクロロケット,Mikrorakéták,hu
+マグネトロンコイル,Magnetrontekercs,hu
+マルザハール,Malzahar,hu
+マーターズ ヴァーチュ,Mártírerény,hu
+ミスコネクション,Lekésett csatlakozás,hu
+ミス・フォーチュン,Miss Fortune,hu
+ミッションの再開,Küldetés újrakezdése,hu
+ミトン,Egyujjas kesztyű,hu
+ミニマックス,Min-max,hu
+ミリオ,Milio,hu
+ムダニ デカイ ロッド,Feleslegesen nagy pálca,hu
+メイスの決意,A buzogány akarata,hu
+メル,Mel,hu
+モメンタムドライブ,Lendülethajtómű,hu
+モレロノミコン,Morellonomikon,hu
+ヤスオ,Yasuo,hu
+ユナラ,Yunara,hu
+ヨネ,Yone,hu
+ヨリック,Yorick,hu
+ヨードル,Yordle,hu
+ヨードルの紋章,Yordle embléma,hu
+ライズ,Ryze,hu
+ライトシールドのクレスト,Fényőrző címer,hu
+ラインナップ,Alakzatba,hu
+ラスト ウィスパー,Utolsó lehelet,hu
+ラッキーグローブ,Szerencsés kesztyű,hu
+ラックス,Lux,hu
+ラバドン デスキャップ,Rabadon halálsüvege,hu
+ラピッド ファイアキャノン,Gyorstüzelő ágyú,hu
+ランブル,Rumble,hu
+リカーブ ボウ,Reflexíj,hu
+リサンドラ,Lissandra,hu
+リッチ ベイン,Félholt csapás,hu
+リデンプションの魂,A megváltás szelleme,hu
+リフティング大会,Súlyemelőverseny,hu
+リフトスカトル,Suhanó sutyerák,hu
+リフトスカージ,Szurdokvész,hu
+リフトヘラルド,A Szurdok Hírnöke,hu
+ルシアン&セナ,Lucian és Senna,hu
+ルブラン,LeBlanc,hu
+ルル,Lulu,hu
+ルーデン テンペスト,Luden vihara,hu
+ルーンメイジ,Rúnamágus,hu
+レイトゲーム スケーリング,Végjátékbeli erőnövelés,hu
+レイトゲーム スペシャリスト,A végjáték szakértője,hu
+レオナ,Leona,hu
+レク＝サイ,Rek'Sai,hu
+レッドバフ,Vörös erősítés,hu
+レディアントの遺物,Sugárzó ereklyék,hu
+レネクトン,Renekton,hu
+レベルアップ！,Szintlépés!,hu
+ロリス,Loris,hu
+ロングショット,Távoli tüzelő,hu
+ロングショットの紋章,Távoli tüzelők emblémája,hu
+ローリングデイズ,Újrasorsolás napestig,hu
+ワン、ツー、ファイブ！,"Egy, kettő, öt!",hu
+ワン、ツーツー、スリー,"Egy, kettők, három",hu
+ワンド オーバーフロー,Pálcaszállítmány,hu
+ワーウィック,Warwick,hu
+ワーデン,Őrző,hu
+ワーデンの紋章,Őrzők emblémája,hu
+ワーモグ アーマー,Warmog vértje,hu
+ワールドエンダー,Végítélet,hu
+ワールドルーン,A Világrúnák,hu
+ヴァイ,Vi,hu
+ヴァンキッシャー,Pusztító,hu
+ヴァンキッシャーの紋章,Pusztítók emblémája,hu
+ヴィエゴ,Viego,hu
+ヴェイン,Vayne,hu
+ヴォイド,Üresség,hu
+ヴォイド ガントレット,Ürességkesztyű,hu
+ヴォイド スタッフ,Az Üresség botja,hu
+ヴォイドの紋章,Üresség embléma,hu
+一二二三,"Egy, kettők, három",hu
+一人前プレート,Egyéni vért,hu
+一等航海士のフリントロック,Az elsőtiszt pisztolya,hu
+一致団結,Csapatkeresés,hu
+一致団結,Egységben az erő,hu
+一，二，五！,"Egy, kettő, öt!",hu
+三幻神,Hármak légiója,hu
+三项赛,Hármas kombó I.,hu
+三，三，三！,3 hármas,hu
+上方移動,Felfelé irányuló mobilitás,hu
+上进心,Felfelé irányuló mobilitás,hu
+不安定なコア,Instabil mag,hu
+不屈,A rettenthetetlen,hu
+不滅の協定,Örök paktum,hu
+不稳定核心,Instabil mag,hu
+不落魔锋,Halhatatlan,hu
+与狼共舞,Kiválasztott Farkasok,hu
+专属定制,Exkluzív testreszabás,hu
+世界符文,A Világrúnák,hu
+两把刷子,Dupla trükk,hu
+主人公補正,Narratív védelem,hu
+主宰,Buldózer,hu
+主宰纹章,Buldózerek emblémája,hu
+丽桑卓,Lissandra,hu
+举重比赛,Súlyemelőverseny,hu
+乐芙兰,LeBlanc,hu
+二进制空投,Utánpótlás,hu
+亚恒,Zaahen,hu
+亚托克斯,Aatrox,hu
+亚索,Yasuo,hu
+亡者的短剑,Holtak tőre,hu
+仕送り,Ajándékcsomag,hu
+以眼还眼,Szemet szemért,hu
+以绪塔尔,Ixtali,hu
+以绪塔尔纹章,Ixtali embléma,hu
+优柔寡断,Döntésképtelenség I.,hu
+伺机待发,Felkészülés,hu
+佐伊,Zoe,hu
+佛耶戈,Viego,hu
+便携锻炉,Hordozható kohó,hu
+俄洛伊,Illaoi,hu
+信仰之跃,A hit ereje,hu
+信仰震,A hit ereje,hu
+修复型回响,Jótékony visszhang,hu
+假人化,Közös gyakorlás,hu
+储蓄账户,Pénzes persely,hu
+優柔不断,Döntésképtelenség I.,hu
+元初公理,Az Axiómák,hu
+光の番人,A Fény Őrzői,hu
+光明哨兵,A Fény Őrzői,hu
+光明圣物,Sugárzó ereklyék,hu
+光明无赖,Sugárzó csirkefogó,hu
+光盾徽章,Fényőrző címer,hu
+克格莫,Kog'Maw,hu
+入门套件,Kezdőcsomag,hu
+全身全霊,Elköteleződés,hu
+兰博,Rumble,hu
+关爱包裹,Ajándékcsomag,hu
+兹若特传送门,Zz'Rot-kapu,hu
+内瑟斯,Nasus,hu
+冕卫,Koronaőr,hu
+凯南,Kennen,hu
+凯特琳,Caitlyn,hu
+列队,Alakzatba,hu
+利落保镖,Testőrképzés,hu
+别再错过,Lekésett csatlakozás,hu
+前借り,Előleg,hu
+前線維持,Tartsd a frontot,hu
+剑之工匠,Kardkovács,hu
+剣鍛冶,Kardkovács,hu
+力の聖杯,A hatalom kelyhe,hu
+加冕礼,Koronázás,hu
+加速之门,Gyorsítókapu,hu
+加里奥,Galio,hu
+劣化版鏡像のペルソナ,Csekélyebb Perszónatükör,hu
+动能屏障,Kinetikus pajzs,hu
+动量驱动器,Lendülethajtómű,hu
+勝ち抜け,Biztos győzelem,hu
+千珏,Kindred,hu
+升星之运,Jó sorozat,hu
+升级咯！,Szintlépés!,hu
+升级！,Fejlesztés!,hu
+卑尔维斯,Bel'Veth,hu
+单身板甲,Egyéni vért,hu
+卡莉丝塔,Kalista,hu
+卡莎,Kai'Sa,hu
+卢登的激荡,Luden vihara,hu
+卢锡安与赛娜,Lucian és Senna,hu
+即席アーマー,Rögtönzött páncél,hu
+厄斐琉斯,Aphelios,hu
+厄运小姐,Miss Fortune,hu
+厨神阿福,U. R. F.,hu
+双城赢家,Arcane Vidor Viktor,hu
+双子守护神,Ikerőrzők,hu
+双排,Páros várólista,hu
+反响,Másolás,hu
+反曲之弓,Reflexíj,hu
+变形重组器,Újraalkotó,hu
+可大可小,Min-max,hu
+可酷伯与悠米,Kobuko és Yuumi,hu
+吉格斯,Ziggs,hu
+后期专家,A végjáték szakértője,hu
+后期收益,Végjátékbeli erőnövelés,hu
+呪いの刃,Elátkozott penge,hu
+呪われた望遠鏡,Kísértetjárta távcső,hu
+嗜火,Piromániás,hu
+嘉文四世,IV. Jarvan,hu
+四费增援,Négységben az erő,hu
+回声引擎,Visszhangmotor,hu
+圣盾使的誓约,Az Oltalmazó esküje,hu
+坚守防线,Tartsd a frontot,hu
+坚定之心,Állhatatos szív,hu
+埋もれた宝物,Eltemetett kincsek,hu
+基克的先驱,Zeke hírnöke,hu
+基兰,Zilean,hu
+基础装备自助餐,Svédasztalos összetevők,hu
+報復,Megtorlás,hu
+塔姆,Tahm Kench,hu
+塔里克,Taric,hu
+塞拉斯,Sylas,hu
+复苏之风,Megújult erő,hu
+夕闇の加護,Az Alkony égisze,hu
+夜之锋刃,Az éj kardja,hu
+夜明けの加護,A Hajnal égisze,hu
+大きな福袋,Nagy zsákbamacska,hu
+大买特买,Bevásárló körút,hu
+大刷特刷,Nehéz sorsolások,hu
+大剑溢流,Kardszállítmány,hu
+大副的燧发枪,Az elsőtiszt pisztolya,hu
+大哥罩我,Nagy barát,hu
+大地のアクシオム,Földaxióma,hu
+大天使之杖,Arkangyal pálcája,hu
+大炮火力网,Ágyúsortűz,hu
+大百宝袋,Nagy zsákbamacska,hu
+大砲の雨,Ágyúsortűz,hu
+大而有力,Hatalmas és erős,hu
+天の祝福,Égi áldás,hu
+天生二星,Csillagok születnek,hu
+天降金币,Aranyeső,hu
+奇亚娜,Qiyana,hu
+奈德丽,Nidalee,hu
+奥恩,Ornn,hu
+奥瑞利安·索尔,Aurelion Sol,hu
+奥莉安娜,Orianna,hu
+女神の涙,Istennő könnycseppje,hu
+女神之泪,Istennő könnycseppje,hu
+好きなだけ泣くがいい,Könnyek patakja,hu
+好事成双,Dupla élvezet,hu
+妮蔻,Neeko,hu
+娑娜,Sona,hu
+孙悟空,Wukong,hu
+宇宙の呼び声,Kozmikus hívás,hu
+安妮,Annie,hu
+安慰剂,Placebo,hu
+安蓓萨,Ambessa,hu
+宝藏台风,Kincses tájfun,hu
+密银黎明,Ezüsttóvári hajnal,hu
+对冲基金,Fedezeti alap,hu
+小さくても強烈,"Kicsi, de halálos",hu
+小さな仲間たち,Apró cimborák,hu
+小さな福袋,Kis zsákbamacska,hu
+小伙伴,Apró cimborák,hu
+小小福袋,Kis zsákbamacska,hu
+小而致命,"Kicsi, de halálos",hu
+山積みのシトラス,Citrushalom,hu
+山隐之焰,Kovács,hu
+岩土公理,Földaxióma,hu
+岩宝,Brock,hu
+峡谷先锋,A Szurdok Hírnöke,hu
+峡谷迅捷蟹,Suhanó sutyerák,hu
+崔丝塔娜,Tristana,hu
+崔斯特,Twisted Fate,hu
+巧みなクラフト,Barkácsolt barkácsolás,hu
+巨人の誓い,A titán elszántsága,hu
+巨人杀手,Óriásölő,hu
+巨人腰带,Az óriás öve,hu
+巨型九头蛇,Titánhidra,hu
+巨大化ビーム,Gigantifikációs sugár,hu
+巨大化射线,Gigantifikációs sugár,hu
+巨神峰,Targoni,hu
+巨龙之爪,Sárkánykarom,hu
+巨龙卫士,Sárkányőrök,hu
+巫妖之祸,Félholt csapás,hu
+巴德,Bard,hu
+布里茨,Blitzcrank,hu
+布隆,Braum,hu
+希尔科的复仇,Silco bosszúja,hu
+希瓦娜,Shyvana,hu
+帽子ジュース,Az erő itala,hu
+帽子饮品,Az erő itala,hu
+幸运手套,Szerencsés kesztyű,hu
+幸运达布隆金币,Szerencsepénz,hu
+幸運の金貨,Szerencsepénz,hu
+幽魂弯刀,Túlvilági szablya,hu
+広がる根,Szerteágazó gyökerek,hu
+庇護者のお供,A gondviselő barátja,hu
+应急护甲,Rögtönzött páncél,hu
+应急护盾,Narratív védelem,hu
+弗雷尔卓德,Freljord,hu
+弗雷尔卓德纹章,Freljordi embléma,hu
+强盗的骰子,Az útonálló kockája,hu
+强袭者的链枷,Lecsapó buzogány,hu
+影の操り人形,Árnybáb,hu
+征服者,Pusztító,hu
+征服者纹章,Pusztítók emblémája,hu
+微型导弹,Mikrorakéták,hu
+德玛西亚,Demaciai,hu
+德玛西亚万岁,Éljen soká Demacia,hu
+德玛西亚纹章,Demaciai embléma,hu
+德莱厄斯,Darius,hu
+德莱文,Draven,hu
+心之钢,Acélszív,hu
+心身統御のペンダント,Ösztönző medál,hu
+忍耐の美徳,Türelem rózsát terem,hu
+思惑買い,Hosszú távú befektetés,hu
+怪しげなトレンチコート,Gyanús ballonkabát,hu
+恕瑞玛,Shurimai,hu
+恶火小斧,Pokoli csatabárd,hu
+想定内の意外性,Várható váratlanság,hu
+意料之中的意外,Várható váratlanság,hu
+慎,Shen,hu
+成吨的属性！,Tonnányi statisztika!,hu
+成堆柑橘,Citrushalom,hu
+成長志向,Növekedési stratégia,hu
+成长型思维,Növekedési stratégia,hu
+戦闘準備,Felkészülés,hu
+戴冠式,Koronázás,hu
+承诺之护,Megígért oltalom,hu
+投資完了,Elkötelezett,hu
+投资,Elkötelezett,hu
+护卫,Védelmező,hu
+护卫纹章,Védelmezők emblémája,hu
+护甲消除器,Páncélmegsemmisítő,hu
+拉克丝,Lux,hu
+拳击课程,Bokszlecke,hu
+拳套,Bokszkesztyű,hu
+挑个好伙计！,Építhető kísérő,hu
+振奋盔甲,Szellemarc,hu
+採掘ドリル,Bányászati fúró,hu
+探索者的护臂,Keresők karvértje,hu
+提莫,Teemo,hu
+揺るがぬ心,Állhatatos szív,hu
+摇钱树,Pénzmonszun,hu
+救赎盔甲,A megváltás szelleme,hu
+斗士,Zúzó,hu
+斗士纹章,Zúzók emblémája,hu
+料理鍋,Főzőedény,hu
+斯卡纳,Skarner,hu
+斯塔缇克电刃,Statikk töltőpengéje,hu
+斯特拉克的挑战护手,Sterak kihívása,hu
+斯维因,Swain,hu
+无尽之刃,Határtalan penge,hu
+无差别攻击,Válogatás nélkül,hu
+无序进化,Kaotikus evolúció,hu
+无用大棒,Feleslegesen nagy pálca,hu
+无终恨意,Végtelen kétségbeesés,hu
+日炎斗篷,Naptűz köpeny,hu
+时光守护者,Az idő őre,hu
+时间旅者,Időbanditák,hu
+星界感召,Kozmikus hívás,hu
+星界游神,Gondviselő,hu
+星界赐福,Égi áldás,hu
+時の歯車,Kontinuum-fogaskerekek,hu
+普朗克,Gangplank,hu
+普通預金口座,Pénzes persely,hu
+普雷西典保卫战,A Placidium védelme,hu
+智慧末刃,Utolsó esély,hu
+暗影岛,Árny-szigeteki,hu
+暗影木偶,Árnybáb,hu
+暗行者之爪,A portyázó karma,hu
+暗裔,Darkin,hu
+暗裔剑魔,Végítélet,hu
+暮光试炼,Az alkony próbái,hu
+暴风之剑,K. N. kard,hu
+曲境折跃,Világugrás,hu
+更要命的帽子,Halálosabb süvegek,hu
+更要命的战刃,Halálosabb pengék,hu
+最佳好友,Legjobb barátok,hu
+最初の1つは無料！,Az első ingyenes!,hu
+最后一秒营救,Az utolsó pillanatban,hu
+最后的轻语,Utolsó lehelet,hu
+最強の四配者,Négységben az erő,hu
+有効活用,Csak jó valamire I.,hu
+有用之材,Csak jó valamire I.,hu
+朔极之矛,Shojin lándzsája,hu
+木のアクシオム,Faaxióma,hu
+权杖意志,A buzogány akarata,hu
+杖之工匠,Botkovács,hu
+杖鍛冶,Botkovács,hu
+枪手,Tüzér,hu
+枪手纹章,Tüzérek emblémája,hu
+枯朽の遺物,Sorvadt ereklye,hu
+枯死の宝石,Mételyékkő,hu
+枯萎圣物,Sorvadt ereklye,hu
+枯萎珠宝,Mételyékkő,hu
+格温,Gwen,hu
+格雷福斯,Graves,hu
+梅尔,Mel,hu
+棘刺背心,Bokormellény,hu
+棘刺镀板铠甲,Tüskés lemezpáncél,hu
+森罗公理,Faaxióma,hu
+棱彩命运,Spektrum sors,hu
+棱彩门票,Spektrum jegy,hu
+構成拡大,A járatlan út,hu
+槍の決意,A lándzsa akarata,hu
+次级镜像人格面具,Csekélyebb Perszónatükör,hu
+正义之手,Az igazság ökle,hu
+正义巨像,Hősies,hu
+正义报复,Megtorlás,hu
+死亡之刃,Halálpenge,hu
+殉道美德,Mártírerény,hu
+残酷弯刀,A martalóc szablyája,hu
+殺し屋のカトラス,A martalóc szablyája,hu
+比尔吉沃特,Bilgewateri,hu
+比尔吉沃特 次级英雄复制器,Bilgewateri Csekélyebb Hősduplázó,hu
+比尔吉沃特纹章,Bilgewateri embléma,hu
+气旋公理,Levegőaxióma,hu
+水のアクシオム,Vízaxióma,hu
+水乳交融,Összetartunk,hu
+水银,Higany,hu
+永恒契约,Örök paktum,hu
+永恩,Yone,hu
+永猎双子,Örökkévaló,hu
+沃利贝尔,Volibear,hu
+沃里克,Warwick,hu
+沈黙の帳,A mozdulatlanság leple,hu
+沙漠皇帝,Császári,hu
+河流之王,Falánk,hu
+治疗法球,Gyógyító gömbök I.,hu
+法师,Főmágus,hu
+法师纹章,Főmágusok emblémája,hu
+法杖溢流,Pálcaszállítmány,hu
+波比,Poppy,hu
+泪流成河,Könnyek patakja,hu
+泰坦的坚决,A titán elszántsága,hu
+泰达米尔,Tryndamere,hu
+泽拉斯,Xerath,hu
+洛里斯,Loris,hu
+浪人,Száműzöttek I.,hu
+海克斯机甲,HexMech,hu
+海克斯科技枪刃,Hextech lőpenge,hu
+海克斯霸龙,T-Hex,hu
+海克斯飞门之旅,Hexkapus utazás,hu
+海妖之怒,A kraken haragja,hu
+涌泉公理,Vízaxióma,hu
+混乱回復装置,Újraalkotó,hu
+混沌の進化,Kaotikus evolúció,hu
+游神的盟友,A gondviselő barátja,hu
+滅びの王,A letaszított király,hu
+潘朵拉的备战席,Pandora kispadja,hu
+潘朵拉的装备,Pandora tárgyai II.,hu
+激发之匣,Ösztönző medál,hu
+火上浇油,Tápláld a tüzet,hu
+灭世者的死亡之帽,Rabadon halálsüvege,hu
+灵风,Zefír,hu
+灵魂唤醒,Lelkek ébredése,hu
+災禍の使者,Végzethozó,hu
+炎のアクシオム,Tűzaxióma,hu
+炎の愛好家,Piromániás,hu
+炎を強めて,Tápláld a tüzet,hu
+点击即送,Mindent egyre,hu
+炽天使之拥,Szeráf pálcája,hu
+炽焰公理,Tűzaxióma,hu
+烁刃,Villanópengék,hu
+烬,Jhin,hu
+無差別殺人者,Válogatás nélkül,hu
+爆炸式增长,Robbanásszerű fejlődés,hu
+爆発的成長,Robbanásszerű fejlődés,hu
+爆裂护盾,Energiapajzs,hu
+特性の書,Az adottságok könyve,hu
+特性の木,Az adottságfa,hu
+狂徒铠甲,Warmog vértje,hu
+狂野女猎手,Vadásznő,hu
+狂野生长,A vadon szava,hu
+狙神,Távoli tüzelő,hu
+狙神纹章,Távoli tüzelők emblémája,hu
+猛将的荣耀,Hadúri dicsőség,hu
+獄炎のハチェット,Pokoli csatabárd,hu
+王冠とは重きもの,Nehéz a korona,hu
+王冠之重,Nehéz a korona,hu
+王冠意志,A korona akarata,hu
+玛尔扎哈,Malzahar,hu
+玻璃大炮,Törékeny tüzér I.,hu
+珍藏财宝,Eltemetett kincsek,hu
+珠光护手,Drágaköves kesztyű,hu
+珠光莲花,Drágaköves lótusz II.,hu
+瑞兹,Ryze,hu
+瑟庄妮,Sejuani,hu
+瑟提,Sett,hu
+璐璐,Lulu,hu
+甘いおやつ,Édes falatok,hu
+甜点,Édes falatok,hu
+生日礼物,Születésnapi ajándék,hu
+生日聚会,Születésnapi találkozó,hu
+生涯ブロンズ,Bronz mindörökké II.,hu
+由二生D,Dupla érték,hu
+电压导管,Feszültségvezető,hu
+电流过载,Elektromos túlterhelés,hu
+电磁脉冲,E.M.P.,hu
+略奪者のダイス,Az útonálló kockája,hu
+疾射火炮,Gyorstüzelő ágyú,hu
+癒しのこだま,Jótékony visszhang,hu
+登上最高峰,Biztos győzelem,hu
+白银命运,Ezüst sors,hu
+皮尔特沃夫,Piltoveri,hu
+皮尔特沃夫发明,Piltoveri találmány,hu
+皮尔特沃夫纹章,Piltoveri embléma,hu
+盖伦,Garen,hu
+盗賊のグローブ,Tolvajkesztyű,hu
+盗賊団,Tolvajok bandája,hu
+目には目を,Szemet szemért,hu
+石像鬼石板甲,A vízköpő sziklavértje,hu
+破灭使者,Végzethozó,hu
+破败之王,A letaszított király,hu
+硬性承诺,Elköteleződés,hu
+碰撞测试假人,Törésteszt bábuk,hu
+確約された守護,Megígért oltalom,hu
+磁控线圈,Magnetrontekercs,hu
+祖安,Zauni,hu
+祖安纹章,Zauni embléma,hu
+神盾使,Őrző,hu
+神盾使纹章,Őrzők emblémája,hu
+神谕者,Szellemidéző,hu
+神谕者纹章,Szellemidézők emblémája,hu
+禁忌雕像,Tiltott bálvány,hu
+离子火花,Ionos szikra,hu
+科加斯,Cho'Gath,hu
+秘传奥义,A nagy pofon,hu
+穢れたヴァンパイア セプター,Megrontott vámpírjogar,hu
+窃贼帮派,Tolvajok bandája,hu
+窃贼手套,Tolvajkesztyű,hu
+符文法师,Rúnamágus,hu
+第一份免费！,Az első ingyenes!,hu
+米利欧,Milio,hu
+精准而优雅,Precizitás és kellem,hu
+精密かつ優雅,Precizitás és kellem,hu
+精心打造,Barkácsolt barkácsolás,hu
+系魂圣枪,Lélektárs,hu
+素材ビュッフェ,Svédasztalos összetevők,hu
+紡がれし魔法,Varázsszőttes,hu
+終わりなき絶望,Végtelen kétségbeesés,hu
+絶好調,Jó sorozat,hu
+红霸符,Vörös erősítés,hu
+约德尔人,Yordle,hu
+约德尔人纹章,Yordle embléma,hu
+约里克,Yorick,hu
+纳什之牙,Nashor foga,hu
+纳什男爵,Baron Nashor,hu
+纳什男爵,Szurdokvész,hu
+纹章之书,Az adottságok könyve,hu
+纺织魔法,Varázsszőttes,hu
+终身黄铜,Bronz mindörökké II.,hu
+绝命毒师,Mérgező pajtik,hu
+维迦,Veigar,hu
+羁绊树,Az adottságfa,hu
+耀光使,Megszakító,hu
+耀光使纹章,Megszakítók emblémája,hu
+耐心是一种美德,Türelem rózsát terem,hu
+联合作战,Egységben az erő,hu
+能量圣杯,A hatalom kelyhe,hu
+腐蚀,Korrózió,hu
+腐食,Korrózió,hu
+腕豪,A ring királya,hu
+腰带溢流,Övszállítmány,hu
+船长的帽子,A kapitány kalapja,hu
+船长的酿造品,A kapitány főzete,hu
+艾克,Ekko,hu
+艾尼维亚,Anivia,hu
+艾希,Ashe,hu
+艾欧尼亚,Ioniai,hu
+艾欧尼亚纹章,Ioniai embléma,hu
+节外生枝,A járatlan út,hu
+芸阿娜,Yunara,hu
+英勇福袋,Hősies zsákbamacska,hu
+英雄のラッキーバッグ,Hősies zsákbamacska,hu
+莫雷洛秘典,Morellonomikon,hu
+菲兹,Fizz,hu
+萨勒芬妮,Seraphine,hu
+蒙多医生,Dr. Mundo,hu
+蓝霸符,Kék erősítés,hu
+蔓延之根,Szerteágazó gyökerek,hu
+蔚,Vi,hu
+蕾欧娜,Leona,hu
+薄暮法袍,Egyenlepel,hu
+薇恩,Vayne,hu
+虚空,Üresség,hu
+虚空之女,Asszimiláló,hu
+虚空之杖,Az Üresség botja,hu
+虚空护手,Ürességkesztyű,hu
+虚空纹章,Üresség embléma,hu
+血の供物,Véráldozat,hu
+衝突試験用ダミー,Törésteszt bábuk,hu
+裁决战士,Gyilkos,hu
+裁决战士纹章,Gyilkosok emblémája,hu
+装备百宝袋,Alkatrészes zsák,hu
+複製,Másolás,hu
+视界专注,Horizont,hu
+解封魔武,Felszabadítva az acélból,hu
+解脱者,Lánctörő,hu
+训练假人,Gyakorlófigura,hu
+诅咒之刃,Elátkozott penge,hu
+诺克萨斯,Noxusi,hu
+诺克萨斯纹章,Noxusi embléma,hu
+诺提勒斯,Nautilus,hu
+调谐振荡器,Hangolt oszcillátor,hu
+財宝の竜巻,Kincses tájfun,hu
+買い物三昧,Bevásárló körút,hu
+贝蕾亚,Briar,hu
+负极斗篷,Negatron palást,hu
+贸易中心,Kereskedelmi központ,hu
+费德提克,Fiddlesticks,hu
+赛恩,Sion,hu
+赵信,Xin Zhao,hu
+起死回生,Megújult erő,hu
+超越のタリスマン,A felemelkedés talizmánja,hu
+超越生体,Felsőbbrendű létforma,hu
+超越者,Felemelkedett,hu
+超频电容器,Túlhajtott kondenzátorok,hu
+輝く悪党,Sugárzó csirkefogó,hu
+轻量魔法投掷,Enyhén mágikus dobás,hu
+辛吉德,Singed,hu
+达克威尔入侵,Darkwill inváziója,hu
+迅击战士,Gyorstámadó,hu
+迅击战士纹章,Gyorstámadók emblémája,hu
+远古巨龙,Ősi Sárkány,hu
+远古巫灵,Felemelkedett,hu
+远古恐惧,Arató,hu
+连指手套,Egyujjas kesztyű,hu
+连续齿轮,Kontinuum-fogaskerekek,hu
+迷离风衣,Gyanús ballonkabát,hu
+适应性头盔,Adaptív sisak,hu
+遥遥领先,Hosszú távú befektetés,hu
+選ばれし狼,Kiválasztott Farkasok,hu
+酒吧指虎,Kocsmajáró kesztyű,hu
+采矿钻机,Bányászati fúró,hu
+重启任务,Küldetés újrakezdése,hu
+金のモンスーン,Pénzmonszun,hu
+金ピカの鋼,Díszes acél,hu
+金克丝,Jinx,hu
+金色炊具,Főzőedény,hu
+金铲铲,Spatula,hu
+金铲铲冠冕,A taktikus koronája,hu
+金锅铲冠冕,Taktikus köpenye,hu
+金锅锅,Serpenyő,hu
+金锅锅冠冕,Taktikus pajzsa,hu
+金霖龙,Az aranysárkány,hu
+金鳞精粹,Csillámpikkely-esszencia,hu
+銀の匙,Ezüstkanál,hu
+鋼からの解放,Felszabadítva az acélból,hu
+鋼の心,Acélszív,hu
+鏡像のペルソナ,Perszónatükör,hu
+钢铁烈阳之匣,Az iron solarik medálja,hu
+银汤匙,Ezüstkanál,hu
+铸星龙王,A csillagok kovácsa,hu
+锁子甲,Sodronyozott mellény,hu
+锤石,Thresh,hu
+镀金钢铁,Díszes acél,hu
+镜像人格面具,Perszónatükör,hu
+长矛意志,A lándzsa akarata,hu
+阿兹尔,Azir,hu
+阿狸,Ahri,hu
+限定カスタマイズ,Exkluzív testreszabás,hu
+集中火力,Össztűz,hu
+集中砲火,Össztűz,hu
+集结战队,Csapatkeresés,hu
+雷克塞,Rek'Sai,hu
+雷克顿,Renekton,hu
+震畏大炮,Elrettentő ágyú,hu
+静止法衣,A mozdulatlanság leple,hu
+韋駄天,Gyorstámadó,hu
+韋駄天の紋章,Gyorstámadók emblémája,hu
+顽强不屈,A rettenthetetlen,hu
+風のアクシオム,Levegőaxióma,hu
+飞升,Felemelkedés,hu
+飞升护符,A felemelkedés talizmánja,hu
+食堂,Kajacsata,hu
+饭厅,Kajacsata,hu
+饮血剑,Vérszomjas,hu
+騎士の誓い,Lovagi eskü,hu
+骑士之誓,Lovagi eskü,hu
+高压电,Magasfeszültség,hu
+高级生命体,Felsőbbrendű létforma,hu
+高级贷款,Előleg,hu
+高電圧,Magasfeszültség,hu
+高電圧管,Feszültségvezető,hu
+鬼影望远镜,Kísértetjárta távcső,hu
+鬼索的狂暴之刃,Guinsoo dühpengéje,hu
+魔像,Gólem,hu
+魔像化,Gólemépítés,hu
+魔法のダイス,Varázsdobás,hu
+魔法投掷,Varázsdobás,hu
+鱼骨头,Halszálka,hu
+鲜血祭品,Véráldozat,hu
+黄昏の試練,Az alkony próbái,hu
+黄昏圣盾,Az Alkony égisze,hu
+黄金の龍,Az aranysárkány,hu
+黄金命运,Arany sors,hu
+黎明圣盾,A Hajnal égisze,hu
+黎明核心,Hajnalmag,hu
+黑市炸药,Feketepiaci robbanószerek,hu
+黑市补货,Feketepiaci készletfeltöltés,hu
+黑暗之女,Sötét gyermek,hu
+黑暗吸血鬼节杖,Megrontott vámpírjogar,hu
+黑铁资产,Vaseszközök,hu
+黛安娜,Diana,hu
+龙血武姬,Sárkányfajzat,hu

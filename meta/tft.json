@@ -1,7 +1,7 @@
 {
   "id": "tft",
   "name": "Teamfight Tactics (TFT)",
-  "description": "Glossary for Teamfight Tactics (TFT) Set 16 game terms including champions, traits, augments, and items.",
+  "description": "Glossary for TFT Set 16 game terms. Supports EN/ZH-CN/JA as source languages, translating to 23 target languages.",
   "author": "xing",
   "glossary": "tft",
   "langs": [
@@ -32,23 +32,23 @@
   "i18ns": {
     "en": {
       "name": "Teamfight Tactics (TFT)",
-      "description": "Glossary for TFT Set 16 terms: champions, traits, augments, and items."
+      "description": "TFT Set 16 glossary: champions, traits, augments, items. Source: EN/ZH-CN/JA."
     },
     "zh-CN": {
       "name": "云顶之弈 (TFT)",
-      "description": "云顶之弈 S16 赛季术语表：棋子、羁绊、强化符文、装备。"
+      "description": "云顶之弈 S16 术语表：棋子、羁绊、强化符文、装备。支持英/中/日三语源。"
     },
     "zh-TW": {
       "name": "聯盟戰棋 (TFT)",
-      "description": "聯盟戰棋 S16 賽季術語表：棋子、羈絆、強化符文、裝備。"
+      "description": "聯盟戰棋 S16 術語表：棋子、羈絆、強化符文、裝備。支持英/中/日三語源。"
     },
     "ja": {
       "name": "チームファイト タクティクス (TFT)",
-      "description": "TFT セット16用語集：チャンピオン、特性、オーグメント、アイテム。"
+      "description": "TFT セット16用語集：チャンピオン、特性、オーグメント、アイテム。EN/ZH-CN/JA対応。"
     },
     "ko": {
       "name": "전략적 팀 전투 (TFT)",
-      "description": "TFT 시즌 16 용어집: 챔피언, 특성, 증강, 아이템."
+      "description": "TFT 시즌 16 용어집: 챔피언, 특성, 증강, 아이템. EN/ZH-CN/JA 지원."
     }
   }
 }

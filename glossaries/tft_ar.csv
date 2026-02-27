@@ -1,449 +1,395 @@
 source,target,tgt_lng
+1个霸符，2个霸符,تعزيزٌ هنا وتعزيزٌ هناك,ar
+2のトリック,ثنائيات عديدة,ar
+3 Threes,3 ثلاثات,ar
+3×3,3 ثلاثات,ar
+3の軍団,الفيلق الثلاثي,ar
+8级D干的传说,استبدالٌ ملحمي,ar
+90 Caliber Nets,شبكات عيار 90,ar
+90口径绳网,شبكات عيار 90,ar
+A Magic Roll,الرمية السحرية,ar
 Aatrox,آتروكس,ar
+Acceleration Gate,بوابة التسارع,ar
+Adaptive Helm,الخوذة المتكيفة,ar
+Advanced Loan,سلفة قرض,ar
+Aegis of Dawn,درع الفجر,ar
+Aegis of Dusk,درع الغسق,ar
 Ahri,آري,ar
+Air Axiom,المبدأ الهوائي,ar
 Ambessa,أمبيسا,ar
 Anivia,أنيفيا,ar
 Annie,آني,ar
 Aphelios,أفيليوس,ar
+Arcane Viktor-y,انتصار فيكتور آركين,ar
+Arcane ビクタリー,انتصار فيكتور آركين,ar
+Arcanist,ساحر الأسرار,ar
+Arcanist Emblem,شارة ساحر الأسرار,ar
+Archangel's Staff,عصا كبير الحُماة,ar
+Armor Nullifier,مبطل الدروع,ar
+Artillery Barrage,وابل المدفعية,ar
+Ascendant,مرتقي,ar
+Ascension,الارتقاء,ar
 Ashe,آش,ar
+Assimilator,متأقلمة,ar
 Aurelion Sol,أوريليون سول,ar
 Azir,أزير,ar
+B.F. Sword,السيف الهائل,ar
+B.F.ソード,السيف الهائل,ar
+Band of Thieves,عصابة اللصوص,ar
 Bard,بارد,ar
+Barknuckles,قبضتا السنديان,ar
 Baron Nashor,بارون ناشور,ar
 Bel'Veth,بيلفيث,ar
-Blitzcrank,بليتزكرانك,ar
-Braum,بروم,ar
-Briar,براير,ar
-Brock,بروك,ar
-Caitlyn,كايتلين,ar
-Cho'Gath,تشوغاث,ar
-Darius,داريوس,ar
-Diana,ديانا,ar
-Dr. Mundo,د. موندو,ar
-Draven,درايفن,ar
-Ekko,إيكو,ar
-Elder Dragon,التنين الأعظم,ar
-Fiddlesticks,فيدل ستيكس,ar
-Fizz,فيز,ar
-Galio,غاليو,ar
-Gangplank,غانغ بلانك,ar
-Garen,غارين,ar
-Golem,غولم,ar
-Graves,غرايفز,ar
-Gwen,غوين,ar
-Illaoi,إيلاوي,ar
-Jarvan IV,جارفان الرابع,ar
-Jhin,جين,ar
-Jinx,جينكس,ar
-Kai'Sa,كايسا,ar
-Kalista,كاليستا,ar
-Kennen,كينين,ar
-Kindred,كيندريد,ar
-Kobuko & Yuumi,كوبوكو ويومي,ar
-Kog'Maw,كوغ ماو,ar
-LeBlanc,لوبلانك,ar
-Leona,ليونا,ar
-Lissandra,ليساندرا,ar
-Loris,لوريس,ar
-Lucian & Senna,لوشيان وسينا,ar
-Lulu,لولو,ar
-Lux,لكس,ar
-Malzahar,مالزاهار,ar
-Mel,ميل,ar
-Milio,ميليو,ar
-Miss Fortune,ميس فورتشن,ar
-Nasus,ناسوس,ar
-Nautilus,نوتيلوس,ar
-Neeko,نِكو,ar
-Nidalee,نيدالي,ar
-Orianna,أوريانا,ar
-Ornn,أورن,ar
-Piltover Invention,اختراع بيلتوفر,ar
-Poppy,بوبي,ar
-Qiyana,كيانا,ar
-Rek'Sai,ريكساي,ar
-Renekton,رينيكتون,ar
-Rift Herald,ريفت هيرالد,ar
-Rift Scuttler,ريفت سكاتلر,ar
-Rumble,رامبل,ar
-Ryze,رايز,ar
-Sejuani,سيجواني,ar
-Seraphine,سيرافين,ar
-Sett,سيت,ar
-Shen,شين,ar
-Shyvana,شيفانا,ar
-Singed,سينجد,ar
-Sion,سايون,ar
-Skarner,سكارنر,ar
-Sona,سونا,ar
-Swain,سواين,ar
-Sylas,سايلاس,ar
-T-Hex,تي-هكس,ar
-Tahm Kench,تام كينش,ar
-Taric,تاريك,ar
-Teemo,تيمو,ar
-Thresh,ثريش,ar
-Training Dummy,دمية التدريب,ar
-Tristana,تريستانا,ar
-Tryndamere,تريندامير,ar
-Twisted Fate,تويستد فايت,ar
-Vayne,فاين,ar
-Veigar,فيغار,ar
-Vi,فاي,ar
-Viego,فييغو,ar
-Volibear,فوليبير,ar
-Warwick,وارويك,ar
-Wukong,ووكونغ,ar
-Xerath,زيراث,ar
-Xin Zhao,شين جاو,ar
-Yasuo,ياسو,ar
-Yone,يوني,ar
-Yorick,يوريك,ar
-Yunara,يونارا,ar
-Zaahen,زاهان,ar
-Ziggs,زيغز,ar
-Zilean,زيليان,ar
-Zoe,زوي,ar
-Arcanist,ساحر الأسرار,ar
-Ascendant,مرتقي,ar
-Assimilator,متأقلمة,ar
-Bilgewater,بيلجواتر,ar
-Blacksmith,حَدّاد,ar
-Bruiser,ملاكم,ar
-Caretaker,وصي,ar
-Chainbreaker,محطم السلاسل,ar
-Chosen Wolves,الذئاب المختارة,ar
-Chronokeeper,حافظ الزمن,ar
-Dark Child,طفلة الظلام,ar
-Darkin,داركن,ar
-Defender,مدافع,ar
-Demacia,ديماسيا,ar
-Disruptor,مُعرقل,ar
-Dragonborn,سليلة التنين,ar
-Dragonguards,حراس التنانين,ar
-Emperor,إمبراطور,ar
-Eternal,أزلي,ar
-Freljord,فريليورد,ar
-Glutton,شره,ar
-Gunslinger,محترف الرماية,ar
-Harvester,حاصد,ar
-Heroic,بطولي,ar
-HexMech,ميكا هيكس,ar
-Huntress,صيادة,ar
-Immortal,أبدي,ar
-Invoker,عراف,ar
-Ionia,أيونيا,ar
-Ixtal,إشتال,ar
-Juggernaut,طاغوت,ar
-Longshot,رماية بعيدة,ar
-Noxus,نوكسوس,ar
-Piltover,بيلتوفر,ar
-Poison Pals,أصدقاء السم,ar
-Quickstriker,مهاجم سريع,ar
-Riftscourge,بلاء الريفت,ar
-Rune Mage,ساحر الرون,ar
-Sentinels of Light,خفراء النور,ar
-Shadow Isles,جزر الظلام,ar
-Shurima,شوريما,ar
-Slayer,سفّاح,ar
-Soulbound,الارتباط الروحي,ar
-Star Forger,صانع النجوم,ar
-Targon,تارغون,ar
-The Boss,الزعيم,ar
-Timewinders,معيدو الزمن,ar
-Vanquisher,قاهر,ar
-Void,فويد,ar
-Warden,مأمور,ar
-World Ender,مدمر العالم,ar
-Yordle,يوردل,ar
-Zaun,زون,ar
-3 Threes,3 ثلاثات,ar
-A Magic Roll,الرمية السحرية,ar
-Advanced Loan,سلفة قرض,ar
-Air Axiom,المبدأ الهوائي,ar
-Arcane Viktor-y,انتصار فيكتور آركين,ar
-Artillery Barrage,وابل المدفعية,ar
-Ascension,الارتقاء,ar
-Band of Thieves,عصابة اللصوص,ar
 Belt Overflow,الأحزمة الوفيرة,ar
 Best Friends,أفضل الأصدقاء,ar
 Big Friend,الصديق الكبير,ar
 Big Grab Bag,كيس هدايا كبير,ar
+Bilgewater,بيلجواتر,ar
+Bilgewater Emblem,شارة بيلجواتر,ar
+Bilgewater Lesser Champion Duplicator,مستنسخ أبطال بيلجواتر الأدنى,ar
 Binary Airdrop,الإسقاط الجوي الثنائي,ar
 Birthday Present,هدية عيد الميلاد,ar
 Birthday Reunion,لم شمل عيد الميلاد,ar
+Black Market Restock,تجديد بضائع السوق السوداء,ar
+Blackmarket Explosives,متفجرات السوق السوداء,ar
+Blacksmith,حَدّاد,ar
+Blast Shield,الدرع المصفح,ar
+Blighting Jewel,الجوهرة المتلفة,ar
+Blitzcrank,بليتزكرانك,ar
 Blood Offering,قربان الدم,ar
+Bloodthirster,المتعطش للدماء,ar
+Blue Buff,محفز أزرق,ar
 Bodyguard Training,تدريب الحارس الشخصي,ar
 Boxing Lessons,دروس الملاكمة,ar
+Bramble Vest,السترة المدببة,ar
 Branching Out,التوسع,ar
+Braum,بروم,ar
+Briar,براير,ar
+Brigand's Dice,نرد قطاع الطرق,ar
 Bringer of Ruin,نذير الخراب,ar
+Brock,بروك,ar
 Bronze For Life,البرونزي حتى النهاية,ar
+Bruiser,ملاكم,ar
+Bruiser Emblem,شارة الملاكم,ar
 Buried Treasures,الكنوز المدفونة,ar
+Caitlyn,كايتلين,ar
+Cappa Juice,عصير القبعة,ar
+Captain's Brew,شراب القبطان,ar
+Captain's Hat,قبعة القبطان,ar
 Care Package,حزمة الرعاية,ar
+Caretaker,وصي,ar
 Caretaker's Ally,حليف الوصي,ar
 Celestial Blessing,عطية النجوم,ar
+Chain Vest,السترة المسلسلة,ar
+Chainbreaker,محطم السلاسل,ar
+Chalice of Power,كأس القوة,ar
 Chaotic Evolution,تطوّر فوضوي,ar
+Cho'Gath,تشوغاث,ar
+Chosen Wolves,الذئاب المختارة,ar
+Chronokeeper,حافظ الزمن,ar
 Commerce Core,جوهر التجارة,ar
 Component Buffet,وليمة المكونات,ar
 Construct a Companion,بناء مرافق,ar
+Continuum Cogs,تروس الاستمرارية,ar
 Cooking Pot,وعاء الطهي,ar
 Coronation,التتويج,ar
 Corrosion,التآكل,ar
+Corrupt Vampiric Scepter,صولجان مصاصي الدماء الفاسد,ar
 Cosmic Calling,النداء الكوني,ar
 Crafted Crafting,التصنيع المتقن,ar
 Crash Test Dummies,دمى اختبار التحطم,ar
 Crown's Will,إرادة التاج,ar
+Crownguard,حامي التاج,ar
 Cry Me A River,بكاء بلا جدوى,ar
+Cursed Blade,النصل الملعون,ar
+Cutthroat's Cutlass,السيف القاطع السفاح,ar
+C位的觉悟,اعثر على مركزك,ar
+DD街区,قطاع التجارة,ar
+Darius,داريوس,ar
+Dark Child,طفلة الظلام,ar
+Darkin,داركن,ar
 Darkwill's Invasion,غزو داركويل,ar
+Dawncore,جوهر الفجر,ar
+Dead Man's Dagger,خنجر الميت,ar
 Deadlier Blades,نصال أشد فتكًا,ar
 Deadlier Caps,قبعات أشد فتكًا,ar
+Deathblade,نصل الموت,ar
+Defender,مدافع,ar
+Defender Emblem,شارة المدافع,ar
 Defense of the Placidium,الدفاع عن البلاسيديوم,ar
+Demacia,ديماسيا,ar
+Demacia Emblem,شارة ديماسيا,ar
 Demacia Forever,ديماسيا إلى الأبد,ar
+Diana,ديانا,ar
+Disruptor,مُعرقل,ar
+Disruptor Emblem,شارة المعرقل,ar
 Double Trouble,مشكلة مزدوجة!,ar
+Dr. Mundo,د. موندو,ar
+Dragon's Claw,مخلب التنين,ar
+Dragonborn,سليلة التنين,ar
+Dragonguards,حراس التنانين,ar
+Draven,درايفن,ar
+Dreadway Cannon,مدفع طريق الرعب,ar
 Dummify,التحويل إلى دمية,ar
 Duo Queue,الطابور الثنائي,ar
+D个痛快！,الاستبدالات الوفيرة,ar
+E.M.P.,نبضة كهرومغناطيسية,ar
 Earth Axiom,المبدأ الأرضي,ar
+Echo Engine,محرك الصدى,ar
+Edge of Night,عباءة الليل,ar
+Ekko,إيكو,ar
+Elder Dragon,التنين الأعظم,ar
+Electrical Overload,الحمل الكهربائي الزائد,ar
+Emperor,إمبراطور,ar
 Epic Rolldown,استبدالٌ ملحمي,ar
+Eternal,أزلي,ar
+Eternal Pact,الميثاق الأزلي,ar
+Evenshroud,الدرع الساتر,ar
 Exclusive Customization,تخصيص حصري,ar
 Exiles,المنفيون,ar
 Expected Unexpectedness,مفاجآت الحظ,ar
 Explosive Growth,النمو المتفجر,ar
 Eye For An Eye,العين بالعين,ar
 Feed the Flames,تغذية ألسنة اللهب,ar
+Fiddlesticks,فيدل ستيكس,ar
 Find Your Center,اعثر على مركزك,ar
 Fire Axiom,المبدأ الناري,ar
+First Mate's Flintlock,مسدس الرفيق الأول,ar
+First One's Free!,المقتنى الأول مجاني!,ar
+Fishbones,فيشبونز,ar
+Fizz,فيز,ar
+Flickerblades,النصال الخاطفة,ar
 Focused Fire,النيران المركزة,ar
+Forbidden Idol,التمثال المحرّم,ar
+Freljord,فريليورد,ar
+Freljord Emblem,شارة فريليورد,ar
+Frying Pan,مقلاة,ar
+Galio,غاليو,ar
+Gangplank,غانغ بلانك,ar
+Garen,غارين,ar
+Gargoyle Stoneplate,درع صدر مرزاب الحجري,ar
+Giant Slayer,قاتل العمالقة,ar
 Giant and Mighty,العملاق القوي,ar
+Giant's Belt,حزام العملاق,ar
+Gigantification Ray,شعاع العملقة,ar
 Gilded Steel,الفولاذ المذهب,ar
 Glass Cannon,مدفع من زجاج,ar
+Glutton,شره,ar
 Going Long,الاستثمار طويل الأجل,ar
 Gold Destiny,المصير الذهبي,ar
+Golem,غولم,ar
 Golemify,التحويل إلى غولم,ar
 Good For Something,نافع لشيء ما,ar
+Graves,غرايفز,ar
 Growth Mindset,عقلية التنمية,ar
+Guinsoo's Rageblade,نصل غضب غينسو,ar
+Gunslinger,محترف الرماية,ar
+Gunslinger Emblem,شارة محترف الرماية,ar
+Gwen,غوين,ar
+Hand Of Justice,يد العدالة,ar
 Hard Commit,الالتزام الصارم,ar
+Harvester,حاصد,ar
+Haunted Spyglass,منظار التجسس المسكون,ar
 Healing Orbs,بلورات العلاج,ar
 Heart of Steel,القلب الفولاذي,ar
 Heavy Is the Crown,عبء التاج ثقيل,ar
 Hedge Fund,صندوق التحوط,ar
 Hefty Rolls,استبدالات من العيار الثقيل,ar
+Hellfire Hatchet,فأس نيران الجحيم,ar
+Heroic,بطولي,ar
 Heroic Grab Bag,كيس الهدايا البطولي,ar
+HexMech,ميكا هيكس,ar
 Hexgate Travel,انتقال بوابة الهيكس,ar
+Hextech Gunblade,سكين سلاح الهيكستيك,ar
 High Voltage,الكهرباء القوية,ar
 Hold the Line,حماية الخطوط,ar
+Horizon Focus,تركيز الأفق,ar
+Huntress,صيادة,ar
+Illaoi,إيلاوي,ar
+Immortal,أبدي,ar
 Indecision,التردد,ar
 Indiscriminate Killer,قاتل لا يميز بين ضحاياه,ar
+Infinity Edge,السيف الأبدي,ar
+Innervating Locket,قلادة التنشيط,ar
 Invested,الاستثمار,ar
+Invoker,عراف,ar
+Invoker Emblem,شارة العراف,ar
+Ionia,أيونيا,ar
+Ionia Emblem,شارة أيونيا,ar
+Ionic Spark,الشرارة الأيونية,ar
 Iron Assets,الأصول الحديدية,ar
 Item Grab Bag,كيس هدايا العناصر,ar
+Ixtal,إشتال,ar
+Ixtal Emblem,شارة إشتال,ar
+Jarvan IV,جارفان الرابع,ar
+Jeweled Gauntlet,القفاز المرصع بالجواهر,ar
 Jeweled Lotus,اللوتس المرصع,ar
+Jhin,جين,ar
+Jinx,جينكس,ar
+Juggernaut,طاغوت,ar
+Juggernaut Emblem,شارة الطاغوت,ar
 Just Hit,حقق مرادك,ar
 Kahunahuna,كاهوناهونا,ar
+Kai'Sa,كايسا,ar
+Kalista,كاليستا,ar
+Kennen,كينين,ar
+Kindred,كيندريد,ar
+Kinetic Barrier,حاجز الطاقة الحركية,ar
+Knight's Vow,عهد الفارس,ar
+Kobuko & Yuumi,كوبوكو ويومي,ar
+Kog'Maw,كوغ ماو,ar
+Kraken's Fury,فورة الكراكن,ar
+L-90 カリバーネット,شبكات عيار 90,ar
 Last Second Save,إنقاذ اللحظة الأخيرة,ar
+Last Whisper,الهمسة الأخيرة,ar
 Late Game Scaling,زيادة القوة في نهاية المباراة,ar
 Late Game Specialist,اختصاصي نهاية المباراة,ar
+LeBlanc,لوبلانك,ar
 Leap of Faith,قفزة الإيمان,ar
 Legion of Threes,الفيلق الثلاثي,ar
+Leona,ليونا,ar
+Lesser Mirrored Persona,الشخصية المنعكسة المصغّرة,ar
 Level Up!,الترقية!,ar
+Lich Bane,عفونة الموتى,ar
 Lifting Competition,منافسة رفع الأثقال,ar
+Lightshield Crest,رمز الدرع الخفيف,ar
 Lineup,تشكيل الصفوف,ar
+Lissandra,ليساندرا,ar
 Little Buddies,الرفاق الصغار,ar
+Locket of the Iron Solari,قلادة سولاري الحديدي,ar
+Longshot,رماية بعيدة,ar
+Longshot Emblem,شارة الرماية البعيدة,ar
+Loris,لوريس,ar
+Lucian & Senna,لوشيان وسينا,ar
+Lucky Doubloon,مضاعف الحظوظ,ar
 Lucky Gloves,قفاز الحظ,ar
+Luden's Tempest,عاصفة لودن,ar
+Lulu,لولو,ar
+Lux,لكس,ar
 Mace's Will,إرادة الصولجان,ar
+Magnetron Coil,وشيعة المغناترون,ar
 Makeshift Armor,الدروع المؤقتة,ar
+Malzahar,مالزاهار,ar
+Mel,ميل,ar
+Mending Echoes,صدى الشفاء,ar
 Mess Hall,معركة الطعام,ar
+Micro-Rockets,الصواريخ المصغرة,ar
+Milio,ميليو,ar
 Min-Max,اللعب الأمثل,ar
+Mining Drill,حفار التنقيب,ar
+Mirrored Persona,الشخصية المنعكسة,ar
+Miss Fortune,ميس فورتشن,ar
 Missed Connections,اتصالات فائتة,ar
+Mittens,القفازات,ar
+Momentum Drive,دافع الزخم,ar
 Money Monsoon,رياح المال الموسمية,ar
+Morellonomicon,موريلونوميكون,ar
+Nashor's Tooth,سن ناشور,ar
+Nasus,ناسوس,ar
+Nautilus,نوتيلوس,ar
+Needlessly Large Rod,قصبة عريضة بلا داع,ar
+Neeko,نِكو,ar
+Negatron Cloak,عباءة النيغاترون,ar
+Nidalee,نيدالي,ar
+Noxus,نوكسوس,ar
+Noxus Emblem,شارة نوكسوس,ar
 On a Roll,محظوظ,ar
 "One Buff, Two Buff",تعزيزٌ هنا وتعزيزٌ هناك,ar
 One Twos Three,واحد اثنان ثلاثة,ar
 "One, Two, Five!",واحد، اثنان، خمسة!,ar
+Orianna,أوريانا,ar
+Ornn,أورن,ar
+Overclocked Capacitors,مكثفات فائقة الأداء,ar
 Pandora's Bench,دكة بدلاء باندورا,ar
 Pandora's Items,عناصر باندورا,ar
 Patience is a Virtue,الصبر فضيلة,ar
+Pile O' Citrus,كومة الليمون,ar
+Piltover,بيلتوفر,ar
+Piltover Emblem,شارة بيلتوفر,ar
+Piltover Invention,اختراع بيلتوفر,ar
 Placebo,الدواء الوهمي,ar
 Plot Armor,دروع البطل,ar
+Poison Pals,أصدقاء السم,ar
+Poppy,بوبي,ar
 Portable Forge,المصهر المحمول,ar
 Precision and Grace,الدقة والرشاقة,ar
 Preparation,التحضير,ar
 Prismatic Destiny,المصير الموشوري,ar
 Prismatic Ticket,تذكرة موشورية,ar
 Promised Protection,الحماية الموعودة,ar
+Protector's Vow,نذر الحامي,ar
+Prowler's Claw,مخلب المتصيد,ar
 Pyromaniac,مهووس الحرائق,ar
+Qiyana,كيانا,ar
+Quicksilver,الزئبق,ar
+Quickstriker,مهاجم سريع,ar
+Quickstriker Emblem,شارة المهاجم السريع,ar
+Rabadon's Deathcap,قبعة موت رابادون,ar
 Radiant Rascal,الوغد المشع,ar
 Radiant Relics,التحف المشعة,ar
 Raining Gold,السماء تمطر ذهبًا,ar
+Rapid Firecannon,مدفع النار السريع,ar
+Realm Warp,نفق نسيج العوالم,ar
 Recombobulator,المستبدل العشوائي,ar
+Recurve Bow,القوس المنحني,ar
+Red Buff,المحفز الأحمر,ar
 ReinFOURcement,أربعة تكسب ترقية,ar
+Rek'Sai,ريكساي,ar
+Renekton,رينيكتون,ar
 Replication,الاستنساخ,ar
 Restart Mission,إعادة المهمة,ar
 Retribution,القصاص,ar
+Rift Herald,ريفت هيرالد,ar
+Rift Scuttler,ريفت سكاتلر,ar
+Riftscourge,بلاء الريفت,ar
 Rolling For Days,الاستبدالات الوفيرة,ar
+Rumble,رامبل,ar
+Rune Mage,ساحر الرون,ar
+Ryze,رايز,ar
 Savings Account,حساب الادخار,ar
 Second Wind,النوبة الثانية,ar
+Seeker's Armguard,واقي ذراع المطارد,ar
+Sejuani,سيجواني,ar
+Sentinels of Light,خفراء النور,ar
 Seraphim's Staff,عصا سيرافيم,ar
+Seraphine,سيرافين,ar
+Sett,سيت,ar
+Shadow Isles,جزر الظلام,ar
+Shadow Puppet,دمية الظل,ar
+Shen,شين,ar
 Shimmerscale Essence,جوهر الحراشف اللامعة,ar
 Shopping Spree,فورة تسوق,ar
+Shroud of Stillness,ستار السكون,ar
+Shurima,شوريما,ar
+Shyvana,شيفانا,ar
 Silco's Revenge,انتقام سيلكو,ar
 Silver Destiny,المصير الفضي,ar
 Silver Spoon,الملعقة الفضية,ar
+Silvermere Dawn,فجر سيلفرمير,ar
+Singed,سينجد,ar
+Sion,سايون,ar
+Skarner,سكارنر,ar
+Slayer,سفّاح,ar
+Slayer Emblem,شارة السفاح,ar
 Slightly Magic Roll,الرمية السحرية المخفّفة,ar
 Small Grab Bag,كيس هدايا صغير,ar
 Solo Plate,درع الصدر المنفرد,ar
+Sona,سونا,ar
 Soul Awakening,صحوة الروح,ar
+Soulbound,الارتباط الروحي,ar
+Sparring Gloves,قفاز التدريب,ar
+Spatula,ملعقة مسطحة,ar
+Spear of Shojin,رمح شوجين,ar
 Spear's Will,إرادة الرمح,ar
+Spectral Cutlass,السيف الطيفي,ar
+Spirit Visage,وجه الروح,ar
 Spirit of Redemption,روح الافتداء,ar
 Spreading Roots,توسع الجذور,ar
 Staffsmith,صانع القصبات,ar
 Stand United,في الاتحاد قوة,ar
+Star Forger,صانع النجوم,ar
 Stars Are Born,النجوم تولد,ar
 Starter Kit,المساعدات الأولية,ar
-Sweet Treats,حلوى لذيذة,ar
-Sword Overflow,السيوف الوفيرة,ar
-Swordsmith,صانع السيوف,ar
-Teaming Up,تشكيل الفريق,ar
-The Axiomata,المبادئ الجوهرية,ar
-The Golden Dragon,التنين الذهبي,ar
-The Ruined King,الملك المحطّم,ar
-The Trait Tree,شجرة الخواص,ar
-The World Runes,رونز العالم,ar
-Thorn-Plated Armor,الدروع المصفحة بالأشواك,ar
-"Tiny, but Deadly",الصغير الفتاك,ar
-Tons of Stats!,أطنان من الإحصاءات!,ar
-Trade Sector,قطاع التجارة,ar
-Trials of Twilight,اختبارات الغسق,ar
-Trifecta,الثلاثية,ar
-Twin Guardians,الحارسان التوأمان,ar
-Two Much Value,قيمة مزدوجة,ar
-Two Trick,ثنائيات عديدة,ar
-U.R.F,U.R.F,ar
-Unsealed From Steel,فتح الأختام الفولاذية,ar
-Upward Mobility,الحركة التصاعدية,ar
-Wand Overflow,القصبات الوفيرة,ar
-Warlord's Honor,شرف أمير الحرب,ar
-Water Axiom,المبدأ المائي,ar
-We Stick Together,نتماسك معًا,ar
-Wild Growth,النمو المفرط,ar
-Win Out,الفوز الكبير,ar
-Wood Axiom,المبدأ الخشبي,ar
-Woven Magic,السحر المحبوك,ar
-90 Caliber Nets,شبكات عيار 90,ar
-Acceleration Gate,بوابة التسارع,ar
-Adaptive Helm,الخوذة المتكيفة,ar
-Aegis of Dawn,درع الفجر,ar
-Aegis of Dusk,درع الغسق,ar
-Arcanist Emblem,شارة ساحر الأسرار,ar
-Archangel's Staff,عصا كبير الحُماة,ar
-Armor Nullifier,مبطل الدروع,ar
-B.F. Sword,السيف الهائل,ar
-Barknuckles,قبضتا السنديان,ar
-Bilgewater Emblem,شارة بيلجواتر,ar
-Bilgewater Lesser Champion Duplicator,مستنسخ أبطال بيلجواتر الأدنى,ar
-Black Market Restock,تجديد بضائع السوق السوداء,ar
-Blackmarket Explosives,متفجرات السوق السوداء,ar
-Blast Shield,الدرع المصفح,ar
-Blighting Jewel,الجوهرة المتلفة,ar
-Bloodthirster,المتعطش للدماء,ar
-Blue Buff,محفز أزرق,ar
-Bramble Vest,السترة المدببة,ar
-Brigand's Dice,نرد قطاع الطرق,ar
-Bruiser Emblem,شارة الملاكم,ar
-Cappa Juice,عصير القبعة,ar
-Captain's Brew,شراب القبطان,ar
-Captain's Hat,قبعة القبطان,ar
-Chain Vest,السترة المسلسلة,ar
-Chalice of Power,كأس القوة,ar
-Continuum Cogs,تروس الاستمرارية,ar
-Corrupt Vampiric Scepter,صولجان مصاصي الدماء الفاسد,ar
-Crownguard,حامي التاج,ar
-Cursed Blade,النصل الملعون,ar
-Cutthroat's Cutlass,السيف القاطع السفاح,ar
-Dawncore,جوهر الفجر,ar
-Dead Man's Dagger,خنجر الميت,ar
-Deathblade,نصل الموت,ar
-Defender Emblem,شارة المدافع,ar
-Demacia Emblem,شارة ديماسيا,ar
-Disruptor Emblem,شارة المعرقل,ar
-Dragon's Claw,مخلب التنين,ar
-Dreadway Cannon,مدفع طريق الرعب,ar
-E.M.P.,نبضة كهرومغناطيسية,ar
-Echo Engine,محرك الصدى,ar
-Edge of Night,عباءة الليل,ar
-Electrical Overload,الحمل الكهربائي الزائد,ar
-Eternal Pact,الميثاق الأزلي,ar
-Evenshroud,الدرع الساتر,ar
-First Mate's Flintlock,مسدس الرفيق الأول,ar
-First One's Free!,المقتنى الأول مجاني!,ar
-Fishbones,فيشبونز,ar
-Flickerblades,النصال الخاطفة,ar
-Forbidden Idol,التمثال المحرّم,ar
-Freljord Emblem,شارة فريليورد,ar
-Frying Pan,مقلاة,ar
-Gargoyle Stoneplate,درع صدر مرزاب الحجري,ar
-Giant Slayer,قاتل العمالقة,ar
-Giant's Belt,حزام العملاق,ar
-Gigantification Ray,شعاع العملقة,ar
-Guinsoo's Rageblade,نصل غضب غينسو,ar
-Gunslinger Emblem,شارة محترف الرماية,ar
-Hand Of Justice,يد العدالة,ar
-Haunted Spyglass,منظار التجسس المسكون,ar
-Hellfire Hatchet,فأس نيران الجحيم,ar
-Hextech Gunblade,سكين سلاح الهيكستيك,ar
-Horizon Focus,تركيز الأفق,ar
-Infinity Edge,السيف الأبدي,ar
-Innervating Locket,قلادة التنشيط,ar
-Invoker Emblem,شارة العراف,ar
-Ionia Emblem,شارة أيونيا,ar
-Ionic Spark,الشرارة الأيونية,ar
-Ixtal Emblem,شارة إشتال,ar
-Jeweled Gauntlet,القفاز المرصع بالجواهر,ar
-Juggernaut Emblem,شارة الطاغوت,ar
-Kinetic Barrier,حاجز الطاقة الحركية,ar
-Knight's Vow,عهد الفارس,ar
-Kraken's Fury,فورة الكراكن,ar
-Last Whisper,الهمسة الأخيرة,ar
-Lesser Mirrored Persona,الشخصية المنعكسة المصغّرة,ar
-Lich Bane,عفونة الموتى,ar
-Lightshield Crest,رمز الدرع الخفيف,ar
-Locket of the Iron Solari,قلادة سولاري الحديدي,ar
-Longshot Emblem,شارة الرماية البعيدة,ar
-Lucky Doubloon,مضاعف الحظوظ,ar
-Luden's Tempest,عاصفة لودن,ar
-Magnetron Coil,وشيعة المغناترون,ar
-Mending Echoes,صدى الشفاء,ar
-Micro-Rockets,الصواريخ المصغرة,ar
-Mining Drill,حفار التنقيب,ar
-Mirrored Persona,الشخصية المنعكسة,ar
-Mittens,القفازات,ar
-Momentum Drive,دافع الزخم,ar
-Morellonomicon,موريلونوميكون,ar
-Nashor's Tooth,سن ناشور,ar
-Needlessly Large Rod,قصبة عريضة بلا داع,ar
-Negatron Cloak,عباءة النيغاترون,ar
-Noxus Emblem,شارة نوكسوس,ar
-Overclocked Capacitors,مكثفات فائقة الأداء,ar
-Pile O' Citrus,كومة الليمون,ar
-Piltover Emblem,شارة بيلتوفر,ar
-Protector's Vow,نذر الحامي,ar
-Prowler's Claw,مخلب المتصيد,ar
-Quicksilver,الزئبق,ar
-Quickstriker Emblem,شارة المهاجم السريع,ar
-Rabadon's Deathcap,قبعة موت رابادون,ar
-Rapid Firecannon,مدفع النار السريع,ar
-Realm Warp,نفق نسيج العوالم,ar
-Recurve Bow,القوس المنحني,ar
-Red Buff,المحفز الأحمر,ar
-Seeker's Armguard,واقي ذراع المطارد,ar
-Shadow Puppet,دمية الظل,ar
-Shroud of Stillness,ستار السكون,ar
-Silvermere Dawn,فجر سيلفرمير,ar
-Slayer Emblem,شارة السفاح,ar
-Sparring Gloves,قفاز التدريب,ar
-Spatula,ملعقة مسطحة,ar
-Spear of Shojin,رمح شوجين,ar
-Spectral Cutlass,السيف الطيفي,ar
-Spirit Visage,وجه الروح,ar
 Statikk Shiv,السيف الصاعق,ar
 Steadfast Heart,القلب الراسخ,ar
 Sterak's Gage,قفاز ستيراك,ar
@@ -451,34 +397,1052 @@ Striker's Flail,هراوة المهاجم,ar
 Sunfire Cape,قلنسوة لهب الشمس,ar
 Superior Lifeform,صيغة حياة متفوقة,ar
 Suspicious Trench Coat,المعطف المشبوه,ar
+Swain,سواين,ar
+Sweet Treats,حلوى لذيذة,ar
+Sword Overflow,السيوف الوفيرة,ar
+Swordsmith,صانع السيوف,ar
+Sylas,سايلاس,ar
 Syren's Broadside,مدافع الحورية الجانبية,ar
+T-Hex,تي-هكس,ar
 Tactician's Cape,قلنسوة المخطِط,ar
 Tactician's Crown,تاج المخطِط,ar
 Tactician's Shield,درع المخطِط,ar
+Tahm Kench,تام كينش,ar
 Talisman Of Ascension,تميمة الارتقاء,ar
+Targon,تارغون,ar
+Taric,تاريك,ar
+Teaming Up,تشكيل الفريق,ar
 Tear of the Goddess,دمعة الزعيمة,ar
+Teemo,تيمو,ar
+The Axiomata,المبادئ الجوهرية,ar
+The Boss,الزعيم,ar
+The Golden Dragon,التنين الذهبي,ar
 The Indomitable,الصنديد,ar
+The Ruined King,الملك المحطّم,ar
+The Trait Tree,شجرة الخواص,ar
+The World Runes,رونز العالم,ar
 Thief's Gloves,قفاز اللص,ar
+Thorn-Plated Armor,الدروع المصفحة بالأشواك,ar
+Thresh,ثريش,ar
+Timewinders,معيدو الزمن,ar
+"Tiny, but Deadly",الصغير الفتاك,ar
 Titan's Resolve,عزم العملاق,ar
 Titanic Hydra,الهيدرا العملاقة,ar
 Tome of Traits,مجلد الخواص,ar
+Tons of Stats!,أطنان من الإحصاءات!,ar
+Trade Sector,قطاع التجارة,ar
+Training Dummy,دمية التدريب,ar
 Treasure Typhoon,إعصار الكنز,ar
+Trials of Twilight,اختبارات الغسق,ar
+Trifecta,الثلاثية,ar
+Tristana,تريستانا,ar
+Tryndamere,تريندامير,ar
 Tuned Oscillator,مولد الذبذبات المضبوط,ar
+Twin Guardians,الحارسان التوأمان,ar
+Twisted Fate,تويستد فايت,ar
+Two Much Value,قيمة مزدوجة,ar
+Two Trick,ثنائيات عديدة,ar
+U.R.F,U.R.F,ar
+U.R.F.,U.R.F,ar
 Unending Despair,يأسٌ بلا نهاية,ar
+Unsealed From Steel,فتح الأختام الفولاذية,ar
 Unstable Core,الجوهر غير المستقر,ar
 Upgrade!,ترقية!,ar
+Upward Mobility,الحركة التصاعدية,ar
+Vanquisher,قاهر,ar
 Vanquisher Emblem,شارة القاهر,ar
+Vayne,فاين,ar
+Veigar,فيغار,ar
+Vi,فاي,ar
+Viego,فييغو,ar
 Virtue of the Martyr,فضيلة الشهيد,ar
+Void,فويد,ar
 Void Emblem,شارة الفويد,ar
 Void Gauntlet,قفاز الفويد,ar
 Void Staff,صولجان الفويد,ar
+Volibear,فوليبير,ar
 Voltage Conduit,مجرى الكهرباء,ar
+Wand Overflow,القصبات الوفيرة,ar
+Warden,مأمور,ar
 Warden Emblem,شارة المأمور,ar
+Warlord's Honor,شرف أمير الحرب,ar
 Warmog's Armor,درع وارموغ,ar
+Warwick,وارويك,ar
+Water Axiom,المبدأ المائي,ar
+We Stick Together,نتماسك معًا,ar
+Wild Growth,النمو المفرط,ar
+Win Out,الفوز الكبير,ar
 Wit's End,الموقف الحرج,ar
 Withered Relic,التحفة الذابلة,ar
+Wood Axiom,المبدأ الخشبي,ar
+World Ender,مدمر العالم,ar
+Woven Magic,السحر المحبوك,ar
+Wukong,ووكونغ,ar
+Xerath,زيراث,ar
+Xin Zhao,شين جاو,ar
+Yasuo,ياسو,ar
+Yone,يوني,ar
+Yordle,يوردل,ar
 Yordle Emblem,شارة اليوردل,ar
+Yorick,يوريك,ar
+Yunara,يونارا,ar
+Zaahen,زاهان,ar
+Zaun,زون,ar
 Zaun Emblem,شارة زون,ar
 Zeke's Herald,نذير زيكي,ar
 Zephyr,النسيم العليل,ar
+Ziggs,زيغز,ar
+Zilean,زيليان,ar
+Zoe,زوي,ar
 Zz'Rot Portal,بوابة ززروت,ar
+“塞壬号”的舷炮,مدافع الحورية الجانبية,ar
+いつでも一緒,نتماسك معًا,ar
+おおきくなぁれ！,النمو المفرط,ar
+お得な2,قيمة مزدوجة,ar
+ここがセンター,اعثر على مركزك,ar
+たっぷりリロール,استبدالات من العيار الثقيل,ar
+ちょっとだけ魔法のダイス,الرمية السحرية المخفّفة,ar
+へら,ملعقة مسطحة,ar
+もっと怖いキャップ,قبعات أشد فتكًا,ar
+アイオニア,أيونيا,ar
+アイオニアの紋章,شارة أيونيا,ar
+アイオニック スパーク,الشرارة الأيونية,ar
+アイテム福袋,كيس هدايا العناصر,ar
+アクシオマタ,المبادئ الجوهرية,ar
+アクセルゲート,بوابة التسارع,ar
+アシミレーター,متأقلمة,ar
+アジール,أزير,ar
+アセンション,الارتقاء,ar
+アダプティブ ヘルム,الخوذة المتكيفة,ar
+アッシュ,آش,ar
+アップグレード！,ترقية!,ar
+アニビア,أنيفيا,ar
+アニー,آني,ar
+アフェリオス,أفيليوس,ar
+アルカニスト,ساحر الأسرار,ar
+アルカニストの紋章,شارة ساحر الأسرار,ar
+アンベッサ,أمبيسا,ar
+アークエンジェル スタッフ,عصا كبير الحُماة,ar
+アーマー ナリファイア,مبطل الدروع,ar
+アーリ,آري,ar
+イシュタル,إشتال,ar
+イシュタルの紋章,شارة إشتال,ar
+イモータル,أبدي,ar
+イラオイ,إيلاوي,ar
+インフィニティ エッジ,السيف الأبدي,ar
+インヴォーカー,عراف,ar
+インヴォーカーの紋章,شارة العراف,ar
+イーブンシュラウド,الدرع الساتر,ar
+ウィッツ エンド,الموقف الحرج,ar
+ウォーロードの名誉,شرف أمير الحرب,ar
+ウーコン,ووكونغ,ar
+エイトロックス,آتروكس,ar
+エグザイル,المنفيون,ar
+エコー,إيكو,ar
+エコーエンジン,محرك الصدى,ar
+エターナル,أزلي,ar
+エピックなロールダウン,استبدالٌ ملحمي,ar
+エルダードラゴン,التنين الأعظم,ar
+エレクトリカル オーバーロード,الحمل الكهربائي الزائد,ar
+エンペラー,إمبراطور,ar
+オリアナ,أوريانا,ar
+オレリオン・ソル,أوريليون سول,ar
+オーバークロック コンデンサー,مكثفات فائقة الأداء,ar
+オーン,أورن,ar
+カイ＝サ,كايسا,ar
+カナとカネ,الأصول الحديدية,ar
+カフナフナ,كاهوناهونا,ar
+カリスタ,كاليستا,ar
+ガリオ,غاليو,ar
+ガレン,غارين,ar
+ガングプランク,غانغ بلانك,ar
+ガンスリンガー,محترف الرماية,ar
+ガンスリンガーの紋章,شارة محترف الرماية,ar
+ガーゴイル ストーンプレート,درع صدر مرزاب الحجري,ar
+キネティックバリア,حاجز الطاقة الحركية,ar
+キャプテンの帽子,قبعة القبطان,ar
+キャプテンの醸造酒,شراب القبطان,ar
+キヤナ,كيانا,ar
+キンドレッド,كيندريد,ar
+ギリギリの救出,إنقاذ اللحظة الأخيرة,ar
+クイックシルバー,الزئبق,ar
+クラウンの決意,إرادة التاج,ar
+クラウンガード,حامي التاج,ar
+クラーケンの怒り,فورة الكراكن,ar
+クロノキーパー,حافظ الزمن,ar
+グインソー レイジブレード,نصل غضب غينسو,ar
+グウェン,غوين,ar
+グラスキャノン,مدفع من زجاج,ar
+グラットン,شره,ar
+グレイブス,غرايفز,ar
+ケアテイカー,وصي,ar
+ケイトリン,كايتلين,ar
+ケネン,كينين,ar
+ケンカの作法,الدرع المصفح,ar
+コグ＝マウ,كوغ ماو,ar
+コブコ&ユーミ,كوبوكو ويومي,ar
+コマース コア,جوهر التجارة,ar
+コンパニオン作成,بناء مرافق,ar
+ゴールドの運命,المصير الذهبي,ar
+ゴールドの雨,السماء تمطر ذهبًا,ar
+ゴーレム,غولم,ar
+ゴーレム化,التحويل إلى غولم,ar
+サイオン,سايون,ar
+サイラス,سايلاس,ar
+サンファイア ケープ,قلنسوة لهب الشمس,ar
+ザ・ボス,الزعيم,ar
+ザーヘン,زاهان,ar
+シェン,شين,ar
+シマースケールのエッセンス,جوهر الحراشف اللامعة,ar
+シャドウアイル,جزر الظلام,ar
+シュリーマ,شوريما,ar
+ショウジンの矛,رمح شوجين,ar
+シルコの復讐,انتقام سيلكو,ar
+シルバーの運命,المصير الفضي,ar
+シルバーミアの夜明け,فجر سيلفرمير,ar
+シンジド,سينجد,ar
+シン・ジャオ,شين جاو,ar
+シヴァーナ,شيفانا,ar
+シーカー アームガード,واقي ذراع المطارد,ar
+ジグス,زيغز,ar
+ジャイアント スレイヤー,قاتل العمالقة,ar
+ジャイアント ベルト,حزام العملاق,ar
+ジャイアント&マイティ,العملاق القوي,ar
+ジャガーノート,طاغوت,ar
+ジャガーノートの紋章,شارة الطاغوت,ar
+ジャストヒット,حقق مرادك,ar
+ジャーヴァンⅣ,جارفان الرابع,ar
+ジュエル ガントレット,القفاز المرصع بالجواهر,ar
+ジュエル ロータス,اللوتس المرصع,ar
+ジリアン,زيليان,ar
+ジン,جين,ar
+ジンクス,جينكس,ar
+ジークの使者,نذير زيكي,ar
+ジ＝ロット ポータル,بوابة ززروت,ar
+スウェイン,سواين,ar
+スカーナー,سكارنر,ar
+スタティック シヴ,السيف الصاعق,ar
+スターターキット,المساعدات الأولية,ar
+スターフォージャー,صانع النجوم,ar
+スター誕生,النجوم تولد,ar
+ステラックの篭手,قفاز ستيراك,ar
+ステータスマシマシ,أطنان من الإحصاءات!,ar
+ストライカー フレイル,هراوة المهاجم,ar
+スパーリング グローブ,قفاز التدريب,ar
+スピリット ビサージュ,وجه الروح,ar
+スペクトラル カトラス,السيف الطيفي,ar
+スレイヤー,سفّاح,ar
+スレイヤーの紋章,شارة السفاح,ar
+スレッシュ,ثريش,ar
+セイレーン号の片舷砲,مدافع الحورية الجانبية,ar
+セジュアニ,سيجواني,ar
+セト,سيت,ar
+セラフィムの杖,عصا سيرافيم,ar
+セラフィーン,سيرافين,ar
+ゼファー,النسيم العليل,ar
+ゼラス,زيراث,ar
+ソウルの目覚め,صحوة الروح,ar
+ソウルバウンド,الارتباط الروحي,ar
+ソナ,سونا,ar
+ソラリのロケット,قلادة سولاري الحديدي,ar
+ソード オーバーフロー,السيوف الوفيرة,ar
+ソーンプレートアーマー,الدروع المصفحة بالأشواك,ar
+ゾウン,زون,ar
+ゾウンの紋章,شارة زون,ar
+ゾーイ,زوي,ar
+タイタン ハイドラ,الهيدرا العملاقة,ar
+タイムワインダー,معيدو الزمن,ar
+タクティシャンのケープ,قلنسوة المخطِط,ar
+タクティシャンの王冠,تاج المخطِط,ar
+タクティシャンの盾,درع المخطِط,ar
+タム・ケンチ,تام كينش,ar
+タリック,تاريك,ar
+ターゴン,تارغون,ar
+ダイアナ,ديانا,ar
+ダブルトラブル,مشكلة مزدوجة!,ar
+ダミー,دمية التدريب,ar
+ダミー化,التحويل إلى دمية,ar
+ダリウス,داريوس,ar
+ダーキン,داركن,ar
+ダークウィルの侵略,غزو داركويل,ar
+ダークチャイルド,طفلة الظلام,ar
+チェイン ベスト,السترة المسلسلة,ar
+チェインブレイカー,محطم السلاسل,ar
+チューンド オシレーター,مولد الذبذبات المضبوط,ar
+チョ＝ガス,تشوغاث,ar
+ツイステッド・フェイト,تويستد فايت,ar
+ツインガーディアン,الحارسان التوأمان,ar
+ティーモ,تيمو,ar
+ディスラプター,مُعرقل,ar
+ディスラプターの紋章,شارة المعرقل,ar
+ディフェンダー,مدافع,ar
+ディフェンダーの紋章,شارة المدافع,ar
+デスブレード,نصل الموت,ar
+デッド マン ダガー,خنجر الميت,ar
+デッドリアー ブレード,نصال أشد فتكًا,ar
+デマーシア,ديماسيا,ar
+デマーシアの紋章,شارة ديماسيا,ar
+デマーシアよ永遠に,ديماسيا إلى الأبد,ar
+デュオキュー,الطابور الثنائي,ar
+トライフェクタ,الثلاثية,ar
+トリスターナ,تريستانا,ar
+トリンダメア,تريندامير,ar
+トレードセクター,قطاع التجارة,ar
+ドクター・ムンド,د. موندو,ar
+ドラゴン クロウ,مخلب التنين,ar
+ドラゴンの守護者,حراس التنانين,ar
+ドラゴンボーン,سليلة التنين,ar
+ドレイヴン,درايفن,ar
+ドレッドウェイの砲撃,مدفع طريق الرعب,ar
+ドーンコア,جوهر الفجر,ar
+ナイト エッジ,عباءة الليل,ar
+ナサス,ناسوس,ar
+ナッシャー トゥース,سن ناشور,ar
+ニダリー,نيدالي,ar
+ニーコ,نِكو,ar
+ネガトロン クローク,عباءة النيغاترون,ar
+ノクサス,نوكسوس,ar
+ノクサスの紋章,شارة نوكسوس,ar
+ノーチラス,نوتيلوس,ar
+ハントレス,صيادة,ar
+ハンド オブ ジャスティス,يد العدالة,ar
+ハーベスター,حاصد,ar
+バイナリー空中投下,الإسقاط الجوي الثنائي,ar
+バフが1つ、バフが2つ,تعزيزٌ هنا وتعزيزٌ هناك,ar
+バロンナッシャー,بارون ناشور,ar
+バークナックル,قبضتا السنديان,ar
+バースデー リユニオン,لم شمل عيد الميلاد,ar
+バースデープレゼント,هدية عيد الميلاد,ar
+バード,بارد,ar
+パンドラのアイテム,عناصر باندورا,ar
+パンドラのベンチ,دكة بدلاء باندورا,ar
+ヒロイック,بطولي,ar
+ヒーリングオーブ,بلورات العلاج,ar
+ビッグフレンド,الصديق الكبير,ar
+ビルジウォーター,بيلجواتر,ar
+ビルジウォーターの小型チャンピオン複製器,مستنسخ أبطال بيلجواتر الأدنى,ar
+ビルジウォーターの紋章,شارة بيلجواتر,ar
+ピルトーヴァー,بيلتوفر,ar
+ピルトーヴァーの発明品,اختراع بيلتوفر,ar
+ピルトーヴァーの紋章,شارة بيلتوفر,ar
+フィズ,فيز,ar
+フィッシュボーン,فيشبونز,ar
+フィドルスティックス,فيدل ستيكس,ar
+フォビドゥン アイドル,التمثال المحرّم,ar
+フライパン,مقلاة,ar
+フリッカーブレード,النصال الخاطفة,ar
+フレヨルド,فريليورد,ar
+フレヨルドの紋章,شارة فريليورد,ar
+ブライアー,براير,ar
+ブラウム,بروم,ar
+ブラックスミス,حَدّاد,ar
+ブラックマーケットの再入荷,تجديد بضائع السوق السوداء,ar
+ブラックマーケットの爆発物,متفجرات السوق السوداء,ar
+ブラッドサースター,المتعطش للدماء,ar
+ブランブル ベスト,السترة المدببة,ar
+ブリッツクランク,بليتزكرانك,ar
+ブルーザー,ملاكم,ar
+ブルーザーの紋章,شارة الملاكم,ar
+ブルーバフ,محفز أزرق,ar
+ブロック,بروك,ar
+プラシディウムの防衛,الدفاع عن البلاسيديوم,ar
+プラシーボ,الدواء الوهمي,ar
+プリズムの運命,المصير الموشوري,ar
+プリズムチケット,تذكرة موشورية,ar
+プロテクターの誓い,نذر الحامي,ar
+プローラー クロウ,مخلب المتصيد,ar
+ヘクスゲート トラベル,انتقال بوابة الهيكس,ar
+ヘクステック ガンブレード,سكين سلاح الهيكستيك,ar
+ヘクスメック,ميكا هيكس,ar
+ヘッジファンド,صندوق التحوط,ar
+ベイガー,فيغار,ar
+ベストフレンド,أفضل الأصدقاء,ar
+ベルト オーバーフロー,الأحزمة الوفيرة,ar
+ベル＝ヴェス,بيلفيث,ar
+ホライゾン フォーカス,تركيز الأفق,ar
+ボクシングのレッスン,دروس الملاكمة,ar
+ボディーガードの訓練,تدريب الحارس الشخصي,ar
+ボリベア,فوليبير,ar
+ポイズンパル,أصدقاء السم,ar
+ポッピー,بوبي,ar
+ポータブル フォージ,المصهر المحمول,ar
+ポータルワープ,نفق نسيج العوالم,ar
+マイクロロケット,الصواريخ المصغرة,ar
+マグネトロンコイル,وشيعة المغناترون,ar
+マルザハール,مالزاهار,ar
+マーターズ ヴァーチュ,فضيلة الشهيد,ar
+ミスコネクション,اتصالات فائتة,ar
+ミス・フォーチュン,ميس فورتشن,ar
+ミッションの再開,إعادة المهمة,ar
+ミトン,القفازات,ar
+ミニマックス,اللعب الأمثل,ar
+ミリオ,ميليو,ar
+ムダニ デカイ ロッド,قصبة عريضة بلا داع,ar
+メイスの決意,إرادة الصولجان,ar
+メル,ميل,ar
+モメンタムドライブ,دافع الزخم,ar
+モレロノミコン,موريلونوميكون,ar
+ヤスオ,ياسو,ar
+ユナラ,يونارا,ar
+ヨネ,يوني,ar
+ヨリック,يوريك,ar
+ヨードル,يوردل,ar
+ヨードルの紋章,شارة اليوردل,ar
+ライズ,رايز,ar
+ライトシールドのクレスト,رمز الدرع الخفيف,ar
+ラインナップ,تشكيل الصفوف,ar
+ラスト ウィスパー,الهمسة الأخيرة,ar
+ラッキーグローブ,قفاز الحظ,ar
+ラックス,لكس,ar
+ラバドン デスキャップ,قبعة موت رابادون,ar
+ラピッド ファイアキャノン,مدفع النار السريع,ar
+ランブル,رامبل,ar
+リカーブ ボウ,القوس المنحني,ar
+リサンドラ,ليساندرا,ar
+リッチ ベイン,عفونة الموتى,ar
+リデンプションの魂,روح الافتداء,ar
+リフティング大会,منافسة رفع الأثقال,ar
+リフトスカトル,ريفت سكاتلر,ar
+リフトスカージ,بلاء الريفت,ar
+リフトヘラルド,ريفت هيرالد,ar
+ルシアン&セナ,لوشيان وسينا,ar
+ルブラン,لوبلانك,ar
+ルル,لولو,ar
+ルーデン テンペスト,عاصفة لودن,ar
+ルーンメイジ,ساحر الرون,ar
+レイトゲーム スケーリング,زيادة القوة في نهاية المباراة,ar
+レイトゲーム スペシャリスト,اختصاصي نهاية المباراة,ar
+レオナ,ليونا,ar
+レク＝サイ,ريكساي,ar
+レッドバフ,المحفز الأحمر,ar
+レディアントの遺物,التحف المشعة,ar
+レネクトン,رينيكتون,ar
+レベルアップ！,الترقية!,ar
+ロリス,لوريس,ar
+ロングショット,رماية بعيدة,ar
+ロングショットの紋章,شارة الرماية البعيدة,ar
+ローリングデイズ,الاستبدالات الوفيرة,ar
+ワン、ツー、ファイブ！,واحد، اثنان، خمسة!,ar
+ワン、ツーツー、スリー,واحد اثنان ثلاثة,ar
+ワンド オーバーフロー,القصبات الوفيرة,ar
+ワーウィック,وارويك,ar
+ワーデン,مأمور,ar
+ワーデンの紋章,شارة المأمور,ar
+ワーモグ アーマー,درع وارموغ,ar
+ワールドエンダー,مدمر العالم,ar
+ワールドルーン,رونز العالم,ar
+ヴァイ,فاي,ar
+ヴァンキッシャー,قاهر,ar
+ヴァンキッシャーの紋章,شارة القاهر,ar
+ヴィエゴ,فييغو,ar
+ヴェイン,فاين,ar
+ヴォイド,فويد,ar
+ヴォイド ガントレット,قفاز الفويد,ar
+ヴォイド スタッフ,صولجان الفويد,ar
+ヴォイドの紋章,شارة الفويد,ar
+一二二三,واحد اثنان ثلاثة,ar
+一人前プレート,درع الصدر المنفرد,ar
+一等航海士のフリントロック,مسدس الرفيق الأول,ar
+一致団結,تشكيل الفريق,ar
+一致団結,في الاتحاد قوة,ar
+一，二，五！,واحد، اثنان، خمسة!,ar
+三幻神,الفيلق الثلاثي,ar
+三项赛,الثلاثية,ar
+三，三，三！,3 ثلاثات,ar
+上方移動,الحركة التصاعدية,ar
+上进心,الحركة التصاعدية,ar
+不安定なコア,الجوهر غير المستقر,ar
+不屈,الصنديد,ar
+不滅の協定,الميثاق الأزلي,ar
+不稳定核心,الجوهر غير المستقر,ar
+不落魔锋,أبدي,ar
+与狼共舞,الذئاب المختارة,ar
+专属定制,تخصيص حصري,ar
+世界符文,رونز العالم,ar
+两把刷子,ثنائيات عديدة,ar
+主人公補正,دروع البطل,ar
+主宰,طاغوت,ar
+主宰纹章,شارة الطاغوت,ar
+丽桑卓,ليساندرا,ar
+举重比赛,منافسة رفع الأثقال,ar
+乐芙兰,لوبلانك,ar
+二进制空投,الإسقاط الجوي الثنائي,ar
+亚恒,زاهان,ar
+亚托克斯,آتروكس,ar
+亚索,ياسو,ar
+亡者的短剑,خنجر الميت,ar
+仕送り,حزمة الرعاية,ar
+以眼还眼,العين بالعين,ar
+以绪塔尔,إشتال,ar
+以绪塔尔纹章,شارة إشتال,ar
+优柔寡断,التردد,ar
+伺机待发,التحضير,ar
+佐伊,زوي,ar
+佛耶戈,فييغو,ar
+便携锻炉,المصهر المحمول,ar
+俄洛伊,إيلاوي,ar
+信仰之跃,قفزة الإيمان,ar
+信仰震,قفزة الإيمان,ar
+修复型回响,صدى الشفاء,ar
+假人化,التحويل إلى دمية,ar
+储蓄账户,حساب الادخار,ar
+優柔不断,التردد,ar
+元初公理,المبادئ الجوهرية,ar
+光の番人,خفراء النور,ar
+光明哨兵,خفراء النور,ar
+光明圣物,التحف المشعة,ar
+光明无赖,الوغد المشع,ar
+光盾徽章,رمز الدرع الخفيف,ar
+克格莫,كوغ ماو,ar
+入门套件,المساعدات الأولية,ar
+全身全霊,الالتزام الصارم,ar
+兰博,رامبل,ar
+关爱包裹,حزمة الرعاية,ar
+兹若特传送门,بوابة ززروت,ar
+内瑟斯,ناسوس,ar
+冕卫,حامي التاج,ar
+凯南,كينين,ar
+凯特琳,كايتلين,ar
+列队,تشكيل الصفوف,ar
+利落保镖,تدريب الحارس الشخصي,ar
+别再错过,اتصالات فائتة,ar
+前借り,سلفة قرض,ar
+前線維持,حماية الخطوط,ar
+剑之工匠,صانع السيوف,ar
+剣鍛冶,صانع السيوف,ar
+力の聖杯,كأس القوة,ar
+加冕礼,التتويج,ar
+加速之门,بوابة التسارع,ar
+加里奥,غاليو,ar
+劣化版鏡像のペルソナ,الشخصية المنعكسة المصغّرة,ar
+动能屏障,حاجز الطاقة الحركية,ar
+动量驱动器,دافع الزخم,ar
+勝ち抜け,الفوز الكبير,ar
+千珏,كيندريد,ar
+升星之运,محظوظ,ar
+升级咯！,الترقية!,ar
+升级！,ترقية!,ar
+卑尔维斯,بيلفيث,ar
+单身板甲,درع الصدر المنفرد,ar
+卡莉丝塔,كاليستا,ar
+卡莎,كايسا,ar
+卢登的激荡,عاصفة لودن,ar
+卢锡安与赛娜,لوشيان وسينا,ar
+即席アーマー,الدروع المؤقتة,ar
+厄斐琉斯,أفيليوس,ar
+厄运小姐,ميس فورتشن,ar
+厨神阿福,U.R.F,ar
+双城赢家,انتصار فيكتور آركين,ar
+双子守护神,الحارسان التوأمان,ar
+双排,الطابور الثنائي,ar
+反响,الاستنساخ,ar
+反曲之弓,القوس المنحني,ar
+变形重组器,المستبدل العشوائي,ar
+可大可小,اللعب الأمثل,ar
+可酷伯与悠米,كوبوكو ويومي,ar
+吉格斯,زيغز,ar
+后期专家,اختصاصي نهاية المباراة,ar
+后期收益,زيادة القوة في نهاية المباراة,ar
+呪いの刃,النصل الملعون,ar
+呪われた望遠鏡,منظار التجسس المسكون,ar
+嗜火,مهووس الحرائق,ar
+嘉文四世,جارفان الرابع,ar
+四费增援,أربعة تكسب ترقية,ar
+回声引擎,محرك الصدى,ar
+圣盾使的誓约,نذر الحامي,ar
+坚守防线,حماية الخطوط,ar
+坚定之心,القلب الراسخ,ar
+埋もれた宝物,الكنوز المدفونة,ar
+基克的先驱,نذير زيكي,ar
+基兰,زيليان,ar
+基础装备自助餐,وليمة المكونات,ar
+報復,القصاص,ar
+塔姆,تام كينش,ar
+塔里克,تاريك,ar
+塞拉斯,سايلاس,ar
+复苏之风,النوبة الثانية,ar
+夕闇の加護,درع الغسق,ar
+夜之锋刃,عباءة الليل,ar
+夜明けの加護,درع الفجر,ar
+大きな福袋,كيس هدايا كبير,ar
+大买特买,فورة تسوق,ar
+大刷特刷,استبدالات من العيار الثقيل,ar
+大剑溢流,السيوف الوفيرة,ar
+大副的燧发枪,مسدس الرفيق الأول,ar
+大哥罩我,الصديق الكبير,ar
+大地のアクシオム,المبدأ الأرضي,ar
+大天使之杖,عصا كبير الحُماة,ar
+大炮火力网,وابل المدفعية,ar
+大百宝袋,كيس هدايا كبير,ar
+大砲の雨,وابل المدفعية,ar
+大而有力,العملاق القوي,ar
+天の祝福,عطية النجوم,ar
+天生二星,النجوم تولد,ar
+天降金币,السماء تمطر ذهبًا,ar
+奇亚娜,كيانا,ar
+奈德丽,نيدالي,ar
+奥恩,أورن,ar
+奥瑞利安·索尔,أوريليون سول,ar
+奥莉安娜,أوريانا,ar
+女神の涙,دمعة الزعيمة,ar
+女神之泪,دمعة الزعيمة,ar
+好きなだけ泣くがいい,بكاء بلا جدوى,ar
+好事成双,مشكلة مزدوجة!,ar
+妮蔻,نِكو,ar
+娑娜,سونا,ar
+孙悟空,ووكونغ,ar
+宇宙の呼び声,النداء الكوني,ar
+安妮,آني,ar
+安慰剂,الدواء الوهمي,ar
+安蓓萨,أمبيسا,ar
+宝藏台风,إعصار الكنز,ar
+密银黎明,فجر سيلفرمير,ar
+对冲基金,صندوق التحوط,ar
+小さくても強烈,الصغير الفتاك,ar
+小さな仲間たち,الرفاق الصغار,ar
+小さな福袋,كيس هدايا صغير,ar
+小伙伴,الرفاق الصغار,ar
+小小福袋,كيس هدايا صغير,ar
+小而致命,الصغير الفتاك,ar
+山積みのシトラス,كومة الليمون,ar
+山隐之焰,حَدّاد,ar
+岩土公理,المبدأ الأرضي,ar
+岩宝,بروك,ar
+峡谷先锋,ريفت هيرالد,ar
+峡谷迅捷蟹,ريفت سكاتلر,ar
+崔丝塔娜,تريستانا,ar
+崔斯特,تويستد فايت,ar
+巧みなクラフト,التصنيع المتقن,ar
+巨人の誓い,عزم العملاق,ar
+巨人杀手,قاتل العمالقة,ar
+巨人腰带,حزام العملاق,ar
+巨型九头蛇,الهيدرا العملاقة,ar
+巨大化ビーム,شعاع العملقة,ar
+巨大化射线,شعاع العملقة,ar
+巨神峰,تارغون,ar
+巨龙之爪,مخلب التنين,ar
+巨龙卫士,حراس التنانين,ar
+巫妖之祸,عفونة الموتى,ar
+巴德,بارد,ar
+布里茨,بليتزكرانك,ar
+布隆,بروم,ar
+希尔科的复仇,انتقام سيلكو,ar
+希瓦娜,شيفانا,ar
+帽子ジュース,عصير القبعة,ar
+帽子饮品,عصير القبعة,ar
+幸运手套,قفاز الحظ,ar
+幸运达布隆金币,مضاعف الحظوظ,ar
+幸運の金貨,مضاعف الحظوظ,ar
+幽魂弯刀,السيف الطيفي,ar
+広がる根,توسع الجذور,ar
+庇護者のお供,حليف الوصي,ar
+应急护甲,الدروع المؤقتة,ar
+应急护盾,دروع البطل,ar
+弗雷尔卓德,فريليورد,ar
+弗雷尔卓德纹章,شارة فريليورد,ar
+强盗的骰子,نرد قطاع الطرق,ar
+强袭者的链枷,هراوة المهاجم,ar
+影の操り人形,دمية الظل,ar
+征服者,قاهر,ar
+征服者纹章,شارة القاهر,ar
+微型导弹,الصواريخ المصغرة,ar
+德玛西亚,ديماسيا,ar
+德玛西亚万岁,ديماسيا إلى الأبد,ar
+德玛西亚纹章,شارة ديماسيا,ar
+德莱厄斯,داريوس,ar
+德莱文,درايفن,ar
+心之钢,القلب الفولاذي,ar
+心身統御のペンダント,قلادة التنشيط,ar
+忍耐の美徳,الصبر فضيلة,ar
+思惑買い,الاستثمار طويل الأجل,ar
+怪しげなトレンチコート,المعطف المشبوه,ar
+恕瑞玛,شوريما,ar
+恶火小斧,فأس نيران الجحيم,ar
+想定内の意外性,مفاجآت الحظ,ar
+意料之中的意外,مفاجآت الحظ,ar
+慎,شين,ar
+成吨的属性！,أطنان من الإحصاءات!,ar
+成堆柑橘,كومة الليمون,ar
+成長志向,عقلية التنمية,ar
+成长型思维,عقلية التنمية,ar
+戦闘準備,التحضير,ar
+戴冠式,التتويج,ar
+承诺之护,الحماية الموعودة,ar
+投資完了,الاستثمار,ar
+投资,الاستثمار,ar
+护卫,مدافع,ar
+护卫纹章,شارة المدافع,ar
+护甲消除器,مبطل الدروع,ar
+拉克丝,لكس,ar
+拳击课程,دروس الملاكمة,ar
+拳套,قفاز التدريب,ar
+挑个好伙计！,بناء مرافق,ar
+振奋盔甲,وجه الروح,ar
+採掘ドリル,حفار التنقيب,ar
+探索者的护臂,واقي ذراع المطارد,ar
+提莫,تيمو,ar
+揺るがぬ心,القلب الراسخ,ar
+摇钱树,رياح المال الموسمية,ar
+救赎盔甲,روح الافتداء,ar
+斗士,ملاكم,ar
+斗士纹章,شارة الملاكم,ar
+料理鍋,وعاء الطهي,ar
+斯卡纳,سكارنر,ar
+斯塔缇克电刃,السيف الصاعق,ar
+斯特拉克的挑战护手,قفاز ستيراك,ar
+斯维因,سواين,ar
+无尽之刃,السيف الأبدي,ar
+无差别攻击,قاتل لا يميز بين ضحاياه,ar
+无序进化,تطوّر فوضوي,ar
+无用大棒,قصبة عريضة بلا داع,ar
+无终恨意,يأسٌ بلا نهاية,ar
+日炎斗篷,قلنسوة لهب الشمس,ar
+时光守护者,حافظ الزمن,ar
+时间旅者,معيدو الزمن,ar
+星界感召,النداء الكوني,ar
+星界游神,وصي,ar
+星界赐福,عطية النجوم,ar
+時の歯車,تروس الاستمرارية,ar
+普朗克,غانغ بلانك,ar
+普通預金口座,حساب الادخار,ar
+普雷西典保卫战,الدفاع عن البلاسيديوم,ar
+智慧末刃,الموقف الحرج,ar
+暗影岛,جزر الظلام,ar
+暗影木偶,دمية الظل,ar
+暗行者之爪,مخلب المتصيد,ar
+暗裔,داركن,ar
+暗裔剑魔,مدمر العالم,ar
+暮光试炼,اختبارات الغسق,ar
+暴风之剑,السيف الهائل,ar
+曲境折跃,نفق نسيج العوالم,ar
+更要命的帽子,قبعات أشد فتكًا,ar
+更要命的战刃,نصال أشد فتكًا,ar
+最佳好友,أفضل الأصدقاء,ar
+最初の1つは無料！,المقتنى الأول مجاني!,ar
+最后一秒营救,إنقاذ اللحظة الأخيرة,ar
+最后的轻语,الهمسة الأخيرة,ar
+最強の四配者,أربعة تكسب ترقية,ar
+有効活用,نافع لشيء ما,ar
+有用之材,نافع لشيء ما,ar
+朔极之矛,رمح شوجين,ar
+木のアクシオム,المبدأ الخشبي,ar
+权杖意志,إرادة الصولجان,ar
+杖之工匠,صانع القصبات,ar
+杖鍛冶,صانع القصبات,ar
+枪手,محترف الرماية,ar
+枪手纹章,شارة محترف الرماية,ar
+枯朽の遺物,التحفة الذابلة,ar
+枯死の宝石,الجوهرة المتلفة,ar
+枯萎圣物,التحفة الذابلة,ar
+枯萎珠宝,الجوهرة المتلفة,ar
+格温,غوين,ar
+格雷福斯,غرايفز,ar
+梅尔,ميل,ar
+棘刺背心,السترة المدببة,ar
+棘刺镀板铠甲,الدروع المصفحة بالأشواك,ar
+森罗公理,المبدأ الخشبي,ar
+棱彩命运,المصير الموشوري,ar
+棱彩门票,تذكرة موشورية,ar
+構成拡大,التوسع,ar
+槍の決意,إرادة الرمح,ar
+次级镜像人格面具,الشخصية المنعكسة المصغّرة,ar
+正义之手,يد العدالة,ar
+正义巨像,بطولي,ar
+正义报复,القصاص,ar
+死亡之刃,نصل الموت,ar
+殉道美德,فضيلة الشهيد,ar
+残酷弯刀,السيف القاطع السفاح,ar
+殺し屋のカトラス,السيف القاطع السفاح,ar
+比尔吉沃特,بيلجواتر,ar
+比尔吉沃特 次级英雄复制器,مستنسخ أبطال بيلجواتر الأدنى,ar
+比尔吉沃特纹章,شارة بيلجواتر,ar
+气旋公理,المبدأ الهوائي,ar
+水のアクシオム,المبدأ المائي,ar
+水乳交融,نتماسك معًا,ar
+水银,الزئبق,ar
+永恒契约,الميثاق الأزلي,ar
+永恩,يوني,ar
+永猎双子,أزلي,ar
+沃利贝尔,فوليبير,ar
+沃里克,وارويك,ar
+沈黙の帳,ستار السكون,ar
+沙漠皇帝,إمبراطور,ar
+河流之王,شره,ar
+治疗法球,بلورات العلاج,ar
+法师,ساحر الأسرار,ar
+法师纹章,شارة ساحر الأسرار,ar
+法杖溢流,القصبات الوفيرة,ar
+波比,بوبي,ar
+泪流成河,بكاء بلا جدوى,ar
+泰坦的坚决,عزم العملاق,ar
+泰达米尔,تريندامير,ar
+泽拉斯,زيراث,ar
+洛里斯,لوريس,ar
+浪人,المنفيون,ar
+海克斯机甲,ميكا هيكس,ar
+海克斯科技枪刃,سكين سلاح الهيكستيك,ar
+海克斯霸龙,تي-هكس,ar
+海克斯飞门之旅,انتقال بوابة الهيكس,ar
+海妖之怒,فورة الكراكن,ar
+涌泉公理,المبدأ المائي,ar
+混乱回復装置,المستبدل العشوائي,ar
+混沌の進化,تطوّر فوضوي,ar
+游神的盟友,حليف الوصي,ar
+滅びの王,الملك المحطّم,ar
+潘朵拉的备战席,دكة بدلاء باندورا,ar
+潘朵拉的装备,عناصر باندورا,ar
+激发之匣,قلادة التنشيط,ar
+火上浇油,تغذية ألسنة اللهب,ar
+灭世者的死亡之帽,قبعة موت رابادون,ar
+灵风,النسيم العليل,ar
+灵魂唤醒,صحوة الروح,ar
+災禍の使者,نذير الخراب,ar
+炎のアクシオム,المبدأ الناري,ar
+炎の愛好家,مهووس الحرائق,ar
+炎を強めて,تغذية ألسنة اللهب,ar
+点击即送,حقق مرادك,ar
+炽天使之拥,عصا سيرافيم,ar
+炽焰公理,المبدأ الناري,ar
+烁刃,النصال الخاطفة,ar
+烬,جين,ar
+無差別殺人者,قاتل لا يميز بين ضحاياه,ar
+爆炸式增长,النمو المتفجر,ar
+爆発的成長,النمو المتفجر,ar
+爆裂护盾,الدرع المصفح,ar
+特性の書,مجلد الخواص,ar
+特性の木,شجرة الخواص,ar
+狂徒铠甲,درع وارموغ,ar
+狂野女猎手,صيادة,ar
+狂野生长,النمو المفرط,ar
+狙神,رماية بعيدة,ar
+狙神纹章,شارة الرماية البعيدة,ar
+猛将的荣耀,شرف أمير الحرب,ar
+獄炎のハチェット,فأس نيران الجحيم,ar
+王冠とは重きもの,عبء التاج ثقيل,ar
+王冠之重,عبء التاج ثقيل,ar
+王冠意志,إرادة التاج,ar
+玛尔扎哈,مالزاهار,ar
+玻璃大炮,مدفع من زجاج,ar
+珍藏财宝,الكنوز المدفونة,ar
+珠光护手,القفاز المرصع بالجواهر,ar
+珠光莲花,اللوتس المرصع,ar
+瑞兹,رايز,ar
+瑟庄妮,سيجواني,ar
+瑟提,سيت,ar
+璐璐,لولو,ar
+甘いおやつ,حلوى لذيذة,ar
+甜点,حلوى لذيذة,ar
+生日礼物,هدية عيد الميلاد,ar
+生日聚会,لم شمل عيد الميلاد,ar
+生涯ブロンズ,البرونزي حتى النهاية,ar
+由二生D,قيمة مزدوجة,ar
+电压导管,مجرى الكهرباء,ar
+电流过载,الحمل الكهربائي الزائد,ar
+电磁脉冲,نبضة كهرومغناطيسية,ar
+略奪者のダイス,نرد قطاع الطرق,ar
+疾射火炮,مدفع النار السريع,ar
+癒しのこだま,صدى الشفاء,ar
+登上最高峰,الفوز الكبير,ar
+白银命运,المصير الفضي,ar
+皮尔特沃夫,بيلتوفر,ar
+皮尔特沃夫发明,اختراع بيلتوفر,ar
+皮尔特沃夫纹章,شارة بيلتوفر,ar
+盖伦,غارين,ar
+盗賊のグローブ,قفاز اللص,ar
+盗賊団,عصابة اللصوص,ar
+目には目を,العين بالعين,ar
+石像鬼石板甲,درع صدر مرزاب الحجري,ar
+破灭使者,نذير الخراب,ar
+破败之王,الملك المحطّم,ar
+硬性承诺,الالتزام الصارم,ar
+碰撞测试假人,دمى اختبار التحطم,ar
+確約された守護,الحماية الموعودة,ar
+磁控线圈,وشيعة المغناترون,ar
+祖安,زون,ar
+祖安纹章,شارة زون,ar
+神盾使,مأمور,ar
+神盾使纹章,شارة المأمور,ar
+神谕者,عراف,ar
+神谕者纹章,شارة العراف,ar
+禁忌雕像,التمثال المحرّم,ar
+离子火花,الشرارة الأيونية,ar
+科加斯,تشوغاث,ar
+秘传奥义,كاهوناهونا,ar
+穢れたヴァンパイア セプター,صولجان مصاصي الدماء الفاسد,ar
+窃贼帮派,عصابة اللصوص,ar
+窃贼手套,قفاز اللص,ar
+符文法师,ساحر الرون,ar
+第一份免费！,المقتنى الأول مجاني!,ar
+米利欧,ميليو,ar
+精准而优雅,الدقة والرشاقة,ar
+精密かつ優雅,الدقة والرشاقة,ar
+精心打造,التصنيع المتقن,ar
+系魂圣枪,الارتباط الروحي,ar
+素材ビュッフェ,وليمة المكونات,ar
+紡がれし魔法,السحر المحبوك,ar
+終わりなき絶望,يأسٌ بلا نهاية,ar
+絶好調,محظوظ,ar
+红霸符,المحفز الأحمر,ar
+约德尔人,يوردل,ar
+约德尔人纹章,شارة اليوردل,ar
+约里克,يوريك,ar
+纳什之牙,سن ناشور,ar
+纳什男爵,بارون ناشور,ar
+纳什男爵,بلاء الريفت,ar
+纹章之书,مجلد الخواص,ar
+纺织魔法,السحر المحبوك,ar
+终身黄铜,البرونزي حتى النهاية,ar
+绝命毒师,أصدقاء السم,ar
+维迦,فيغار,ar
+羁绊树,شجرة الخواص,ar
+耀光使,مُعرقل,ar
+耀光使纹章,شارة المعرقل,ar
+耐心是一种美德,الصبر فضيلة,ar
+联合作战,في الاتحاد قوة,ar
+能量圣杯,كأس القوة,ar
+腐蚀,التآكل,ar
+腐食,التآكل,ar
+腕豪,الزعيم,ar
+腰带溢流,الأحزمة الوفيرة,ar
+船长的帽子,قبعة القبطان,ar
+船长的酿造品,شراب القبطان,ar
+艾克,إيكو,ar
+艾尼维亚,أنيفيا,ar
+艾希,آش,ar
+艾欧尼亚,أيونيا,ar
+艾欧尼亚纹章,شارة أيونيا,ar
+节外生枝,التوسع,ar
+芸阿娜,يونارا,ar
+英勇福袋,كيس الهدايا البطولي,ar
+英雄のラッキーバッグ,كيس الهدايا البطولي,ar
+莫雷洛秘典,موريلونوميكون,ar
+菲兹,فيز,ar
+萨勒芬妮,سيرافين,ar
+蒙多医生,د. موندو,ar
+蓝霸符,محفز أزرق,ar
+蔓延之根,توسع الجذور,ar
+蔚,فاي,ar
+蕾欧娜,ليونا,ar
+薄暮法袍,الدرع الساتر,ar
+薇恩,فاين,ar
+虚空,فويد,ar
+虚空之女,متأقلمة,ar
+虚空之杖,صولجان الفويد,ar
+虚空护手,قفاز الفويد,ar
+虚空纹章,شارة الفويد,ar
+血の供物,قربان الدم,ar
+衝突試験用ダミー,دمى اختبار التحطم,ar
+裁决战士,سفّاح,ar
+裁决战士纹章,شارة السفاح,ar
+装备百宝袋,كيس هدايا العناصر,ar
+複製,الاستنساخ,ar
+视界专注,تركيز الأفق,ar
+解封魔武,فتح الأختام الفولاذية,ar
+解脱者,محطم السلاسل,ar
+训练假人,دمية التدريب,ar
+诅咒之刃,النصل الملعون,ar
+诺克萨斯,نوكسوس,ar
+诺克萨斯纹章,شارة نوكسوس,ar
+诺提勒斯,نوتيلوس,ar
+调谐振荡器,مولد الذبذبات المضبوط,ar
+財宝の竜巻,إعصار الكنز,ar
+買い物三昧,فورة تسوق,ar
+贝蕾亚,براير,ar
+负极斗篷,عباءة النيغاترون,ar
+贸易中心,جوهر التجارة,ar
+费德提克,فيدل ستيكس,ar
+赛恩,سايون,ar
+赵信,شين جاو,ar
+起死回生,النوبة الثانية,ar
+超越のタリスマン,تميمة الارتقاء,ar
+超越生体,صيغة حياة متفوقة,ar
+超越者,مرتقي,ar
+超频电容器,مكثفات فائقة الأداء,ar
+輝く悪党,الوغد المشع,ar
+轻量魔法投掷,الرمية السحرية المخفّفة,ar
+辛吉德,سينجد,ar
+达克威尔入侵,غزو داركويل,ar
+迅击战士,مهاجم سريع,ar
+迅击战士纹章,شارة المهاجم السريع,ar
+远古巨龙,التنين الأعظم,ar
+远古巫灵,مرتقي,ar
+远古恐惧,حاصد,ar
+连指手套,القفازات,ar
+连续齿轮,تروس الاستمرارية,ar
+迷离风衣,المعطف المشبوه,ar
+适应性头盔,الخوذة المتكيفة,ar
+遥遥领先,الاستثمار طويل الأجل,ar
+選ばれし狼,الذئاب المختارة,ar
+酒吧指虎,قبضتا السنديان,ar
+采矿钻机,حفار التنقيب,ar
+重启任务,إعادة المهمة,ar
+金のモンスーン,رياح المال الموسمية,ar
+金ピカの鋼,الفولاذ المذهب,ar
+金克丝,جينكس,ar
+金色炊具,وعاء الطهي,ar
+金铲铲,ملعقة مسطحة,ar
+金铲铲冠冕,تاج المخطِط,ar
+金锅铲冠冕,قلنسوة المخطِط,ar
+金锅锅,مقلاة,ar
+金锅锅冠冕,درع المخطِط,ar
+金霖龙,التنين الذهبي,ar
+金鳞精粹,جوهر الحراشف اللامعة,ar
+銀の匙,الملعقة الفضية,ar
+鋼からの解放,فتح الأختام الفولاذية,ar
+鋼の心,القلب الفولاذي,ar
+鏡像のペルソナ,الشخصية المنعكسة,ar
+钢铁烈阳之匣,قلادة سولاري الحديدي,ar
+银汤匙,الملعقة الفضية,ar
+铸星龙王,صانع النجوم,ar
+锁子甲,السترة المسلسلة,ar
+锤石,ثريش,ar
+镀金钢铁,الفولاذ المذهب,ar
+镜像人格面具,الشخصية المنعكسة,ar
+长矛意志,إرادة الرمح,ar
+阿兹尔,أزير,ar
+阿狸,آري,ar
+限定カスタマイズ,تخصيص حصري,ar
+集中火力,النيران المركزة,ar
+集中砲火,النيران المركزة,ar
+集结战队,تشكيل الفريق,ar
+雷克塞,ريكساي,ar
+雷克顿,رينيكتون,ar
+震畏大炮,مدفع طريق الرعب,ar
+静止法衣,ستار السكون,ar
+韋駄天,مهاجم سريع,ar
+韋駄天の紋章,شارة المهاجم السريع,ar
+顽强不屈,الصنديد,ar
+風のアクシオム,المبدأ الهوائي,ar
+飞升,الارتقاء,ar
+飞升护符,تميمة الارتقاء,ar
+食堂,معركة الطعام,ar
+饭厅,معركة الطعام,ar
+饮血剑,المتعطش للدماء,ar
+騎士の誓い,عهد الفارس,ar
+骑士之誓,عهد الفارس,ar
+高压电,الكهرباء القوية,ar
+高级生命体,صيغة حياة متفوقة,ar
+高级贷款,سلفة قرض,ar
+高電圧,الكهرباء القوية,ar
+高電圧管,مجرى الكهرباء,ar
+鬼影望远镜,منظار التجسس المسكون,ar
+鬼索的狂暴之刃,نصل غضب غينسو,ar
+魔像,غولم,ar
+魔像化,التحويل إلى غولم,ar
+魔法のダイス,الرمية السحرية,ar
+魔法投掷,الرمية السحرية,ar
+鱼骨头,فيشبونز,ar
+鲜血祭品,قربان الدم,ar
+黄昏の試練,اختبارات الغسق,ar
+黄昏圣盾,درع الغسق,ar
+黄金の龍,التنين الذهبي,ar
+黄金命运,المصير الذهبي,ar
+黎明圣盾,درع الفجر,ar
+黎明核心,جوهر الفجر,ar
+黑市炸药,متفجرات السوق السوداء,ar
+黑市补货,تجديد بضائع السوق السوداء,ar
+黑暗之女,طفلة الظلام,ar
+黑暗吸血鬼节杖,صولجان مصاصي الدماء الفاسد,ar
+黑铁资产,الأصول الحديدية,ar
+黛安娜,ديانا,ar
+龙血武姬,سليلة التنين,ar

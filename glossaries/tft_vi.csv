@@ -1,449 +1,395 @@
 source,target,tgt_lng
+1个霸符，2个霸符,"Một Bùa, Hai Bùa",vi
+2のトリック,Số 2 May Mắn,vi
+3 Threes,Chỉ 3 Vàng,vi
+3×3,Chỉ 3 Vàng,vi
+3の軍団,Quân Đoàn 3 Sao,vi
+8级D干的传说,Xúc Xắc Hoành Tráng,vi
+90 Caliber Nets,Lưới 90,vi
+90口径绳网,Lưới 90,vi
+A Magic Roll,Xúc Xắc Ma Pháp,vi
 Aatrox,Aatrox,vi
+Acceleration Gate,Cổng Tăng Tốc,vi
+Adaptive Helm,Mũ Thích Nghi,vi
+Advanced Loan,Vay Tạm Ứng,vi
+Aegis of Dawn,Khiên Hừng Đông,vi
+Aegis of Dusk,Khiên Hoàng Hôn,vi
 Ahri,Ahri,vi
+Air Axiom,Nguyên Tố Khí,vi
 Ambessa,Ambessa,vi
 Anivia,Anivia,vi
 Annie,Annie,vi
 Aphelios,Aphelios,vi
+Arcane Viktor-y,Arcane Viktor-y,vi
+Arcane ビクタリー,Arcane Viktor-y,vi
+Arcanist,Pháp Sư,vi
+Arcanist Emblem,Ấn Pháp Sư,vi
+Archangel's Staff,Quyền Trượng Thiên Thần,vi
+Armor Nullifier,Phá Giáp,vi
+Artillery Barrage,Pháo Kích Tầm Xa,vi
+Ascendant,Thăng Hoa,vi
+Ascension,Thăng Hoa,vi
 Ashe,Ashe,vi
+Assimilator,Cộng Sinh,vi
 Aurelion Sol,Aurelion Sol,vi
 Azir,Azir,vi
+B.F. Sword,Kiếm B.F.,vi
+B.F.ソード,Kiếm B.F.,vi
+Band of Thieves,Băng Trộm,vi
 Bard,Bard,vi
+Barknuckles,Găng Dã Thú,vi
 Baron Nashor,Baron Nashor,vi
 Bel'Veth,Bel'Veth,vi
-Blitzcrank,Blitzcrank,vi
-Braum,Braum,vi
-Briar,Briar,vi
-Brock,Brock,vi
-Caitlyn,Caitlyn,vi
-Cho'Gath,Cho'Gath,vi
-Darius,Darius,vi
-Diana,Diana,vi
-Dr. Mundo,Dr. Mundo,vi
-Draven,Draven,vi
-Ekko,Ekko,vi
-Elder Dragon,Rồng Ngàn Tuổi,vi
-Fiddlesticks,Fiddlesticks,vi
-Fizz,Fizz,vi
-Galio,Galio,vi
-Gangplank,Gangplank,vi
-Garen,Garen,vi
-Golem,Người Đá,vi
-Graves,Graves,vi
-Gwen,Gwen,vi
-Illaoi,Illaoi,vi
-Jarvan IV,Jarvan IV,vi
-Jhin,Jhin,vi
-Jinx,Jinx,vi
-Kai'Sa,Kai'Sa,vi
-Kalista,Kalista,vi
-Kennen,Kennen,vi
-Kindred,Kindred,vi
-Kobuko & Yuumi,Kobuko & Yuumi,vi
-Kog'Maw,Kog'Maw,vi
-LeBlanc,LeBlanc,vi
-Leona,Leona,vi
-Lissandra,Lissandra,vi
-Loris,Loris,vi
-Lucian & Senna,Lucian & Senna,vi
-Lulu,Lulu,vi
-Lux,Lux,vi
-Malzahar,Malzahar,vi
-Mel,Mel,vi
-Milio,Milio,vi
-Miss Fortune,Miss Fortune,vi
-Nasus,Nasus,vi
-Nautilus,Nautilus,vi
-Neeko,Neeko,vi
-Nidalee,Nidalee,vi
-Orianna,Orianna,vi
-Ornn,Ornn,vi
-Piltover Invention,Phát Minh Piltover,vi
-Poppy,Poppy,vi
-Qiyana,Qiyana,vi
-Rek'Sai,Rek'Sai,vi
-Renekton,Renekton,vi
-Rift Herald,Sứ Giả Khe Nứt,vi
-Rift Scuttler,Cua Kỳ Cục,vi
-Rumble,Rumble,vi
-Ryze,Ryze,vi
-Sejuani,Sejuani,vi
-Seraphine,Seraphine,vi
-Sett,Sett,vi
-Shen,Shen,vi
-Shyvana,Shyvana,vi
-Singed,Singed,vi
-Sion,Sion,vi
-Skarner,Skarner,vi
-Sona,Sona,vi
-Swain,Swain,vi
-Sylas,Sylas,vi
-T-Hex,T-Hex,vi
-Tahm Kench,Tahm Kench,vi
-Taric,Taric,vi
-Teemo,Teemo,vi
-Thresh,Thresh,vi
-Training Dummy,Hình Nhân,vi
-Tristana,Tristana,vi
-Tryndamere,Tryndamere,vi
-Twisted Fate,Twisted Fate,vi
-Vayne,Vayne,vi
-Veigar,Veigar,vi
-Vi,Vi,vi
-Viego,Viego,vi
-Volibear,Volibear,vi
-Warwick,Warwick,vi
-Wukong,Ngộ Không,vi
-Xerath,Xerath,vi
-Xin Zhao,Xin Zhao,vi
-Yasuo,Yasuo,vi
-Yone,Yone,vi
-Yorick,Yorick,vi
-Yunara,Yunara,vi
-Zaahen,Zaahen,vi
-Ziggs,Ziggs,vi
-Zilean,Zilean,vi
-Zoe,Zoe,vi
-Arcanist,Pháp Sư,vi
-Ascendant,Thăng Hoa,vi
-Assimilator,Cộng Sinh,vi
-Bilgewater,Bilgewater,vi
-Blacksmith,Thần Rèn,vi
-Bruiser,Đấu Sĩ,vi
-Caretaker,Ông Bụt,vi
-Chainbreaker,Kẻ Phá Xiềng,vi
-Chosen Wolves,Chiến Lang,vi
-Chronokeeper,Giám Hộ,vi
-Dark Child,Đứa Trẻ Bóng Tối,vi
-Darkin,Darkin,vi
-Defender,Vệ Quân,vi
-Demacia,Demacia,vi
-Disruptor,Nhiễu Loạn,vi
-Dragonborn,Long Nữ,vi
-Dragonguards,Long Binh,vi
-Emperor,Hoàng Đế,vi
-Eternal,Vĩnh Hằng,vi
-Freljord,Freljord,vi
-Glutton,Phàm Ăn,vi
-Gunslinger,Xạ Thủ,vi
-Harvester,Bù Nhìn,vi
-Heroic,Siêu Hùng,vi
-HexMech,Cơ Giáp Hex,vi
-Huntress,Nữ Thợ Săn,vi
-Immortal,Bất Tử,vi
-Invoker,Thuật Sĩ,vi
-Ionia,Ionia,vi
-Ixtal,Ixtal,vi
-Juggernaut,Dũng Sĩ,vi
-Longshot,Viễn Kích,vi
-Noxus,Noxus,vi
-Piltover,Piltover,vi
-Poison Pals,Bộ Đôi Độc Dược,vi
-Quickstriker,Cực Tốc,vi
-Riftscourge,Tai Ương,vi
-Rune Mage,Cổ Ngữ,vi
-Sentinels of Light,Vệ Binh Ánh Sáng,vi
-Shadow Isles,Đảo Bóng Đêm,vi
-Shurima,Shurima,vi
-Slayer,Đồ Tể,vi
-Soulbound,Linh Hồn,vi
-Star Forger,Ác Long,vi
-Targon,Targon,vi
-The Boss,Đại Ca,vi
-Timewinders,Dây Cót Thời Gian,vi
-Vanquisher,Chinh Phạt,vi
-Void,Hư Không,vi
-Warden,Cảnh Vệ,vi
-World Ender,Quỷ Kiếm,vi
-Yordle,Yordle,vi
-Zaun,Zaun,vi
-3 Threes,Chỉ 3 Vàng,vi
-A Magic Roll,Xúc Xắc Ma Pháp,vi
-Advanced Loan,Vay Tạm Ứng,vi
-Air Axiom,Nguyên Tố Khí,vi
-Arcane Viktor-y,Arcane Viktor-y,vi
-Artillery Barrage,Pháo Kích Tầm Xa,vi
-Ascension,Thăng Hoa,vi
-Band of Thieves,Băng Trộm,vi
 Belt Overflow,Đam Mê Đai Lưng,vi
 Best Friends,Bạn Thân,vi
 Big Friend,Dựa Hơi,vi
 Big Grab Bag,Túi Đồ Cỡ Đại,vi
+Bilgewater,Bilgewater,vi
+Bilgewater Emblem,Ấn Bilgewater,vi
+Bilgewater Lesser Champion Duplicator,Máy Sao Chép Tướng Cỡ Nhỏ Bilgewater,vi
 Binary Airdrop,Trang Bị Đầy Đủ,vi
 Birthday Present,Quà Sinh Nhật,vi
 Birthday Reunion,Sinh Nhật Đoàn Tụ,vi
+Black Market Restock,Nguồn Hàng Bất Chính,vi
+Blackmarket Explosives,Chất Nổ Chợ Đen,vi
+Blacksmith,Thần Rèn,vi
+Blast Shield,Giáp Chống Chất Nổ,vi
+Blighting Jewel,Đá Hắc Hóa,vi
+Blitzcrank,Blitzcrank,vi
 Blood Offering,Huyết Tế,vi
+Bloodthirster,Huyết Kiếm,vi
+Blue Buff,Bùa Xanh,vi
 Bodyguard Training,Huấn Luyện Cận Vệ,vi
 Boxing Lessons,Tập Chịu Đòn,vi
+Bramble Vest,Áo Choàng Gai,vi
 Branching Out,Phân Nhánh,vi
+Braum,Braum,vi
+Briar,Briar,vi
+Brigand's Dice,Xúc Xắc Đạo Tặc,vi
 Bringer of Ruin,Kẻ Tàn Phá,vi
+Brock,Brock,vi
 Bronze For Life,Tất Tay Bậc Đồng,vi
+Bruiser,Đấu Sĩ,vi
+Bruiser Emblem,Ấn Đấu Sĩ,vi
 Buried Treasures,Kho Báu Chôn Giấu,vi
+Caitlyn,Caitlyn,vi
+Cappa Juice,Nước Cappa,vi
+Captain's Brew,Men Rượu Thuyền Trưởng,vi
+Captain's Hat,Mũ Thuyền Trưởng,vi
 Care Package,Gói Bảo Hộ,vi
+Caretaker,Ông Bụt,vi
 Caretaker's Ally,Đồng Minh Của Bụt,vi
 Celestial Blessing,Phước Lành Vũ Trụ,vi
+Chain Vest,Giáp Lưới,vi
+Chainbreaker,Kẻ Phá Xiềng,vi
+Chalice of Power,Cốc Sức Mạnh,vi
 Chaotic Evolution,Tiến Hóa Bất Định,vi
+Cho'Gath,Cho'Gath,vi
+Chosen Wolves,Chiến Lang,vi
+Chronokeeper,Giám Hộ,vi
 Commerce Core,Trung Tâm Thương Mại,vi
 Component Buffet,Đại Tiệc Trang Bị,vi
 Construct a Companion,Người Bạn Vàng,vi
+Continuum Cogs,Bánh Răng Liên Luân,vi
 Cooking Pot,Nồi Nấu Ăn,vi
 Coronation,Lên Ngôi Vương,vi
 Corrosion,Ăn Mòn,vi
+Corrupt Vampiric Scepter,Huyết Trượng Tha Hóa,vi
 Cosmic Calling,Vũ Trụ Triệu Gọi,vi
 Crafted Crafting,Khéo Tay Hay Làm,vi
 Crash Test Dummies,Hình Nộm Va Chạm,vi
 Crown's Will,Ý Chí Vương Miện,vi
+Crownguard,Vương Miện Hoàng Gia,vi
 Cry Me A River,Giọt Lệ Bi Ai,vi
+Cursed Blade,Kiếm Cong,vi
+Cutthroat's Cutlass,Kiếm Sát Mệnh,vi
+C位的觉悟,Tiền Vệ Trung Tâm,vi
+DD街区,Khu Giao Dịch,vi
+Darius,Darius,vi
+Dark Child,Đứa Trẻ Bóng Tối,vi
+Darkin,Darkin,vi
 Darkwill's Invasion,Darkwill Xâm Lược,vi
+Dawncore,Lõi Bình Minh,vi
+Dead Man's Dagger,Dao Tử Sĩ,vi
 Deadlier Blades,Kiếm Tử Thần,vi
 Deadlier Caps,Mũ Tử Thần,vi
+Deathblade,Kiếm Tử Thần,vi
+Defender,Vệ Quân,vi
+Defender Emblem,Ấn Vệ Quân,vi
 Defense of the Placidium,Bảo Vệ Thiên Phận,vi
+Demacia,Demacia,vi
+Demacia Emblem,Ấn Demacia,vi
 Demacia Forever,Demacia Trường Tồn,vi
+Diana,Diana,vi
+Disruptor,Nhiễu Loạn,vi
+Disruptor Emblem,Ấn Nhiễu Loạn,vi
 Double Trouble,Cặp Đôi Hoàn Cảnh,vi
+Dr. Mundo,Dr. Mundo,vi
+Dragon's Claw,Vuốt Rồng,vi
+Dragonborn,Long Nữ,vi
+Dragonguards,Long Binh,vi
+Draven,Draven,vi
+Dreadway Cannon,Đại Bác Dreadway,vi
 Dummify,Hình Nhân Hóa,vi
 Duo Queue,Hàng Chờ Đấu Đôi,vi
+D个痛快！,Xúc Xắc Vô Tận,vi
+E.M.P.,BOM ĐIỆN TỪ,vi
 Earth Axiom,Nguyên Tố Đất,vi
+Echo Engine,Động Cơ Dư Âm,vi
+Edge of Night,Áo Choàng Bóng Tối,vi
+Ekko,Ekko,vi
+Elder Dragon,Rồng Ngàn Tuổi,vi
+Electrical Overload,Quá Tải Điện,vi
+Emperor,Hoàng Đế,vi
 Epic Rolldown,Xúc Xắc Hoành Tráng,vi
+Eternal,Vĩnh Hằng,vi
+Eternal Pact,Khế Ước Vĩnh Hằng,vi
+Evenshroud,Giáp Vai Nguyệt Thần,vi
 Exclusive Customization,Lựa Chọn Độc Quyền,vi
 Exiles,Độc Hành,vi
 Expected Unexpectedness,Kỳ Vọng Bất Ngờ,vi
 Explosive Growth,Tăng Trưởng Bùng Nổ,vi
 Eye For An Eye,Ăn Miếng Trả Miếng,vi
 Feed the Flames,Nếm Mùi Lửa,vi
+Fiddlesticks,Fiddlesticks,vi
 Find Your Center,Tiền Vệ Trung Tâm,vi
 Fire Axiom,Nguyên Tố Lửa,vi
+First Mate's Flintlock,Súng Kíp Thuyền Phó,vi
+First One's Free!,Lần Đầu Không Tính Tiền!,vi
+Fishbones,Pháo Xương Cá,vi
+Fizz,Fizz,vi
+Flickerblades,Đao Chớp,vi
 Focused Fire,Tập Trung Hỏa Lực,vi
+Forbidden Idol,Dị Vật Tai Ương,vi
+Freljord,Freljord,vi
+Freljord Emblem,Ấn Freljord,vi
+Frying Pan,Chảo Vàng,vi
+Galio,Galio,vi
+Gangplank,Gangplank,vi
+Garen,Garen,vi
+Gargoyle Stoneplate,Thú Tượng Thạch Giáp,vi
+Giant Slayer,Diệt Khổng Lồ,vi
 Giant and Mighty,To Lớn & Mạnh Mẽ,vi
+Giant's Belt,Đai Khổng Lồ,vi
+Gigantification Ray,Tia Phóng Đại,vi
 Gilded Steel,Thép Mạ Vàng,vi
 Glass Cannon,Lấy Công Bù Thủ,vi
+Glutton,Phàm Ăn,vi
 Going Long,Thích Mở Rộng,vi
 Gold Destiny,Vận Mệnh Vàng,vi
+Golem,Người Đá,vi
 Golemify,Người Đá Càn Quét,vi
 Good For Something,Được Này Mất Kia,vi
+Graves,Graves,vi
 Growth Mindset,Tư Duy Tiến Bộ,vi
+Guinsoo's Rageblade,Cuồng Đao Guinsoo,vi
+Gunslinger,Xạ Thủ,vi
+Gunslinger Emblem,Ấn Xạ Thủ,vi
+Gwen,Gwen,vi
+Hand Of Justice,Bàn Tay Công Lý,vi
 Hard Commit,Chỉ Một Con Đường,vi
+Harvester,Bù Nhìn,vi
+Haunted Spyglass,Ống Nhòm Ma Ám,vi
 Healing Orbs,Cầu Hồi Phục,vi
 Heart of Steel,Trái Tim Sắt Đá,vi
 Heavy Is the Crown,Vương Miện Nặng Trĩu,vi
 Hedge Fund,Quỹ Phòng Hộ,vi
 Hefty Rolls,Ván Cờ May Rủi,vi
+Hellfire Hatchet,Rìu Hỏa Ngục,vi
+Heroic,Siêu Hùng,vi
 Heroic Grab Bag,Túi Đồ Siêu Hùng,vi
+HexMech,Cơ Giáp Hex,vi
 Hexgate Travel,Di Chuyển Bằng Cổng Hextech,vi
+Hextech Gunblade,Kiếm Súng Hextech,vi
 High Voltage,Sét Cao Thế,vi
 Hold the Line,Giữ Vững Hàng Ngũ,vi
+Horizon Focus,Kính Nhắm Ma Pháp,vi
+Huntress,Nữ Thợ Săn,vi
+Illaoi,Illaoi,vi
+Immortal,Bất Tử,vi
 Indecision,Do Dự,vi
 Indiscriminate Killer,Sát Thủ Khát Máu,vi
+Infinity Edge,Vô Cực Kiếm,vi
+Innervating Locket,Dây Chuyền Tự Lực,vi
 Invested,Đầu Tư,vi
+Invoker,Thuật Sĩ,vi
+Invoker Emblem,Ấn Thuật Sĩ,vi
+Ionia,Ionia,vi
+Ionia Emblem,Ấn Ionia,vi
+Ionic Spark,Nỏ Sét,vi
 Iron Assets,Kho Báu Sắt,vi
 Item Grab Bag,Tiếp Tế Trang Bị,vi
+Ixtal,Ixtal,vi
+Ixtal Emblem,Ấn Ixtal,vi
+Jarvan IV,Jarvan IV,vi
+Jeweled Gauntlet,Găng Bảo Thạch,vi
 Jeweled Lotus,Khảm Bảo Thạch,vi
+Jhin,Jhin,vi
+Jinx,Jinx,vi
+Juggernaut,Dũng Sĩ,vi
+Juggernaut Emblem,Ấn Dũng Sĩ,vi
 Just Hit,Đánh Là Trúng,vi
 Kahunahuna,Kamekameha,vi
+Kai'Sa,Kai'Sa,vi
+Kalista,Kalista,vi
+Kennen,Kennen,vi
+Kindred,Kindred,vi
+Kinetic Barrier,Rào Động Lực,vi
+Knight's Vow,Lời Thề Hiệp Sĩ,vi
+Kobuko & Yuumi,Kobuko & Yuumi,vi
+Kog'Maw,Kog'Maw,vi
+Kraken's Fury,Thịnh Nộ Thủy Quái,vi
+L-90 カリバーネット,Lưới 90,vi
 Last Second Save,Cứu Trong Gang Tấc,vi
+Last Whisper,Cung Xanh,vi
 Late Game Scaling,Thăng Tiến Cuối Trận,vi
 Late Game Specialist,Hướng Đến Hồi Kết,vi
+LeBlanc,LeBlanc,vi
 Leap of Faith,Bước Nhảy Niềm Tin,vi
 Legion of Threes,Quân Đoàn 3 Sao,vi
+Leona,Leona,vi
+Lesser Mirrored Persona,Hiện Thân Phản Chiếu Cỡ Nhỏ,vi
 Level Up!,Khuyến Mãi Kinh Nghiệm,vi
+Lich Bane,Kiếm Tai Ương,vi
 Lifting Competition,Cuộc Thi Nâng Tạ,vi
+Lightshield Crest,Huy Hiệu Lightshield,vi
 Lineup,Tiền Tuyến Vững Chãi,vi
+Lissandra,Lissandra,vi
 Little Buddies,Những Người Bạn Nhỏ,vi
+Locket of the Iron Solari,Dây Chuyền Iron Solari,vi
+Longshot,Viễn Kích,vi
+Longshot Emblem,Ấn Viễn Kích,vi
+Loris,Loris,vi
+Lucian & Senna,Lucian & Senna,vi
+Lucky Doubloon,Đồng Vàng May Mắn,vi
 Lucky Gloves,Đo Ni Đóng Giày,vi
+Luden's Tempest,Bão Tố Luden,vi
+Lulu,Lulu,vi
+Lux,Lux,vi
 Mace's Will,Ý Chỉ Xích Chùy,vi
+Magnetron Coil,Cuộn Từ Trường,vi
 Makeshift Armor,Giáp Tự Chế,vi
+Malzahar,Malzahar,vi
+Mel,Mel,vi
+Mending Echoes,Thanh Âm Chữa Lành,vi
 Mess Hall,Sảnh Đông Đúc,vi
+Micro-Rockets,Tên Lửa Vi Mô,vi
+Milio,Milio,vi
 Min-Max,Tối Đa Hóa,vi
+Mining Drill,Khoan Khai Thác,vi
+Mirrored Persona,Hiện Thân Phản Chiếu,vi
+Miss Fortune,Miss Fortune,vi
 Missed Connections,Kết Nối Gián Đoạn,vi
+Mittens,Găng Đấu Sĩ,vi
+Momentum Drive,Động Cơ Quán Tính,vi
 Money Monsoon,Bão Vàng,vi
+Morellonomicon,Quỷ Thư Morello,vi
+Nashor's Tooth,Nanh Nashor,vi
+Nasus,Nasus,vi
+Nautilus,Nautilus,vi
+Needlessly Large Rod,Gậy Quá Khổ,vi
+Neeko,Neeko,vi
+Negatron Cloak,Áo Choàng Bạc,vi
+Nidalee,Nidalee,vi
+Noxus,Noxus,vi
+Noxus Emblem,Ấn Noxus,vi
 On a Roll,Trên Đà Phát Triển,vi
 "One Buff, Two Buff","Một Bùa, Hai Bùa",vi
 One Twos Three,"Một, Hai, Ba",vi
 "One, Two, Five!","Một, Hai, Năm!",vi
+Orianna,Orianna,vi
+Ornn,Ornn,vi
+Overclocked Capacitors,Tụ Điện Ép Xung,vi
 Pandora's Bench,Hàng Chờ Pandora,vi
 Pandora's Items,Trang Bị Pandora,vi
 Patience is a Virtue,Kiên Nhẫn Là Một Đức Tính,vi
+Pile O' Citrus,Vitamin C,vi
+Piltover,Piltover,vi
+Piltover Emblem,Ấn Piltover,vi
+Piltover Invention,Phát Minh Piltover,vi
 Placebo,Giả Dược,vi
 Plot Armor,Hào Quang Nhân Vật Chính,vi
+Poison Pals,Bộ Đôi Độc Dược,vi
+Poppy,Poppy,vi
 Portable Forge,Lò Rèn Thần Thoại,vi
 Precision and Grace,Chuẩn Xác và Uyển Chuyển,vi
 Preparation,Làm Nóng,vi
 Prismatic Destiny,Vận Mệnh Kim Cương,vi
 Prismatic Ticket,Vé Kim Cương,vi
 Promised Protection,Thệ Ước Bảo Hộ,vi
+Protector's Vow,Lời Thề Hộ Vệ,vi
+Prowler's Claw,Móng Vuốt Ám Muội,vi
 Pyromaniac,Hỏa Cuồng Nhân,vi
+Qiyana,Qiyana,vi
+Quicksilver,Áo Choàng Thủy Ngân,vi
+Quickstriker,Cực Tốc,vi
+Quickstriker Emblem,Ấn Cực Tốc,vi
+Rabadon's Deathcap,Mũ Phù Thủy Rabadon,vi
 Radiant Rascal,Quang Lân Tiểu Yêu,vi
 Radiant Relics,Kho Thần Tích,vi
 Raining Gold,Cơn Mưa Vàng,vi
+Rapid Firecannon,Đại Bác Liên Thanh,vi
+Realm Warp,Vòng Xoáy Không Gian,vi
 Recombobulator,Xoay Bài Tự Động,vi
+Recurve Bow,Cung Gỗ,vi
+Red Buff,Bùa Đỏ,vi
 ReinFOURcement,Tứ Phương Tiếp Viện,vi
+Rek'Sai,Rek'Sai,vi
+Renekton,Renekton,vi
 Replication,Nhân Bản,vi
 Restart Mission,Tái Khởi Động Nhiệm Vụ,vi
 Retribution,Báo Oán,vi
+Rift Herald,Sứ Giả Khe Nứt,vi
+Rift Scuttler,Cua Kỳ Cục,vi
+Riftscourge,Tai Ương,vi
 Rolling For Days,Xúc Xắc Vô Tận,vi
+Rumble,Rumble,vi
+Rune Mage,Cổ Ngữ,vi
+Ryze,Ryze,vi
 Savings Account,Tài Khoản Tiết Kiệm,vi
 Second Wind,Ngọn Gió Thứ Hai,vi
+Seeker's Armguard,Giáp Tay Seeker,vi
+Sejuani,Sejuani,vi
+Sentinels of Light,Vệ Binh Ánh Sáng,vi
 Seraphim's Staff,Trượng Đại Thiên Sứ,vi
+Seraphine,Seraphine,vi
+Sett,Sett,vi
+Shadow Isles,Đảo Bóng Đêm,vi
+Shadow Puppet,Bóng Phân Thân,vi
+Shen,Shen,vi
 Shimmerscale Essence,Tinh Túy Kim Long,vi
 Shopping Spree,Tín Đồ Mua Sắm,vi
+Shroud of Stillness,Áo Choàng Tĩnh Lặng,vi
+Shurima,Shurima,vi
+Shyvana,Shyvana,vi
 Silco's Revenge,Silco Báo Thù,vi
 Silver Destiny,Vận Mệnh Bạc,vi
 Silver Spoon,Đặc Quyền Phú Gia,vi
+Silvermere Dawn,Chùy Bạch Ngân,vi
+Singed,Singed,vi
+Sion,Sion,vi
+Skarner,Skarner,vi
+Slayer,Đồ Tể,vi
+Slayer Emblem,Ấn Đồ Tể,vi
 Slightly Magic Roll,Quay Trúng Thưởng,vi
 Small Grab Bag,Túi Đồ Cỡ Nhỏ,vi
 Solo Plate,Khiên Đơn Đấu,vi
+Sona,Sona,vi
 Soul Awakening,Thức Tỉnh Linh Hồn,vi
+Soulbound,Linh Hồn,vi
+Sparring Gloves,Găng Đấu Tập,vi
+Spatula,Siêu Xẻng,vi
+Spear of Shojin,Ngọn Giáo Shojin,vi
 Spear's Will,Ý Chỉ Ngọn Giáo,vi
+Spectral Cutlass,Gươm Biến Ảnh,vi
+Spirit Visage,Giáp Tâm Linh,vi
 Spirit of Redemption,Linh Hồn Chuộc Tội,vi
 Spreading Roots,Cắm Rễ Phân Tán,vi
 Staffsmith,Thợ Rèn Gậy,vi
 Stand United,Nhất Thống,vi
+Star Forger,Ác Long,vi
 Stars Are Born,Toàn Sao Là Sao,vi
 Starter Kit,Bộ Khởi Đầu,vi
-Sweet Treats,Món Quà Ngọt Ngào,vi
-Sword Overflow,Đam Mê Kiếm,vi
-Swordsmith,Thợ Rèn Kiếm,vi
-Teaming Up,Lập Đội,vi
-The Axiomata,Định Luật Nguyên Tố,vi
-The Golden Dragon,Kim Long,vi
-The Ruined King,Hắc Diệt Đế Vương,vi
-The Trait Tree,Cây Tộc Hệ,vi
-The World Runes,Cổ Ngữ Thế Giới,vi
-Thorn-Plated Armor,Giáp Gai Thép,vi
-"Tiny, but Deadly",Nhỏ Mà Có Võ,vi
-Tons of Stats!,Cộng Mệt Nghỉ!,vi
-Trade Sector,Khu Giao Dịch,vi
-Trials of Twilight,Thử Thách Dưới Ánh Chạng Vạng,vi
-Trifecta,Bộ Ba Hoàn Hảo,vi
-Twin Guardians,Song Vệ,vi
-Two Much Value,2 Vàng Là Nhất,vi
-Two Trick,Số 2 May Mắn,vi
-U.R.F,U.R.F.,vi
-Unsealed From Steel,Thoát Khỏi Xiềng Thép,vi
-Upward Mobility,Đẩy Nhanh Tiến Độ,vi
-Wand Overflow,Đam Mê Gậy,vi
-Warlord's Honor,Chiến Tướng Khải Hoàn,vi
-Water Axiom,Nguyên Tố Nước,vi
-We Stick Together,Kề Vai Sát Cánh,vi
-Wild Growth,Khổng Lồ Hóa,vi
-Win Out,Toàn Thắng,vi
-Wood Axiom,Nguyên Tố Gỗ,vi
-Woven Magic,Ma Thuật Đan Kết,vi
-90 Caliber Nets,Lưới 90,vi
-Acceleration Gate,Cổng Tăng Tốc,vi
-Adaptive Helm,Mũ Thích Nghi,vi
-Aegis of Dawn,Khiên Hừng Đông,vi
-Aegis of Dusk,Khiên Hoàng Hôn,vi
-Arcanist Emblem,Ấn Pháp Sư,vi
-Archangel's Staff,Quyền Trượng Thiên Thần,vi
-Armor Nullifier,Phá Giáp,vi
-B.F. Sword,Kiếm B.F.,vi
-Barknuckles,Găng Dã Thú,vi
-Bilgewater Emblem,Ấn Bilgewater,vi
-Bilgewater Lesser Champion Duplicator,Máy Sao Chép Tướng Cỡ Nhỏ Bilgewater,vi
-Black Market Restock,Nguồn Hàng Bất Chính,vi
-Blackmarket Explosives,Chất Nổ Chợ Đen,vi
-Blast Shield,Giáp Chống Chất Nổ,vi
-Blighting Jewel,Đá Hắc Hóa,vi
-Bloodthirster,Huyết Kiếm,vi
-Blue Buff,Bùa Xanh,vi
-Bramble Vest,Áo Choàng Gai,vi
-Brigand's Dice,Xúc Xắc Đạo Tặc,vi
-Bruiser Emblem,Ấn Đấu Sĩ,vi
-Cappa Juice,Nước Cappa,vi
-Captain's Brew,Men Rượu Thuyền Trưởng,vi
-Captain's Hat,Mũ Thuyền Trưởng,vi
-Chain Vest,Giáp Lưới,vi
-Chalice of Power,Cốc Sức Mạnh,vi
-Continuum Cogs,Bánh Răng Liên Luân,vi
-Corrupt Vampiric Scepter,Huyết Trượng Tha Hóa,vi
-Crownguard,Vương Miện Hoàng Gia,vi
-Cursed Blade,Kiếm Cong,vi
-Cutthroat's Cutlass,Kiếm Sát Mệnh,vi
-Dawncore,Lõi Bình Minh,vi
-Dead Man's Dagger,Dao Tử Sĩ,vi
-Deathblade,Kiếm Tử Thần,vi
-Defender Emblem,Ấn Vệ Quân,vi
-Demacia Emblem,Ấn Demacia,vi
-Disruptor Emblem,Ấn Nhiễu Loạn,vi
-Dragon's Claw,Vuốt Rồng,vi
-Dreadway Cannon,Đại Bác Dreadway,vi
-E.M.P.,BOM ĐIỆN TỪ,vi
-Echo Engine,Động Cơ Dư Âm,vi
-Edge of Night,Áo Choàng Bóng Tối,vi
-Electrical Overload,Quá Tải Điện,vi
-Eternal Pact,Khế Ước Vĩnh Hằng,vi
-Evenshroud,Giáp Vai Nguyệt Thần,vi
-First Mate's Flintlock,Súng Kíp Thuyền Phó,vi
-First One's Free!,Lần Đầu Không Tính Tiền!,vi
-Fishbones,Pháo Xương Cá,vi
-Flickerblades,Đao Chớp,vi
-Forbidden Idol,Dị Vật Tai Ương,vi
-Freljord Emblem,Ấn Freljord,vi
-Frying Pan,Chảo Vàng,vi
-Gargoyle Stoneplate,Thú Tượng Thạch Giáp,vi
-Giant Slayer,Diệt Khổng Lồ,vi
-Giant's Belt,Đai Khổng Lồ,vi
-Gigantification Ray,Tia Phóng Đại,vi
-Guinsoo's Rageblade,Cuồng Đao Guinsoo,vi
-Gunslinger Emblem,Ấn Xạ Thủ,vi
-Hand Of Justice,Bàn Tay Công Lý,vi
-Haunted Spyglass,Ống Nhòm Ma Ám,vi
-Hellfire Hatchet,Rìu Hỏa Ngục,vi
-Hextech Gunblade,Kiếm Súng Hextech,vi
-Horizon Focus,Kính Nhắm Ma Pháp,vi
-Infinity Edge,Vô Cực Kiếm,vi
-Innervating Locket,Dây Chuyền Tự Lực,vi
-Invoker Emblem,Ấn Thuật Sĩ,vi
-Ionia Emblem,Ấn Ionia,vi
-Ionic Spark,Nỏ Sét,vi
-Ixtal Emblem,Ấn Ixtal,vi
-Jeweled Gauntlet,Găng Bảo Thạch,vi
-Juggernaut Emblem,Ấn Dũng Sĩ,vi
-Kinetic Barrier,Rào Động Lực,vi
-Knight's Vow,Lời Thề Hiệp Sĩ,vi
-Kraken's Fury,Thịnh Nộ Thủy Quái,vi
-Last Whisper,Cung Xanh,vi
-Lesser Mirrored Persona,Hiện Thân Phản Chiếu Cỡ Nhỏ,vi
-Lich Bane,Kiếm Tai Ương,vi
-Lightshield Crest,Huy Hiệu Lightshield,vi
-Locket of the Iron Solari,Dây Chuyền Iron Solari,vi
-Longshot Emblem,Ấn Viễn Kích,vi
-Lucky Doubloon,Đồng Vàng May Mắn,vi
-Luden's Tempest,Bão Tố Luden,vi
-Magnetron Coil,Cuộn Từ Trường,vi
-Mending Echoes,Thanh Âm Chữa Lành,vi
-Micro-Rockets,Tên Lửa Vi Mô,vi
-Mining Drill,Khoan Khai Thác,vi
-Mirrored Persona,Hiện Thân Phản Chiếu,vi
-Mittens,Găng Đấu Sĩ,vi
-Momentum Drive,Động Cơ Quán Tính,vi
-Morellonomicon,Quỷ Thư Morello,vi
-Nashor's Tooth,Nanh Nashor,vi
-Needlessly Large Rod,Gậy Quá Khổ,vi
-Negatron Cloak,Áo Choàng Bạc,vi
-Noxus Emblem,Ấn Noxus,vi
-Overclocked Capacitors,Tụ Điện Ép Xung,vi
-Pile O' Citrus,Vitamin C,vi
-Piltover Emblem,Ấn Piltover,vi
-Protector's Vow,Lời Thề Hộ Vệ,vi
-Prowler's Claw,Móng Vuốt Ám Muội,vi
-Quicksilver,Áo Choàng Thủy Ngân,vi
-Quickstriker Emblem,Ấn Cực Tốc,vi
-Rabadon's Deathcap,Mũ Phù Thủy Rabadon,vi
-Rapid Firecannon,Đại Bác Liên Thanh,vi
-Realm Warp,Vòng Xoáy Không Gian,vi
-Recurve Bow,Cung Gỗ,vi
-Red Buff,Bùa Đỏ,vi
-Seeker's Armguard,Giáp Tay Seeker,vi
-Shadow Puppet,Bóng Phân Thân,vi
-Shroud of Stillness,Áo Choàng Tĩnh Lặng,vi
-Silvermere Dawn,Chùy Bạch Ngân,vi
-Slayer Emblem,Ấn Đồ Tể,vi
-Sparring Gloves,Găng Đấu Tập,vi
-Spatula,Siêu Xẻng,vi
-Spear of Shojin,Ngọn Giáo Shojin,vi
-Spectral Cutlass,Gươm Biến Ảnh,vi
-Spirit Visage,Giáp Tâm Linh,vi
 Statikk Shiv,Dao Điện Statikk,vi
 Steadfast Heart,Trái Tim Kiên Định,vi
 Sterak's Gage,Móng Vuốt Sterak,vi
@@ -451,34 +397,1051 @@ Striker's Flail,Chùy Đoản Côn,vi
 Sunfire Cape,Áo Choàng Lửa,vi
 Superior Lifeform,Thể Dạng Ưu Việt,vi
 Suspicious Trench Coat,Áo Choàng Mờ Ám,vi
+Swain,Swain,vi
+Sweet Treats,Món Quà Ngọt Ngào,vi
+Sword Overflow,Đam Mê Kiếm,vi
+Swordsmith,Thợ Rèn Kiếm,vi
+Sylas,Sylas,vi
 Syren's Broadside,Syren Khai Hỏa,vi
+T-Hex,T-Hex,vi
 Tactician's Cape,Áo Choàng Chiến Thuật,vi
 Tactician's Crown,Vương Miện Chiến Thuật,vi
 Tactician's Shield,Lá Chắn Chiến Thuật,vi
+Tahm Kench,Tahm Kench,vi
 Talisman Of Ascension,Bùa Thăng Hoa,vi
+Targon,Targon,vi
+Taric,Taric,vi
+Teaming Up,Lập Đội,vi
 Tear of the Goddess,Nước Mắt Nữ Thần,vi
+Teemo,Teemo,vi
+The Axiomata,Định Luật Nguyên Tố,vi
+The Boss,Đại Ca,vi
+The Golden Dragon,Kim Long,vi
 The Indomitable,Bất Khuất,vi
+The Ruined King,Hắc Diệt Đế Vương,vi
+The Trait Tree,Cây Tộc Hệ,vi
+The World Runes,Cổ Ngữ Thế Giới,vi
 Thief's Gloves,Găng Đạo Tặc,vi
+Thorn-Plated Armor,Giáp Gai Thép,vi
+Thresh,Thresh,vi
+Timewinders,Dây Cót Thời Gian,vi
+"Tiny, but Deadly",Nhỏ Mà Có Võ,vi
 Titan's Resolve,Quyền Năng Khổng Lồ,vi
 Titanic Hydra,Rìu Đại Mãng Xà,vi
 Tome of Traits,Sách Chọn Ấn,vi
+Tons of Stats!,Cộng Mệt Nghỉ!,vi
+Trade Sector,Khu Giao Dịch,vi
+Training Dummy,Hình Nhân,vi
 Treasure Typhoon,Bão Kho Báu,vi
+Trials of Twilight,Thử Thách Dưới Ánh Chạng Vạng,vi
+Trifecta,Bộ Ba Hoàn Hảo,vi
+Tristana,Tristana,vi
+Tryndamere,Tryndamere,vi
 Tuned Oscillator,Dao Động Tinh Chỉnh,vi
+Twin Guardians,Song Vệ,vi
+Twisted Fate,Twisted Fate,vi
+Two Much Value,2 Vàng Là Nhất,vi
+Two Trick,Số 2 May Mắn,vi
+U.R.F,U.R.F.,vi
 Unending Despair,Áo Choàng Diệt Vong,vi
+Unsealed From Steel,Thoát Khỏi Xiềng Thép,vi
 Unstable Core,Lõi Bất Ổn,vi
 Upgrade!,Nâng Cấp!,vi
+Upward Mobility,Đẩy Nhanh Tiến Độ,vi
+Vanquisher,Chinh Phạt,vi
 Vanquisher Emblem,Ấn Chinh Phạt,vi
+Vayne,Vayne,vi
+Veigar,Veigar,vi
+Vi,Vi,vi
+Viego,Viego,vi
 Virtue of the Martyr,Quyền Trượng Thánh Quang,vi
+Void,Hư Không,vi
 Void Emblem,Ấn Hư Không,vi
 Void Gauntlet,Găng Hư Không,vi
 Void Staff,Trượng Hư Vô,vi
+Volibear,Volibear,vi
 Voltage Conduit,Dẫn Điện Áp,vi
+Wand Overflow,Đam Mê Gậy,vi
+Warden,Cảnh Vệ,vi
 Warden Emblem,Ấn Cảnh Vệ,vi
+Warlord's Honor,Chiến Tướng Khải Hoàn,vi
 Warmog's Armor,Giáp Máu Warmog,vi
+Warwick,Warwick,vi
+Water Axiom,Nguyên Tố Nước,vi
+We Stick Together,Kề Vai Sát Cánh,vi
+Wild Growth,Khổng Lồ Hóa,vi
+Win Out,Toàn Thắng,vi
 Wit's End,Đao Tím,vi
 Withered Relic,Di Vật Tàn Úa,vi
+Wood Axiom,Nguyên Tố Gỗ,vi
+World Ender,Quỷ Kiếm,vi
+Woven Magic,Ma Thuật Đan Kết,vi
+Wukong,Ngộ Không,vi
+Xerath,Xerath,vi
+Xin Zhao,Xin Zhao,vi
+Yasuo,Yasuo,vi
+Yone,Yone,vi
+Yordle,Yordle,vi
 Yordle Emblem,Ấn Yordle,vi
+Yorick,Yorick,vi
+Yunara,Yunara,vi
+Zaahen,Zaahen,vi
+Zaun,Zaun,vi
 Zaun Emblem,Ấn Zaun,vi
 Zeke's Herald,Tụ Bão Zeke,vi
 Zephyr,Phong Kiếm,vi
+Ziggs,Ziggs,vi
+Zilean,Zilean,vi
+Zoe,Zoe,vi
 Zz'Rot Portal,Thông Đạo Zz'rot,vi
+“塞壬号”的舷炮,Syren Khai Hỏa,vi
+いつでも一緒,Kề Vai Sát Cánh,vi
+おおきくなぁれ！,Khổng Lồ Hóa,vi
+お得な2,2 Vàng Là Nhất,vi
+ここがセンター,Tiền Vệ Trung Tâm,vi
+たっぷりリロール,Ván Cờ May Rủi,vi
+ちょっとだけ魔法のダイス,Quay Trúng Thưởng,vi
+へら,Siêu Xẻng,vi
+もっと怖いキャップ,Mũ Tử Thần,vi
+アイオニア,Ionia,vi
+アイオニアの紋章,Ấn Ionia,vi
+アイオニック スパーク,Nỏ Sét,vi
+アイテム福袋,Tiếp Tế Trang Bị,vi
+アクシオマタ,Định Luật Nguyên Tố,vi
+アクセルゲート,Cổng Tăng Tốc,vi
+アシミレーター,Cộng Sinh,vi
+アジール,Azir,vi
+アセンション,Thăng Hoa,vi
+アダプティブ ヘルム,Mũ Thích Nghi,vi
+アッシュ,Ashe,vi
+アップグレード！,Nâng Cấp!,vi
+アニビア,Anivia,vi
+アニー,Annie,vi
+アフェリオス,Aphelios,vi
+アルカニスト,Pháp Sư,vi
+アルカニストの紋章,Ấn Pháp Sư,vi
+アンベッサ,Ambessa,vi
+アークエンジェル スタッフ,Quyền Trượng Thiên Thần,vi
+アーマー ナリファイア,Phá Giáp,vi
+アーリ,Ahri,vi
+イシュタル,Ixtal,vi
+イシュタルの紋章,Ấn Ixtal,vi
+イモータル,Bất Tử,vi
+イラオイ,Illaoi,vi
+インフィニティ エッジ,Vô Cực Kiếm,vi
+インヴォーカー,Thuật Sĩ,vi
+インヴォーカーの紋章,Ấn Thuật Sĩ,vi
+イーブンシュラウド,Giáp Vai Nguyệt Thần,vi
+ウィッツ エンド,Đao Tím,vi
+ウォーロードの名誉,Chiến Tướng Khải Hoàn,vi
+ウーコン,Ngộ Không,vi
+エイトロックス,Aatrox,vi
+エグザイル,Độc Hành,vi
+エコー,Ekko,vi
+エコーエンジン,Động Cơ Dư Âm,vi
+エターナル,Vĩnh Hằng,vi
+エピックなロールダウン,Xúc Xắc Hoành Tráng,vi
+エルダードラゴン,Rồng Ngàn Tuổi,vi
+エレクトリカル オーバーロード,Quá Tải Điện,vi
+エンペラー,Hoàng Đế,vi
+オリアナ,Orianna,vi
+オレリオン・ソル,Aurelion Sol,vi
+オーバークロック コンデンサー,Tụ Điện Ép Xung,vi
+オーン,Ornn,vi
+カイ＝サ,Kai'Sa,vi
+カナとカネ,Kho Báu Sắt,vi
+カフナフナ,Kamekameha,vi
+カリスタ,Kalista,vi
+ガリオ,Galio,vi
+ガレン,Garen,vi
+ガングプランク,Gangplank,vi
+ガンスリンガー,Xạ Thủ,vi
+ガンスリンガーの紋章,Ấn Xạ Thủ,vi
+ガーゴイル ストーンプレート,Thú Tượng Thạch Giáp,vi
+キネティックバリア,Rào Động Lực,vi
+キャプテンの帽子,Mũ Thuyền Trưởng,vi
+キャプテンの醸造酒,Men Rượu Thuyền Trưởng,vi
+キヤナ,Qiyana,vi
+キンドレッド,Kindred,vi
+ギリギリの救出,Cứu Trong Gang Tấc,vi
+クイックシルバー,Áo Choàng Thủy Ngân,vi
+クラウンの決意,Ý Chí Vương Miện,vi
+クラウンガード,Vương Miện Hoàng Gia,vi
+クラーケンの怒り,Thịnh Nộ Thủy Quái,vi
+クロノキーパー,Giám Hộ,vi
+グインソー レイジブレード,Cuồng Đao Guinsoo,vi
+グウェン,Gwen,vi
+グラスキャノン,Lấy Công Bù Thủ,vi
+グラットン,Phàm Ăn,vi
+グレイブス,Graves,vi
+ケアテイカー,Ông Bụt,vi
+ケイトリン,Caitlyn,vi
+ケネン,Kennen,vi
+ケンカの作法,Giáp Chống Chất Nổ,vi
+コグ＝マウ,Kog'Maw,vi
+コブコ&ユーミ,Kobuko & Yuumi,vi
+コマース コア,Trung Tâm Thương Mại,vi
+コンパニオン作成,Người Bạn Vàng,vi
+ゴールドの運命,Vận Mệnh Vàng,vi
+ゴールドの雨,Cơn Mưa Vàng,vi
+ゴーレム,Người Đá,vi
+ゴーレム化,Người Đá Càn Quét,vi
+サイオン,Sion,vi
+サイラス,Sylas,vi
+サンファイア ケープ,Áo Choàng Lửa,vi
+ザ・ボス,Đại Ca,vi
+ザーヘン,Zaahen,vi
+シェン,Shen,vi
+シマースケールのエッセンス,Tinh Túy Kim Long,vi
+シャドウアイル,Đảo Bóng Đêm,vi
+シュリーマ,Shurima,vi
+ショウジンの矛,Ngọn Giáo Shojin,vi
+シルコの復讐,Silco Báo Thù,vi
+シルバーの運命,Vận Mệnh Bạc,vi
+シルバーミアの夜明け,Chùy Bạch Ngân,vi
+シンジド,Singed,vi
+シン・ジャオ,Xin Zhao,vi
+シヴァーナ,Shyvana,vi
+シーカー アームガード,Giáp Tay Seeker,vi
+ジグス,Ziggs,vi
+ジャイアント スレイヤー,Diệt Khổng Lồ,vi
+ジャイアント ベルト,Đai Khổng Lồ,vi
+ジャイアント&マイティ,To Lớn & Mạnh Mẽ,vi
+ジャガーノート,Dũng Sĩ,vi
+ジャガーノートの紋章,Ấn Dũng Sĩ,vi
+ジャストヒット,Đánh Là Trúng,vi
+ジャーヴァンⅣ,Jarvan IV,vi
+ジュエル ガントレット,Găng Bảo Thạch,vi
+ジュエル ロータス,Khảm Bảo Thạch,vi
+ジリアン,Zilean,vi
+ジン,Jhin,vi
+ジンクス,Jinx,vi
+ジークの使者,Tụ Bão Zeke,vi
+ジ＝ロット ポータル,Thông Đạo Zz'rot,vi
+スウェイン,Swain,vi
+スカーナー,Skarner,vi
+スタティック シヴ,Dao Điện Statikk,vi
+スターターキット,Bộ Khởi Đầu,vi
+スターフォージャー,Ác Long,vi
+スター誕生,Toàn Sao Là Sao,vi
+ステラックの篭手,Móng Vuốt Sterak,vi
+ステータスマシマシ,Cộng Mệt Nghỉ!,vi
+ストライカー フレイル,Chùy Đoản Côn,vi
+スパーリング グローブ,Găng Đấu Tập,vi
+スピリット ビサージュ,Giáp Tâm Linh,vi
+スペクトラル カトラス,Gươm Biến Ảnh,vi
+スレイヤー,Đồ Tể,vi
+スレイヤーの紋章,Ấn Đồ Tể,vi
+スレッシュ,Thresh,vi
+セイレーン号の片舷砲,Syren Khai Hỏa,vi
+セジュアニ,Sejuani,vi
+セト,Sett,vi
+セラフィムの杖,Trượng Đại Thiên Sứ,vi
+セラフィーン,Seraphine,vi
+ゼファー,Phong Kiếm,vi
+ゼラス,Xerath,vi
+ソウルの目覚め,Thức Tỉnh Linh Hồn,vi
+ソウルバウンド,Linh Hồn,vi
+ソナ,Sona,vi
+ソラリのロケット,Dây Chuyền Iron Solari,vi
+ソード オーバーフロー,Đam Mê Kiếm,vi
+ソーンプレートアーマー,Giáp Gai Thép,vi
+ゾウン,Zaun,vi
+ゾウンの紋章,Ấn Zaun,vi
+ゾーイ,Zoe,vi
+タイタン ハイドラ,Rìu Đại Mãng Xà,vi
+タイムワインダー,Dây Cót Thời Gian,vi
+タクティシャンのケープ,Áo Choàng Chiến Thuật,vi
+タクティシャンの王冠,Vương Miện Chiến Thuật,vi
+タクティシャンの盾,Lá Chắn Chiến Thuật,vi
+タム・ケンチ,Tahm Kench,vi
+タリック,Taric,vi
+ターゴン,Targon,vi
+ダイアナ,Diana,vi
+ダブルトラブル,Cặp Đôi Hoàn Cảnh,vi
+ダミー,Hình Nhân,vi
+ダミー化,Hình Nhân Hóa,vi
+ダリウス,Darius,vi
+ダーキン,Darkin,vi
+ダークウィルの侵略,Darkwill Xâm Lược,vi
+ダークチャイルド,Đứa Trẻ Bóng Tối,vi
+チェイン ベスト,Giáp Lưới,vi
+チェインブレイカー,Kẻ Phá Xiềng,vi
+チューンド オシレーター,Dao Động Tinh Chỉnh,vi
+チョ＝ガス,Cho'Gath,vi
+ツイステッド・フェイト,Twisted Fate,vi
+ツインガーディアン,Song Vệ,vi
+ティーモ,Teemo,vi
+ディスラプター,Nhiễu Loạn,vi
+ディスラプターの紋章,Ấn Nhiễu Loạn,vi
+ディフェンダー,Vệ Quân,vi
+ディフェンダーの紋章,Ấn Vệ Quân,vi
+デスブレード,Kiếm Tử Thần,vi
+デッド マン ダガー,Dao Tử Sĩ,vi
+デッドリアー ブレード,Kiếm Tử Thần,vi
+デマーシア,Demacia,vi
+デマーシアの紋章,Ấn Demacia,vi
+デマーシアよ永遠に,Demacia Trường Tồn,vi
+デュオキュー,Hàng Chờ Đấu Đôi,vi
+トライフェクタ,Bộ Ba Hoàn Hảo,vi
+トリスターナ,Tristana,vi
+トリンダメア,Tryndamere,vi
+トレードセクター,Khu Giao Dịch,vi
+ドクター・ムンド,Dr. Mundo,vi
+ドラゴン クロウ,Vuốt Rồng,vi
+ドラゴンの守護者,Long Binh,vi
+ドラゴンボーン,Long Nữ,vi
+ドレイヴン,Draven,vi
+ドレッドウェイの砲撃,Đại Bác Dreadway,vi
+ドーンコア,Lõi Bình Minh,vi
+ナイト エッジ,Áo Choàng Bóng Tối,vi
+ナサス,Nasus,vi
+ナッシャー トゥース,Nanh Nashor,vi
+ニダリー,Nidalee,vi
+ニーコ,Neeko,vi
+ネガトロン クローク,Áo Choàng Bạc,vi
+ノクサス,Noxus,vi
+ノクサスの紋章,Ấn Noxus,vi
+ノーチラス,Nautilus,vi
+ハントレス,Nữ Thợ Săn,vi
+ハンド オブ ジャスティス,Bàn Tay Công Lý,vi
+ハーベスター,Bù Nhìn,vi
+バイナリー空中投下,Trang Bị Đầy Đủ,vi
+バフが1つ、バフが2つ,"Một Bùa, Hai Bùa",vi
+バロンナッシャー,Baron Nashor,vi
+バークナックル,Găng Dã Thú,vi
+バースデー リユニオン,Sinh Nhật Đoàn Tụ,vi
+バースデープレゼント,Quà Sinh Nhật,vi
+バード,Bard,vi
+パンドラのアイテム,Trang Bị Pandora,vi
+パンドラのベンチ,Hàng Chờ Pandora,vi
+ヒロイック,Siêu Hùng,vi
+ヒーリングオーブ,Cầu Hồi Phục,vi
+ビッグフレンド,Dựa Hơi,vi
+ビルジウォーター,Bilgewater,vi
+ビルジウォーターの小型チャンピオン複製器,Máy Sao Chép Tướng Cỡ Nhỏ Bilgewater,vi
+ビルジウォーターの紋章,Ấn Bilgewater,vi
+ピルトーヴァー,Piltover,vi
+ピルトーヴァーの発明品,Phát Minh Piltover,vi
+ピルトーヴァーの紋章,Ấn Piltover,vi
+フィズ,Fizz,vi
+フィッシュボーン,Pháo Xương Cá,vi
+フィドルスティックス,Fiddlesticks,vi
+フォビドゥン アイドル,Dị Vật Tai Ương,vi
+フライパン,Chảo Vàng,vi
+フリッカーブレード,Đao Chớp,vi
+フレヨルド,Freljord,vi
+フレヨルドの紋章,Ấn Freljord,vi
+ブライアー,Briar,vi
+ブラウム,Braum,vi
+ブラックスミス,Thần Rèn,vi
+ブラックマーケットの再入荷,Nguồn Hàng Bất Chính,vi
+ブラックマーケットの爆発物,Chất Nổ Chợ Đen,vi
+ブラッドサースター,Huyết Kiếm,vi
+ブランブル ベスト,Áo Choàng Gai,vi
+ブリッツクランク,Blitzcrank,vi
+ブルーザー,Đấu Sĩ,vi
+ブルーザーの紋章,Ấn Đấu Sĩ,vi
+ブルーバフ,Bùa Xanh,vi
+ブロック,Brock,vi
+プラシディウムの防衛,Bảo Vệ Thiên Phận,vi
+プラシーボ,Giả Dược,vi
+プリズムの運命,Vận Mệnh Kim Cương,vi
+プリズムチケット,Vé Kim Cương,vi
+プロテクターの誓い,Lời Thề Hộ Vệ,vi
+プローラー クロウ,Móng Vuốt Ám Muội,vi
+ヘクスゲート トラベル,Di Chuyển Bằng Cổng Hextech,vi
+ヘクステック ガンブレード,Kiếm Súng Hextech,vi
+ヘクスメック,Cơ Giáp Hex,vi
+ヘッジファンド,Quỹ Phòng Hộ,vi
+ベイガー,Veigar,vi
+ベストフレンド,Bạn Thân,vi
+ベルト オーバーフロー,Đam Mê Đai Lưng,vi
+ベル＝ヴェス,Bel'Veth,vi
+ホライゾン フォーカス,Kính Nhắm Ma Pháp,vi
+ボクシングのレッスン,Tập Chịu Đòn,vi
+ボディーガードの訓練,Huấn Luyện Cận Vệ,vi
+ボリベア,Volibear,vi
+ポイズンパル,Bộ Đôi Độc Dược,vi
+ポッピー,Poppy,vi
+ポータブル フォージ,Lò Rèn Thần Thoại,vi
+ポータルワープ,Vòng Xoáy Không Gian,vi
+マイクロロケット,Tên Lửa Vi Mô,vi
+マグネトロンコイル,Cuộn Từ Trường,vi
+マルザハール,Malzahar,vi
+マーターズ ヴァーチュ,Quyền Trượng Thánh Quang,vi
+ミスコネクション,Kết Nối Gián Đoạn,vi
+ミス・フォーチュン,Miss Fortune,vi
+ミッションの再開,Tái Khởi Động Nhiệm Vụ,vi
+ミトン,Găng Đấu Sĩ,vi
+ミニマックス,Tối Đa Hóa,vi
+ミリオ,Milio,vi
+ムダニ デカイ ロッド,Gậy Quá Khổ,vi
+メイスの決意,Ý Chỉ Xích Chùy,vi
+メル,Mel,vi
+モメンタムドライブ,Động Cơ Quán Tính,vi
+モレロノミコン,Quỷ Thư Morello,vi
+ヤスオ,Yasuo,vi
+ユナラ,Yunara,vi
+ヨネ,Yone,vi
+ヨリック,Yorick,vi
+ヨードル,Yordle,vi
+ヨードルの紋章,Ấn Yordle,vi
+ライズ,Ryze,vi
+ライトシールドのクレスト,Huy Hiệu Lightshield,vi
+ラインナップ,Tiền Tuyến Vững Chãi,vi
+ラスト ウィスパー,Cung Xanh,vi
+ラッキーグローブ,Đo Ni Đóng Giày,vi
+ラックス,Lux,vi
+ラバドン デスキャップ,Mũ Phù Thủy Rabadon,vi
+ラピッド ファイアキャノン,Đại Bác Liên Thanh,vi
+ランブル,Rumble,vi
+リカーブ ボウ,Cung Gỗ,vi
+リサンドラ,Lissandra,vi
+リッチ ベイン,Kiếm Tai Ương,vi
+リデンプションの魂,Linh Hồn Chuộc Tội,vi
+リフティング大会,Cuộc Thi Nâng Tạ,vi
+リフトスカトル,Cua Kỳ Cục,vi
+リフトスカージ,Tai Ương,vi
+リフトヘラルド,Sứ Giả Khe Nứt,vi
+ルシアン&セナ,Lucian & Senna,vi
+ルブラン,LeBlanc,vi
+ルル,Lulu,vi
+ルーデン テンペスト,Bão Tố Luden,vi
+ルーンメイジ,Cổ Ngữ,vi
+レイトゲーム スケーリング,Thăng Tiến Cuối Trận,vi
+レイトゲーム スペシャリスト,Hướng Đến Hồi Kết,vi
+レオナ,Leona,vi
+レク＝サイ,Rek'Sai,vi
+レッドバフ,Bùa Đỏ,vi
+レディアントの遺物,Kho Thần Tích,vi
+レネクトン,Renekton,vi
+レベルアップ！,Khuyến Mãi Kinh Nghiệm,vi
+ロリス,Loris,vi
+ロングショット,Viễn Kích,vi
+ロングショットの紋章,Ấn Viễn Kích,vi
+ローリングデイズ,Xúc Xắc Vô Tận,vi
+ワン、ツー、ファイブ！,"Một, Hai, Năm!",vi
+ワン、ツーツー、スリー,"Một, Hai, Ba",vi
+ワンド オーバーフロー,Đam Mê Gậy,vi
+ワーウィック,Warwick,vi
+ワーデン,Cảnh Vệ,vi
+ワーデンの紋章,Ấn Cảnh Vệ,vi
+ワーモグ アーマー,Giáp Máu Warmog,vi
+ワールドエンダー,Quỷ Kiếm,vi
+ワールドルーン,Cổ Ngữ Thế Giới,vi
+ヴァイ,Vi,vi
+ヴァンキッシャー,Chinh Phạt,vi
+ヴァンキッシャーの紋章,Ấn Chinh Phạt,vi
+ヴィエゴ,Viego,vi
+ヴェイン,Vayne,vi
+ヴォイド,Hư Không,vi
+ヴォイド ガントレット,Găng Hư Không,vi
+ヴォイド スタッフ,Trượng Hư Vô,vi
+ヴォイドの紋章,Ấn Hư Không,vi
+一二二三,"Một, Hai, Ba",vi
+一人前プレート,Khiên Đơn Đấu,vi
+一等航海士のフリントロック,Súng Kíp Thuyền Phó,vi
+一致団結,Lập Đội,vi
+一致団結,Nhất Thống,vi
+一，二，五！,"Một, Hai, Năm!",vi
+三幻神,Quân Đoàn 3 Sao,vi
+三项赛,Bộ Ba Hoàn Hảo,vi
+三，三，三！,Chỉ 3 Vàng,vi
+上方移動,Đẩy Nhanh Tiến Độ,vi
+上进心,Đẩy Nhanh Tiến Độ,vi
+不安定なコア,Lõi Bất Ổn,vi
+不屈,Bất Khuất,vi
+不滅の協定,Khế Ước Vĩnh Hằng,vi
+不稳定核心,Lõi Bất Ổn,vi
+不落魔锋,Bất Tử,vi
+与狼共舞,Chiến Lang,vi
+专属定制,Lựa Chọn Độc Quyền,vi
+世界符文,Cổ Ngữ Thế Giới,vi
+两把刷子,Số 2 May Mắn,vi
+主人公補正,Hào Quang Nhân Vật Chính,vi
+主宰,Dũng Sĩ,vi
+主宰纹章,Ấn Dũng Sĩ,vi
+丽桑卓,Lissandra,vi
+举重比赛,Cuộc Thi Nâng Tạ,vi
+乐芙兰,LeBlanc,vi
+二进制空投,Trang Bị Đầy Đủ,vi
+亚恒,Zaahen,vi
+亚托克斯,Aatrox,vi
+亚索,Yasuo,vi
+亡者的短剑,Dao Tử Sĩ,vi
+仕送り,Gói Bảo Hộ,vi
+以眼还眼,Ăn Miếng Trả Miếng,vi
+以绪塔尔,Ixtal,vi
+以绪塔尔纹章,Ấn Ixtal,vi
+优柔寡断,Do Dự,vi
+伺机待发,Làm Nóng,vi
+佐伊,Zoe,vi
+佛耶戈,Viego,vi
+便携锻炉,Lò Rèn Thần Thoại,vi
+俄洛伊,Illaoi,vi
+信仰之跃,Bước Nhảy Niềm Tin,vi
+信仰震,Bước Nhảy Niềm Tin,vi
+修复型回响,Thanh Âm Chữa Lành,vi
+假人化,Hình Nhân Hóa,vi
+储蓄账户,Tài Khoản Tiết Kiệm,vi
+優柔不断,Do Dự,vi
+元初公理,Định Luật Nguyên Tố,vi
+光の番人,Vệ Binh Ánh Sáng,vi
+光明哨兵,Vệ Binh Ánh Sáng,vi
+光明圣物,Kho Thần Tích,vi
+光明无赖,Quang Lân Tiểu Yêu,vi
+光盾徽章,Huy Hiệu Lightshield,vi
+克格莫,Kog'Maw,vi
+入门套件,Bộ Khởi Đầu,vi
+全身全霊,Chỉ Một Con Đường,vi
+兰博,Rumble,vi
+关爱包裹,Gói Bảo Hộ,vi
+兹若特传送门,Thông Đạo Zz'rot,vi
+内瑟斯,Nasus,vi
+冕卫,Vương Miện Hoàng Gia,vi
+凯南,Kennen,vi
+凯特琳,Caitlyn,vi
+列队,Tiền Tuyến Vững Chãi,vi
+利落保镖,Huấn Luyện Cận Vệ,vi
+别再错过,Kết Nối Gián Đoạn,vi
+前借り,Vay Tạm Ứng,vi
+前線維持,Giữ Vững Hàng Ngũ,vi
+剑之工匠,Thợ Rèn Kiếm,vi
+剣鍛冶,Thợ Rèn Kiếm,vi
+力の聖杯,Cốc Sức Mạnh,vi
+加冕礼,Lên Ngôi Vương,vi
+加速之门,Cổng Tăng Tốc,vi
+加里奥,Galio,vi
+劣化版鏡像のペルソナ,Hiện Thân Phản Chiếu Cỡ Nhỏ,vi
+动能屏障,Rào Động Lực,vi
+动量驱动器,Động Cơ Quán Tính,vi
+勝ち抜け,Toàn Thắng,vi
+千珏,Kindred,vi
+升星之运,Trên Đà Phát Triển,vi
+升级咯！,Khuyến Mãi Kinh Nghiệm,vi
+升级！,Nâng Cấp!,vi
+卑尔维斯,Bel'Veth,vi
+单身板甲,Khiên Đơn Đấu,vi
+卡莉丝塔,Kalista,vi
+卡莎,Kai'Sa,vi
+卢登的激荡,Bão Tố Luden,vi
+卢锡安与赛娜,Lucian & Senna,vi
+即席アーマー,Giáp Tự Chế,vi
+厄斐琉斯,Aphelios,vi
+厄运小姐,Miss Fortune,vi
+厨神阿福,U.R.F.,vi
+双城赢家,Arcane Viktor-y,vi
+双子守护神,Song Vệ,vi
+双排,Hàng Chờ Đấu Đôi,vi
+反响,Nhân Bản,vi
+反曲之弓,Cung Gỗ,vi
+变形重组器,Xoay Bài Tự Động,vi
+可大可小,Tối Đa Hóa,vi
+可酷伯与悠米,Kobuko & Yuumi,vi
+吉格斯,Ziggs,vi
+后期专家,Hướng Đến Hồi Kết,vi
+后期收益,Thăng Tiến Cuối Trận,vi
+呪いの刃,Kiếm Cong,vi
+呪われた望遠鏡,Ống Nhòm Ma Ám,vi
+嗜火,Hỏa Cuồng Nhân,vi
+嘉文四世,Jarvan IV,vi
+四费增援,Tứ Phương Tiếp Viện,vi
+回声引擎,Động Cơ Dư Âm,vi
+圣盾使的誓约,Lời Thề Hộ Vệ,vi
+坚守防线,Giữ Vững Hàng Ngũ,vi
+坚定之心,Trái Tim Kiên Định,vi
+埋もれた宝物,Kho Báu Chôn Giấu,vi
+基克的先驱,Tụ Bão Zeke,vi
+基兰,Zilean,vi
+基础装备自助餐,Đại Tiệc Trang Bị,vi
+報復,Báo Oán,vi
+塔姆,Tahm Kench,vi
+塔里克,Taric,vi
+塞拉斯,Sylas,vi
+复苏之风,Ngọn Gió Thứ Hai,vi
+夕闇の加護,Khiên Hoàng Hôn,vi
+夜之锋刃,Áo Choàng Bóng Tối,vi
+夜明けの加護,Khiên Hừng Đông,vi
+大きな福袋,Túi Đồ Cỡ Đại,vi
+大买特买,Tín Đồ Mua Sắm,vi
+大刷特刷,Ván Cờ May Rủi,vi
+大剑溢流,Đam Mê Kiếm,vi
+大副的燧发枪,Súng Kíp Thuyền Phó,vi
+大哥罩我,Dựa Hơi,vi
+大地のアクシオム,Nguyên Tố Đất,vi
+大天使之杖,Quyền Trượng Thiên Thần,vi
+大炮火力网,Pháo Kích Tầm Xa,vi
+大百宝袋,Túi Đồ Cỡ Đại,vi
+大砲の雨,Pháo Kích Tầm Xa,vi
+大而有力,To Lớn & Mạnh Mẽ,vi
+天の祝福,Phước Lành Vũ Trụ,vi
+天生二星,Toàn Sao Là Sao,vi
+天降金币,Cơn Mưa Vàng,vi
+奇亚娜,Qiyana,vi
+奈德丽,Nidalee,vi
+奥恩,Ornn,vi
+奥瑞利安·索尔,Aurelion Sol,vi
+奥莉安娜,Orianna,vi
+女神の涙,Nước Mắt Nữ Thần,vi
+女神之泪,Nước Mắt Nữ Thần,vi
+好きなだけ泣くがいい,Giọt Lệ Bi Ai,vi
+好事成双,Cặp Đôi Hoàn Cảnh,vi
+妮蔻,Neeko,vi
+娑娜,Sona,vi
+孙悟空,Ngộ Không,vi
+宇宙の呼び声,Vũ Trụ Triệu Gọi,vi
+安妮,Annie,vi
+安慰剂,Giả Dược,vi
+安蓓萨,Ambessa,vi
+宝藏台风,Bão Kho Báu,vi
+密银黎明,Chùy Bạch Ngân,vi
+对冲基金,Quỹ Phòng Hộ,vi
+小さくても強烈,Nhỏ Mà Có Võ,vi
+小さな仲間たち,Những Người Bạn Nhỏ,vi
+小さな福袋,Túi Đồ Cỡ Nhỏ,vi
+小伙伴,Những Người Bạn Nhỏ,vi
+小小福袋,Túi Đồ Cỡ Nhỏ,vi
+小而致命,Nhỏ Mà Có Võ,vi
+山積みのシトラス,Vitamin C,vi
+山隐之焰,Thần Rèn,vi
+岩土公理,Nguyên Tố Đất,vi
+岩宝,Brock,vi
+峡谷先锋,Sứ Giả Khe Nứt,vi
+峡谷迅捷蟹,Cua Kỳ Cục,vi
+崔丝塔娜,Tristana,vi
+崔斯特,Twisted Fate,vi
+巧みなクラフト,Khéo Tay Hay Làm,vi
+巨人の誓い,Quyền Năng Khổng Lồ,vi
+巨人杀手,Diệt Khổng Lồ,vi
+巨人腰带,Đai Khổng Lồ,vi
+巨型九头蛇,Rìu Đại Mãng Xà,vi
+巨大化ビーム,Tia Phóng Đại,vi
+巨大化射线,Tia Phóng Đại,vi
+巨神峰,Targon,vi
+巨龙之爪,Vuốt Rồng,vi
+巨龙卫士,Long Binh,vi
+巫妖之祸,Kiếm Tai Ương,vi
+巴德,Bard,vi
+布里茨,Blitzcrank,vi
+布隆,Braum,vi
+希尔科的复仇,Silco Báo Thù,vi
+希瓦娜,Shyvana,vi
+帽子ジュース,Nước Cappa,vi
+帽子饮品,Nước Cappa,vi
+幸运手套,Đo Ni Đóng Giày,vi
+幸运达布隆金币,Đồng Vàng May Mắn,vi
+幸運の金貨,Đồng Vàng May Mắn,vi
+幽魂弯刀,Gươm Biến Ảnh,vi
+広がる根,Cắm Rễ Phân Tán,vi
+庇護者のお供,Đồng Minh Của Bụt,vi
+应急护甲,Giáp Tự Chế,vi
+应急护盾,Hào Quang Nhân Vật Chính,vi
+弗雷尔卓德,Freljord,vi
+弗雷尔卓德纹章,Ấn Freljord,vi
+强盗的骰子,Xúc Xắc Đạo Tặc,vi
+强袭者的链枷,Chùy Đoản Côn,vi
+影の操り人形,Bóng Phân Thân,vi
+征服者,Chinh Phạt,vi
+征服者纹章,Ấn Chinh Phạt,vi
+微型导弹,Tên Lửa Vi Mô,vi
+德玛西亚,Demacia,vi
+德玛西亚万岁,Demacia Trường Tồn,vi
+德玛西亚纹章,Ấn Demacia,vi
+德莱厄斯,Darius,vi
+德莱文,Draven,vi
+心之钢,Trái Tim Sắt Đá,vi
+心身統御のペンダント,Dây Chuyền Tự Lực,vi
+忍耐の美徳,Kiên Nhẫn Là Một Đức Tính,vi
+思惑買い,Thích Mở Rộng,vi
+怪しげなトレンチコート,Áo Choàng Mờ Ám,vi
+恕瑞玛,Shurima,vi
+恶火小斧,Rìu Hỏa Ngục,vi
+想定内の意外性,Kỳ Vọng Bất Ngờ,vi
+意料之中的意外,Kỳ Vọng Bất Ngờ,vi
+慎,Shen,vi
+成吨的属性！,Cộng Mệt Nghỉ!,vi
+成堆柑橘,Vitamin C,vi
+成長志向,Tư Duy Tiến Bộ,vi
+成长型思维,Tư Duy Tiến Bộ,vi
+戦闘準備,Làm Nóng,vi
+戴冠式,Lên Ngôi Vương,vi
+承诺之护,Thệ Ước Bảo Hộ,vi
+投資完了,Đầu Tư,vi
+投资,Đầu Tư,vi
+护卫,Vệ Quân,vi
+护卫纹章,Ấn Vệ Quân,vi
+护甲消除器,Phá Giáp,vi
+拉克丝,Lux,vi
+拳击课程,Tập Chịu Đòn,vi
+拳套,Găng Đấu Tập,vi
+挑个好伙计！,Người Bạn Vàng,vi
+振奋盔甲,Giáp Tâm Linh,vi
+採掘ドリル,Khoan Khai Thác,vi
+探索者的护臂,Giáp Tay Seeker,vi
+提莫,Teemo,vi
+揺るがぬ心,Trái Tim Kiên Định,vi
+摇钱树,Bão Vàng,vi
+救赎盔甲,Linh Hồn Chuộc Tội,vi
+斗士,Đấu Sĩ,vi
+斗士纹章,Ấn Đấu Sĩ,vi
+料理鍋,Nồi Nấu Ăn,vi
+斯卡纳,Skarner,vi
+斯塔缇克电刃,Dao Điện Statikk,vi
+斯特拉克的挑战护手,Móng Vuốt Sterak,vi
+斯维因,Swain,vi
+无尽之刃,Vô Cực Kiếm,vi
+无差别攻击,Sát Thủ Khát Máu,vi
+无序进化,Tiến Hóa Bất Định,vi
+无用大棒,Gậy Quá Khổ,vi
+无终恨意,Áo Choàng Diệt Vong,vi
+日炎斗篷,Áo Choàng Lửa,vi
+时光守护者,Giám Hộ,vi
+时间旅者,Dây Cót Thời Gian,vi
+星界感召,Vũ Trụ Triệu Gọi,vi
+星界游神,Ông Bụt,vi
+星界赐福,Phước Lành Vũ Trụ,vi
+時の歯車,Bánh Răng Liên Luân,vi
+普朗克,Gangplank,vi
+普通預金口座,Tài Khoản Tiết Kiệm,vi
+普雷西典保卫战,Bảo Vệ Thiên Phận,vi
+智慧末刃,Đao Tím,vi
+暗影岛,Đảo Bóng Đêm,vi
+暗影木偶,Bóng Phân Thân,vi
+暗行者之爪,Móng Vuốt Ám Muội,vi
+暗裔,Darkin,vi
+暗裔剑魔,Quỷ Kiếm,vi
+暮光试炼,Thử Thách Dưới Ánh Chạng Vạng,vi
+暴风之剑,Kiếm B.F.,vi
+曲境折跃,Vòng Xoáy Không Gian,vi
+更要命的帽子,Mũ Tử Thần,vi
+更要命的战刃,Kiếm Tử Thần,vi
+最佳好友,Bạn Thân,vi
+最初の1つは無料！,Lần Đầu Không Tính Tiền!,vi
+最后一秒营救,Cứu Trong Gang Tấc,vi
+最后的轻语,Cung Xanh,vi
+最強の四配者,Tứ Phương Tiếp Viện,vi
+有効活用,Được Này Mất Kia,vi
+有用之材,Được Này Mất Kia,vi
+朔极之矛,Ngọn Giáo Shojin,vi
+木のアクシオム,Nguyên Tố Gỗ,vi
+权杖意志,Ý Chỉ Xích Chùy,vi
+杖之工匠,Thợ Rèn Gậy,vi
+杖鍛冶,Thợ Rèn Gậy,vi
+枪手,Xạ Thủ,vi
+枪手纹章,Ấn Xạ Thủ,vi
+枯朽の遺物,Di Vật Tàn Úa,vi
+枯死の宝石,Đá Hắc Hóa,vi
+枯萎圣物,Di Vật Tàn Úa,vi
+枯萎珠宝,Đá Hắc Hóa,vi
+格温,Gwen,vi
+格雷福斯,Graves,vi
+梅尔,Mel,vi
+棘刺背心,Áo Choàng Gai,vi
+棘刺镀板铠甲,Giáp Gai Thép,vi
+森罗公理,Nguyên Tố Gỗ,vi
+棱彩命运,Vận Mệnh Kim Cương,vi
+棱彩门票,Vé Kim Cương,vi
+構成拡大,Phân Nhánh,vi
+槍の決意,Ý Chỉ Ngọn Giáo,vi
+次级镜像人格面具,Hiện Thân Phản Chiếu Cỡ Nhỏ,vi
+正义之手,Bàn Tay Công Lý,vi
+正义巨像,Siêu Hùng,vi
+正义报复,Báo Oán,vi
+死亡之刃,Kiếm Tử Thần,vi
+殉道美德,Quyền Trượng Thánh Quang,vi
+残酷弯刀,Kiếm Sát Mệnh,vi
+殺し屋のカトラス,Kiếm Sát Mệnh,vi
+比尔吉沃特,Bilgewater,vi
+比尔吉沃特 次级英雄复制器,Máy Sao Chép Tướng Cỡ Nhỏ Bilgewater,vi
+比尔吉沃特纹章,Ấn Bilgewater,vi
+气旋公理,Nguyên Tố Khí,vi
+水のアクシオム,Nguyên Tố Nước,vi
+水乳交融,Kề Vai Sát Cánh,vi
+水银,Áo Choàng Thủy Ngân,vi
+永恒契约,Khế Ước Vĩnh Hằng,vi
+永恩,Yone,vi
+永猎双子,Vĩnh Hằng,vi
+沃利贝尔,Volibear,vi
+沃里克,Warwick,vi
+沈黙の帳,Áo Choàng Tĩnh Lặng,vi
+沙漠皇帝,Hoàng Đế,vi
+河流之王,Phàm Ăn,vi
+治疗法球,Cầu Hồi Phục,vi
+法师,Pháp Sư,vi
+法师纹章,Ấn Pháp Sư,vi
+法杖溢流,Đam Mê Gậy,vi
+波比,Poppy,vi
+泪流成河,Giọt Lệ Bi Ai,vi
+泰坦的坚决,Quyền Năng Khổng Lồ,vi
+泰达米尔,Tryndamere,vi
+泽拉斯,Xerath,vi
+洛里斯,Loris,vi
+浪人,Độc Hành,vi
+海克斯机甲,Cơ Giáp Hex,vi
+海克斯科技枪刃,Kiếm Súng Hextech,vi
+海克斯霸龙,T-Hex,vi
+海克斯飞门之旅,Di Chuyển Bằng Cổng Hextech,vi
+海妖之怒,Thịnh Nộ Thủy Quái,vi
+涌泉公理,Nguyên Tố Nước,vi
+混乱回復装置,Xoay Bài Tự Động,vi
+混沌の進化,Tiến Hóa Bất Định,vi
+游神的盟友,Đồng Minh Của Bụt,vi
+滅びの王,Hắc Diệt Đế Vương,vi
+潘朵拉的备战席,Hàng Chờ Pandora,vi
+潘朵拉的装备,Trang Bị Pandora,vi
+激发之匣,Dây Chuyền Tự Lực,vi
+火上浇油,Nếm Mùi Lửa,vi
+灭世者的死亡之帽,Mũ Phù Thủy Rabadon,vi
+灵风,Phong Kiếm,vi
+灵魂唤醒,Thức Tỉnh Linh Hồn,vi
+災禍の使者,Kẻ Tàn Phá,vi
+炎のアクシオム,Nguyên Tố Lửa,vi
+炎の愛好家,Hỏa Cuồng Nhân,vi
+炎を強めて,Nếm Mùi Lửa,vi
+点击即送,Đánh Là Trúng,vi
+炽天使之拥,Trượng Đại Thiên Sứ,vi
+炽焰公理,Nguyên Tố Lửa,vi
+烁刃,Đao Chớp,vi
+烬,Jhin,vi
+無差別殺人者,Sát Thủ Khát Máu,vi
+爆炸式增长,Tăng Trưởng Bùng Nổ,vi
+爆発的成長,Tăng Trưởng Bùng Nổ,vi
+爆裂护盾,Giáp Chống Chất Nổ,vi
+特性の書,Sách Chọn Ấn,vi
+特性の木,Cây Tộc Hệ,vi
+狂徒铠甲,Giáp Máu Warmog,vi
+狂野女猎手,Nữ Thợ Săn,vi
+狂野生长,Khổng Lồ Hóa,vi
+狙神,Viễn Kích,vi
+狙神纹章,Ấn Viễn Kích,vi
+猛将的荣耀,Chiến Tướng Khải Hoàn,vi
+獄炎のハチェット,Rìu Hỏa Ngục,vi
+王冠とは重きもの,Vương Miện Nặng Trĩu,vi
+王冠之重,Vương Miện Nặng Trĩu,vi
+王冠意志,Ý Chí Vương Miện,vi
+玛尔扎哈,Malzahar,vi
+玻璃大炮,Lấy Công Bù Thủ,vi
+珍藏财宝,Kho Báu Chôn Giấu,vi
+珠光护手,Găng Bảo Thạch,vi
+珠光莲花,Khảm Bảo Thạch,vi
+瑞兹,Ryze,vi
+瑟庄妮,Sejuani,vi
+瑟提,Sett,vi
+璐璐,Lulu,vi
+甘いおやつ,Món Quà Ngọt Ngào,vi
+甜点,Món Quà Ngọt Ngào,vi
+生日礼物,Quà Sinh Nhật,vi
+生日聚会,Sinh Nhật Đoàn Tụ,vi
+生涯ブロンズ,Tất Tay Bậc Đồng,vi
+由二生D,2 Vàng Là Nhất,vi
+电压导管,Dẫn Điện Áp,vi
+电流过载,Quá Tải Điện,vi
+电磁脉冲,BOM ĐIỆN TỪ,vi
+略奪者のダイス,Xúc Xắc Đạo Tặc,vi
+疾射火炮,Đại Bác Liên Thanh,vi
+癒しのこだま,Thanh Âm Chữa Lành,vi
+登上最高峰,Toàn Thắng,vi
+白银命运,Vận Mệnh Bạc,vi
+皮尔特沃夫,Piltover,vi
+皮尔特沃夫发明,Phát Minh Piltover,vi
+皮尔特沃夫纹章,Ấn Piltover,vi
+盖伦,Garen,vi
+盗賊のグローブ,Găng Đạo Tặc,vi
+盗賊団,Băng Trộm,vi
+目には目を,Ăn Miếng Trả Miếng,vi
+石像鬼石板甲,Thú Tượng Thạch Giáp,vi
+破灭使者,Kẻ Tàn Phá,vi
+破败之王,Hắc Diệt Đế Vương,vi
+硬性承诺,Chỉ Một Con Đường,vi
+碰撞测试假人,Hình Nộm Va Chạm,vi
+確約された守護,Thệ Ước Bảo Hộ,vi
+磁控线圈,Cuộn Từ Trường,vi
+祖安,Zaun,vi
+祖安纹章,Ấn Zaun,vi
+神盾使,Cảnh Vệ,vi
+神盾使纹章,Ấn Cảnh Vệ,vi
+神谕者,Thuật Sĩ,vi
+神谕者纹章,Ấn Thuật Sĩ,vi
+禁忌雕像,Dị Vật Tai Ương,vi
+离子火花,Nỏ Sét,vi
+科加斯,Cho'Gath,vi
+秘传奥义,Kamekameha,vi
+穢れたヴァンパイア セプター,Huyết Trượng Tha Hóa,vi
+窃贼帮派,Băng Trộm,vi
+窃贼手套,Găng Đạo Tặc,vi
+符文法师,Cổ Ngữ,vi
+第一份免费！,Lần Đầu Không Tính Tiền!,vi
+米利欧,Milio,vi
+精准而优雅,Chuẩn Xác và Uyển Chuyển,vi
+精密かつ優雅,Chuẩn Xác và Uyển Chuyển,vi
+精心打造,Khéo Tay Hay Làm,vi
+系魂圣枪,Linh Hồn,vi
+素材ビュッフェ,Đại Tiệc Trang Bị,vi
+紡がれし魔法,Ma Thuật Đan Kết,vi
+終わりなき絶望,Áo Choàng Diệt Vong,vi
+絶好調,Trên Đà Phát Triển,vi
+红霸符,Bùa Đỏ,vi
+约德尔人,Yordle,vi
+约德尔人纹章,Ấn Yordle,vi
+约里克,Yorick,vi
+纳什之牙,Nanh Nashor,vi
+纳什男爵,Baron Nashor,vi
+纳什男爵,Tai Ương,vi
+纹章之书,Sách Chọn Ấn,vi
+纺织魔法,Ma Thuật Đan Kết,vi
+终身黄铜,Tất Tay Bậc Đồng,vi
+绝命毒师,Bộ Đôi Độc Dược,vi
+维迦,Veigar,vi
+羁绊树,Cây Tộc Hệ,vi
+耀光使,Nhiễu Loạn,vi
+耀光使纹章,Ấn Nhiễu Loạn,vi
+耐心是一种美德,Kiên Nhẫn Là Một Đức Tính,vi
+联合作战,Nhất Thống,vi
+能量圣杯,Cốc Sức Mạnh,vi
+腐蚀,Ăn Mòn,vi
+腐食,Ăn Mòn,vi
+腕豪,Đại Ca,vi
+腰带溢流,Đam Mê Đai Lưng,vi
+船长的帽子,Mũ Thuyền Trưởng,vi
+船长的酿造品,Men Rượu Thuyền Trưởng,vi
+艾克,Ekko,vi
+艾尼维亚,Anivia,vi
+艾希,Ashe,vi
+艾欧尼亚,Ionia,vi
+艾欧尼亚纹章,Ấn Ionia,vi
+节外生枝,Phân Nhánh,vi
+芸阿娜,Yunara,vi
+英勇福袋,Túi Đồ Siêu Hùng,vi
+英雄のラッキーバッグ,Túi Đồ Siêu Hùng,vi
+莫雷洛秘典,Quỷ Thư Morello,vi
+菲兹,Fizz,vi
+萨勒芬妮,Seraphine,vi
+蒙多医生,Dr. Mundo,vi
+蓝霸符,Bùa Xanh,vi
+蔓延之根,Cắm Rễ Phân Tán,vi
+蔚,Vi,vi
+蕾欧娜,Leona,vi
+薄暮法袍,Giáp Vai Nguyệt Thần,vi
+薇恩,Vayne,vi
+虚空,Hư Không,vi
+虚空之女,Cộng Sinh,vi
+虚空之杖,Trượng Hư Vô,vi
+虚空护手,Găng Hư Không,vi
+虚空纹章,Ấn Hư Không,vi
+血の供物,Huyết Tế,vi
+衝突試験用ダミー,Hình Nộm Va Chạm,vi
+裁决战士,Đồ Tể,vi
+裁决战士纹章,Ấn Đồ Tể,vi
+装备百宝袋,Tiếp Tế Trang Bị,vi
+複製,Nhân Bản,vi
+视界专注,Kính Nhắm Ma Pháp,vi
+解封魔武,Thoát Khỏi Xiềng Thép,vi
+解脱者,Kẻ Phá Xiềng,vi
+训练假人,Hình Nhân,vi
+诅咒之刃,Kiếm Cong,vi
+诺克萨斯,Noxus,vi
+诺克萨斯纹章,Ấn Noxus,vi
+诺提勒斯,Nautilus,vi
+调谐振荡器,Dao Động Tinh Chỉnh,vi
+財宝の竜巻,Bão Kho Báu,vi
+買い物三昧,Tín Đồ Mua Sắm,vi
+贝蕾亚,Briar,vi
+负极斗篷,Áo Choàng Bạc,vi
+贸易中心,Trung Tâm Thương Mại,vi
+费德提克,Fiddlesticks,vi
+赛恩,Sion,vi
+赵信,Xin Zhao,vi
+起死回生,Ngọn Gió Thứ Hai,vi
+超越のタリスマン,Bùa Thăng Hoa,vi
+超越生体,Thể Dạng Ưu Việt,vi
+超越者,Thăng Hoa,vi
+超频电容器,Tụ Điện Ép Xung,vi
+輝く悪党,Quang Lân Tiểu Yêu,vi
+轻量魔法投掷,Quay Trúng Thưởng,vi
+辛吉德,Singed,vi
+达克威尔入侵,Darkwill Xâm Lược,vi
+迅击战士,Cực Tốc,vi
+迅击战士纹章,Ấn Cực Tốc,vi
+远古巨龙,Rồng Ngàn Tuổi,vi
+远古巫灵,Thăng Hoa,vi
+远古恐惧,Bù Nhìn,vi
+连指手套,Găng Đấu Sĩ,vi
+连续齿轮,Bánh Răng Liên Luân,vi
+迷离风衣,Áo Choàng Mờ Ám,vi
+适应性头盔,Mũ Thích Nghi,vi
+遥遥领先,Thích Mở Rộng,vi
+選ばれし狼,Chiến Lang,vi
+酒吧指虎,Găng Dã Thú,vi
+采矿钻机,Khoan Khai Thác,vi
+重启任务,Tái Khởi Động Nhiệm Vụ,vi
+金のモンスーン,Bão Vàng,vi
+金ピカの鋼,Thép Mạ Vàng,vi
+金克丝,Jinx,vi
+金色炊具,Nồi Nấu Ăn,vi
+金铲铲,Siêu Xẻng,vi
+金铲铲冠冕,Vương Miện Chiến Thuật,vi
+金锅铲冠冕,Áo Choàng Chiến Thuật,vi
+金锅锅,Chảo Vàng,vi
+金锅锅冠冕,Lá Chắn Chiến Thuật,vi
+金霖龙,Kim Long,vi
+金鳞精粹,Tinh Túy Kim Long,vi
+銀の匙,Đặc Quyền Phú Gia,vi
+鋼からの解放,Thoát Khỏi Xiềng Thép,vi
+鋼の心,Trái Tim Sắt Đá,vi
+鏡像のペルソナ,Hiện Thân Phản Chiếu,vi
+钢铁烈阳之匣,Dây Chuyền Iron Solari,vi
+银汤匙,Đặc Quyền Phú Gia,vi
+铸星龙王,Ác Long,vi
+锁子甲,Giáp Lưới,vi
+锤石,Thresh,vi
+镀金钢铁,Thép Mạ Vàng,vi
+镜像人格面具,Hiện Thân Phản Chiếu,vi
+长矛意志,Ý Chỉ Ngọn Giáo,vi
+阿兹尔,Azir,vi
+阿狸,Ahri,vi
+限定カスタマイズ,Lựa Chọn Độc Quyền,vi
+集中火力,Tập Trung Hỏa Lực,vi
+集中砲火,Tập Trung Hỏa Lực,vi
+集结战队,Lập Đội,vi
+雷克塞,Rek'Sai,vi
+雷克顿,Renekton,vi
+震畏大炮,Đại Bác Dreadway,vi
+静止法衣,Áo Choàng Tĩnh Lặng,vi
+韋駄天,Cực Tốc,vi
+韋駄天の紋章,Ấn Cực Tốc,vi
+顽强不屈,Bất Khuất,vi
+風のアクシオム,Nguyên Tố Khí,vi
+飞升,Thăng Hoa,vi
+飞升护符,Bùa Thăng Hoa,vi
+食堂,Sảnh Đông Đúc,vi
+饭厅,Sảnh Đông Đúc,vi
+饮血剑,Huyết Kiếm,vi
+騎士の誓い,Lời Thề Hiệp Sĩ,vi
+骑士之誓,Lời Thề Hiệp Sĩ,vi
+高压电,Sét Cao Thế,vi
+高级生命体,Thể Dạng Ưu Việt,vi
+高级贷款,Vay Tạm Ứng,vi
+高電圧,Sét Cao Thế,vi
+高電圧管,Dẫn Điện Áp,vi
+鬼影望远镜,Ống Nhòm Ma Ám,vi
+鬼索的狂暴之刃,Cuồng Đao Guinsoo,vi
+魔像,Người Đá,vi
+魔像化,Người Đá Càn Quét,vi
+魔法のダイス,Xúc Xắc Ma Pháp,vi
+魔法投掷,Xúc Xắc Ma Pháp,vi
+鱼骨头,Pháo Xương Cá,vi
+鲜血祭品,Huyết Tế,vi
+黄昏の試練,Thử Thách Dưới Ánh Chạng Vạng,vi
+黄昏圣盾,Khiên Hoàng Hôn,vi
+黄金の龍,Kim Long,vi
+黄金命运,Vận Mệnh Vàng,vi
+黎明圣盾,Khiên Hừng Đông,vi
+黎明核心,Lõi Bình Minh,vi
+黑市炸药,Chất Nổ Chợ Đen,vi
+黑市补货,Nguồn Hàng Bất Chính,vi
+黑暗之女,Đứa Trẻ Bóng Tối,vi
+黑暗吸血鬼节杖,Huyết Trượng Tha Hóa,vi
+黑铁资产,Kho Báu Sắt,vi
+黛安娜,Diana,vi
+龙血武姬,Long Nữ,vi

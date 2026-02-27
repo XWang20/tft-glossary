@@ -1,449 +1,395 @@
 source,target,tgt_lng
+1个霸符，2个霸符,"One Buff, Two Buff",th
+2のトリック,Two Trick,th
+3 Threes,3 Threes,th
+3×3,3 Threes,th
+3の軍団,Legion of Threes,th
+8级D干的传说,Epic Rolldown,th
+90 Caliber Nets,90 Caliber Nets,th
+90口径绳网,90 Caliber Nets,th
+A Magic Roll,A Magic Roll,th
 Aatrox,Aatrox,th
+Acceleration Gate,Acceleration Gate,th
+Adaptive Helm,Adaptive Helm,th
+Advanced Loan,Advanced Loan,th
+Aegis of Dawn,Aegis of Dawn,th
+Aegis of Dusk,Aegis of Dusk,th
 Ahri,Ahri,th
+Air Axiom,Air Axiom,th
 Ambessa,Ambessa,th
 Anivia,Anivia,th
 Annie,Annie,th
 Aphelios,Aphelios,th
+Arcane Viktor-y,Arcane Viktor-y,th
+Arcane ビクタリー,Arcane Viktor-y,th
+Arcanist,Arcanist,th
+Arcanist Emblem,Arcanist Emblem,th
+Archangel's Staff,Archangel's Staff,th
+Armor Nullifier,Armor Nullifier,th
+Artillery Barrage,Artillery Barrage,th
+Ascendant,Ascendant,th
+Ascension,Ascension,th
 Ashe,Ashe,th
+Assimilator,Assimilator,th
 Aurelion Sol,Aurelion Sol,th
 Azir,Azir,th
+B.F. Sword,B.F. Sword,th
+B.F.ソード,B.F. Sword,th
+Band of Thieves,Band of Thieves,th
 Bard,Bard,th
+Barknuckles,Barknuckles,th
 Baron Nashor,Baron Nashor,th
 Bel'Veth,Bel'Veth,th
-Blitzcrank,Blitzcrank,th
-Braum,Braum,th
-Briar,Briar,th
-Brock,Brock,th
-Caitlyn,Caitlyn,th
-Cho'Gath,Cho'Gath,th
-Darius,Darius,th
-Diana,Diana,th
-Dr. Mundo,Dr. Mundo,th
-Draven,Draven,th
-Ekko,Ekko,th
-Elder Dragon,Elder Dragon,th
-Fiddlesticks,Fiddlesticks,th
-Fizz,Fizz,th
-Galio,Galio,th
-Gangplank,Gangplank,th
-Garen,Garen,th
-Golem,Golem,th
-Graves,Graves,th
-Gwen,Gwen,th
-Illaoi,Illaoi,th
-Jarvan IV,Jarvan IV,th
-Jhin,Jhin,th
-Jinx,Jinx,th
-Kai'Sa,Kai'Sa,th
-Kalista,Kalista,th
-Kennen,Kennen,th
-Kindred,Kindred,th
-Kobuko & Yuumi,Kobuko & Yuumi,th
-Kog'Maw,Kog'Maw,th
-LeBlanc,LeBlanc,th
-Leona,Leona,th
-Lissandra,Lissandra,th
-Loris,Loris,th
-Lucian & Senna,Lucian & Senna,th
-Lulu,Lulu,th
-Lux,Lux,th
-Malzahar,Malzahar,th
-Mel,Mel,th
-Milio,Milio,th
-Miss Fortune,Miss Fortune,th
-Nasus,Nasus,th
-Nautilus,Nautilus,th
-Neeko,Neeko,th
-Nidalee,Nidalee,th
-Orianna,Orianna,th
-Ornn,Ornn,th
-Piltover Invention,Piltover Invention,th
-Poppy,Poppy,th
-Qiyana,Qiyana,th
-Rek'Sai,Rek'Sai,th
-Renekton,Renekton,th
-Rift Herald,Rift Herald,th
-Rift Scuttler,Rift Scuttler,th
-Rumble,Rumble,th
-Ryze,Ryze,th
-Sejuani,Sejuani,th
-Seraphine,Seraphine,th
-Sett,Sett,th
-Shen,Shen,th
-Shyvana,Shyvana,th
-Singed,Singed,th
-Sion,Sion,th
-Skarner,Skarner,th
-Sona,Sona,th
-Swain,Swain,th
-Sylas,Sylas,th
-T-Hex,T-Hex,th
-Tahm Kench,Tahm Kench,th
-Taric,Taric,th
-Teemo,Teemo,th
-Thresh,Thresh,th
-Training Dummy,Training Dummy,th
-Tristana,Tristana,th
-Tryndamere,Tryndamere,th
-Twisted Fate,Twisted Fate,th
-Vayne,Vayne,th
-Veigar,Veigar,th
-Vi,Vi,th
-Viego,Viego,th
-Volibear,Volibear,th
-Warwick,Warwick,th
-Wukong,Wukong,th
-Xerath,Xerath,th
-Xin Zhao,Xin Zhao,th
-Yasuo,Yasuo,th
-Yone,Yone,th
-Yorick,Yorick,th
-Yunara,Yunara,th
-Zaahen,Zaahen,th
-Ziggs,Ziggs,th
-Zilean,Zilean,th
-Zoe,Zoe,th
-Arcanist,Arcanist,th
-Ascendant,Ascendant,th
-Assimilator,Assimilator,th
-Bilgewater,Bilgewater,th
-Blacksmith,Blacksmith,th
-Bruiser,Bruiser,th
-Caretaker,Caretaker,th
-Chainbreaker,Chainbreaker,th
-Chosen Wolves,Chosen Wolves,th
-Chronokeeper,Chronokeeper,th
-Dark Child,Dark Child,th
-Darkin,Darkin,th
-Defender,Defender,th
-Demacia,Demacia,th
-Disruptor,Disruptor,th
-Dragonborn,Dragonborn,th
-Dragonguards,Dragonguards,th
-Emperor,Emperor,th
-Eternal,Eternal,th
-Freljord,Freljord,th
-Glutton,Glutton,th
-Gunslinger,Gunslinger,th
-Harvester,Harvester,th
-Heroic,Heroic,th
-HexMech,HexMech,th
-Huntress,Huntress,th
-Immortal,Immortal,th
-Invoker,Invoker,th
-Ionia,Ionia,th
-Ixtal,Ixtal,th
-Juggernaut,Juggernaut,th
-Longshot,Longshot,th
-Noxus,Noxus,th
-Piltover,Piltover,th
-Poison Pals,Poison Pals,th
-Quickstriker,Quickstriker,th
-Riftscourge,Riftscourge,th
-Rune Mage,Rune Mage,th
-Sentinels of Light,Sentinels of Light,th
-Shadow Isles,Shadow Isles,th
-Shurima,Shurima,th
-Slayer,Slayer,th
-Soulbound,Soulbound,th
-Star Forger,Star Forger,th
-Targon,Targon,th
-The Boss,The Boss,th
-Timewinders,Timewinders,th
-Vanquisher,Vanquisher,th
-Void,Void,th
-Warden,Warden,th
-World Ender,World Ender,th
-Yordle,Yordle,th
-Zaun,Zaun,th
-3 Threes,3 Threes,th
-A Magic Roll,A Magic Roll,th
-Advanced Loan,Advanced Loan,th
-Air Axiom,Air Axiom,th
-Arcane Viktor-y,Arcane Viktor-y,th
-Artillery Barrage,Artillery Barrage,th
-Ascension,Ascension,th
-Band of Thieves,Band of Thieves,th
 Belt Overflow,Belt Overflow,th
 Best Friends,Best Friends,th
 Big Friend,Big Friend,th
 Big Grab Bag,Big Grab Bag,th
+Bilgewater,Bilgewater,th
+Bilgewater Emblem,Bilgewater Emblem,th
+Bilgewater Lesser Champion Duplicator,Bilgewater Lesser Champion Duplicator,th
 Binary Airdrop,Binary Airdrop,th
 Birthday Present,Birthday Present,th
 Birthday Reunion,Birthday Reunion,th
+Black Market Restock,เติมสินค้าตลาดมืดใหม่,th
+Blackmarket Explosives,Blackmarket Explosives,th
+Blacksmith,Blacksmith,th
+Blast Shield,Blast Shield,th
+Blighting Jewel,Blighting Jewel,th
+Blitzcrank,Blitzcrank,th
 Blood Offering,Blood Offering,th
+Bloodthirster,Bloodthirster,th
+Blue Buff,Blue Buff,th
 Bodyguard Training,Bodyguard Training,th
 Boxing Lessons,Boxing Lessons,th
+Bramble Vest,Bramble Vest,th
 Branching Out,Branching Out,th
+Braum,Braum,th
+Briar,Briar,th
+Brigand's Dice,Brigand's Dice,th
 Bringer of Ruin,Bringer of Ruin,th
+Brock,Brock,th
 Bronze For Life,Bronze For Life,th
+Bruiser,Bruiser,th
+Bruiser Emblem,Bruiser Emblem,th
 Buried Treasures,Buried Treasures,th
+Caitlyn,Caitlyn,th
+Cappa Juice,Cappa Juice,th
+Captain's Brew,Captain's Brew,th
+Captain's Hat,Captain's Hat,th
 Care Package,Care Package,th
+Caretaker,Caretaker,th
 Caretaker's Ally,Caretaker's Ally,th
 Celestial Blessing,Celestial Blessing,th
+Chain Vest,Chain Vest,th
+Chainbreaker,Chainbreaker,th
+Chalice of Power,Chalice of Power,th
 Chaotic Evolution,Chaotic Evolution,th
+Cho'Gath,Cho'Gath,th
+Chosen Wolves,Chosen Wolves,th
+Chronokeeper,Chronokeeper,th
 Commerce Core,Commerce Core,th
 Component Buffet,Component Buffet,th
 Construct a Companion,Construct a Companion,th
+Continuum Cogs,Continuum Cogs,th
 Cooking Pot,Cooking Pot,th
 Coronation,Coronation,th
 Corrosion,Corrosion,th
+Corrupt Vampiric Scepter,Corrupt Vampiric Scepter,th
 Cosmic Calling,Cosmic Calling,th
 Crafted Crafting,Crafted Crafting,th
 Crash Test Dummies,Crash Test Dummies,th
 Crown's Will,Crown's Will,th
+Crownguard,Crownguard,th
 Cry Me A River,Cry Me A River,th
+Cursed Blade,Cursed Blade,th
+Cutthroat's Cutlass,Cutthroat's Cutlass,th
+C位的觉悟,Find Your Center,th
+DD街区,Trade Sector,th
+Darius,Darius,th
+Dark Child,Dark Child,th
+Darkin,Darkin,th
 Darkwill's Invasion,Darkwill's Invasion,th
+Dawncore,Dawncore,th
+Dead Man's Dagger,Dead Man's Dagger,th
 Deadlier Blades,Deadlier Blades,th
 Deadlier Caps,Deadlier Caps,th
+Deathblade,Deathblade,th
+Defender,Defender,th
+Defender Emblem,Defender Emblem,th
 Defense of the Placidium,Defense of the Placidium,th
+Demacia,Demacia,th
+Demacia Emblem,Demacia Emblem,th
 Demacia Forever,Demacia Forever,th
+Diana,Diana,th
+Disruptor,Disruptor,th
+Disruptor Emblem,Disruptor Emblem,th
 Double Trouble,Double Trouble,th
+Dr. Mundo,Dr. Mundo,th
+Dragon's Claw,Dragon's Claw,th
+Dragonborn,Dragonborn,th
+Dragonguards,Dragonguards,th
+Draven,Draven,th
+Dreadway Cannon,Dreadway Cannon,th
 Dummify,Dummify,th
 Duo Queue,Duo Queue,th
+D个痛快！,Rolling for Days,th
+E.M.P.,E.M.P.,th
 Earth Axiom,Earth Axiom,th
+Echo Engine,Echo Engine,th
+Edge of Night,Edge of Night,th
+Ekko,Ekko,th
+Elder Dragon,Elder Dragon,th
+Electrical Overload,Electrical Overload,th
+Emperor,Emperor,th
 Epic Rolldown,Epic Rolldown,th
+Eternal,Eternal,th
+Eternal Pact,Eternal Pact,th
+Evenshroud,Evenshroud,th
 Exclusive Customization,Exclusive Customization,th
 Exiles,Exiles,th
 Expected Unexpectedness,Expected Unexpectedness,th
 Explosive Growth,Explosive Growth,th
 Eye For An Eye,Eye For An Eye,th
 Feed the Flames,Feed the Flames,th
+Fiddlesticks,Fiddlesticks,th
 Find Your Center,Find Your Center,th
 Fire Axiom,Fire Axiom,th
+First Mate's Flintlock,First Mate's Flintlock,th
+First One's Free!,ครั้งแรกฟรี!,th
+Fishbones,Fishbones,th
+Fizz,Fizz,th
+Flickerblades,Flickerblades,th
 Focused Fire,Focused Fire,th
+Forbidden Idol,Forbidden Idol,th
+Freljord,Freljord,th
+Freljord Emblem,Freljord Emblem,th
+Frying Pan,Frying Pan,th
+Galio,Galio,th
+Gangplank,Gangplank,th
+Garen,Garen,th
+Gargoyle Stoneplate,Gargoyle Stoneplate,th
+Giant Slayer,Giant Slayer,th
 Giant and Mighty,Giant and Mighty,th
+Giant's Belt,Giant's Belt,th
+Gigantification Ray,Gigantification Ray,th
 Gilded Steel,Gilded Steel,th
 Glass Cannon,Glass Cannon,th
+Glutton,Glutton,th
 Going Long,Going Long,th
 Gold Destiny,Gold Destiny,th
+Golem,Golem,th
 Golemify,Golemify,th
 Good For Something,Good For Something,th
+Graves,Graves,th
 Growth Mindset,Growth Mindset,th
+Guinsoo's Rageblade,Guinsoo's Rageblade,th
+Gunslinger,Gunslinger,th
+Gunslinger Emblem,Gunslinger Emblem,th
+Gwen,Gwen,th
+Hand Of Justice,Hand Of Justice,th
 Hard Commit,Hard Commit,th
+Harvester,Harvester,th
+Haunted Spyglass,Haunted Spyglass,th
 Healing Orbs,Healing Orbs,th
 Heart of Steel,Heart of Steel,th
 Heavy Is the Crown,Heavy Is the Crown,th
 Hedge Fund,Hedge Fund,th
 Hefty Rolls,Hefty Rolls,th
+Hellfire Hatchet,Hellfire Hatchet,th
+Heroic,Heroic,th
 Heroic Grab Bag,Heroic Grab Bag,th
+HexMech,HexMech,th
 Hexgate Travel,Hexgate Travel,th
+Hextech Gunblade,Hextech Gunblade,th
 High Voltage,High Voltage,th
 Hold the Line,Hold the Line,th
+Horizon Focus,Horizon Focus,th
+Huntress,Huntress,th
+Illaoi,Illaoi,th
+Immortal,Immortal,th
 Indecision,Indecision,th
 Indiscriminate Killer,Indiscriminate Killer,th
+Infinity Edge,Infinity Edge,th
+Innervating Locket,Innervating Locket,th
 Invested,Invested,th
+Invoker,Invoker,th
+Invoker Emblem,Invoker Emblem,th
+Ionia,Ionia,th
+Ionia Emblem,Ionia Emblem,th
+Ionic Spark,Ionic Spark,th
 Iron Assets,Iron Assets,th
 Item Grab Bag,Item Grab Bag,th
+Ixtal,Ixtal,th
+Ixtal Emblem,Ixtal Emblem,th
+Jarvan IV,Jarvan IV,th
+Jeweled Gauntlet,Jeweled Gauntlet,th
 Jeweled Lotus,Jeweled Lotus,th
+Jhin,Jhin,th
+Jinx,Jinx,th
+Juggernaut,Juggernaut,th
+Juggernaut Emblem,Juggernaut Emblem,th
 Just Hit,Just Hit,th
 Kahunahuna,Kahunahuna,th
+Kai'Sa,Kai'Sa,th
+Kalista,Kalista,th
+Kennen,Kennen,th
+Kindred,Kindred,th
+Kinetic Barrier,Kinetic Barrier,th
+Knight's Vow,Knight's Vow,th
+Kobuko & Yuumi,Kobuko & Yuumi,th
+Kog'Maw,Kog'Maw,th
+Kraken's Fury,Kraken's Fury,th
+L-90 カリバーネット,90 Caliber Nets,th
 Last Second Save,Last Second Save,th
+Last Whisper,Last Whisper,th
 Late Game Scaling,Late Game Scaling,th
 Late Game Specialist,Late Game Specialist,th
+LeBlanc,LeBlanc,th
 Leap of Faith,Leap of Faith,th
 Legion of Threes,Legion of Threes,th
+Leona,Leona,th
+Lesser Mirrored Persona,Lesser Mirrored Persona,th
 Level Up!,Level Up!,th
+Lich Bane,Lich Bane,th
 Lifting Competition,Lifting Competition,th
+Lightshield Crest,Lightshield Crest,th
 Lineup,Lineup,th
+Lissandra,Lissandra,th
 Little Buddies,Little Buddies,th
+Locket of the Iron Solari,Locket of the Iron Solari,th
+Longshot,Longshot,th
+Longshot Emblem,Longshot Emblem,th
+Loris,Loris,th
+Lucian & Senna,Lucian & Senna,th
+Lucky Doubloon,Lucky Doubloon,th
 Lucky Gloves,Lucky Gloves,th
+Luden's Tempest,Luden's Tempest,th
+Lulu,Lulu,th
+Lux,Lux,th
 Mace's Will,Mace's Will,th
+Magnetron Coil,Magnetron Coil,th
 Makeshift Armor,Makeshift Armor,th
+Malzahar,Malzahar,th
+Mel,Mel,th
+Mending Echoes,Mending Echoes,th
 Mess Hall,Mess Hall,th
+Micro-Rockets,Micro-Rockets,th
+Milio,Milio,th
 Min-Max,Min-Max,th
+Mining Drill,Mining Drill,th
+Mirrored Persona,Mirrored Persona,th
+Miss Fortune,Miss Fortune,th
 Missed Connections,Missed Connections,th
+Mittens,Mittens,th
+Momentum Drive,Momentum Drive,th
 Money Monsoon,Money Monsoon,th
+Morellonomicon,Morellonomicon,th
+Nashor's Tooth,Nashor's Tooth,th
+Nasus,Nasus,th
+Nautilus,Nautilus,th
+Needlessly Large Rod,Needlessly Large Rod,th
+Neeko,Neeko,th
+Negatron Cloak,Negatron Cloak,th
+Nidalee,Nidalee,th
+Noxus,Noxus,th
+Noxus Emblem,Noxus Emblem,th
 On a Roll,On a Roll,th
 "One Buff, Two Buff","One Buff, Two Buff",th
 One Twos Three,One Twos Three,th
 "One, Two, Five!","One, Two, Five!",th
+Orianna,Orianna,th
+Ornn,Ornn,th
+Overclocked Capacitors,Overclocked Capacitors,th
 Pandora's Bench,Pandora's Bench,th
 Pandora's Items,Pandora's Items,th
 Patience is a Virtue,Patience is a Virtue,th
+Pile O' Citrus,Pile O' Citrus,th
+Piltover,Piltover,th
+Piltover Emblem,Piltover Emblem,th
+Piltover Invention,Piltover Invention,th
 Placebo,Placebo,th
 Plot Armor,Plot Armor,th
+Poison Pals,Poison Pals,th
+Poppy,Poppy,th
 Portable Forge,Portable Forge,th
 Precision and Grace,Precision and Grace,th
 Preparation,Preparation,th
 Prismatic Destiny,Prismatic Destiny,th
 Prismatic Ticket,Prismatic Ticket,th
 Promised Protection,Promised Protection,th
+Protector's Vow,Protector's Vow,th
+Prowler's Claw,Prowler's Claw,th
 Pyromaniac,Pyromaniac,th
+Qiyana,Qiyana,th
+Quicksilver,Quicksilver,th
+Quickstriker,Quickstriker,th
+Quickstriker Emblem,Quickstriker Emblem,th
+Rabadon's Deathcap,Rabadon's Deathcap,th
 Radiant Rascal,Radiant Rascal,th
 Radiant Relics,Radiant Relics,th
 Raining Gold,Raining Gold,th
+Rapid Firecannon,Rapid Firecannon,th
+Realm Warp,Realm Warp,th
 Recombobulator,Recombobulator,th
+Recurve Bow,Recurve Bow,th
+Red Buff,Red Buff,th
 ReinFOURcement,ReinFOURcement,th
+Rek'Sai,Rek'Sai,th
+Renekton,Renekton,th
 Replication,Replication,th
 Restart Mission,Restart Mission,th
 Retribution,Retribution,th
+Rift Herald,Rift Herald,th
+Rift Scuttler,Rift Scuttler,th
+Riftscourge,Riftscourge,th
 Rolling For Days,Rolling for Days,th
+Rumble,Rumble,th
+Rune Mage,Rune Mage,th
+Ryze,Ryze,th
 Savings Account,Savings Account,th
 Second Wind,Second Wind,th
+Seeker's Armguard,Seeker's Armguard,th
+Sejuani,Sejuani,th
+Sentinels of Light,Sentinels of Light,th
 Seraphim's Staff,Seraphim's Staff,th
+Seraphine,Seraphine,th
+Sett,Sett,th
+Shadow Isles,Shadow Isles,th
+Shadow Puppet,Shadow Puppet,th
+Shen,Shen,th
 Shimmerscale Essence,Shimmerscale Essence,th
 Shopping Spree,Shopping Spree,th
+Shroud of Stillness,Shroud of Stillness,th
+Shurima,Shurima,th
+Shyvana,Shyvana,th
 Silco's Revenge,Silco's Revenge,th
 Silver Destiny,Silver Destiny,th
 Silver Spoon,Silver Spoon,th
+Silvermere Dawn,Silvermere Dawn,th
+Singed,Singed,th
+Sion,Sion,th
+Skarner,Skarner,th
+Slayer,Slayer,th
+Slayer Emblem,Slayer Emblem,th
 Slightly Magic Roll,Slightly Magic Roll,th
 Small Grab Bag,Small Grab Bag,th
 Solo Plate,Solo Plate,th
+Sona,Sona,th
 Soul Awakening,Soul Awakening,th
+Soulbound,Soulbound,th
+Sparring Gloves,Sparring Gloves,th
+Spatula,Spatula,th
+Spear of Shojin,Spear of Shojin,th
 Spear's Will,Spear's Will,th
+Spectral Cutlass,Spectral Cutlass,th
+Spirit Visage,Spirit Visage,th
 Spirit of Redemption,Spirit of Redemption,th
 Spreading Roots,Spreading Roots,th
 Staffsmith,Staffsmith,th
 Stand United,Stand United,th
+Star Forger,Star Forger,th
 Stars Are Born,Stars are Born,th
 Starter Kit,Starter Kit,th
-Sweet Treats,Sweet Treats,th
-Sword Overflow,Sword Overflow,th
-Swordsmith,Swordsmith,th
-Teaming Up,Teaming Up,th
-The Axiomata,The Axiomata,th
-The Golden Dragon,The Golden Dragon,th
-The Ruined King,The Ruined King,th
-The Trait Tree,The Trait Tree,th
-The World Runes,The World Runes,th
-Thorn-Plated Armor,Thorn-Plated Armor,th
-"Tiny, but Deadly","Tiny, but Deadly",th
-Tons of Stats!,Tons of Stats!,th
-Trade Sector,Trade Sector,th
-Trials of Twilight,Trials of Twilight,th
-Trifecta,Trifecta,th
-Twin Guardians,Twin Guardians,th
-Two Much Value,Two Much Value,th
-Two Trick,Two Trick,th
-U.R.F,U.R.F,th
-Unsealed From Steel,Unsealed From Steel,th
-Upward Mobility,Upward Mobility,th
-Wand Overflow,Wand Overflow,th
-Warlord's Honor,Warlord's Honor,th
-Water Axiom,Water Axiom,th
-We Stick Together,We Stick Together,th
-Wild Growth,Wild Growth,th
-Win Out,Win Out,th
-Wood Axiom,Wood Axiom,th
-Woven Magic,Woven Magic,th
-90 Caliber Nets,90 Caliber Nets,th
-Acceleration Gate,Acceleration Gate,th
-Adaptive Helm,Adaptive Helm,th
-Aegis of Dawn,Aegis of Dawn,th
-Aegis of Dusk,Aegis of Dusk,th
-Arcanist Emblem,Arcanist Emblem,th
-Archangel's Staff,Archangel's Staff,th
-Armor Nullifier,Armor Nullifier,th
-B.F. Sword,B.F. Sword,th
-Barknuckles,Barknuckles,th
-Bilgewater Emblem,Bilgewater Emblem,th
-Bilgewater Lesser Champion Duplicator,Bilgewater Lesser Champion Duplicator,th
-Black Market Restock,เติมสินค้าตลาดมืดใหม่,th
-Blackmarket Explosives,Blackmarket Explosives,th
-Blast Shield,Blast Shield,th
-Blighting Jewel,Blighting Jewel,th
-Bloodthirster,Bloodthirster,th
-Blue Buff,Blue Buff,th
-Bramble Vest,Bramble Vest,th
-Brigand's Dice,Brigand's Dice,th
-Bruiser Emblem,Bruiser Emblem,th
-Cappa Juice,Cappa Juice,th
-Captain's Brew,Captain's Brew,th
-Captain's Hat,Captain's Hat,th
-Chain Vest,Chain Vest,th
-Chalice of Power,Chalice of Power,th
-Continuum Cogs,Continuum Cogs,th
-Corrupt Vampiric Scepter,Corrupt Vampiric Scepter,th
-Crownguard,Crownguard,th
-Cursed Blade,Cursed Blade,th
-Cutthroat's Cutlass,Cutthroat's Cutlass,th
-Dawncore,Dawncore,th
-Dead Man's Dagger,Dead Man's Dagger,th
-Deathblade,Deathblade,th
-Defender Emblem,Defender Emblem,th
-Demacia Emblem,Demacia Emblem,th
-Disruptor Emblem,Disruptor Emblem,th
-Dragon's Claw,Dragon's Claw,th
-Dreadway Cannon,Dreadway Cannon,th
-E.M.P.,E.M.P.,th
-Echo Engine,Echo Engine,th
-Edge of Night,Edge of Night,th
-Electrical Overload,Electrical Overload,th
-Eternal Pact,Eternal Pact,th
-Evenshroud,Evenshroud,th
-First Mate's Flintlock,First Mate's Flintlock,th
-First One's Free!,ครั้งแรกฟรี!,th
-Fishbones,Fishbones,th
-Flickerblades,Flickerblades,th
-Forbidden Idol,Forbidden Idol,th
-Freljord Emblem,Freljord Emblem,th
-Frying Pan,Frying Pan,th
-Gargoyle Stoneplate,Gargoyle Stoneplate,th
-Giant Slayer,Giant Slayer,th
-Giant's Belt,Giant's Belt,th
-Gigantification Ray,Gigantification Ray,th
-Guinsoo's Rageblade,Guinsoo's Rageblade,th
-Gunslinger Emblem,Gunslinger Emblem,th
-Hand Of Justice,Hand Of Justice,th
-Haunted Spyglass,Haunted Spyglass,th
-Hellfire Hatchet,Hellfire Hatchet,th
-Hextech Gunblade,Hextech Gunblade,th
-Horizon Focus,Horizon Focus,th
-Infinity Edge,Infinity Edge,th
-Innervating Locket,Innervating Locket,th
-Invoker Emblem,Invoker Emblem,th
-Ionia Emblem,Ionia Emblem,th
-Ionic Spark,Ionic Spark,th
-Ixtal Emblem,Ixtal Emblem,th
-Jeweled Gauntlet,Jeweled Gauntlet,th
-Juggernaut Emblem,Juggernaut Emblem,th
-Kinetic Barrier,Kinetic Barrier,th
-Knight's Vow,Knight's Vow,th
-Kraken's Fury,Kraken's Fury,th
-Last Whisper,Last Whisper,th
-Lesser Mirrored Persona,Lesser Mirrored Persona,th
-Lich Bane,Lich Bane,th
-Lightshield Crest,Lightshield Crest,th
-Locket of the Iron Solari,Locket of the Iron Solari,th
-Longshot Emblem,Longshot Emblem,th
-Lucky Doubloon,Lucky Doubloon,th
-Luden's Tempest,Luden's Tempest,th
-Magnetron Coil,Magnetron Coil,th
-Mending Echoes,Mending Echoes,th
-Micro-Rockets,Micro-Rockets,th
-Mining Drill,Mining Drill,th
-Mirrored Persona,Mirrored Persona,th
-Mittens,Mittens,th
-Momentum Drive,Momentum Drive,th
-Morellonomicon,Morellonomicon,th
-Nashor's Tooth,Nashor's Tooth,th
-Needlessly Large Rod,Needlessly Large Rod,th
-Negatron Cloak,Negatron Cloak,th
-Noxus Emblem,Noxus Emblem,th
-Overclocked Capacitors,Overclocked Capacitors,th
-Pile O' Citrus,Pile O' Citrus,th
-Piltover Emblem,Piltover Emblem,th
-Protector's Vow,Protector's Vow,th
-Prowler's Claw,Prowler's Claw,th
-Quicksilver,Quicksilver,th
-Quickstriker Emblem,Quickstriker Emblem,th
-Rabadon's Deathcap,Rabadon's Deathcap,th
-Rapid Firecannon,Rapid Firecannon,th
-Realm Warp,Realm Warp,th
-Recurve Bow,Recurve Bow,th
-Red Buff,Red Buff,th
-Seeker's Armguard,Seeker's Armguard,th
-Shadow Puppet,Shadow Puppet,th
-Shroud of Stillness,Shroud of Stillness,th
-Silvermere Dawn,Silvermere Dawn,th
-Slayer Emblem,Slayer Emblem,th
-Sparring Gloves,Sparring Gloves,th
-Spatula,Spatula,th
-Spear of Shojin,Spear of Shojin,th
-Spectral Cutlass,Spectral Cutlass,th
-Spirit Visage,Spirit Visage,th
 Statikk Shiv,Statikk Shiv,th
 Steadfast Heart,Steadfast Heart,th
 Sterak's Gage,Sterak's Gage,th
@@ -451,34 +397,1052 @@ Striker's Flail,Striker's Flail,th
 Sunfire Cape,Sunfire Cape,th
 Superior Lifeform,Superior Lifeform,th
 Suspicious Trench Coat,Suspicious Trench Coat,th
+Swain,Swain,th
+Sweet Treats,Sweet Treats,th
+Sword Overflow,Sword Overflow,th
+Swordsmith,Swordsmith,th
+Sylas,Sylas,th
 Syren's Broadside,Syren's Broadside,th
+T-Hex,T-Hex,th
 Tactician's Cape,Tactician's Cape,th
 Tactician's Crown,Tactician's Crown,th
 Tactician's Shield,Tactician's Shield,th
+Tahm Kench,Tahm Kench,th
 Talisman Of Ascension,Talisman Of Ascension,th
+Targon,Targon,th
+Taric,Taric,th
+Teaming Up,Teaming Up,th
 Tear of the Goddess,Tear of the Goddess,th
+Teemo,Teemo,th
+The Axiomata,The Axiomata,th
+The Boss,The Boss,th
+The Golden Dragon,The Golden Dragon,th
 The Indomitable,The Indomitable,th
+The Ruined King,The Ruined King,th
+The Trait Tree,The Trait Tree,th
+The World Runes,The World Runes,th
 Thief's Gloves,Thief's Gloves,th
+Thorn-Plated Armor,Thorn-Plated Armor,th
+Thresh,Thresh,th
+Timewinders,Timewinders,th
+"Tiny, but Deadly","Tiny, but Deadly",th
 Titan's Resolve,Titan's Resolve,th
 Titanic Hydra,Titanic Hydra,th
 Tome of Traits,Tome of Traits,th
+Tons of Stats!,Tons of Stats!,th
+Trade Sector,Trade Sector,th
+Training Dummy,Training Dummy,th
 Treasure Typhoon,Treasure Typhoon,th
+Trials of Twilight,Trials of Twilight,th
+Trifecta,Trifecta,th
+Tristana,Tristana,th
+Tryndamere,Tryndamere,th
 Tuned Oscillator,Tuned Oscillator,th
+Twin Guardians,Twin Guardians,th
+Twisted Fate,Twisted Fate,th
+Two Much Value,Two Much Value,th
+Two Trick,Two Trick,th
+U.R.F,U.R.F,th
+U.R.F.,U.R.F,th
 Unending Despair,Unending Despair,th
+Unsealed From Steel,Unsealed From Steel,th
 Unstable Core,Unstable Core,th
 Upgrade!,Upgrade!,th
+Upward Mobility,Upward Mobility,th
+Vanquisher,Vanquisher,th
 Vanquisher Emblem,Vanquisher Emblem,th
+Vayne,Vayne,th
+Veigar,Veigar,th
+Vi,Vi,th
+Viego,Viego,th
 Virtue of the Martyr,Virtue of the Martyr,th
+Void,Void,th
 Void Emblem,Void Emblem,th
 Void Gauntlet,Void Gauntlet,th
 Void Staff,Void Staff,th
+Volibear,Volibear,th
 Voltage Conduit,Voltage Conduit,th
+Wand Overflow,Wand Overflow,th
+Warden,Warden,th
 Warden Emblem,Warden Emblem,th
+Warlord's Honor,Warlord's Honor,th
 Warmog's Armor,Warmog's Armor,th
+Warwick,Warwick,th
+Water Axiom,Water Axiom,th
+We Stick Together,We Stick Together,th
+Wild Growth,Wild Growth,th
+Win Out,Win Out,th
 Wit's End,Wit's End,th
 Withered Relic,Withered Relic,th
+Wood Axiom,Wood Axiom,th
+World Ender,World Ender,th
+Woven Magic,Woven Magic,th
+Wukong,Wukong,th
+Xerath,Xerath,th
+Xin Zhao,Xin Zhao,th
+Yasuo,Yasuo,th
+Yone,Yone,th
+Yordle,Yordle,th
 Yordle Emblem,Yordle Emblem,th
+Yorick,Yorick,th
+Yunara,Yunara,th
+Zaahen,Zaahen,th
+Zaun,Zaun,th
 Zaun Emblem,Zaun Emblem,th
 Zeke's Herald,Zeke's Herald,th
 Zephyr,Zephyr,th
+Ziggs,Ziggs,th
+Zilean,Zilean,th
+Zoe,Zoe,th
 Zz'Rot Portal,Zz'Rot Portal,th
+“塞壬号”的舷炮,Syren's Broadside,th
+いつでも一緒,We Stick Together,th
+おおきくなぁれ！,Wild Growth,th
+お得な2,Two Much Value,th
+ここがセンター,Find Your Center,th
+たっぷりリロール,Hefty Rolls,th
+ちょっとだけ魔法のダイス,Slightly Magic Roll,th
+へら,Spatula,th
+もっと怖いキャップ,Deadlier Caps,th
+アイオニア,Ionia,th
+アイオニアの紋章,Ionia Emblem,th
+アイオニック スパーク,Ionic Spark,th
+アイテム福袋,Item Grab Bag,th
+アクシオマタ,The Axiomata,th
+アクセルゲート,Acceleration Gate,th
+アシミレーター,Assimilator,th
+アジール,Azir,th
+アセンション,Ascension,th
+アダプティブ ヘルム,Adaptive Helm,th
+アッシュ,Ashe,th
+アップグレード！,Upgrade!,th
+アニビア,Anivia,th
+アニー,Annie,th
+アフェリオス,Aphelios,th
+アルカニスト,Arcanist,th
+アルカニストの紋章,Arcanist Emblem,th
+アンベッサ,Ambessa,th
+アークエンジェル スタッフ,Archangel's Staff,th
+アーマー ナリファイア,Armor Nullifier,th
+アーリ,Ahri,th
+イシュタル,Ixtal,th
+イシュタルの紋章,Ixtal Emblem,th
+イモータル,Immortal,th
+イラオイ,Illaoi,th
+インフィニティ エッジ,Infinity Edge,th
+インヴォーカー,Invoker,th
+インヴォーカーの紋章,Invoker Emblem,th
+イーブンシュラウド,Evenshroud,th
+ウィッツ エンド,Wit's End,th
+ウォーロードの名誉,Warlord's Honor,th
+ウーコン,Wukong,th
+エイトロックス,Aatrox,th
+エグザイル,Exiles,th
+エコー,Ekko,th
+エコーエンジン,Echo Engine,th
+エターナル,Eternal,th
+エピックなロールダウン,Epic Rolldown,th
+エルダードラゴン,Elder Dragon,th
+エレクトリカル オーバーロード,Electrical Overload,th
+エンペラー,Emperor,th
+オリアナ,Orianna,th
+オレリオン・ソル,Aurelion Sol,th
+オーバークロック コンデンサー,Overclocked Capacitors,th
+オーン,Ornn,th
+カイ＝サ,Kai'Sa,th
+カナとカネ,Iron Assets,th
+カフナフナ,Kahunahuna,th
+カリスタ,Kalista,th
+ガリオ,Galio,th
+ガレン,Garen,th
+ガングプランク,Gangplank,th
+ガンスリンガー,Gunslinger,th
+ガンスリンガーの紋章,Gunslinger Emblem,th
+ガーゴイル ストーンプレート,Gargoyle Stoneplate,th
+キネティックバリア,Kinetic Barrier,th
+キャプテンの帽子,Captain's Hat,th
+キャプテンの醸造酒,Captain's Brew,th
+キヤナ,Qiyana,th
+キンドレッド,Kindred,th
+ギリギリの救出,Last Second Save,th
+クイックシルバー,Quicksilver,th
+クラウンの決意,Crown's Will,th
+クラウンガード,Crownguard,th
+クラーケンの怒り,Kraken's Fury,th
+クロノキーパー,Chronokeeper,th
+グインソー レイジブレード,Guinsoo's Rageblade,th
+グウェン,Gwen,th
+グラスキャノン,Glass Cannon,th
+グラットン,Glutton,th
+グレイブス,Graves,th
+ケアテイカー,Caretaker,th
+ケイトリン,Caitlyn,th
+ケネン,Kennen,th
+ケンカの作法,Blast Shield,th
+コグ＝マウ,Kog'Maw,th
+コブコ&ユーミ,Kobuko & Yuumi,th
+コマース コア,Commerce Core,th
+コンパニオン作成,Construct a Companion,th
+ゴールドの運命,Gold Destiny,th
+ゴールドの雨,Raining Gold,th
+ゴーレム,Golem,th
+ゴーレム化,Golemify,th
+サイオン,Sion,th
+サイラス,Sylas,th
+サンファイア ケープ,Sunfire Cape,th
+ザ・ボス,The Boss,th
+ザーヘン,Zaahen,th
+シェン,Shen,th
+シマースケールのエッセンス,Shimmerscale Essence,th
+シャドウアイル,Shadow Isles,th
+シュリーマ,Shurima,th
+ショウジンの矛,Spear of Shojin,th
+シルコの復讐,Silco's Revenge,th
+シルバーの運命,Silver Destiny,th
+シルバーミアの夜明け,Silvermere Dawn,th
+シンジド,Singed,th
+シン・ジャオ,Xin Zhao,th
+シヴァーナ,Shyvana,th
+シーカー アームガード,Seeker's Armguard,th
+ジグス,Ziggs,th
+ジャイアント スレイヤー,Giant Slayer,th
+ジャイアント ベルト,Giant's Belt,th
+ジャイアント&マイティ,Giant and Mighty,th
+ジャガーノート,Juggernaut,th
+ジャガーノートの紋章,Juggernaut Emblem,th
+ジャストヒット,Just Hit,th
+ジャーヴァンⅣ,Jarvan IV,th
+ジュエル ガントレット,Jeweled Gauntlet,th
+ジュエル ロータス,Jeweled Lotus,th
+ジリアン,Zilean,th
+ジン,Jhin,th
+ジンクス,Jinx,th
+ジークの使者,Zeke's Herald,th
+ジ＝ロット ポータル,Zz'Rot Portal,th
+スウェイン,Swain,th
+スカーナー,Skarner,th
+スタティック シヴ,Statikk Shiv,th
+スターターキット,Starter Kit,th
+スターフォージャー,Star Forger,th
+スター誕生,Stars are Born,th
+ステラックの篭手,Sterak's Gage,th
+ステータスマシマシ,Tons of Stats!,th
+ストライカー フレイル,Striker's Flail,th
+スパーリング グローブ,Sparring Gloves,th
+スピリット ビサージュ,Spirit Visage,th
+スペクトラル カトラス,Spectral Cutlass,th
+スレイヤー,Slayer,th
+スレイヤーの紋章,Slayer Emblem,th
+スレッシュ,Thresh,th
+セイレーン号の片舷砲,Syren's Broadside,th
+セジュアニ,Sejuani,th
+セト,Sett,th
+セラフィムの杖,Seraphim's Staff,th
+セラフィーン,Seraphine,th
+ゼファー,Zephyr,th
+ゼラス,Xerath,th
+ソウルの目覚め,Soul Awakening,th
+ソウルバウンド,Soulbound,th
+ソナ,Sona,th
+ソラリのロケット,Locket of the Iron Solari,th
+ソード オーバーフロー,Sword Overflow,th
+ソーンプレートアーマー,Thorn-Plated Armor,th
+ゾウン,Zaun,th
+ゾウンの紋章,Zaun Emblem,th
+ゾーイ,Zoe,th
+タイタン ハイドラ,Titanic Hydra,th
+タイムワインダー,Timewinders,th
+タクティシャンのケープ,Tactician's Cape,th
+タクティシャンの王冠,Tactician's Crown,th
+タクティシャンの盾,Tactician's Shield,th
+タム・ケンチ,Tahm Kench,th
+タリック,Taric,th
+ターゴン,Targon,th
+ダイアナ,Diana,th
+ダブルトラブル,Double Trouble,th
+ダミー,Training Dummy,th
+ダミー化,Dummify,th
+ダリウス,Darius,th
+ダーキン,Darkin,th
+ダークウィルの侵略,Darkwill's Invasion,th
+ダークチャイルド,Dark Child,th
+チェイン ベスト,Chain Vest,th
+チェインブレイカー,Chainbreaker,th
+チューンド オシレーター,Tuned Oscillator,th
+チョ＝ガス,Cho'Gath,th
+ツイステッド・フェイト,Twisted Fate,th
+ツインガーディアン,Twin Guardians,th
+ティーモ,Teemo,th
+ディスラプター,Disruptor,th
+ディスラプターの紋章,Disruptor Emblem,th
+ディフェンダー,Defender,th
+ディフェンダーの紋章,Defender Emblem,th
+デスブレード,Deathblade,th
+デッド マン ダガー,Dead Man's Dagger,th
+デッドリアー ブレード,Deadlier Blades,th
+デマーシア,Demacia,th
+デマーシアの紋章,Demacia Emblem,th
+デマーシアよ永遠に,Demacia Forever,th
+デュオキュー,Duo Queue,th
+トライフェクタ,Trifecta,th
+トリスターナ,Tristana,th
+トリンダメア,Tryndamere,th
+トレードセクター,Trade Sector,th
+ドクター・ムンド,Dr. Mundo,th
+ドラゴン クロウ,Dragon's Claw,th
+ドラゴンの守護者,Dragonguards,th
+ドラゴンボーン,Dragonborn,th
+ドレイヴン,Draven,th
+ドレッドウェイの砲撃,Dreadway Cannon,th
+ドーンコア,Dawncore,th
+ナイト エッジ,Edge of Night,th
+ナサス,Nasus,th
+ナッシャー トゥース,Nashor's Tooth,th
+ニダリー,Nidalee,th
+ニーコ,Neeko,th
+ネガトロン クローク,Negatron Cloak,th
+ノクサス,Noxus,th
+ノクサスの紋章,Noxus Emblem,th
+ノーチラス,Nautilus,th
+ハントレス,Huntress,th
+ハンド オブ ジャスティス,Hand Of Justice,th
+ハーベスター,Harvester,th
+バイナリー空中投下,Binary Airdrop,th
+バフが1つ、バフが2つ,"One Buff, Two Buff",th
+バロンナッシャー,Baron Nashor,th
+バークナックル,Barknuckles,th
+バースデー リユニオン,Birthday Reunion,th
+バースデープレゼント,Birthday Present,th
+バード,Bard,th
+パンドラのアイテム,Pandora's Items,th
+パンドラのベンチ,Pandora's Bench,th
+ヒロイック,Heroic,th
+ヒーリングオーブ,Healing Orbs,th
+ビッグフレンド,Big Friend,th
+ビルジウォーター,Bilgewater,th
+ビルジウォーターの小型チャンピオン複製器,Bilgewater Lesser Champion Duplicator,th
+ビルジウォーターの紋章,Bilgewater Emblem,th
+ピルトーヴァー,Piltover,th
+ピルトーヴァーの発明品,Piltover Invention,th
+ピルトーヴァーの紋章,Piltover Emblem,th
+フィズ,Fizz,th
+フィッシュボーン,Fishbones,th
+フィドルスティックス,Fiddlesticks,th
+フォビドゥン アイドル,Forbidden Idol,th
+フライパン,Frying Pan,th
+フリッカーブレード,Flickerblades,th
+フレヨルド,Freljord,th
+フレヨルドの紋章,Freljord Emblem,th
+ブライアー,Briar,th
+ブラウム,Braum,th
+ブラックスミス,Blacksmith,th
+ブラックマーケットの再入荷,เติมสินค้าตลาดมืดใหม่,th
+ブラックマーケットの爆発物,Blackmarket Explosives,th
+ブラッドサースター,Bloodthirster,th
+ブランブル ベスト,Bramble Vest,th
+ブリッツクランク,Blitzcrank,th
+ブルーザー,Bruiser,th
+ブルーザーの紋章,Bruiser Emblem,th
+ブルーバフ,Blue Buff,th
+ブロック,Brock,th
+プラシディウムの防衛,Defense of the Placidium,th
+プラシーボ,Placebo,th
+プリズムの運命,Prismatic Destiny,th
+プリズムチケット,Prismatic Ticket,th
+プロテクターの誓い,Protector's Vow,th
+プローラー クロウ,Prowler's Claw,th
+ヘクスゲート トラベル,Hexgate Travel,th
+ヘクステック ガンブレード,Hextech Gunblade,th
+ヘクスメック,HexMech,th
+ヘッジファンド,Hedge Fund,th
+ベイガー,Veigar,th
+ベストフレンド,Best Friends,th
+ベルト オーバーフロー,Belt Overflow,th
+ベル＝ヴェス,Bel'Veth,th
+ホライゾン フォーカス,Horizon Focus,th
+ボクシングのレッスン,Boxing Lessons,th
+ボディーガードの訓練,Bodyguard Training,th
+ボリベア,Volibear,th
+ポイズンパル,Poison Pals,th
+ポッピー,Poppy,th
+ポータブル フォージ,Portable Forge,th
+ポータルワープ,Realm Warp,th
+マイクロロケット,Micro-Rockets,th
+マグネトロンコイル,Magnetron Coil,th
+マルザハール,Malzahar,th
+マーターズ ヴァーチュ,Virtue of the Martyr,th
+ミスコネクション,Missed Connections,th
+ミス・フォーチュン,Miss Fortune,th
+ミッションの再開,Restart Mission,th
+ミトン,Mittens,th
+ミニマックス,Min-Max,th
+ミリオ,Milio,th
+ムダニ デカイ ロッド,Needlessly Large Rod,th
+メイスの決意,Mace's Will,th
+メル,Mel,th
+モメンタムドライブ,Momentum Drive,th
+モレロノミコン,Morellonomicon,th
+ヤスオ,Yasuo,th
+ユナラ,Yunara,th
+ヨネ,Yone,th
+ヨリック,Yorick,th
+ヨードル,Yordle,th
+ヨードルの紋章,Yordle Emblem,th
+ライズ,Ryze,th
+ライトシールドのクレスト,Lightshield Crest,th
+ラインナップ,Lineup,th
+ラスト ウィスパー,Last Whisper,th
+ラッキーグローブ,Lucky Gloves,th
+ラックス,Lux,th
+ラバドン デスキャップ,Rabadon's Deathcap,th
+ラピッド ファイアキャノン,Rapid Firecannon,th
+ランブル,Rumble,th
+リカーブ ボウ,Recurve Bow,th
+リサンドラ,Lissandra,th
+リッチ ベイン,Lich Bane,th
+リデンプションの魂,Spirit of Redemption,th
+リフティング大会,Lifting Competition,th
+リフトスカトル,Rift Scuttler,th
+リフトスカージ,Riftscourge,th
+リフトヘラルド,Rift Herald,th
+ルシアン&セナ,Lucian & Senna,th
+ルブラン,LeBlanc,th
+ルル,Lulu,th
+ルーデン テンペスト,Luden's Tempest,th
+ルーンメイジ,Rune Mage,th
+レイトゲーム スケーリング,Late Game Scaling,th
+レイトゲーム スペシャリスト,Late Game Specialist,th
+レオナ,Leona,th
+レク＝サイ,Rek'Sai,th
+レッドバフ,Red Buff,th
+レディアントの遺物,Radiant Relics,th
+レネクトン,Renekton,th
+レベルアップ！,Level Up!,th
+ロリス,Loris,th
+ロングショット,Longshot,th
+ロングショットの紋章,Longshot Emblem,th
+ローリングデイズ,Rolling for Days,th
+ワン、ツー、ファイブ！,"One, Two, Five!",th
+ワン、ツーツー、スリー,One Twos Three,th
+ワンド オーバーフロー,Wand Overflow,th
+ワーウィック,Warwick,th
+ワーデン,Warden,th
+ワーデンの紋章,Warden Emblem,th
+ワーモグ アーマー,Warmog's Armor,th
+ワールドエンダー,World Ender,th
+ワールドルーン,The World Runes,th
+ヴァイ,Vi,th
+ヴァンキッシャー,Vanquisher,th
+ヴァンキッシャーの紋章,Vanquisher Emblem,th
+ヴィエゴ,Viego,th
+ヴェイン,Vayne,th
+ヴォイド,Void,th
+ヴォイド ガントレット,Void Gauntlet,th
+ヴォイド スタッフ,Void Staff,th
+ヴォイドの紋章,Void Emblem,th
+一二二三,One Twos Three,th
+一人前プレート,Solo Plate,th
+一等航海士のフリントロック,First Mate's Flintlock,th
+一致団結,Stand United,th
+一致団結,Teaming Up,th
+一，二，五！,"One, Two, Five!",th
+三幻神,Legion of Threes,th
+三项赛,Trifecta,th
+三，三，三！,3 Threes,th
+上方移動,Upward Mobility,th
+上进心,Upward Mobility,th
+不安定なコア,Unstable Core,th
+不屈,The Indomitable,th
+不滅の協定,Eternal Pact,th
+不稳定核心,Unstable Core,th
+不落魔锋,Immortal,th
+与狼共舞,Chosen Wolves,th
+专属定制,Exclusive Customization,th
+世界符文,The World Runes,th
+两把刷子,Two Trick,th
+主人公補正,Plot Armor,th
+主宰,Juggernaut,th
+主宰纹章,Juggernaut Emblem,th
+丽桑卓,Lissandra,th
+举重比赛,Lifting Competition,th
+乐芙兰,LeBlanc,th
+二进制空投,Binary Airdrop,th
+亚恒,Zaahen,th
+亚托克斯,Aatrox,th
+亚索,Yasuo,th
+亡者的短剑,Dead Man's Dagger,th
+仕送り,Care Package,th
+以眼还眼,Eye For An Eye,th
+以绪塔尔,Ixtal,th
+以绪塔尔纹章,Ixtal Emblem,th
+优柔寡断,Indecision,th
+伺机待发,Preparation,th
+佐伊,Zoe,th
+佛耶戈,Viego,th
+便携锻炉,Portable Forge,th
+俄洛伊,Illaoi,th
+信仰之跃,Leap of Faith,th
+信仰震,Leap of Faith,th
+修复型回响,Mending Echoes,th
+假人化,Dummify,th
+储蓄账户,Savings Account,th
+優柔不断,Indecision,th
+元初公理,The Axiomata,th
+光の番人,Sentinels of Light,th
+光明哨兵,Sentinels of Light,th
+光明圣物,Radiant Relics,th
+光明无赖,Radiant Rascal,th
+光盾徽章,Lightshield Crest,th
+克格莫,Kog'Maw,th
+入门套件,Starter Kit,th
+全身全霊,Hard Commit,th
+兰博,Rumble,th
+关爱包裹,Care Package,th
+兹若特传送门,Zz'Rot Portal,th
+内瑟斯,Nasus,th
+冕卫,Crownguard,th
+凯南,Kennen,th
+凯特琳,Caitlyn,th
+列队,Lineup,th
+利落保镖,Bodyguard Training,th
+别再错过,Missed Connections,th
+前借り,Advanced Loan,th
+前線維持,Hold the Line,th
+剑之工匠,Swordsmith,th
+剣鍛冶,Swordsmith,th
+力の聖杯,Chalice of Power,th
+加冕礼,Coronation,th
+加速之门,Acceleration Gate,th
+加里奥,Galio,th
+劣化版鏡像のペルソナ,Lesser Mirrored Persona,th
+动能屏障,Kinetic Barrier,th
+动量驱动器,Momentum Drive,th
+勝ち抜け,Win Out,th
+千珏,Kindred,th
+升星之运,On a Roll,th
+升级咯！,Level Up!,th
+升级！,Upgrade!,th
+卑尔维斯,Bel'Veth,th
+单身板甲,Solo Plate,th
+卡莉丝塔,Kalista,th
+卡莎,Kai'Sa,th
+卢登的激荡,Luden's Tempest,th
+卢锡安与赛娜,Lucian & Senna,th
+即席アーマー,Makeshift Armor,th
+厄斐琉斯,Aphelios,th
+厄运小姐,Miss Fortune,th
+厨神阿福,U.R.F,th
+双城赢家,Arcane Viktor-y,th
+双子守护神,Twin Guardians,th
+双排,Duo Queue,th
+反响,Replication,th
+反曲之弓,Recurve Bow,th
+变形重组器,Recombobulator,th
+可大可小,Min-Max,th
+可酷伯与悠米,Kobuko & Yuumi,th
+吉格斯,Ziggs,th
+后期专家,Late Game Specialist,th
+后期收益,Late Game Scaling,th
+呪いの刃,Cursed Blade,th
+呪われた望遠鏡,Haunted Spyglass,th
+嗜火,Pyromaniac,th
+嘉文四世,Jarvan IV,th
+四费增援,ReinFOURcement,th
+回声引擎,Echo Engine,th
+圣盾使的誓约,Protector's Vow,th
+坚守防线,Hold the Line,th
+坚定之心,Steadfast Heart,th
+埋もれた宝物,Buried Treasures,th
+基克的先驱,Zeke's Herald,th
+基兰,Zilean,th
+基础装备自助餐,Component Buffet,th
+報復,Retribution,th
+塔姆,Tahm Kench,th
+塔里克,Taric,th
+塞拉斯,Sylas,th
+复苏之风,Second Wind,th
+夕闇の加護,Aegis of Dusk,th
+夜之锋刃,Edge of Night,th
+夜明けの加護,Aegis of Dawn,th
+大きな福袋,Big Grab Bag,th
+大买特买,Shopping Spree,th
+大刷特刷,Hefty Rolls,th
+大剑溢流,Sword Overflow,th
+大副的燧发枪,First Mate's Flintlock,th
+大哥罩我,Big Friend,th
+大地のアクシオム,Earth Axiom,th
+大天使之杖,Archangel's Staff,th
+大炮火力网,Artillery Barrage,th
+大百宝袋,Big Grab Bag,th
+大砲の雨,Artillery Barrage,th
+大而有力,Giant and Mighty,th
+天の祝福,Celestial Blessing,th
+天生二星,Stars are Born,th
+天降金币,Raining Gold,th
+奇亚娜,Qiyana,th
+奈德丽,Nidalee,th
+奥恩,Ornn,th
+奥瑞利安·索尔,Aurelion Sol,th
+奥莉安娜,Orianna,th
+女神の涙,Tear of the Goddess,th
+女神之泪,Tear of the Goddess,th
+好きなだけ泣くがいい,Cry Me A River,th
+好事成双,Double Trouble,th
+妮蔻,Neeko,th
+娑娜,Sona,th
+孙悟空,Wukong,th
+宇宙の呼び声,Cosmic Calling,th
+安妮,Annie,th
+安慰剂,Placebo,th
+安蓓萨,Ambessa,th
+宝藏台风,Treasure Typhoon,th
+密银黎明,Silvermere Dawn,th
+对冲基金,Hedge Fund,th
+小さくても強烈,"Tiny, but Deadly",th
+小さな仲間たち,Little Buddies,th
+小さな福袋,Small Grab Bag,th
+小伙伴,Little Buddies,th
+小小福袋,Small Grab Bag,th
+小而致命,"Tiny, but Deadly",th
+山積みのシトラス,Pile O' Citrus,th
+山隐之焰,Blacksmith,th
+岩土公理,Earth Axiom,th
+岩宝,Brock,th
+峡谷先锋,Rift Herald,th
+峡谷迅捷蟹,Rift Scuttler,th
+崔丝塔娜,Tristana,th
+崔斯特,Twisted Fate,th
+巧みなクラフト,Crafted Crafting,th
+巨人の誓い,Titan's Resolve,th
+巨人杀手,Giant Slayer,th
+巨人腰带,Giant's Belt,th
+巨型九头蛇,Titanic Hydra,th
+巨大化ビーム,Gigantification Ray,th
+巨大化射线,Gigantification Ray,th
+巨神峰,Targon,th
+巨龙之爪,Dragon's Claw,th
+巨龙卫士,Dragonguards,th
+巫妖之祸,Lich Bane,th
+巴德,Bard,th
+布里茨,Blitzcrank,th
+布隆,Braum,th
+希尔科的复仇,Silco's Revenge,th
+希瓦娜,Shyvana,th
+帽子ジュース,Cappa Juice,th
+帽子饮品,Cappa Juice,th
+幸运手套,Lucky Gloves,th
+幸运达布隆金币,Lucky Doubloon,th
+幸運の金貨,Lucky Doubloon,th
+幽魂弯刀,Spectral Cutlass,th
+広がる根,Spreading Roots,th
+庇護者のお供,Caretaker's Ally,th
+应急护甲,Makeshift Armor,th
+应急护盾,Plot Armor,th
+弗雷尔卓德,Freljord,th
+弗雷尔卓德纹章,Freljord Emblem,th
+强盗的骰子,Brigand's Dice,th
+强袭者的链枷,Striker's Flail,th
+影の操り人形,Shadow Puppet,th
+征服者,Vanquisher,th
+征服者纹章,Vanquisher Emblem,th
+微型导弹,Micro-Rockets,th
+德玛西亚,Demacia,th
+德玛西亚万岁,Demacia Forever,th
+德玛西亚纹章,Demacia Emblem,th
+德莱厄斯,Darius,th
+德莱文,Draven,th
+心之钢,Heart of Steel,th
+心身統御のペンダント,Innervating Locket,th
+忍耐の美徳,Patience is a Virtue,th
+思惑買い,Going Long,th
+怪しげなトレンチコート,Suspicious Trench Coat,th
+恕瑞玛,Shurima,th
+恶火小斧,Hellfire Hatchet,th
+想定内の意外性,Expected Unexpectedness,th
+意料之中的意外,Expected Unexpectedness,th
+慎,Shen,th
+成吨的属性！,Tons of Stats!,th
+成堆柑橘,Pile O' Citrus,th
+成長志向,Growth Mindset,th
+成长型思维,Growth Mindset,th
+戦闘準備,Preparation,th
+戴冠式,Coronation,th
+承诺之护,Promised Protection,th
+投資完了,Invested,th
+投资,Invested,th
+护卫,Defender,th
+护卫纹章,Defender Emblem,th
+护甲消除器,Armor Nullifier,th
+拉克丝,Lux,th
+拳击课程,Boxing Lessons,th
+拳套,Sparring Gloves,th
+挑个好伙计！,Construct a Companion,th
+振奋盔甲,Spirit Visage,th
+採掘ドリル,Mining Drill,th
+探索者的护臂,Seeker's Armguard,th
+提莫,Teemo,th
+揺るがぬ心,Steadfast Heart,th
+摇钱树,Money Monsoon,th
+救赎盔甲,Spirit of Redemption,th
+斗士,Bruiser,th
+斗士纹章,Bruiser Emblem,th
+料理鍋,Cooking Pot,th
+斯卡纳,Skarner,th
+斯塔缇克电刃,Statikk Shiv,th
+斯特拉克的挑战护手,Sterak's Gage,th
+斯维因,Swain,th
+无尽之刃,Infinity Edge,th
+无差别攻击,Indiscriminate Killer,th
+无序进化,Chaotic Evolution,th
+无用大棒,Needlessly Large Rod,th
+无终恨意,Unending Despair,th
+日炎斗篷,Sunfire Cape,th
+时光守护者,Chronokeeper,th
+时间旅者,Timewinders,th
+星界感召,Cosmic Calling,th
+星界游神,Caretaker,th
+星界赐福,Celestial Blessing,th
+時の歯車,Continuum Cogs,th
+普朗克,Gangplank,th
+普通預金口座,Savings Account,th
+普雷西典保卫战,Defense of the Placidium,th
+智慧末刃,Wit's End,th
+暗影岛,Shadow Isles,th
+暗影木偶,Shadow Puppet,th
+暗行者之爪,Prowler's Claw,th
+暗裔,Darkin,th
+暗裔剑魔,World Ender,th
+暮光试炼,Trials of Twilight,th
+暴风之剑,B.F. Sword,th
+曲境折跃,Realm Warp,th
+更要命的帽子,Deadlier Caps,th
+更要命的战刃,Deadlier Blades,th
+最佳好友,Best Friends,th
+最初の1つは無料！,ครั้งแรกฟรี!,th
+最后一秒营救,Last Second Save,th
+最后的轻语,Last Whisper,th
+最強の四配者,ReinFOURcement,th
+有効活用,Good For Something,th
+有用之材,Good For Something,th
+朔极之矛,Spear of Shojin,th
+木のアクシオム,Wood Axiom,th
+权杖意志,Mace's Will,th
+杖之工匠,Staffsmith,th
+杖鍛冶,Staffsmith,th
+枪手,Gunslinger,th
+枪手纹章,Gunslinger Emblem,th
+枯朽の遺物,Withered Relic,th
+枯死の宝石,Blighting Jewel,th
+枯萎圣物,Withered Relic,th
+枯萎珠宝,Blighting Jewel,th
+格温,Gwen,th
+格雷福斯,Graves,th
+梅尔,Mel,th
+棘刺背心,Bramble Vest,th
+棘刺镀板铠甲,Thorn-Plated Armor,th
+森罗公理,Wood Axiom,th
+棱彩命运,Prismatic Destiny,th
+棱彩门票,Prismatic Ticket,th
+構成拡大,Branching Out,th
+槍の決意,Spear's Will,th
+次级镜像人格面具,Lesser Mirrored Persona,th
+正义之手,Hand Of Justice,th
+正义巨像,Heroic,th
+正义报复,Retribution,th
+死亡之刃,Deathblade,th
+殉道美德,Virtue of the Martyr,th
+残酷弯刀,Cutthroat's Cutlass,th
+殺し屋のカトラス,Cutthroat's Cutlass,th
+比尔吉沃特,Bilgewater,th
+比尔吉沃特 次级英雄复制器,Bilgewater Lesser Champion Duplicator,th
+比尔吉沃特纹章,Bilgewater Emblem,th
+气旋公理,Air Axiom,th
+水のアクシオム,Water Axiom,th
+水乳交融,We Stick Together,th
+水银,Quicksilver,th
+永恒契约,Eternal Pact,th
+永恩,Yone,th
+永猎双子,Eternal,th
+沃利贝尔,Volibear,th
+沃里克,Warwick,th
+沈黙の帳,Shroud of Stillness,th
+沙漠皇帝,Emperor,th
+河流之王,Glutton,th
+治疗法球,Healing Orbs,th
+法师,Arcanist,th
+法师纹章,Arcanist Emblem,th
+法杖溢流,Wand Overflow,th
+波比,Poppy,th
+泪流成河,Cry Me A River,th
+泰坦的坚决,Titan's Resolve,th
+泰达米尔,Tryndamere,th
+泽拉斯,Xerath,th
+洛里斯,Loris,th
+浪人,Exiles,th
+海克斯机甲,HexMech,th
+海克斯科技枪刃,Hextech Gunblade,th
+海克斯霸龙,T-Hex,th
+海克斯飞门之旅,Hexgate Travel,th
+海妖之怒,Kraken's Fury,th
+涌泉公理,Water Axiom,th
+混乱回復装置,Recombobulator,th
+混沌の進化,Chaotic Evolution,th
+游神的盟友,Caretaker's Ally,th
+滅びの王,The Ruined King,th
+潘朵拉的备战席,Pandora's Bench,th
+潘朵拉的装备,Pandora's Items,th
+激发之匣,Innervating Locket,th
+火上浇油,Feed the Flames,th
+灭世者的死亡之帽,Rabadon's Deathcap,th
+灵风,Zephyr,th
+灵魂唤醒,Soul Awakening,th
+災禍の使者,Bringer of Ruin,th
+炎のアクシオム,Fire Axiom,th
+炎の愛好家,Pyromaniac,th
+炎を強めて,Feed the Flames,th
+点击即送,Just Hit,th
+炽天使之拥,Seraphim's Staff,th
+炽焰公理,Fire Axiom,th
+烁刃,Flickerblades,th
+烬,Jhin,th
+無差別殺人者,Indiscriminate Killer,th
+爆炸式增长,Explosive Growth,th
+爆発的成長,Explosive Growth,th
+爆裂护盾,Blast Shield,th
+特性の書,Tome of Traits,th
+特性の木,The Trait Tree,th
+狂徒铠甲,Warmog's Armor,th
+狂野女猎手,Huntress,th
+狂野生长,Wild Growth,th
+狙神,Longshot,th
+狙神纹章,Longshot Emblem,th
+猛将的荣耀,Warlord's Honor,th
+獄炎のハチェット,Hellfire Hatchet,th
+王冠とは重きもの,Heavy Is the Crown,th
+王冠之重,Heavy Is the Crown,th
+王冠意志,Crown's Will,th
+玛尔扎哈,Malzahar,th
+玻璃大炮,Glass Cannon,th
+珍藏财宝,Buried Treasures,th
+珠光护手,Jeweled Gauntlet,th
+珠光莲花,Jeweled Lotus,th
+瑞兹,Ryze,th
+瑟庄妮,Sejuani,th
+瑟提,Sett,th
+璐璐,Lulu,th
+甘いおやつ,Sweet Treats,th
+甜点,Sweet Treats,th
+生日礼物,Birthday Present,th
+生日聚会,Birthday Reunion,th
+生涯ブロンズ,Bronze For Life,th
+由二生D,Two Much Value,th
+电压导管,Voltage Conduit,th
+电流过载,Electrical Overload,th
+电磁脉冲,E.M.P.,th
+略奪者のダイス,Brigand's Dice,th
+疾射火炮,Rapid Firecannon,th
+癒しのこだま,Mending Echoes,th
+登上最高峰,Win Out,th
+白银命运,Silver Destiny,th
+皮尔特沃夫,Piltover,th
+皮尔特沃夫发明,Piltover Invention,th
+皮尔特沃夫纹章,Piltover Emblem,th
+盖伦,Garen,th
+盗賊のグローブ,Thief's Gloves,th
+盗賊団,Band of Thieves,th
+目には目を,Eye For An Eye,th
+石像鬼石板甲,Gargoyle Stoneplate,th
+破灭使者,Bringer of Ruin,th
+破败之王,The Ruined King,th
+硬性承诺,Hard Commit,th
+碰撞测试假人,Crash Test Dummies,th
+確約された守護,Promised Protection,th
+磁控线圈,Magnetron Coil,th
+祖安,Zaun,th
+祖安纹章,Zaun Emblem,th
+神盾使,Warden,th
+神盾使纹章,Warden Emblem,th
+神谕者,Invoker,th
+神谕者纹章,Invoker Emblem,th
+禁忌雕像,Forbidden Idol,th
+离子火花,Ionic Spark,th
+科加斯,Cho'Gath,th
+秘传奥义,Kahunahuna,th
+穢れたヴァンパイア セプター,Corrupt Vampiric Scepter,th
+窃贼帮派,Band of Thieves,th
+窃贼手套,Thief's Gloves,th
+符文法师,Rune Mage,th
+第一份免费！,ครั้งแรกฟรี!,th
+米利欧,Milio,th
+精准而优雅,Precision and Grace,th
+精密かつ優雅,Precision and Grace,th
+精心打造,Crafted Crafting,th
+系魂圣枪,Soulbound,th
+素材ビュッフェ,Component Buffet,th
+紡がれし魔法,Woven Magic,th
+終わりなき絶望,Unending Despair,th
+絶好調,On a Roll,th
+红霸符,Red Buff,th
+约德尔人,Yordle,th
+约德尔人纹章,Yordle Emblem,th
+约里克,Yorick,th
+纳什之牙,Nashor's Tooth,th
+纳什男爵,Baron Nashor,th
+纳什男爵,Riftscourge,th
+纹章之书,Tome of Traits,th
+纺织魔法,Woven Magic,th
+终身黄铜,Bronze For Life,th
+绝命毒师,Poison Pals,th
+维迦,Veigar,th
+羁绊树,The Trait Tree,th
+耀光使,Disruptor,th
+耀光使纹章,Disruptor Emblem,th
+耐心是一种美德,Patience is a Virtue,th
+联合作战,Stand United,th
+能量圣杯,Chalice of Power,th
+腐蚀,Corrosion,th
+腐食,Corrosion,th
+腕豪,The Boss,th
+腰带溢流,Belt Overflow,th
+船长的帽子,Captain's Hat,th
+船长的酿造品,Captain's Brew,th
+艾克,Ekko,th
+艾尼维亚,Anivia,th
+艾希,Ashe,th
+艾欧尼亚,Ionia,th
+艾欧尼亚纹章,Ionia Emblem,th
+节外生枝,Branching Out,th
+芸阿娜,Yunara,th
+英勇福袋,Heroic Grab Bag,th
+英雄のラッキーバッグ,Heroic Grab Bag,th
+莫雷洛秘典,Morellonomicon,th
+菲兹,Fizz,th
+萨勒芬妮,Seraphine,th
+蒙多医生,Dr. Mundo,th
+蓝霸符,Blue Buff,th
+蔓延之根,Spreading Roots,th
+蔚,Vi,th
+蕾欧娜,Leona,th
+薄暮法袍,Evenshroud,th
+薇恩,Vayne,th
+虚空,Void,th
+虚空之女,Assimilator,th
+虚空之杖,Void Staff,th
+虚空护手,Void Gauntlet,th
+虚空纹章,Void Emblem,th
+血の供物,Blood Offering,th
+衝突試験用ダミー,Crash Test Dummies,th
+裁决战士,Slayer,th
+裁决战士纹章,Slayer Emblem,th
+装备百宝袋,Item Grab Bag,th
+複製,Replication,th
+视界专注,Horizon Focus,th
+解封魔武,Unsealed From Steel,th
+解脱者,Chainbreaker,th
+训练假人,Training Dummy,th
+诅咒之刃,Cursed Blade,th
+诺克萨斯,Noxus,th
+诺克萨斯纹章,Noxus Emblem,th
+诺提勒斯,Nautilus,th
+调谐振荡器,Tuned Oscillator,th
+財宝の竜巻,Treasure Typhoon,th
+買い物三昧,Shopping Spree,th
+贝蕾亚,Briar,th
+负极斗篷,Negatron Cloak,th
+贸易中心,Commerce Core,th
+费德提克,Fiddlesticks,th
+赛恩,Sion,th
+赵信,Xin Zhao,th
+起死回生,Second Wind,th
+超越のタリスマン,Talisman Of Ascension,th
+超越生体,Superior Lifeform,th
+超越者,Ascendant,th
+超频电容器,Overclocked Capacitors,th
+輝く悪党,Radiant Rascal,th
+轻量魔法投掷,Slightly Magic Roll,th
+辛吉德,Singed,th
+达克威尔入侵,Darkwill's Invasion,th
+迅击战士,Quickstriker,th
+迅击战士纹章,Quickstriker Emblem,th
+远古巨龙,Elder Dragon,th
+远古巫灵,Ascendant,th
+远古恐惧,Harvester,th
+连指手套,Mittens,th
+连续齿轮,Continuum Cogs,th
+迷离风衣,Suspicious Trench Coat,th
+适应性头盔,Adaptive Helm,th
+遥遥领先,Going Long,th
+選ばれし狼,Chosen Wolves,th
+酒吧指虎,Barknuckles,th
+采矿钻机,Mining Drill,th
+重启任务,Restart Mission,th
+金のモンスーン,Money Monsoon,th
+金ピカの鋼,Gilded Steel,th
+金克丝,Jinx,th
+金色炊具,Cooking Pot,th
+金铲铲,Spatula,th
+金铲铲冠冕,Tactician's Crown,th
+金锅铲冠冕,Tactician's Cape,th
+金锅锅,Frying Pan,th
+金锅锅冠冕,Tactician's Shield,th
+金霖龙,The Golden Dragon,th
+金鳞精粹,Shimmerscale Essence,th
+銀の匙,Silver Spoon,th
+鋼からの解放,Unsealed From Steel,th
+鋼の心,Heart of Steel,th
+鏡像のペルソナ,Mirrored Persona,th
+钢铁烈阳之匣,Locket of the Iron Solari,th
+银汤匙,Silver Spoon,th
+铸星龙王,Star Forger,th
+锁子甲,Chain Vest,th
+锤石,Thresh,th
+镀金钢铁,Gilded Steel,th
+镜像人格面具,Mirrored Persona,th
+长矛意志,Spear's Will,th
+阿兹尔,Azir,th
+阿狸,Ahri,th
+限定カスタマイズ,Exclusive Customization,th
+集中火力,Focused Fire,th
+集中砲火,Focused Fire,th
+集结战队,Teaming Up,th
+雷克塞,Rek'Sai,th
+雷克顿,Renekton,th
+震畏大炮,Dreadway Cannon,th
+静止法衣,Shroud of Stillness,th
+韋駄天,Quickstriker,th
+韋駄天の紋章,Quickstriker Emblem,th
+顽强不屈,The Indomitable,th
+風のアクシオム,Air Axiom,th
+飞升,Ascension,th
+飞升护符,Talisman Of Ascension,th
+食堂,Mess Hall,th
+饭厅,Mess Hall,th
+饮血剑,Bloodthirster,th
+騎士の誓い,Knight's Vow,th
+骑士之誓,Knight's Vow,th
+高压电,High Voltage,th
+高级生命体,Superior Lifeform,th
+高级贷款,Advanced Loan,th
+高電圧,High Voltage,th
+高電圧管,Voltage Conduit,th
+鬼影望远镜,Haunted Spyglass,th
+鬼索的狂暴之刃,Guinsoo's Rageblade,th
+魔像,Golem,th
+魔像化,Golemify,th
+魔法のダイス,A Magic Roll,th
+魔法投掷,A Magic Roll,th
+鱼骨头,Fishbones,th
+鲜血祭品,Blood Offering,th
+黄昏の試練,Trials of Twilight,th
+黄昏圣盾,Aegis of Dusk,th
+黄金の龍,The Golden Dragon,th
+黄金命运,Gold Destiny,th
+黎明圣盾,Aegis of Dawn,th
+黎明核心,Dawncore,th
+黑市炸药,Blackmarket Explosives,th
+黑市补货,เติมสินค้าตลาดมืดใหม่,th
+黑暗之女,Dark Child,th
+黑暗吸血鬼节杖,Corrupt Vampiric Scepter,th
+黑铁资产,Iron Assets,th
+黛安娜,Diana,th
+龙血武姬,Dragonborn,th

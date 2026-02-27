@@ -1,449 +1,395 @@
 source,target,tgt_lng
+1个霸符，2个霸符,Wzmocnienie Raz i Dwa,pl
+2のトリック,Podwojenie,pl
+3 Threes,Trzy Trójki,pl
+3×3,Trzy Trójki,pl
+3の軍団,Legion Trójek,pl
+8级D干的传说,Epickie Przelosowanie,pl
+90 Caliber Nets,Wystrzel Sieć,pl
+90口径绳网,Wystrzel Sieć,pl
+A Magic Roll,Magiczny Rzut,pl
 Aatrox,Aatrox,pl
+Acceleration Gate,Brama Przyspieszenia,pl
+Adaptive Helm,Specjalistyczny Hełm,pl
+Advanced Loan,Zaawansowana Pożyczka,pl
+Aegis of Dawn,Egida Świtu,pl
+Aegis of Dusk,Egida Zmierzchu,pl
 Ahri,Ahri,pl
+Air Axiom,Powietrzny Aksjomat,pl
 Ambessa,Ambessa,pl
 Anivia,Anivia,pl
 Annie,Annie,pl
 Aphelios,Aphelios,pl
+Arcane Viktor-y,Zwycięstwo Viktora z Arcane,pl
+Arcane ビクタリー,Zwycięstwo Viktora z Arcane,pl
+Arcanist,Adept Arkanów,pl
+Arcanist Emblem,Emblemat Adepta Arkanów,pl
+Archangel's Staff,Kostur Archanioła,pl
+Armor Nullifier,Osłabienie Pancerza,pl
+Artillery Barrage,Ostrzał Artyleryjski,pl
+Ascendant,Wschodzący,pl
+Ascension,Wyniesienie,pl
 Ashe,Ashe,pl
+Assimilator,Asymilator,pl
 Aurelion Sol,Aurelion Sol,pl
 Azir,Azir,pl
+B.F. Sword,K.W. Miecz,pl
+B.F.ソード,K.W. Miecz,pl
+Band of Thieves,Banda Złodziejaszków,pl
 Bard,Bard,pl
+Barknuckles,Pąklowy Kastet,pl
 Baron Nashor,Baron Nashor,pl
 Bel'Veth,Bel'Veth,pl
-Blitzcrank,Blitzcrank,pl
-Braum,Braum,pl
-Briar,Briar,pl
-Brock,Brock,pl
-Caitlyn,Caitlyn,pl
-Cho'Gath,Cho'Gath,pl
-Darius,Darius,pl
-Diana,Diana,pl
-Dr. Mundo,Dr Mundo,pl
-Draven,Draven,pl
-Ekko,Ekko,pl
-Elder Dragon,Starszy Smok,pl
-Fiddlesticks,Fiddlesticks,pl
-Fizz,Fizz,pl
-Galio,Galio,pl
-Gangplank,Gangplank,pl
-Garen,Garen,pl
-Golem,Golem,pl
-Graves,Graves,pl
-Gwen,Gwen,pl
-Illaoi,Illaoi,pl
-Jarvan IV,Jarvan IV,pl
-Jhin,Jhin,pl
-Jinx,Jinx,pl
-Kai'Sa,Kai'Sa,pl
-Kalista,Kalista,pl
-Kennen,Kennen,pl
-Kindred,Kindred,pl
-Kobuko & Yuumi,Kobuko i Yuumi,pl
-Kog'Maw,Kog'Maw,pl
-LeBlanc,LeBlanc,pl
-Leona,Leona,pl
-Lissandra,Lissandra,pl
-Loris,Loris,pl
-Lucian & Senna,Lucian i Senna,pl
-Lulu,Lulu,pl
-Lux,Lux,pl
-Malzahar,Malzahar,pl
-Mel,Mel,pl
-Milio,Milio,pl
-Miss Fortune,Miss Fortune,pl
-Nasus,Nasus,pl
-Nautilus,Nautilus,pl
-Neeko,Neeko,pl
-Nidalee,Nidalee,pl
-Orianna,Orianna,pl
-Ornn,Ornn,pl
-Piltover Invention,Wynalazek Piltover,pl
-Poppy,Poppy,pl
-Qiyana,Qiyana,pl
-Rek'Sai,Rek'Sai,pl
-Renekton,Renekton,pl
-Rift Herald,Herold,pl
-Rift Scuttler,Wędrujący Krab,pl
-Rumble,Rumble,pl
-Ryze,Ryze,pl
-Sejuani,Sejuani,pl
-Seraphine,Seraphine,pl
-Sett,Sett,pl
-Shen,Shen,pl
-Shyvana,Shyvana,pl
-Singed,Singed,pl
-Sion,Sion,pl
-Skarner,Skarner,pl
-Sona,Sona,pl
-Swain,Swain,pl
-Sylas,Sylas,pl
-T-Hex,T-Hex,pl
-Tahm Kench,Tahm Kench,pl
-Taric,Taric,pl
-Teemo,Teemo,pl
-Thresh,Thresh,pl
-Training Dummy,Kukła Treningowa,pl
-Tristana,Tristana,pl
-Tryndamere,Tryndamere,pl
-Twisted Fate,Twisted Fate,pl
-Vayne,Vayne,pl
-Veigar,Veigar,pl
-Vi,Vi,pl
-Viego,Viego,pl
-Volibear,Volibear,pl
-Warwick,Warwick,pl
-Wukong,Wukong,pl
-Xerath,Xerath,pl
-Xin Zhao,Xin Zhao,pl
-Yasuo,Yasuo,pl
-Yone,Yone,pl
-Yorick,Yorick,pl
-Yunara,Yunara,pl
-Zaahen,Zaahen,pl
-Ziggs,Ziggs,pl
-Zilean,Zilean,pl
-Zoe,Zoe,pl
-Arcanist,Adept Arkanów,pl
-Ascendant,Wschodzący,pl
-Assimilator,Asymilator,pl
-Bilgewater,Bilgewater,pl
-Blacksmith,Kowal,pl
-Bruiser,Osiłek,pl
-Caretaker,Opiekun,pl
-Chainbreaker,Wyzwolony,pl
-Chosen Wolves,Wybrani przez Wilka,pl
-Chronokeeper,Strażnik Czasu,pl
-Dark Child,Dziecko Ciemności,pl
-Darkin,Darkin,pl
-Defender,Obrońca,pl
-Demacia,Demacia,pl
-Disruptor,Zakłócacz,pl
-Dragonborn,Córa Smoków,pl
-Dragonguards,Smocza Gwardia,pl
-Emperor,Imperator,pl
-Eternal,Wieczni,pl
-Freljord,Freljord,pl
-Glutton,Żarłok,pl
-Gunslinger,Rewolwerowiec,pl
-Harvester,Żniwiarz,pl
-Heroic,Heros,pl
-HexMech,HexMech,pl
-Huntress,Łowczyni,pl
-Immortal,Nieśmiertelny,pl
-Invoker,Wzywający,pl
-Ionia,Ionia,pl
-Ixtal,Ixtal,pl
-Juggernaut,Moloch,pl
-Longshot,Dalekostrzelec,pl
-Noxus,Noxus,pl
-Piltover,Piltover,pl
-Poison Pals,Trujący Towarzysze,pl
-Quickstriker,Napastnik,pl
-Riftscourge,Pogromca Riftu,pl
-Rune Mage,Mag Run,pl
-Sentinels of Light,Strażnik Światła,pl
-Shadow Isles,Wyspy Cienia,pl
-Shurima,Shurima,pl
-Slayer,Pogromca,pl
-Soulbound,Złączona dusza,pl
-Star Forger,Architekt Gwiazd,pl
-Targon,Targon,pl
-The Boss,Gangster,pl
-Timewinders,Czasowstrzymywacz,pl
-Vanquisher,Poskromiciel,pl
-Void,Pustka,pl
-Warden,Wartownik,pl
-World Ender,Zagłada Świata,pl
-Yordle,Yordle,pl
-Zaun,Zaun,pl
-3 Threes,Trzy Trójki,pl
-A Magic Roll,Magiczny Rzut,pl
-Advanced Loan,Zaawansowana Pożyczka,pl
-Air Axiom,Powietrzny Aksjomat,pl
-Arcane Viktor-y,Zwycięstwo Viktora z Arcane,pl
-Artillery Barrage,Ostrzał Artyleryjski,pl
-Ascension,Wyniesienie,pl
-Band of Thieves,Banda Złodziejaszków,pl
 Belt Overflow,Pasowy Przesyt,pl
 Best Friends,Najlepsi Przyjaciele,pl
 Big Friend,Wielki Przyjaciel,pl
 Big Grab Bag,Duża Torba z Różnościami,pl
+Bilgewater,Bilgewater,pl
+Bilgewater Emblem,Emblemat Bilgewater,pl
+Bilgewater Lesser Champion Duplicator,Mniejszy Powielacz Bohaterów Bilgewater,pl
 Binary Airdrop,Binarny Zrzut,pl
 Birthday Present,Prezent Urodzinowy,pl
 Birthday Reunion,Zjazd Urodzinowy,pl
+Black Market Restock,Dostawa Czarnego Rynku,pl
+Blackmarket Explosives,Czarnorynkowe Bomby,pl
+Blacksmith,Kowal,pl
+Blast Shield,Tarcza Przeciwuderzeniowa,pl
+Blighting Jewel,Klejnot Rozpadu,pl
+Blitzcrank,Blitzcrank,pl
 Blood Offering,Ofiara z Krwi,pl
+Bloodthirster,Krwiopijec,pl
+Blue Buff,Niebieskie Wzmocnienie,pl
 Bodyguard Training,Trening Ochroniarza,pl
 Boxing Lessons,Podstawy Boksu,pl
+Bramble Vest,Kamizelka Cierniowa,pl
 Branching Out,Rozgałęzienie,pl
+Braum,Braum,pl
+Briar,Briar,pl
+Brigand's Dice,Kość Krwiopijcy,pl
 Bringer of Ruin,Niosący Zniszczenie,pl
+Brock,Brock,pl
 Bronze For Life,Wieczny Brąz,pl
+Bruiser,Osiłek,pl
+Bruiser Emblem,Emblemat Osiłka,pl
 Buried Treasures,Zakopane Skarby,pl
+Caitlyn,Caitlyn,pl
+Cappa Juice,Sok Cappa,pl
+Captain's Brew,Trunek Kapitana,pl
+Captain's Hat,Kapelusz Kapitana,pl
 Care Package,Paczka Wsparcia,pl
+Caretaker,Opiekun,pl
 Caretaker's Ally,Sojusznik Opiekuna,pl
 Celestial Blessing,Astralne Błogosławieństwo,pl
+Chain Vest,Kamizelka Kolcza,pl
+Chainbreaker,Wyzwolony,pl
+Chalice of Power,Puchar Potęgi,pl
 Chaotic Evolution,Chaotyczna Ewolucja,pl
+Cho'Gath,Cho'Gath,pl
+Chosen Wolves,Wybrani przez Wilka,pl
+Chronokeeper,Strażnik Czasu,pl
 Commerce Core,Rdzeń Handlu,pl
 Component Buffet,Składnikowy Bufet,pl
 Construct a Companion,Stwórz Towarzysza,pl
+Continuum Cogs,Trybiki Kontinuum,pl
 Cooking Pot,Wielkie Gotowanie,pl
 Coronation,Koronacja,pl
 Corrosion,Korozja,pl
+Corrupt Vampiric Scepter,Spaczony Wampiryczny Kostur,pl
 Cosmic Calling,Kosmiczny Zew,pl
 Crafted Crafting,Twórcze Tworzenie,pl
 Crash Test Dummies,Kukły do Testów Wypadkowych,pl
 Crown's Will,Wola Korony,pl
+Crownguard,Obrońca Korony,pl
 Cry Me A River,Rzeka Łez,pl
+Cursed Blade,Przeklęte Ostrze,pl
+Cutthroat's Cutlass,Kordelas Rzezimieszka,pl
+C位的觉悟,Odnajdź Równowagę,pl
+DD街区,Sektor Wymiany,pl
+Darius,Darius,pl
+Dark Child,Dziecko Ciemności,pl
+Darkin,Darkin,pl
 Darkwill's Invasion,Inwazja Darkwilla,pl
+Dawncore,Rdzeń Świtu,pl
+Dead Man's Dagger,Sztylet Umrzyka,pl
 Deadlier Blades,Groźniejsze Ostrza,pl
 Deadlier Caps,Kapelusze Zabójcze jak Nigdy,pl
+Deathblade,Ostrze Śmierci,pl
+Defender,Obrońca,pl
+Defender Emblem,Emblemat Obrońcy,pl
 Defense of the Placidium,Obrona Placidium,pl
+Demacia,Demacia,pl
+Demacia Emblem,Emblemat Demacii,pl
 Demacia Forever,Demacia na Zawsze,pl
+Diana,Diana,pl
+Disruptor,Zakłócacz,pl
+Disruptor Emblem,Emblemat Zakłócacza,pl
 Double Trouble,Podwójne Kłopoty,pl
+Dr. Mundo,Dr Mundo,pl
+Dragon's Claw,Smoczy Szpon,pl
+Dragonborn,Córa Smoków,pl
+Dragonguards,Smocza Gwardia,pl
+Draven,Draven,pl
+Dreadway Cannon,Armata Drogi przez Mękę,pl
 Dummify,Wykuklenie,pl
 Duo Queue,Kolejka Duo,pl
+D个痛快！,Odświeżanie na Zapas,pl
+E.M.P.,Impuls Elektromagnetyczny,pl
 Earth Axiom,Ziemny Aksjomat,pl
+Echo Engine,Silnik Echo,pl
+Edge of Night,Ostrze Nocy,pl
+Ekko,Ekko,pl
+Elder Dragon,Starszy Smok,pl
+Electrical Overload,Przeładowanie Elektryczne,pl
+Emperor,Imperator,pl
 Epic Rolldown,Epickie Przelosowanie,pl
+Eternal,Wieczni,pl
+Eternal Pact,Wieczny Pakt,pl
+Evenshroud,Zasłona Równości,pl
 Exclusive Customization,Ekskluzywna Personalizacja,pl
 Exiles,Wygnańcy,pl
 Expected Unexpectedness,Oczekiwane Nieoczekiwanie,pl
 Explosive Growth,Gwałtowny Wzrost,pl
 Eye For An Eye,Oko za Oko,pl
 Feed the Flames,Podsycenie Płomieni,pl
+Fiddlesticks,Fiddlesticks,pl
 Find Your Center,Odnajdź Równowagę,pl
 Fire Axiom,Ognisty Aksjomat,pl
+First Mate's Flintlock,Pistolet Pierwszego Oficera,pl
+First One's Free!,Pierwsze Jest Darmowe!,pl
+Fishbones,Rybeńka,pl
+Fizz,Fizz,pl
+Flickerblades,Migoczące Ostrze,pl
 Focused Fire,Skupiony Ogień,pl
+Forbidden Idol,Bluźnierczy Bożek,pl
+Freljord,Freljord,pl
+Freljord Emblem,Emblemat Freljordu,pl
+Frying Pan,Patelnia,pl
+Galio,Galio,pl
+Gangplank,Gangplank,pl
+Garen,Garen,pl
+Gargoyle Stoneplate,Kamienna Płyta Gargulca,pl
+Giant Slayer,Pogromca Olbrzymów,pl
 Giant and Mighty,Wielkość i Potęga,pl
+Giant's Belt,Pas Giganta,pl
+Gigantification Ray,Promień Gigantyfikujący,pl
 Gilded Steel,Pozłacana Stal,pl
 Glass Cannon,Porcelanowe Działo,pl
+Glutton,Żarłok,pl
 Going Long,Inwestycja,pl
 Gold Destiny,Złote Przeznaczenie,pl
+Golem,Golem,pl
 Golemify,Zgolemienie,pl
 Good For Something,Nada Się,pl
+Graves,Graves,pl
 Growth Mindset,Nastawienie na Rozwój,pl
+Guinsoo's Rageblade,Ostrze Gniewu Guinsoo,pl
+Gunslinger,Rewolwerowiec,pl
+Gunslinger Emblem,Emblemat Rewolwerowca,pl
+Gwen,Gwen,pl
+Hand Of Justice,Ręka Sprawiedliwości,pl
 Hard Commit,Wielkie Poświęcenie,pl
+Harvester,Żniwiarz,pl
+Haunted Spyglass,Nawiedzona Luneta,pl
 Healing Orbs,Leczące Kule,pl
 Heart of Steel,Serce ze Stali,pl
 Heavy Is the Crown,Korona Zawsze Będzie Ciążyć,pl
 Hedge Fund,Fundusz Inwestycyjny,pl
 Hefty Rolls,Pokaźne Rzuty,pl
+Hellfire Hatchet,Piekielny Toporek,pl
+Heroic,Heros,pl
 Heroic Grab Bag,Heroiczna Torba z Różnościami,pl
+HexMech,HexMech,pl
 Hexgate Travel,Podróż przez Hexbramę,pl
+Hextech Gunblade,Miecz-Pistolet Hextech,pl
 High Voltage,Wysokie Napięcie,pl
 Hold the Line,Trzymać Szyk,pl
+Horizon Focus,Skupienie Horyzontalne,pl
+Huntress,Łowczyni,pl
+Illaoi,Illaoi,pl
+Immortal,Nieśmiertelny,pl
 Indecision,Niezdecydowanie,pl
 Indiscriminate Killer,Bezwzględny Zabójca,pl
+Infinity Edge,Ostrze Nieskończoności,pl
+Innervating Locket,Wzmacniający Medalion,pl
 Invested,Zaangażowanie,pl
+Invoker,Wzywający,pl
+Invoker Emblem,Emblemat Wzywającego,pl
+Ionia,Ionia,pl
+Ionia Emblem,Emblemat Ionii,pl
+Ionic Spark,Jonowa Iskra,pl
 Iron Assets,Żelazne Zasoby,pl
 Item Grab Bag,Torba z Przedmiotami,pl
+Ixtal,Ixtal,pl
+Ixtal Emblem,Emblemat Ixtal,pl
+Jarvan IV,Jarvan IV,pl
+Jeweled Gauntlet,Brylantowa Rękawica,pl
 Jeweled Lotus,Brylantowy Lotos,pl
+Jhin,Jhin,pl
+Jinx,Jinx,pl
+Juggernaut,Moloch,pl
+Juggernaut Emblem,Emblemat Molocha,pl
 Just Hit,Po Prostu Traf,pl
 Kahunahuna,Kahunahuna,pl
+Kai'Sa,Kai'Sa,pl
+Kalista,Kalista,pl
+Kennen,Kennen,pl
+Kindred,Kindred,pl
+Kinetic Barrier,Bariera Kinetyczna,pl
+Knight's Vow,Przysięga Rycerska,pl
+Kobuko & Yuumi,Kobuko i Yuumi,pl
+Kog'Maw,Kog'Maw,pl
+Kraken's Fury,Furia Krakena,pl
+L-90 カリバーネット,Wystrzel Sieć,pl
 Last Second Save,W Ostatniej Chwili,pl
+Last Whisper,Ostatni Szept,pl
 Late Game Scaling,Skalowanie w Późnej Fazie Gry,pl
 Late Game Specialist,Specjalista od Końcówki,pl
+LeBlanc,LeBlanc,pl
 Leap of Faith,Skok Wiary,pl
 Legion of Threes,Legion Trójek,pl
+Leona,Leona,pl
+Lesser Mirrored Persona,Mniejsza Lustrzana Osobowość,pl
 Level Up!,Awansujesz!,pl
+Lich Bane,Zmora Licza,pl
 Lifting Competition,Zawody w Dźwiganiu,pl
+Lightshield Crest,Herb Dynastii Promiennej Tarczy,pl
 Lineup,Przodownicy Składu,pl
+Lissandra,Lissandra,pl
 Little Buddies,Koleżcy,pl
+Locket of the Iron Solari,Naszyjnik Żelaznych Solari,pl
+Longshot,Dalekostrzelec,pl
+Longshot Emblem,Emblemat Dalekostrzelca,pl
+Loris,Loris,pl
+Lucian & Senna,Lucian i Senna,pl
+Lucky Doubloon,Szczęśliwy Dublon,pl
 Lucky Gloves,Szczęśliwe Rękawice,pl
+Luden's Tempest,Nawałnica Luden,pl
+Lulu,Lulu,pl
+Lux,Lux,pl
 Mace's Will,Wola Buławy,pl
+Magnetron Coil,Zwój Magnetrona,pl
 Makeshift Armor,Improwizowana Zbroja,pl
+Malzahar,Malzahar,pl
+Mel,Mel,pl
+Mending Echoes,Leczące Echo,pl
 Mess Hall,I Kto To Będzie Sprzątać?,pl
+Micro-Rockets,Mikrorakiety,pl
+Milio,Milio,pl
 Min-Max,Optymalnie,pl
+Mining Drill,Wiertło Wydobywcze,pl
+Mirrored Persona,Lustrzana Osobowość,pl
+Miss Fortune,Miss Fortune,pl
 Missed Connections,Zaprzepaszczona Znajomość,pl
+Mittens,Rękawiczki,pl
+Momentum Drive,Napęd Rozpędu,pl
 Money Monsoon,Deszcz Pieniędzy,pl
+Morellonomicon,Morellonomicon,pl
+Nashor's Tooth,Ząb Nashora,pl
+Nasus,Nasus,pl
+Nautilus,Nautilus,pl
+Needlessly Large Rod,Absurdalnie Wielka Różdżka,pl
+Neeko,Neeko,pl
+Negatron Cloak,Płaszcz Negacji,pl
+Nidalee,Nidalee,pl
+Noxus,Noxus,pl
+Noxus Emblem,Emblemat Noxusu,pl
 On a Roll,Dobra Passa,pl
 "One Buff, Two Buff",Wzmocnienie Raz i Dwa,pl
 One Twos Three,"Raz, Dwa, Trzy",pl
 "One, Two, Five!","Raz, Dwa, Pięć!",pl
+Orianna,Orianna,pl
+Ornn,Ornn,pl
+Overclocked Capacitors,Podkręcone Kondensatory,pl
 Pandora's Bench,Ławka Pandory,pl
 Pandora's Items,Przedmioty Pandory,pl
 Patience is a Virtue,Cierpliwość Jest Cnotą,pl
+Pile O' Citrus,Sterta Cytrusów,pl
+Piltover,Piltover,pl
+Piltover Emblem,Emblemat Piltover,pl
+Piltover Invention,Wynalazek Piltover,pl
 Placebo,Placebo,pl
 Plot Armor,Protagonista Nigdy Nie Umiera,pl
+Poison Pals,Trujący Towarzysze,pl
+Poppy,Poppy,pl
 Portable Forge,Przenośna Kuźnia,pl
 Precision and Grace,Precyzja i Wdzięk,pl
 Preparation,Przygotowanie,pl
 Prismatic Destiny,Pryzmatyczne Przeznaczenie,pl
 Prismatic Ticket,Pryzmatyczny Bilet,pl
 Promised Protection,Obiecana Ochrona,pl
+Protector's Vow,Ślubowanie Protektora,pl
+Prowler's Claw,Szpon Ciemnego Typa,pl
 Pyromaniac,Piromaniak,pl
+Qiyana,Qiyana,pl
+Quicksilver,Żywe Srebro,pl
+Quickstriker,Napastnik,pl
+Quickstriker Emblem,Emblemat Napastnika,pl
+Rabadon's Deathcap,Zabójczy Kapelusz Rabadona,pl
 Radiant Rascal,Świetlisty Szelma,pl
 Radiant Relics,Świetliste Relikty,pl
 Raining Gold,Złoto Niczym Deszcz,pl
+Rapid Firecannon,Ognista Armata,pl
+Realm Warp,Zagięcie Czasoprzestrzeni,pl
 Recombobulator,Rekombobulator,pl
+Recurve Bow,Wygięty Łuk,pl
+Red Buff,Czerwone Wzmocnienie,pl
 ReinFOURcement,W Czwórce Siła,pl
+Rek'Sai,Rek'Sai,pl
+Renekton,Renekton,pl
 Replication,Replikacja,pl
 Restart Mission,Restart Misji,pl
 Retribution,Odkupienie,pl
+Rift Herald,Herold,pl
+Rift Scuttler,Wędrujący Krab,pl
+Riftscourge,Pogromca Riftu,pl
 Rolling For Days,Odświeżanie na Zapas,pl
+Rumble,Rumble,pl
+Rune Mage,Mag Run,pl
+Ryze,Ryze,pl
 Savings Account,Konto Oszczędnościowe,pl
 Second Wind,Drugi Oddech,pl
+Seeker's Armguard,Naramiennik Poszukiwacza,pl
+Sejuani,Sejuani,pl
+Sentinels of Light,Strażnik Światła,pl
 Seraphim's Staff,Kostur Serafina,pl
+Seraphine,Seraphine,pl
+Sett,Sett,pl
+Shadow Isles,Wyspy Cienia,pl
+Shadow Puppet,Kukiełka Cienia,pl
+Shen,Shen,pl
 Shimmerscale Essence,Esencja Migoczącej Łuski,pl
 Shopping Spree,Szaleństwo Zakupów,pl
+Shroud of Stillness,Całun Bezruchu,pl
+Shurima,Shurima,pl
+Shyvana,Shyvana,pl
 Silco's Revenge,Zemsta Silco,pl
 Silver Destiny,Srebrne Przeznaczenie,pl
 Silver Spoon,W Czepku Urodzony,pl
+Silvermere Dawn,Świt Srebrzystej,pl
+Singed,Singed,pl
+Sion,Sion,pl
+Skarner,Skarner,pl
+Slayer,Pogromca,pl
+Slayer Emblem,Emblemat Pogromcy,pl
 Slightly Magic Roll,Lekko Magiczny Rzut,pl
 Small Grab Bag,Mała Torba z Różnościami,pl
 Solo Plate,Solowa Płyta,pl
+Sona,Sona,pl
 Soul Awakening,Przebudzenie Duszy,pl
+Soulbound,Złączona dusza,pl
+Sparring Gloves,Rękawice Sparingowe,pl
+Spatula,Szpatułka,pl
+Spear of Shojin,Włócznia Shojin,pl
 Spear's Will,Wola Włóczni,pl
+Spectral Cutlass,Widmowy Rapier,pl
+Spirit Visage,Oblicze Ducha,pl
 Spirit of Redemption,Duch Odkupienia,pl
 Spreading Roots,Zapuszczanie Korzeni,pl
 Staffsmith,Kosturnik,pl
 Stand United,Wsparcie,pl
+Star Forger,Architekt Gwiazd,pl
 Stars Are Born,Narodziny Gwiazd,pl
 Starter Kit,Zestaw Startowy,pl
-Sweet Treats,Słodkie Przysmaki,pl
-Sword Overflow,Mieczowy Przesyt,pl
-Swordsmith,Miecznik,pl
-Teaming Up,Wspólne Siły,pl
-The Axiomata,Aksjomaty,pl
-The Golden Dragon,Złoty Smok,pl
-The Ruined King,Zniszczony Król,pl
-The Trait Tree,Drzewo Cech,pl
-The World Runes,Runy Świata,pl
-Thorn-Plated Armor,Cierniowa Zbroja,pl
-"Tiny, but Deadly","Małe, Ale Zabójcze",pl
-Tons of Stats!,Tony Statystyk!,pl
-Trade Sector,Sektor Wymiany,pl
-Trials of Twilight,Próby Zmierzchu,pl
-Trifecta,Trifecta,pl
-Twin Guardians,Bliźniaczy Strażnicy,pl
-Two Much Value,Wartość Dodana,pl
-Two Trick,Podwojenie,pl
-U.R.F,U.R.F.,pl
-Unsealed From Steel,Wyswobodzony ze Stali,pl
-Upward Mobility,Awans,pl
-Wand Overflow,Różdżkowy Przesyt,pl
-Warlord's Honor,Honor Watażki,pl
-Water Axiom,Wodny Aksjomat,pl
-We Stick Together,Ramię w Ramię,pl
-Wild Growth,Szalony Rozrost,pl
-Win Out,Wielka Wygrana,pl
-Wood Axiom,Drewniany Aksjomat,pl
-Woven Magic,Tkanie Czarów,pl
-90 Caliber Nets,Wystrzel Sieć,pl
-Acceleration Gate,Brama Przyspieszenia,pl
-Adaptive Helm,Specjalistyczny Hełm,pl
-Aegis of Dawn,Egida Świtu,pl
-Aegis of Dusk,Egida Zmierzchu,pl
-Arcanist Emblem,Emblemat Adepta Arkanów,pl
-Archangel's Staff,Kostur Archanioła,pl
-Armor Nullifier,Osłabienie Pancerza,pl
-B.F. Sword,K.W. Miecz,pl
-Barknuckles,Pąklowy Kastet,pl
-Bilgewater Emblem,Emblemat Bilgewater,pl
-Bilgewater Lesser Champion Duplicator,Mniejszy Powielacz Bohaterów Bilgewater,pl
-Black Market Restock,Dostawa Czarnego Rynku,pl
-Blackmarket Explosives,Czarnorynkowe Bomby,pl
-Blast Shield,Tarcza Przeciwuderzeniowa,pl
-Blighting Jewel,Klejnot Rozpadu,pl
-Bloodthirster,Krwiopijec,pl
-Blue Buff,Niebieskie Wzmocnienie,pl
-Bramble Vest,Kamizelka Cierniowa,pl
-Brigand's Dice,Kość Krwiopijcy,pl
-Bruiser Emblem,Emblemat Osiłka,pl
-Cappa Juice,Sok Cappa,pl
-Captain's Brew,Trunek Kapitana,pl
-Captain's Hat,Kapelusz Kapitana,pl
-Chain Vest,Kamizelka Kolcza,pl
-Chalice of Power,Puchar Potęgi,pl
-Continuum Cogs,Trybiki Kontinuum,pl
-Corrupt Vampiric Scepter,Spaczony Wampiryczny Kostur,pl
-Crownguard,Obrońca Korony,pl
-Cursed Blade,Przeklęte Ostrze,pl
-Cutthroat's Cutlass,Kordelas Rzezimieszka,pl
-Dawncore,Rdzeń Świtu,pl
-Dead Man's Dagger,Sztylet Umrzyka,pl
-Deathblade,Ostrze Śmierci,pl
-Defender Emblem,Emblemat Obrońcy,pl
-Demacia Emblem,Emblemat Demacii,pl
-Disruptor Emblem,Emblemat Zakłócacza,pl
-Dragon's Claw,Smoczy Szpon,pl
-Dreadway Cannon,Armata Drogi przez Mękę,pl
-E.M.P.,Impuls Elektromagnetyczny,pl
-Echo Engine,Silnik Echo,pl
-Edge of Night,Ostrze Nocy,pl
-Electrical Overload,Przeładowanie Elektryczne,pl
-Eternal Pact,Wieczny Pakt,pl
-Evenshroud,Zasłona Równości,pl
-First Mate's Flintlock,Pistolet Pierwszego Oficera,pl
-First One's Free!,Pierwsze Jest Darmowe!,pl
-Fishbones,Rybeńka,pl
-Flickerblades,Migoczące Ostrze,pl
-Forbidden Idol,Bluźnierczy Bożek,pl
-Freljord Emblem,Emblemat Freljordu,pl
-Frying Pan,Patelnia,pl
-Gargoyle Stoneplate,Kamienna Płyta Gargulca,pl
-Giant Slayer,Pogromca Olbrzymów,pl
-Giant's Belt,Pas Giganta,pl
-Gigantification Ray,Promień Gigantyfikujący,pl
-Guinsoo's Rageblade,Ostrze Gniewu Guinsoo,pl
-Gunslinger Emblem,Emblemat Rewolwerowca,pl
-Hand Of Justice,Ręka Sprawiedliwości,pl
-Haunted Spyglass,Nawiedzona Luneta,pl
-Hellfire Hatchet,Piekielny Toporek,pl
-Hextech Gunblade,Miecz-Pistolet Hextech,pl
-Horizon Focus,Skupienie Horyzontalne,pl
-Infinity Edge,Ostrze Nieskończoności,pl
-Innervating Locket,Wzmacniający Medalion,pl
-Invoker Emblem,Emblemat Wzywającego,pl
-Ionia Emblem,Emblemat Ionii,pl
-Ionic Spark,Jonowa Iskra,pl
-Ixtal Emblem,Emblemat Ixtal,pl
-Jeweled Gauntlet,Brylantowa Rękawica,pl
-Juggernaut Emblem,Emblemat Molocha,pl
-Kinetic Barrier,Bariera Kinetyczna,pl
-Knight's Vow,Przysięga Rycerska,pl
-Kraken's Fury,Furia Krakena,pl
-Last Whisper,Ostatni Szept,pl
-Lesser Mirrored Persona,Mniejsza Lustrzana Osobowość,pl
-Lich Bane,Zmora Licza,pl
-Lightshield Crest,Herb Dynastii Promiennej Tarczy,pl
-Locket of the Iron Solari,Naszyjnik Żelaznych Solari,pl
-Longshot Emblem,Emblemat Dalekostrzelca,pl
-Lucky Doubloon,Szczęśliwy Dublon,pl
-Luden's Tempest,Nawałnica Luden,pl
-Magnetron Coil,Zwój Magnetrona,pl
-Mending Echoes,Leczące Echo,pl
-Micro-Rockets,Mikrorakiety,pl
-Mining Drill,Wiertło Wydobywcze,pl
-Mirrored Persona,Lustrzana Osobowość,pl
-Mittens,Rękawiczki,pl
-Momentum Drive,Napęd Rozpędu,pl
-Morellonomicon,Morellonomicon,pl
-Nashor's Tooth,Ząb Nashora,pl
-Needlessly Large Rod,Absurdalnie Wielka Różdżka,pl
-Negatron Cloak,Płaszcz Negacji,pl
-Noxus Emblem,Emblemat Noxusu,pl
-Overclocked Capacitors,Podkręcone Kondensatory,pl
-Pile O' Citrus,Sterta Cytrusów,pl
-Piltover Emblem,Emblemat Piltover,pl
-Protector's Vow,Ślubowanie Protektora,pl
-Prowler's Claw,Szpon Ciemnego Typa,pl
-Quicksilver,Żywe Srebro,pl
-Quickstriker Emblem,Emblemat Napastnika,pl
-Rabadon's Deathcap,Zabójczy Kapelusz Rabadona,pl
-Rapid Firecannon,Ognista Armata,pl
-Realm Warp,Zagięcie Czasoprzestrzeni,pl
-Recurve Bow,Wygięty Łuk,pl
-Red Buff,Czerwone Wzmocnienie,pl
-Seeker's Armguard,Naramiennik Poszukiwacza,pl
-Shadow Puppet,Kukiełka Cienia,pl
-Shroud of Stillness,Całun Bezruchu,pl
-Silvermere Dawn,Świt Srebrzystej,pl
-Slayer Emblem,Emblemat Pogromcy,pl
-Sparring Gloves,Rękawice Sparingowe,pl
-Spatula,Szpatułka,pl
-Spear of Shojin,Włócznia Shojin,pl
-Spectral Cutlass,Widmowy Rapier,pl
-Spirit Visage,Oblicze Ducha,pl
 Statikk Shiv,Kosa Statikka,pl
 Steadfast Heart,Niezłomne Serce,pl
 Sterak's Gage,Gruboskórność Steraka,pl
@@ -451,34 +397,1051 @@ Striker's Flail,Korbacz Napastnika,pl
 Sunfire Cape,Słoneczna Peleryna,pl
 Superior Lifeform,Wyższa Forma Życia,pl
 Suspicious Trench Coat,Podejrzany Płaszcz,pl
+Swain,Swain,pl
+Sweet Treats,Słodkie Przysmaki,pl
+Sword Overflow,Mieczowy Przesyt,pl
+Swordsmith,Miecznik,pl
+Sylas,Sylas,pl
 Syren's Broadside,Syrenia Salwa,pl
+T-Hex,T-Hex,pl
 Tactician's Cape,Peleryna Taktyka,pl
 Tactician's Crown,Korona Taktyka,pl
 Tactician's Shield,Tarcza Taktyka,pl
+Tahm Kench,Tahm Kench,pl
 Talisman Of Ascension,Talizman Wstąpienia,pl
+Targon,Targon,pl
+Taric,Taric,pl
+Teaming Up,Wspólne Siły,pl
 Tear of the Goddess,Łza Bogini,pl
+Teemo,Teemo,pl
+The Axiomata,Aksjomaty,pl
+The Boss,Gangster,pl
+The Golden Dragon,Złoty Smok,pl
 The Indomitable,Niezłomność,pl
+The Ruined King,Zniszczony Król,pl
+The Trait Tree,Drzewo Cech,pl
+The World Runes,Runy Świata,pl
 Thief's Gloves,Rękawice Złodzieja,pl
+Thorn-Plated Armor,Cierniowa Zbroja,pl
+Thresh,Thresh,pl
+Timewinders,Czasowstrzymywacz,pl
+"Tiny, but Deadly","Małe, Ale Zabójcze",pl
 Titan's Resolve,Determinacja Kolosa,pl
 Titanic Hydra,Kolosalna Hydra,pl
 Tome of Traits,Księga Cech,pl
+Tons of Stats!,Tony Statystyk!,pl
+Trade Sector,Sektor Wymiany,pl
+Training Dummy,Kukła Treningowa,pl
 Treasure Typhoon,Tajfun Skarbów,pl
+Trials of Twilight,Próby Zmierzchu,pl
+Trifecta,Trifecta,pl
+Tristana,Tristana,pl
+Tryndamere,Tryndamere,pl
 Tuned Oscillator,Zestrojony Oscylator,pl
+Twin Guardians,Bliźniaczy Strażnicy,pl
+Twisted Fate,Twisted Fate,pl
+Two Much Value,Wartość Dodana,pl
+Two Trick,Podwojenie,pl
+U.R.F,U.R.F.,pl
 Unending Despair,Nieskończona Rozpacz,pl
+Unsealed From Steel,Wyswobodzony ze Stali,pl
 Unstable Core,Niestabilny Rdzeń,pl
 Upgrade!,Ulepszenie!,pl
+Upward Mobility,Awans,pl
+Vanquisher,Poskromiciel,pl
 Vanquisher Emblem,Emblemat Poskromiciela,pl
+Vayne,Vayne,pl
+Veigar,Veigar,pl
+Vi,Vi,pl
+Viego,Viego,pl
 Virtue of the Martyr,Cnota Męczennika,pl
+Void,Pustka,pl
 Void Emblem,Emblemat Pustki,pl
 Void Gauntlet,Rękawica Pustki,pl
 Void Staff,Kostur Pustki,pl
+Volibear,Volibear,pl
 Voltage Conduit,Przekaźnik Napięcia,pl
+Wand Overflow,Różdżkowy Przesyt,pl
+Warden,Wartownik,pl
 Warden Emblem,Emblemat Wartownika,pl
+Warlord's Honor,Honor Watażki,pl
 Warmog's Armor,Plemienna Zbroja,pl
+Warwick,Warwick,pl
+Water Axiom,Wodny Aksjomat,pl
+We Stick Together,Ramię w Ramię,pl
+Wild Growth,Szalony Rozrost,pl
+Win Out,Wielka Wygrana,pl
 Wit's End,Koniec Rozumu,pl
 Withered Relic,Obumarły Relikt,pl
+Wood Axiom,Drewniany Aksjomat,pl
+World Ender,Zagłada Świata,pl
+Woven Magic,Tkanie Czarów,pl
+Wukong,Wukong,pl
+Xerath,Xerath,pl
+Xin Zhao,Xin Zhao,pl
+Yasuo,Yasuo,pl
+Yone,Yone,pl
+Yordle,Yordle,pl
 Yordle Emblem,Emblemat Yordla,pl
+Yorick,Yorick,pl
+Yunara,Yunara,pl
+Zaahen,Zaahen,pl
+Zaun,Zaun,pl
 Zaun Emblem,Emblemat Zaun,pl
 Zeke's Herald,Herold Zeke'a,pl
 Zephyr,Zefir,pl
+Ziggs,Ziggs,pl
+Zilean,Zilean,pl
+Zoe,Zoe,pl
 Zz'Rot Portal,Portal Zz'rot,pl
+“塞壬号”的舷炮,Syrenia Salwa,pl
+いつでも一緒,Ramię w Ramię,pl
+おおきくなぁれ！,Szalony Rozrost,pl
+お得な2,Wartość Dodana,pl
+ここがセンター,Odnajdź Równowagę,pl
+たっぷりリロール,Pokaźne Rzuty,pl
+ちょっとだけ魔法のダイス,Lekko Magiczny Rzut,pl
+へら,Szpatułka,pl
+もっと怖いキャップ,Kapelusze Zabójcze jak Nigdy,pl
+アイオニア,Ionia,pl
+アイオニアの紋章,Emblemat Ionii,pl
+アイオニック スパーク,Jonowa Iskra,pl
+アイテム福袋,Torba z Przedmiotami,pl
+アクシオマタ,Aksjomaty,pl
+アクセルゲート,Brama Przyspieszenia,pl
+アシミレーター,Asymilator,pl
+アジール,Azir,pl
+アセンション,Wyniesienie,pl
+アダプティブ ヘルム,Specjalistyczny Hełm,pl
+アッシュ,Ashe,pl
+アップグレード！,Ulepszenie!,pl
+アニビア,Anivia,pl
+アニー,Annie,pl
+アフェリオス,Aphelios,pl
+アルカニスト,Adept Arkanów,pl
+アルカニストの紋章,Emblemat Adepta Arkanów,pl
+アンベッサ,Ambessa,pl
+アークエンジェル スタッフ,Kostur Archanioła,pl
+アーマー ナリファイア,Osłabienie Pancerza,pl
+アーリ,Ahri,pl
+イシュタル,Ixtal,pl
+イシュタルの紋章,Emblemat Ixtal,pl
+イモータル,Nieśmiertelny,pl
+イラオイ,Illaoi,pl
+インフィニティ エッジ,Ostrze Nieskończoności,pl
+インヴォーカー,Wzywający,pl
+インヴォーカーの紋章,Emblemat Wzywającego,pl
+イーブンシュラウド,Zasłona Równości,pl
+ウィッツ エンド,Koniec Rozumu,pl
+ウォーロードの名誉,Honor Watażki,pl
+ウーコン,Wukong,pl
+エイトロックス,Aatrox,pl
+エグザイル,Wygnańcy,pl
+エコー,Ekko,pl
+エコーエンジン,Silnik Echo,pl
+エターナル,Wieczni,pl
+エピックなロールダウン,Epickie Przelosowanie,pl
+エルダードラゴン,Starszy Smok,pl
+エレクトリカル オーバーロード,Przeładowanie Elektryczne,pl
+エンペラー,Imperator,pl
+オリアナ,Orianna,pl
+オレリオン・ソル,Aurelion Sol,pl
+オーバークロック コンデンサー,Podkręcone Kondensatory,pl
+オーン,Ornn,pl
+カイ＝サ,Kai'Sa,pl
+カナとカネ,Żelazne Zasoby,pl
+カフナフナ,Kahunahuna,pl
+カリスタ,Kalista,pl
+ガリオ,Galio,pl
+ガレン,Garen,pl
+ガングプランク,Gangplank,pl
+ガンスリンガー,Rewolwerowiec,pl
+ガンスリンガーの紋章,Emblemat Rewolwerowca,pl
+ガーゴイル ストーンプレート,Kamienna Płyta Gargulca,pl
+キネティックバリア,Bariera Kinetyczna,pl
+キャプテンの帽子,Kapelusz Kapitana,pl
+キャプテンの醸造酒,Trunek Kapitana,pl
+キヤナ,Qiyana,pl
+キンドレッド,Kindred,pl
+ギリギリの救出,W Ostatniej Chwili,pl
+クイックシルバー,Żywe Srebro,pl
+クラウンの決意,Wola Korony,pl
+クラウンガード,Obrońca Korony,pl
+クラーケンの怒り,Furia Krakena,pl
+クロノキーパー,Strażnik Czasu,pl
+グインソー レイジブレード,Ostrze Gniewu Guinsoo,pl
+グウェン,Gwen,pl
+グラスキャノン,Porcelanowe Działo,pl
+グラットン,Żarłok,pl
+グレイブス,Graves,pl
+ケアテイカー,Opiekun,pl
+ケイトリン,Caitlyn,pl
+ケネン,Kennen,pl
+ケンカの作法,Tarcza Przeciwuderzeniowa,pl
+コグ＝マウ,Kog'Maw,pl
+コブコ&ユーミ,Kobuko i Yuumi,pl
+コマース コア,Rdzeń Handlu,pl
+コンパニオン作成,Stwórz Towarzysza,pl
+ゴールドの運命,Złote Przeznaczenie,pl
+ゴールドの雨,Złoto Niczym Deszcz,pl
+ゴーレム,Golem,pl
+ゴーレム化,Zgolemienie,pl
+サイオン,Sion,pl
+サイラス,Sylas,pl
+サンファイア ケープ,Słoneczna Peleryna,pl
+ザ・ボス,Gangster,pl
+ザーヘン,Zaahen,pl
+シェン,Shen,pl
+シマースケールのエッセンス,Esencja Migoczącej Łuski,pl
+シャドウアイル,Wyspy Cienia,pl
+シュリーマ,Shurima,pl
+ショウジンの矛,Włócznia Shojin,pl
+シルコの復讐,Zemsta Silco,pl
+シルバーの運命,Srebrne Przeznaczenie,pl
+シルバーミアの夜明け,Świt Srebrzystej,pl
+シンジド,Singed,pl
+シン・ジャオ,Xin Zhao,pl
+シヴァーナ,Shyvana,pl
+シーカー アームガード,Naramiennik Poszukiwacza,pl
+ジグス,Ziggs,pl
+ジャイアント スレイヤー,Pogromca Olbrzymów,pl
+ジャイアント ベルト,Pas Giganta,pl
+ジャイアント&マイティ,Wielkość i Potęga,pl
+ジャガーノート,Moloch,pl
+ジャガーノートの紋章,Emblemat Molocha,pl
+ジャストヒット,Po Prostu Traf,pl
+ジャーヴァンⅣ,Jarvan IV,pl
+ジュエル ガントレット,Brylantowa Rękawica,pl
+ジュエル ロータス,Brylantowy Lotos,pl
+ジリアン,Zilean,pl
+ジン,Jhin,pl
+ジンクス,Jinx,pl
+ジークの使者,Herold Zeke'a,pl
+ジ＝ロット ポータル,Portal Zz'rot,pl
+スウェイン,Swain,pl
+スカーナー,Skarner,pl
+スタティック シヴ,Kosa Statikka,pl
+スターターキット,Zestaw Startowy,pl
+スターフォージャー,Architekt Gwiazd,pl
+スター誕生,Narodziny Gwiazd,pl
+ステラックの篭手,Gruboskórność Steraka,pl
+ステータスマシマシ,Tony Statystyk!,pl
+ストライカー フレイル,Korbacz Napastnika,pl
+スパーリング グローブ,Rękawice Sparingowe,pl
+スピリット ビサージュ,Oblicze Ducha,pl
+スペクトラル カトラス,Widmowy Rapier,pl
+スレイヤー,Pogromca,pl
+スレイヤーの紋章,Emblemat Pogromcy,pl
+スレッシュ,Thresh,pl
+セイレーン号の片舷砲,Syrenia Salwa,pl
+セジュアニ,Sejuani,pl
+セト,Sett,pl
+セラフィムの杖,Kostur Serafina,pl
+セラフィーン,Seraphine,pl
+ゼファー,Zefir,pl
+ゼラス,Xerath,pl
+ソウルの目覚め,Przebudzenie Duszy,pl
+ソウルバウンド,Złączona dusza,pl
+ソナ,Sona,pl
+ソラリのロケット,Naszyjnik Żelaznych Solari,pl
+ソード オーバーフロー,Mieczowy Przesyt,pl
+ソーンプレートアーマー,Cierniowa Zbroja,pl
+ゾウン,Zaun,pl
+ゾウンの紋章,Emblemat Zaun,pl
+ゾーイ,Zoe,pl
+タイタン ハイドラ,Kolosalna Hydra,pl
+タイムワインダー,Czasowstrzymywacz,pl
+タクティシャンのケープ,Peleryna Taktyka,pl
+タクティシャンの王冠,Korona Taktyka,pl
+タクティシャンの盾,Tarcza Taktyka,pl
+タム・ケンチ,Tahm Kench,pl
+タリック,Taric,pl
+ターゴン,Targon,pl
+ダイアナ,Diana,pl
+ダブルトラブル,Podwójne Kłopoty,pl
+ダミー,Kukła Treningowa,pl
+ダミー化,Wykuklenie,pl
+ダリウス,Darius,pl
+ダーキン,Darkin,pl
+ダークウィルの侵略,Inwazja Darkwilla,pl
+ダークチャイルド,Dziecko Ciemności,pl
+チェイン ベスト,Kamizelka Kolcza,pl
+チェインブレイカー,Wyzwolony,pl
+チューンド オシレーター,Zestrojony Oscylator,pl
+チョ＝ガス,Cho'Gath,pl
+ツイステッド・フェイト,Twisted Fate,pl
+ツインガーディアン,Bliźniaczy Strażnicy,pl
+ティーモ,Teemo,pl
+ディスラプター,Zakłócacz,pl
+ディスラプターの紋章,Emblemat Zakłócacza,pl
+ディフェンダー,Obrońca,pl
+ディフェンダーの紋章,Emblemat Obrońcy,pl
+デスブレード,Ostrze Śmierci,pl
+デッド マン ダガー,Sztylet Umrzyka,pl
+デッドリアー ブレード,Groźniejsze Ostrza,pl
+デマーシア,Demacia,pl
+デマーシアの紋章,Emblemat Demacii,pl
+デマーシアよ永遠に,Demacia na Zawsze,pl
+デュオキュー,Kolejka Duo,pl
+トライフェクタ,Trifecta,pl
+トリスターナ,Tristana,pl
+トリンダメア,Tryndamere,pl
+トレードセクター,Sektor Wymiany,pl
+ドクター・ムンド,Dr Mundo,pl
+ドラゴン クロウ,Smoczy Szpon,pl
+ドラゴンの守護者,Smocza Gwardia,pl
+ドラゴンボーン,Córa Smoków,pl
+ドレイヴン,Draven,pl
+ドレッドウェイの砲撃,Armata Drogi przez Mękę,pl
+ドーンコア,Rdzeń Świtu,pl
+ナイト エッジ,Ostrze Nocy,pl
+ナサス,Nasus,pl
+ナッシャー トゥース,Ząb Nashora,pl
+ニダリー,Nidalee,pl
+ニーコ,Neeko,pl
+ネガトロン クローク,Płaszcz Negacji,pl
+ノクサス,Noxus,pl
+ノクサスの紋章,Emblemat Noxusu,pl
+ノーチラス,Nautilus,pl
+ハントレス,Łowczyni,pl
+ハンド オブ ジャスティス,Ręka Sprawiedliwości,pl
+ハーベスター,Żniwiarz,pl
+バイナリー空中投下,Binarny Zrzut,pl
+バフが1つ、バフが2つ,Wzmocnienie Raz i Dwa,pl
+バロンナッシャー,Baron Nashor,pl
+バークナックル,Pąklowy Kastet,pl
+バースデー リユニオン,Zjazd Urodzinowy,pl
+バースデープレゼント,Prezent Urodzinowy,pl
+バード,Bard,pl
+パンドラのアイテム,Przedmioty Pandory,pl
+パンドラのベンチ,Ławka Pandory,pl
+ヒロイック,Heros,pl
+ヒーリングオーブ,Leczące Kule,pl
+ビッグフレンド,Wielki Przyjaciel,pl
+ビルジウォーター,Bilgewater,pl
+ビルジウォーターの小型チャンピオン複製器,Mniejszy Powielacz Bohaterów Bilgewater,pl
+ビルジウォーターの紋章,Emblemat Bilgewater,pl
+ピルトーヴァー,Piltover,pl
+ピルトーヴァーの発明品,Wynalazek Piltover,pl
+ピルトーヴァーの紋章,Emblemat Piltover,pl
+フィズ,Fizz,pl
+フィッシュボーン,Rybeńka,pl
+フィドルスティックス,Fiddlesticks,pl
+フォビドゥン アイドル,Bluźnierczy Bożek,pl
+フライパン,Patelnia,pl
+フリッカーブレード,Migoczące Ostrze,pl
+フレヨルド,Freljord,pl
+フレヨルドの紋章,Emblemat Freljordu,pl
+ブライアー,Briar,pl
+ブラウム,Braum,pl
+ブラックスミス,Kowal,pl
+ブラックマーケットの再入荷,Dostawa Czarnego Rynku,pl
+ブラックマーケットの爆発物,Czarnorynkowe Bomby,pl
+ブラッドサースター,Krwiopijec,pl
+ブランブル ベスト,Kamizelka Cierniowa,pl
+ブリッツクランク,Blitzcrank,pl
+ブルーザー,Osiłek,pl
+ブルーザーの紋章,Emblemat Osiłka,pl
+ブルーバフ,Niebieskie Wzmocnienie,pl
+ブロック,Brock,pl
+プラシディウムの防衛,Obrona Placidium,pl
+プラシーボ,Placebo,pl
+プリズムの運命,Pryzmatyczne Przeznaczenie,pl
+プリズムチケット,Pryzmatyczny Bilet,pl
+プロテクターの誓い,Ślubowanie Protektora,pl
+プローラー クロウ,Szpon Ciemnego Typa,pl
+ヘクスゲート トラベル,Podróż przez Hexbramę,pl
+ヘクステック ガンブレード,Miecz-Pistolet Hextech,pl
+ヘクスメック,HexMech,pl
+ヘッジファンド,Fundusz Inwestycyjny,pl
+ベイガー,Veigar,pl
+ベストフレンド,Najlepsi Przyjaciele,pl
+ベルト オーバーフロー,Pasowy Przesyt,pl
+ベル＝ヴェス,Bel'Veth,pl
+ホライゾン フォーカス,Skupienie Horyzontalne,pl
+ボクシングのレッスン,Podstawy Boksu,pl
+ボディーガードの訓練,Trening Ochroniarza,pl
+ボリベア,Volibear,pl
+ポイズンパル,Trujący Towarzysze,pl
+ポッピー,Poppy,pl
+ポータブル フォージ,Przenośna Kuźnia,pl
+ポータルワープ,Zagięcie Czasoprzestrzeni,pl
+マイクロロケット,Mikrorakiety,pl
+マグネトロンコイル,Zwój Magnetrona,pl
+マルザハール,Malzahar,pl
+マーターズ ヴァーチュ,Cnota Męczennika,pl
+ミスコネクション,Zaprzepaszczona Znajomość,pl
+ミス・フォーチュン,Miss Fortune,pl
+ミッションの再開,Restart Misji,pl
+ミトン,Rękawiczki,pl
+ミニマックス,Optymalnie,pl
+ミリオ,Milio,pl
+ムダニ デカイ ロッド,Absurdalnie Wielka Różdżka,pl
+メイスの決意,Wola Buławy,pl
+メル,Mel,pl
+モメンタムドライブ,Napęd Rozpędu,pl
+モレロノミコン,Morellonomicon,pl
+ヤスオ,Yasuo,pl
+ユナラ,Yunara,pl
+ヨネ,Yone,pl
+ヨリック,Yorick,pl
+ヨードル,Yordle,pl
+ヨードルの紋章,Emblemat Yordla,pl
+ライズ,Ryze,pl
+ライトシールドのクレスト,Herb Dynastii Promiennej Tarczy,pl
+ラインナップ,Przodownicy Składu,pl
+ラスト ウィスパー,Ostatni Szept,pl
+ラッキーグローブ,Szczęśliwe Rękawice,pl
+ラックス,Lux,pl
+ラバドン デスキャップ,Zabójczy Kapelusz Rabadona,pl
+ラピッド ファイアキャノン,Ognista Armata,pl
+ランブル,Rumble,pl
+リカーブ ボウ,Wygięty Łuk,pl
+リサンドラ,Lissandra,pl
+リッチ ベイン,Zmora Licza,pl
+リデンプションの魂,Duch Odkupienia,pl
+リフティング大会,Zawody w Dźwiganiu,pl
+リフトスカトル,Wędrujący Krab,pl
+リフトスカージ,Pogromca Riftu,pl
+リフトヘラルド,Herold,pl
+ルシアン&セナ,Lucian i Senna,pl
+ルブラン,LeBlanc,pl
+ルル,Lulu,pl
+ルーデン テンペスト,Nawałnica Luden,pl
+ルーンメイジ,Mag Run,pl
+レイトゲーム スケーリング,Skalowanie w Późnej Fazie Gry,pl
+レイトゲーム スペシャリスト,Specjalista od Końcówki,pl
+レオナ,Leona,pl
+レク＝サイ,Rek'Sai,pl
+レッドバフ,Czerwone Wzmocnienie,pl
+レディアントの遺物,Świetliste Relikty,pl
+レネクトン,Renekton,pl
+レベルアップ！,Awansujesz!,pl
+ロリス,Loris,pl
+ロングショット,Dalekostrzelec,pl
+ロングショットの紋章,Emblemat Dalekostrzelca,pl
+ローリングデイズ,Odświeżanie na Zapas,pl
+ワン、ツー、ファイブ！,"Raz, Dwa, Pięć!",pl
+ワン、ツーツー、スリー,"Raz, Dwa, Trzy",pl
+ワンド オーバーフロー,Różdżkowy Przesyt,pl
+ワーウィック,Warwick,pl
+ワーデン,Wartownik,pl
+ワーデンの紋章,Emblemat Wartownika,pl
+ワーモグ アーマー,Plemienna Zbroja,pl
+ワールドエンダー,Zagłada Świata,pl
+ワールドルーン,Runy Świata,pl
+ヴァイ,Vi,pl
+ヴァンキッシャー,Poskromiciel,pl
+ヴァンキッシャーの紋章,Emblemat Poskromiciela,pl
+ヴィエゴ,Viego,pl
+ヴェイン,Vayne,pl
+ヴォイド,Pustka,pl
+ヴォイド ガントレット,Rękawica Pustki,pl
+ヴォイド スタッフ,Kostur Pustki,pl
+ヴォイドの紋章,Emblemat Pustki,pl
+一二二三,"Raz, Dwa, Trzy",pl
+一人前プレート,Solowa Płyta,pl
+一等航海士のフリントロック,Pistolet Pierwszego Oficera,pl
+一致団結,Wsparcie,pl
+一致団結,Wspólne Siły,pl
+一，二，五！,"Raz, Dwa, Pięć!",pl
+三幻神,Legion Trójek,pl
+三项赛,Trifecta,pl
+三，三，三！,Trzy Trójki,pl
+上方移動,Awans,pl
+上进心,Awans,pl
+不安定なコア,Niestabilny Rdzeń,pl
+不屈,Niezłomność,pl
+不滅の協定,Wieczny Pakt,pl
+不稳定核心,Niestabilny Rdzeń,pl
+不落魔锋,Nieśmiertelny,pl
+与狼共舞,Wybrani przez Wilka,pl
+专属定制,Ekskluzywna Personalizacja,pl
+世界符文,Runy Świata,pl
+两把刷子,Podwojenie,pl
+主人公補正,Protagonista Nigdy Nie Umiera,pl
+主宰,Moloch,pl
+主宰纹章,Emblemat Molocha,pl
+丽桑卓,Lissandra,pl
+举重比赛,Zawody w Dźwiganiu,pl
+乐芙兰,LeBlanc,pl
+二进制空投,Binarny Zrzut,pl
+亚恒,Zaahen,pl
+亚托克斯,Aatrox,pl
+亚索,Yasuo,pl
+亡者的短剑,Sztylet Umrzyka,pl
+仕送り,Paczka Wsparcia,pl
+以眼还眼,Oko za Oko,pl
+以绪塔尔,Ixtal,pl
+以绪塔尔纹章,Emblemat Ixtal,pl
+优柔寡断,Niezdecydowanie,pl
+伺机待发,Przygotowanie,pl
+佐伊,Zoe,pl
+佛耶戈,Viego,pl
+便携锻炉,Przenośna Kuźnia,pl
+俄洛伊,Illaoi,pl
+信仰之跃,Skok Wiary,pl
+信仰震,Skok Wiary,pl
+修复型回响,Leczące Echo,pl
+假人化,Wykuklenie,pl
+储蓄账户,Konto Oszczędnościowe,pl
+優柔不断,Niezdecydowanie,pl
+元初公理,Aksjomaty,pl
+光の番人,Strażnik Światła,pl
+光明哨兵,Strażnik Światła,pl
+光明圣物,Świetliste Relikty,pl
+光明无赖,Świetlisty Szelma,pl
+光盾徽章,Herb Dynastii Promiennej Tarczy,pl
+克格莫,Kog'Maw,pl
+入门套件,Zestaw Startowy,pl
+全身全霊,Wielkie Poświęcenie,pl
+兰博,Rumble,pl
+关爱包裹,Paczka Wsparcia,pl
+兹若特传送门,Portal Zz'rot,pl
+内瑟斯,Nasus,pl
+冕卫,Obrońca Korony,pl
+凯南,Kennen,pl
+凯特琳,Caitlyn,pl
+列队,Przodownicy Składu,pl
+利落保镖,Trening Ochroniarza,pl
+别再错过,Zaprzepaszczona Znajomość,pl
+前借り,Zaawansowana Pożyczka,pl
+前線維持,Trzymać Szyk,pl
+剑之工匠,Miecznik,pl
+剣鍛冶,Miecznik,pl
+力の聖杯,Puchar Potęgi,pl
+加冕礼,Koronacja,pl
+加速之门,Brama Przyspieszenia,pl
+加里奥,Galio,pl
+劣化版鏡像のペルソナ,Mniejsza Lustrzana Osobowość,pl
+动能屏障,Bariera Kinetyczna,pl
+动量驱动器,Napęd Rozpędu,pl
+勝ち抜け,Wielka Wygrana,pl
+千珏,Kindred,pl
+升星之运,Dobra Passa,pl
+升级咯！,Awansujesz!,pl
+升级！,Ulepszenie!,pl
+卑尔维斯,Bel'Veth,pl
+单身板甲,Solowa Płyta,pl
+卡莉丝塔,Kalista,pl
+卡莎,Kai'Sa,pl
+卢登的激荡,Nawałnica Luden,pl
+卢锡安与赛娜,Lucian i Senna,pl
+即席アーマー,Improwizowana Zbroja,pl
+厄斐琉斯,Aphelios,pl
+厄运小姐,Miss Fortune,pl
+厨神阿福,U.R.F.,pl
+双城赢家,Zwycięstwo Viktora z Arcane,pl
+双子守护神,Bliźniaczy Strażnicy,pl
+双排,Kolejka Duo,pl
+反响,Replikacja,pl
+反曲之弓,Wygięty Łuk,pl
+变形重组器,Rekombobulator,pl
+可大可小,Optymalnie,pl
+可酷伯与悠米,Kobuko i Yuumi,pl
+吉格斯,Ziggs,pl
+后期专家,Specjalista od Końcówki,pl
+后期收益,Skalowanie w Późnej Fazie Gry,pl
+呪いの刃,Przeklęte Ostrze,pl
+呪われた望遠鏡,Nawiedzona Luneta,pl
+嗜火,Piromaniak,pl
+嘉文四世,Jarvan IV,pl
+四费增援,W Czwórce Siła,pl
+回声引擎,Silnik Echo,pl
+圣盾使的誓约,Ślubowanie Protektora,pl
+坚守防线,Trzymać Szyk,pl
+坚定之心,Niezłomne Serce,pl
+埋もれた宝物,Zakopane Skarby,pl
+基克的先驱,Herold Zeke'a,pl
+基兰,Zilean,pl
+基础装备自助餐,Składnikowy Bufet,pl
+報復,Odkupienie,pl
+塔姆,Tahm Kench,pl
+塔里克,Taric,pl
+塞拉斯,Sylas,pl
+复苏之风,Drugi Oddech,pl
+夕闇の加護,Egida Zmierzchu,pl
+夜之锋刃,Ostrze Nocy,pl
+夜明けの加護,Egida Świtu,pl
+大きな福袋,Duża Torba z Różnościami,pl
+大买特买,Szaleństwo Zakupów,pl
+大刷特刷,Pokaźne Rzuty,pl
+大剑溢流,Mieczowy Przesyt,pl
+大副的燧发枪,Pistolet Pierwszego Oficera,pl
+大哥罩我,Wielki Przyjaciel,pl
+大地のアクシオム,Ziemny Aksjomat,pl
+大天使之杖,Kostur Archanioła,pl
+大炮火力网,Ostrzał Artyleryjski,pl
+大百宝袋,Duża Torba z Różnościami,pl
+大砲の雨,Ostrzał Artyleryjski,pl
+大而有力,Wielkość i Potęga,pl
+天の祝福,Astralne Błogosławieństwo,pl
+天生二星,Narodziny Gwiazd,pl
+天降金币,Złoto Niczym Deszcz,pl
+奇亚娜,Qiyana,pl
+奈德丽,Nidalee,pl
+奥恩,Ornn,pl
+奥瑞利安·索尔,Aurelion Sol,pl
+奥莉安娜,Orianna,pl
+女神の涙,Łza Bogini,pl
+女神之泪,Łza Bogini,pl
+好きなだけ泣くがいい,Rzeka Łez,pl
+好事成双,Podwójne Kłopoty,pl
+妮蔻,Neeko,pl
+娑娜,Sona,pl
+孙悟空,Wukong,pl
+宇宙の呼び声,Kosmiczny Zew,pl
+安妮,Annie,pl
+安慰剂,Placebo,pl
+安蓓萨,Ambessa,pl
+宝藏台风,Tajfun Skarbów,pl
+密银黎明,Świt Srebrzystej,pl
+对冲基金,Fundusz Inwestycyjny,pl
+小さくても強烈,"Małe, Ale Zabójcze",pl
+小さな仲間たち,Koleżcy,pl
+小さな福袋,Mała Torba z Różnościami,pl
+小伙伴,Koleżcy,pl
+小小福袋,Mała Torba z Różnościami,pl
+小而致命,"Małe, Ale Zabójcze",pl
+山積みのシトラス,Sterta Cytrusów,pl
+山隐之焰,Kowal,pl
+岩土公理,Ziemny Aksjomat,pl
+岩宝,Brock,pl
+峡谷先锋,Herold,pl
+峡谷迅捷蟹,Wędrujący Krab,pl
+崔丝塔娜,Tristana,pl
+崔斯特,Twisted Fate,pl
+巧みなクラフト,Twórcze Tworzenie,pl
+巨人の誓い,Determinacja Kolosa,pl
+巨人杀手,Pogromca Olbrzymów,pl
+巨人腰带,Pas Giganta,pl
+巨型九头蛇,Kolosalna Hydra,pl
+巨大化ビーム,Promień Gigantyfikujący,pl
+巨大化射线,Promień Gigantyfikujący,pl
+巨神峰,Targon,pl
+巨龙之爪,Smoczy Szpon,pl
+巨龙卫士,Smocza Gwardia,pl
+巫妖之祸,Zmora Licza,pl
+巴德,Bard,pl
+布里茨,Blitzcrank,pl
+布隆,Braum,pl
+希尔科的复仇,Zemsta Silco,pl
+希瓦娜,Shyvana,pl
+帽子ジュース,Sok Cappa,pl
+帽子饮品,Sok Cappa,pl
+幸运手套,Szczęśliwe Rękawice,pl
+幸运达布隆金币,Szczęśliwy Dublon,pl
+幸運の金貨,Szczęśliwy Dublon,pl
+幽魂弯刀,Widmowy Rapier,pl
+広がる根,Zapuszczanie Korzeni,pl
+庇護者のお供,Sojusznik Opiekuna,pl
+应急护甲,Improwizowana Zbroja,pl
+应急护盾,Protagonista Nigdy Nie Umiera,pl
+弗雷尔卓德,Freljord,pl
+弗雷尔卓德纹章,Emblemat Freljordu,pl
+强盗的骰子,Kość Krwiopijcy,pl
+强袭者的链枷,Korbacz Napastnika,pl
+影の操り人形,Kukiełka Cienia,pl
+征服者,Poskromiciel,pl
+征服者纹章,Emblemat Poskromiciela,pl
+微型导弹,Mikrorakiety,pl
+德玛西亚,Demacia,pl
+德玛西亚万岁,Demacia na Zawsze,pl
+德玛西亚纹章,Emblemat Demacii,pl
+德莱厄斯,Darius,pl
+德莱文,Draven,pl
+心之钢,Serce ze Stali,pl
+心身統御のペンダント,Wzmacniający Medalion,pl
+忍耐の美徳,Cierpliwość Jest Cnotą,pl
+思惑買い,Inwestycja,pl
+怪しげなトレンチコート,Podejrzany Płaszcz,pl
+恕瑞玛,Shurima,pl
+恶火小斧,Piekielny Toporek,pl
+想定内の意外性,Oczekiwane Nieoczekiwanie,pl
+意料之中的意外,Oczekiwane Nieoczekiwanie,pl
+慎,Shen,pl
+成吨的属性！,Tony Statystyk!,pl
+成堆柑橘,Sterta Cytrusów,pl
+成長志向,Nastawienie na Rozwój,pl
+成长型思维,Nastawienie na Rozwój,pl
+戦闘準備,Przygotowanie,pl
+戴冠式,Koronacja,pl
+承诺之护,Obiecana Ochrona,pl
+投資完了,Zaangażowanie,pl
+投资,Zaangażowanie,pl
+护卫,Obrońca,pl
+护卫纹章,Emblemat Obrońcy,pl
+护甲消除器,Osłabienie Pancerza,pl
+拉克丝,Lux,pl
+拳击课程,Podstawy Boksu,pl
+拳套,Rękawice Sparingowe,pl
+挑个好伙计！,Stwórz Towarzysza,pl
+振奋盔甲,Oblicze Ducha,pl
+採掘ドリル,Wiertło Wydobywcze,pl
+探索者的护臂,Naramiennik Poszukiwacza,pl
+提莫,Teemo,pl
+揺るがぬ心,Niezłomne Serce,pl
+摇钱树,Deszcz Pieniędzy,pl
+救赎盔甲,Duch Odkupienia,pl
+斗士,Osiłek,pl
+斗士纹章,Emblemat Osiłka,pl
+料理鍋,Wielkie Gotowanie,pl
+斯卡纳,Skarner,pl
+斯塔缇克电刃,Kosa Statikka,pl
+斯特拉克的挑战护手,Gruboskórność Steraka,pl
+斯维因,Swain,pl
+无尽之刃,Ostrze Nieskończoności,pl
+无差别攻击,Bezwzględny Zabójca,pl
+无序进化,Chaotyczna Ewolucja,pl
+无用大棒,Absurdalnie Wielka Różdżka,pl
+无终恨意,Nieskończona Rozpacz,pl
+日炎斗篷,Słoneczna Peleryna,pl
+时光守护者,Strażnik Czasu,pl
+时间旅者,Czasowstrzymywacz,pl
+星界感召,Kosmiczny Zew,pl
+星界游神,Opiekun,pl
+星界赐福,Astralne Błogosławieństwo,pl
+時の歯車,Trybiki Kontinuum,pl
+普朗克,Gangplank,pl
+普通預金口座,Konto Oszczędnościowe,pl
+普雷西典保卫战,Obrona Placidium,pl
+智慧末刃,Koniec Rozumu,pl
+暗影岛,Wyspy Cienia,pl
+暗影木偶,Kukiełka Cienia,pl
+暗行者之爪,Szpon Ciemnego Typa,pl
+暗裔,Darkin,pl
+暗裔剑魔,Zagłada Świata,pl
+暮光试炼,Próby Zmierzchu,pl
+暴风之剑,K.W. Miecz,pl
+曲境折跃,Zagięcie Czasoprzestrzeni,pl
+更要命的帽子,Kapelusze Zabójcze jak Nigdy,pl
+更要命的战刃,Groźniejsze Ostrza,pl
+最佳好友,Najlepsi Przyjaciele,pl
+最初の1つは無料！,Pierwsze Jest Darmowe!,pl
+最后一秒营救,W Ostatniej Chwili,pl
+最后的轻语,Ostatni Szept,pl
+最強の四配者,W Czwórce Siła,pl
+有効活用,Nada Się,pl
+有用之材,Nada Się,pl
+朔极之矛,Włócznia Shojin,pl
+木のアクシオム,Drewniany Aksjomat,pl
+权杖意志,Wola Buławy,pl
+杖之工匠,Kosturnik,pl
+杖鍛冶,Kosturnik,pl
+枪手,Rewolwerowiec,pl
+枪手纹章,Emblemat Rewolwerowca,pl
+枯朽の遺物,Obumarły Relikt,pl
+枯死の宝石,Klejnot Rozpadu,pl
+枯萎圣物,Obumarły Relikt,pl
+枯萎珠宝,Klejnot Rozpadu,pl
+格温,Gwen,pl
+格雷福斯,Graves,pl
+梅尔,Mel,pl
+棘刺背心,Kamizelka Cierniowa,pl
+棘刺镀板铠甲,Cierniowa Zbroja,pl
+森罗公理,Drewniany Aksjomat,pl
+棱彩命运,Pryzmatyczne Przeznaczenie,pl
+棱彩门票,Pryzmatyczny Bilet,pl
+構成拡大,Rozgałęzienie,pl
+槍の決意,Wola Włóczni,pl
+次级镜像人格面具,Mniejsza Lustrzana Osobowość,pl
+正义之手,Ręka Sprawiedliwości,pl
+正义巨像,Heros,pl
+正义报复,Odkupienie,pl
+死亡之刃,Ostrze Śmierci,pl
+殉道美德,Cnota Męczennika,pl
+残酷弯刀,Kordelas Rzezimieszka,pl
+殺し屋のカトラス,Kordelas Rzezimieszka,pl
+比尔吉沃特,Bilgewater,pl
+比尔吉沃特 次级英雄复制器,Mniejszy Powielacz Bohaterów Bilgewater,pl
+比尔吉沃特纹章,Emblemat Bilgewater,pl
+气旋公理,Powietrzny Aksjomat,pl
+水のアクシオム,Wodny Aksjomat,pl
+水乳交融,Ramię w Ramię,pl
+水银,Żywe Srebro,pl
+永恒契约,Wieczny Pakt,pl
+永恩,Yone,pl
+永猎双子,Wieczni,pl
+沃利贝尔,Volibear,pl
+沃里克,Warwick,pl
+沈黙の帳,Całun Bezruchu,pl
+沙漠皇帝,Imperator,pl
+河流之王,Żarłok,pl
+治疗法球,Leczące Kule,pl
+法师,Adept Arkanów,pl
+法师纹章,Emblemat Adepta Arkanów,pl
+法杖溢流,Różdżkowy Przesyt,pl
+波比,Poppy,pl
+泪流成河,Rzeka Łez,pl
+泰坦的坚决,Determinacja Kolosa,pl
+泰达米尔,Tryndamere,pl
+泽拉斯,Xerath,pl
+洛里斯,Loris,pl
+浪人,Wygnańcy,pl
+海克斯机甲,HexMech,pl
+海克斯科技枪刃,Miecz-Pistolet Hextech,pl
+海克斯霸龙,T-Hex,pl
+海克斯飞门之旅,Podróż przez Hexbramę,pl
+海妖之怒,Furia Krakena,pl
+涌泉公理,Wodny Aksjomat,pl
+混乱回復装置,Rekombobulator,pl
+混沌の進化,Chaotyczna Ewolucja,pl
+游神的盟友,Sojusznik Opiekuna,pl
+滅びの王,Zniszczony Król,pl
+潘朵拉的备战席,Ławka Pandory,pl
+潘朵拉的装备,Przedmioty Pandory,pl
+激发之匣,Wzmacniający Medalion,pl
+火上浇油,Podsycenie Płomieni,pl
+灭世者的死亡之帽,Zabójczy Kapelusz Rabadona,pl
+灵风,Zefir,pl
+灵魂唤醒,Przebudzenie Duszy,pl
+災禍の使者,Niosący Zniszczenie,pl
+炎のアクシオム,Ognisty Aksjomat,pl
+炎の愛好家,Piromaniak,pl
+炎を強めて,Podsycenie Płomieni,pl
+点击即送,Po Prostu Traf,pl
+炽天使之拥,Kostur Serafina,pl
+炽焰公理,Ognisty Aksjomat,pl
+烁刃,Migoczące Ostrze,pl
+烬,Jhin,pl
+無差別殺人者,Bezwzględny Zabójca,pl
+爆炸式增长,Gwałtowny Wzrost,pl
+爆発的成長,Gwałtowny Wzrost,pl
+爆裂护盾,Tarcza Przeciwuderzeniowa,pl
+特性の書,Księga Cech,pl
+特性の木,Drzewo Cech,pl
+狂徒铠甲,Plemienna Zbroja,pl
+狂野女猎手,Łowczyni,pl
+狂野生长,Szalony Rozrost,pl
+狙神,Dalekostrzelec,pl
+狙神纹章,Emblemat Dalekostrzelca,pl
+猛将的荣耀,Honor Watażki,pl
+獄炎のハチェット,Piekielny Toporek,pl
+王冠とは重きもの,Korona Zawsze Będzie Ciążyć,pl
+王冠之重,Korona Zawsze Będzie Ciążyć,pl
+王冠意志,Wola Korony,pl
+玛尔扎哈,Malzahar,pl
+玻璃大炮,Porcelanowe Działo,pl
+珍藏财宝,Zakopane Skarby,pl
+珠光护手,Brylantowa Rękawica,pl
+珠光莲花,Brylantowy Lotos,pl
+瑞兹,Ryze,pl
+瑟庄妮,Sejuani,pl
+瑟提,Sett,pl
+璐璐,Lulu,pl
+甘いおやつ,Słodkie Przysmaki,pl
+甜点,Słodkie Przysmaki,pl
+生日礼物,Prezent Urodzinowy,pl
+生日聚会,Zjazd Urodzinowy,pl
+生涯ブロンズ,Wieczny Brąz,pl
+由二生D,Wartość Dodana,pl
+电压导管,Przekaźnik Napięcia,pl
+电流过载,Przeładowanie Elektryczne,pl
+电磁脉冲,Impuls Elektromagnetyczny,pl
+略奪者のダイス,Kość Krwiopijcy,pl
+疾射火炮,Ognista Armata,pl
+癒しのこだま,Leczące Echo,pl
+登上最高峰,Wielka Wygrana,pl
+白银命运,Srebrne Przeznaczenie,pl
+皮尔特沃夫,Piltover,pl
+皮尔特沃夫发明,Wynalazek Piltover,pl
+皮尔特沃夫纹章,Emblemat Piltover,pl
+盖伦,Garen,pl
+盗賊のグローブ,Rękawice Złodzieja,pl
+盗賊団,Banda Złodziejaszków,pl
+目には目を,Oko za Oko,pl
+石像鬼石板甲,Kamienna Płyta Gargulca,pl
+破灭使者,Niosący Zniszczenie,pl
+破败之王,Zniszczony Król,pl
+硬性承诺,Wielkie Poświęcenie,pl
+碰撞测试假人,Kukły do Testów Wypadkowych,pl
+確約された守護,Obiecana Ochrona,pl
+磁控线圈,Zwój Magnetrona,pl
+祖安,Zaun,pl
+祖安纹章,Emblemat Zaun,pl
+神盾使,Wartownik,pl
+神盾使纹章,Emblemat Wartownika,pl
+神谕者,Wzywający,pl
+神谕者纹章,Emblemat Wzywającego,pl
+禁忌雕像,Bluźnierczy Bożek,pl
+离子火花,Jonowa Iskra,pl
+科加斯,Cho'Gath,pl
+秘传奥义,Kahunahuna,pl
+穢れたヴァンパイア セプター,Spaczony Wampiryczny Kostur,pl
+窃贼帮派,Banda Złodziejaszków,pl
+窃贼手套,Rękawice Złodzieja,pl
+符文法师,Mag Run,pl
+第一份免费！,Pierwsze Jest Darmowe!,pl
+米利欧,Milio,pl
+精准而优雅,Precyzja i Wdzięk,pl
+精密かつ優雅,Precyzja i Wdzięk,pl
+精心打造,Twórcze Tworzenie,pl
+系魂圣枪,Złączona dusza,pl
+素材ビュッフェ,Składnikowy Bufet,pl
+紡がれし魔法,Tkanie Czarów,pl
+終わりなき絶望,Nieskończona Rozpacz,pl
+絶好調,Dobra Passa,pl
+红霸符,Czerwone Wzmocnienie,pl
+约德尔人,Yordle,pl
+约德尔人纹章,Emblemat Yordla,pl
+约里克,Yorick,pl
+纳什之牙,Ząb Nashora,pl
+纳什男爵,Baron Nashor,pl
+纳什男爵,Pogromca Riftu,pl
+纹章之书,Księga Cech,pl
+纺织魔法,Tkanie Czarów,pl
+终身黄铜,Wieczny Brąz,pl
+绝命毒师,Trujący Towarzysze,pl
+维迦,Veigar,pl
+羁绊树,Drzewo Cech,pl
+耀光使,Zakłócacz,pl
+耀光使纹章,Emblemat Zakłócacza,pl
+耐心是一种美德,Cierpliwość Jest Cnotą,pl
+联合作战,Wsparcie,pl
+能量圣杯,Puchar Potęgi,pl
+腐蚀,Korozja,pl
+腐食,Korozja,pl
+腕豪,Gangster,pl
+腰带溢流,Pasowy Przesyt,pl
+船长的帽子,Kapelusz Kapitana,pl
+船长的酿造品,Trunek Kapitana,pl
+艾克,Ekko,pl
+艾尼维亚,Anivia,pl
+艾希,Ashe,pl
+艾欧尼亚,Ionia,pl
+艾欧尼亚纹章,Emblemat Ionii,pl
+节外生枝,Rozgałęzienie,pl
+芸阿娜,Yunara,pl
+英勇福袋,Heroiczna Torba z Różnościami,pl
+英雄のラッキーバッグ,Heroiczna Torba z Różnościami,pl
+莫雷洛秘典,Morellonomicon,pl
+菲兹,Fizz,pl
+萨勒芬妮,Seraphine,pl
+蒙多医生,Dr Mundo,pl
+蓝霸符,Niebieskie Wzmocnienie,pl
+蔓延之根,Zapuszczanie Korzeni,pl
+蔚,Vi,pl
+蕾欧娜,Leona,pl
+薄暮法袍,Zasłona Równości,pl
+薇恩,Vayne,pl
+虚空,Pustka,pl
+虚空之女,Asymilator,pl
+虚空之杖,Kostur Pustki,pl
+虚空护手,Rękawica Pustki,pl
+虚空纹章,Emblemat Pustki,pl
+血の供物,Ofiara z Krwi,pl
+衝突試験用ダミー,Kukły do Testów Wypadkowych,pl
+裁决战士,Pogromca,pl
+裁决战士纹章,Emblemat Pogromcy,pl
+装备百宝袋,Torba z Przedmiotami,pl
+複製,Replikacja,pl
+视界专注,Skupienie Horyzontalne,pl
+解封魔武,Wyswobodzony ze Stali,pl
+解脱者,Wyzwolony,pl
+训练假人,Kukła Treningowa,pl
+诅咒之刃,Przeklęte Ostrze,pl
+诺克萨斯,Noxus,pl
+诺克萨斯纹章,Emblemat Noxusu,pl
+诺提勒斯,Nautilus,pl
+调谐振荡器,Zestrojony Oscylator,pl
+財宝の竜巻,Tajfun Skarbów,pl
+買い物三昧,Szaleństwo Zakupów,pl
+贝蕾亚,Briar,pl
+负极斗篷,Płaszcz Negacji,pl
+贸易中心,Rdzeń Handlu,pl
+费德提克,Fiddlesticks,pl
+赛恩,Sion,pl
+赵信,Xin Zhao,pl
+起死回生,Drugi Oddech,pl
+超越のタリスマン,Talizman Wstąpienia,pl
+超越生体,Wyższa Forma Życia,pl
+超越者,Wschodzący,pl
+超频电容器,Podkręcone Kondensatory,pl
+輝く悪党,Świetlisty Szelma,pl
+轻量魔法投掷,Lekko Magiczny Rzut,pl
+辛吉德,Singed,pl
+达克威尔入侵,Inwazja Darkwilla,pl
+迅击战士,Napastnik,pl
+迅击战士纹章,Emblemat Napastnika,pl
+远古巨龙,Starszy Smok,pl
+远古巫灵,Wschodzący,pl
+远古恐惧,Żniwiarz,pl
+连指手套,Rękawiczki,pl
+连续齿轮,Trybiki Kontinuum,pl
+迷离风衣,Podejrzany Płaszcz,pl
+适应性头盔,Specjalistyczny Hełm,pl
+遥遥领先,Inwestycja,pl
+選ばれし狼,Wybrani przez Wilka,pl
+酒吧指虎,Pąklowy Kastet,pl
+采矿钻机,Wiertło Wydobywcze,pl
+重启任务,Restart Misji,pl
+金のモンスーン,Deszcz Pieniędzy,pl
+金ピカの鋼,Pozłacana Stal,pl
+金克丝,Jinx,pl
+金色炊具,Wielkie Gotowanie,pl
+金铲铲,Szpatułka,pl
+金铲铲冠冕,Korona Taktyka,pl
+金锅铲冠冕,Peleryna Taktyka,pl
+金锅锅,Patelnia,pl
+金锅锅冠冕,Tarcza Taktyka,pl
+金霖龙,Złoty Smok,pl
+金鳞精粹,Esencja Migoczącej Łuski,pl
+銀の匙,W Czepku Urodzony,pl
+鋼からの解放,Wyswobodzony ze Stali,pl
+鋼の心,Serce ze Stali,pl
+鏡像のペルソナ,Lustrzana Osobowość,pl
+钢铁烈阳之匣,Naszyjnik Żelaznych Solari,pl
+银汤匙,W Czepku Urodzony,pl
+铸星龙王,Architekt Gwiazd,pl
+锁子甲,Kamizelka Kolcza,pl
+锤石,Thresh,pl
+镀金钢铁,Pozłacana Stal,pl
+镜像人格面具,Lustrzana Osobowość,pl
+长矛意志,Wola Włóczni,pl
+阿兹尔,Azir,pl
+阿狸,Ahri,pl
+限定カスタマイズ,Ekskluzywna Personalizacja,pl
+集中火力,Skupiony Ogień,pl
+集中砲火,Skupiony Ogień,pl
+集结战队,Wspólne Siły,pl
+雷克塞,Rek'Sai,pl
+雷克顿,Renekton,pl
+震畏大炮,Armata Drogi przez Mękę,pl
+静止法衣,Całun Bezruchu,pl
+韋駄天,Napastnik,pl
+韋駄天の紋章,Emblemat Napastnika,pl
+顽强不屈,Niezłomność,pl
+風のアクシオム,Powietrzny Aksjomat,pl
+飞升,Wyniesienie,pl
+飞升护符,Talizman Wstąpienia,pl
+食堂,I Kto To Będzie Sprzątać?,pl
+饭厅,I Kto To Będzie Sprzątać?,pl
+饮血剑,Krwiopijec,pl
+騎士の誓い,Przysięga Rycerska,pl
+骑士之誓,Przysięga Rycerska,pl
+高压电,Wysokie Napięcie,pl
+高级生命体,Wyższa Forma Życia,pl
+高级贷款,Zaawansowana Pożyczka,pl
+高電圧,Wysokie Napięcie,pl
+高電圧管,Przekaźnik Napięcia,pl
+鬼影望远镜,Nawiedzona Luneta,pl
+鬼索的狂暴之刃,Ostrze Gniewu Guinsoo,pl
+魔像,Golem,pl
+魔像化,Zgolemienie,pl
+魔法のダイス,Magiczny Rzut,pl
+魔法投掷,Magiczny Rzut,pl
+鱼骨头,Rybeńka,pl
+鲜血祭品,Ofiara z Krwi,pl
+黄昏の試練,Próby Zmierzchu,pl
+黄昏圣盾,Egida Zmierzchu,pl
+黄金の龍,Złoty Smok,pl
+黄金命运,Złote Przeznaczenie,pl
+黎明圣盾,Egida Świtu,pl
+黎明核心,Rdzeń Świtu,pl
+黑市炸药,Czarnorynkowe Bomby,pl
+黑市补货,Dostawa Czarnego Rynku,pl
+黑暗之女,Dziecko Ciemności,pl
+黑暗吸血鬼节杖,Spaczony Wampiryczny Kostur,pl
+黑铁资产,Żelazne Zasoby,pl
+黛安娜,Diana,pl
+龙血武姬,Córa Smoków,pl

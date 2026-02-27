@@ -1,449 +1,395 @@
 source,target,tgt_lng
+1个霸符，2个霸符,"Un buff, două buff-uri",ro
+2のトリック,Doi e cifra magică,ro
+3 Threes,Trei de 3,ro
+3×3,Trei de 3,ro
+3の軍団,Legiunea de trei,ro
+8级D干的传说,Reîncărcări epice,ro
+90 Caliber Nets,Plase de calibru 90,ro
+90口径绳网,Plase de calibru 90,ro
+A Magic Roll,Aruncare magică,ro
 Aatrox,Aatrox,ro
+Acceleration Gate,Poarta accelerării,ro
+Adaptive Helm,Coif cameleonic,ro
+Advanced Loan,Împrumut avansat,ro
+Aegis of Dawn,Scutul zorilor,ro
+Aegis of Dusk,Scutul amurgului,ro
 Ahri,Ahri,ro
+Air Axiom,Axioma aerului,ro
 Ambessa,Ambessa,ro
 Anivia,Anivia,ro
 Annie,Annie,ro
 Aphelios,Aphelios,ro
+Arcane Viktor-y,Viktor-ie ocultă,ro
+Arcane ビクタリー,Viktor-ie ocultă,ro
+Arcanist,Ocult,ro
+Arcanist Emblem,Emblema oculților,ro
+Archangel's Staff,Toiagul arhanghelului,ro
+Armor Nullifier,Nulificator de armură,ro
+Artillery Barrage,Rafală de artilerie,ro
+Ascendant,Iluminat,ro
+Ascension,Ascensiune,ro
 Ashe,Ashe,ro
+Assimilator,Asimilator,ro
 Aurelion Sol,Aurelion Sol,ro
 Azir,Azir,ro
+B.F. Sword,Sabia forței brute,ro
+B.F.ソード,Sabia forței brute,ro
+Band of Thieves,Bandă de tâlhari,ro
 Bard,Bard,ro
+Barknuckles,Pumni de lemn,ro
 Baron Nashor,Baronul Nashor,ro
 Bel'Veth,Bel'Veth,ro
-Blitzcrank,Blitzcrank,ro
-Braum,Braum,ro
-Briar,Briar,ro
-Brock,Brock,ro
-Caitlyn,Caitlyn,ro
-Cho'Gath,Cho'Gath,ro
-Darius,Darius,ro
-Diana,Diana,ro
-Dr. Mundo,Dr. Mundo,ro
-Draven,Draven,ro
-Ekko,Ekko,ro
-Elder Dragon,Dragonul străvechi,ro
-Fiddlesticks,Fiddlesticks,ro
-Fizz,Fizz,ro
-Galio,Galio,ro
-Gangplank,Gangplank,ro
-Garen,Garen,ro
-Golem,Golem,ro
-Graves,Graves,ro
-Gwen,Gwen,ro
-Illaoi,Illaoi,ro
-Jarvan IV,Jarvan IV,ro
-Jhin,Jhin,ro
-Jinx,Jinx,ro
-Kai'Sa,Kai'Sa,ro
-Kalista,Kalista,ro
-Kennen,Kennen,ro
-Kindred,Kindred,ro
-Kobuko & Yuumi,Kobuko și Yuumi,ro
-Kog'Maw,Kog'Maw,ro
-LeBlanc,LeBlanc,ro
-Leona,Leona,ro
-Lissandra,Lissandra,ro
-Loris,Loris,ro
-Lucian & Senna,Lucian și Senna,ro
-Lulu,Lulu,ro
-Lux,Lux,ro
-Malzahar,Malzahar,ro
-Mel,Mel,ro
-Milio,Milio,ro
-Miss Fortune,Miss Fortune,ro
-Nasus,Nasus,ro
-Nautilus,Nautilus,ro
-Neeko,Neeko,ro
-Nidalee,Nidalee,ro
-Orianna,Orianna,ro
-Ornn,Ornn,ro
-Piltover Invention,Invenția Piltoverului,ro
-Poppy,Poppy,ro
-Qiyana,Qiyana,ro
-Rek'Sai,Rek'Sai,ro
-Renekton,Renekton,ro
-Rift Herald,Solul Riftului,ro
-Rift Scuttler,Crabul,ro
-Rumble,Rumble,ro
-Ryze,Ryze,ro
-Sejuani,Sejuani,ro
-Seraphine,Seraphine,ro
-Sett,Sett,ro
-Shen,Shen,ro
-Shyvana,Shyvana,ro
-Singed,Singed,ro
-Sion,Sion,ro
-Skarner,Skarner,ro
-Sona,Sona,ro
-Swain,Swain,ro
-Sylas,Sylas,ro
-T-Hex,T-Hex,ro
-Tahm Kench,Tahm Kench,ro
-Taric,Taric,ro
-Teemo,Teemo,ro
-Thresh,Thresh,ro
-Training Dummy,Manechin de antrenament,ro
-Tristana,Tristana,ro
-Tryndamere,Tryndamere,ro
-Twisted Fate,Twisted Fate,ro
-Vayne,Vayne,ro
-Veigar,Veigar,ro
-Vi,Vi,ro
-Viego,Viego,ro
-Volibear,Volibear,ro
-Warwick,Warwick,ro
-Wukong,Wukong,ro
-Xerath,Xerath,ro
-Xin Zhao,Xin Zhao,ro
-Yasuo,Yasuo,ro
-Yone,Yone,ro
-Yorick,Yorick,ro
-Yunara,Yunara,ro
-Zaahen,Zaahen,ro
-Ziggs,Ziggs,ro
-Zilean,Zilean,ro
-Zoe,Zoe,ro
-Arcanist,Ocult,ro
-Ascendant,Iluminat,ro
-Assimilator,Asimilator,ro
-Bilgewater,Bilgewater,ro
-Blacksmith,Fierar,ro
-Bruiser,Luptător,ro
-Caretaker,Îngrijitor,ro
-Chainbreaker,Distrugător de lanțuri,ro
-Chosen Wolves,Lupi aleși,ro
-Chronokeeper,Paznicul timpului,ro
-Dark Child,Copilul întunericului,ro
-Darkin,Darkin,ro
-Defender,Apărător,ro
-Demacia,Demacia,ro
-Disruptor,Neutralizator,ro
-Dragonborn,Fiica dragonului,ro
-Dragonguards,Gărzile-dragon,ro
-Emperor,Împărat,ro
-Eternal,Etern,ro
-Freljord,Freljord,ro
-Glutton,Lacom,ro
-Gunslinger,Pistolar,ro
-Harvester,Culegător,ro
-Heroic,Eroic,ro
-HexMech,HexMech,ro
-Huntress,Vânătoare,ro
-Immortal,Nemuritor,ro
-Invoker,Invocator,ro
-Ionia,Ionia,ro
-Ixtal,Ixtal,ro
-Juggernaut,Titan,ro
-Longshot,Țintaș de distanță,ro
-Noxus,Noxus,ro
-Piltover,Piltover,ro
-Poison Pals,Tovarășii Otrăvitori,ro
-Quickstriker,Lovituri rapide,ro
-Riftscourge,Năpasta Riftului,ro
-Rune Mage,Magul runelor,ro
-Sentinels of Light,Santinelele Luminii,ro
-Shadow Isles,Insulele Umbrelor,ro
-Shurima,Shurima,ro
-Slayer,Ucigaș,ro
-Soulbound,Suflet unit,ro
-Star Forger,Făuritorul de stele,ro
-Targon,Targon,ro
-The Boss,Bătăușul-șef,ro
-Timewinders,Crono-bumeranguri,ro
-Vanquisher,Cuceritor,ro
-Void,Vid,ro
-Warden,Gardian,ro
-World Ender,Distrugătorul lumilor,ro
-Yordle,Yordle,ro
-Zaun,Zaun,ro
-3 Threes,Trei de 3,ro
-A Magic Roll,Aruncare magică,ro
-Advanced Loan,Împrumut avansat,ro
-Air Axiom,Axioma aerului,ro
-Arcane Viktor-y,Viktor-ie ocultă,ro
-Artillery Barrage,Rafală de artilerie,ro
-Ascension,Ascensiune,ro
-Band of Thieves,Bandă de tâlhari,ro
 Belt Overflow,Curele fără număr,ro
 Best Friends,Cei mai buni prieteni,ro
 Big Friend,Prieten mare,ro
 Big Grab Bag,Punguță mare,ro
+Bilgewater,Bilgewater,ro
+Bilgewater Emblem,Emblema Bilgewater,ro
+Bilgewater Lesser Champion Duplicator,Duplicator minor de campioni din Bilgewater,ro
 Binary Airdrop,Livrare binară,ro
 Birthday Present,Cadou aniversar,ro
 Birthday Reunion,Reuniune aniversară,ro
+Black Market Restock,Reaprovizionarea pieței negre,ro
+Blackmarket Explosives,Explozibili de contrabandă,ro
+Blacksmith,Fierar,ro
+Blast Shield,Scut exploziv,ro
+Blighting Jewel,Giuvaier blestemat,ro
+Blitzcrank,Blitzcrank,ro
 Blood Offering,Ofrandă de sânge,ro
+Bloodthirster,Sabia sângeroasă,ro
+Blue Buff,Buff-ul albastru,ro
 Bodyguard Training,Antrenamentul gărzii de corp,ro
 Boxing Lessons,Lecții de box,ro
+Bramble Vest,Vestă de mărăcini,ro
 Branching Out,Ramificare,ro
+Braum,Braum,ro
+Briar,Briar,ro
+Brigand's Dice,Zarul necruțătorului,ro
 Bringer of Ruin,Aducătorul distrugerii,ro
+Brock,Brock,ro
 Bronze For Life,Bronz pentru totdeauna,ro
+Bruiser,Luptător,ro
+Bruiser Emblem,Emblema luptătorilor,ro
 Buried Treasures,Comori îngropate,ro
+Caitlyn,Caitlyn,ro
+Cappa Juice,Suc Cappa,ro
+Captain's Brew,Băutura căpitanului,ro
+Captain's Hat,Pălăria căpitanului,ro
 Care Package,Pachet de îngrijire,ro
+Caretaker,Îngrijitor,ro
 Caretaker's Ally,Aliatul îngrijitorului,ro
 Celestial Blessing,Binecuvântarea stelelor,ro
+Chain Vest,Vestă de zale,ro
+Chainbreaker,Distrugător de lanțuri,ro
+Chalice of Power,Pocalul puterii,ro
 Chaotic Evolution,Evoluție haotică,ro
+Cho'Gath,Cho'Gath,ro
+Chosen Wolves,Lupi aleși,ro
+Chronokeeper,Paznicul timpului,ro
 Commerce Core,Comerț de bază,ro
 Component Buffet,Ofertă la componente,ro
 Construct a Companion,Construiește un însoțitor,ro
+Continuum Cogs,Rotițe nesfârșite,ro
 Cooking Pot,Oală de gătit,ro
 Coronation,Încoronare,ro
 Corrosion,Coroziune,ro
+Corrupt Vampiric Scepter,Sceptru vampiric corupt,ro
 Cosmic Calling,Chemare cosmică,ro
 Crafted Crafting,Forja reîncărcărilor,ro
 Crash Test Dummies,Manechine animate,ro
 Crown's Will,Voința Coroanei,ro
+Crownguard,Crownguard,ro
 Cry Me A River,Cod roșu de lacrimi,ro
+Cursed Blade,Sabia blestemată,ro
+Cutthroat's Cutlass,Hangerul ucigașului,ro
+C位的觉悟,Găsește-ți centrul de putere,ro
+DD街区,Sectorul comercial,ro
+Darius,Darius,ro
+Dark Child,Copilul întunericului,ro
+Darkin,Darkin,ro
 Darkwill's Invasion,Invazia lui Darkwill,ro
+Dawncore,Miezul zorilor,ro
+Dead Man's Dagger,Pumnalul ostașului ucis,ro
 Deadlier Blades,Săbii mai letale,ro
 Deadlier Caps,Pălării mai letale,ro
+Deathblade,Sabia morții,ro
+Defender,Apărător,ro
+Defender Emblem,Emblema apărătorilor,ro
 Defense of the Placidium,Apărarea Placidiumului,ro
+Demacia,Demacia,ro
+Demacia Emblem,Emblema Demaciei,ro
 Demacia Forever,Demacia pentru totdeauna,ro
+Diana,Diana,ro
+Disruptor,Neutralizator,ro
+Disruptor Emblem,Emblemă neutralizatorilor,ro
 Double Trouble,Probleme la pătrat,ro
+Dr. Mundo,Dr. Mundo,ro
+Dragon's Claw,Gheara dragonului,ro
+Dragonborn,Fiica dragonului,ro
+Dragonguards,Gărzile-dragon,ro
+Draven,Draven,ro
+Dreadway Cannon,Tunul Groazei,ro
 Dummify,Manechinizare,ro
 Duo Queue,Listă duo,ro
+D个痛快！,Reîncărcări la grămadă,ro
+E.M.P.,E.M.P.,ro
 Earth Axiom,Axioma pământului,ro
+Echo Engine,Motor în oglindă,ro
+Edge of Night,Taina întunericului,ro
+Ekko,Ekko,ro
+Elder Dragon,Dragonul străvechi,ro
+Electrical Overload,Supraîncărcare electrică,ro
+Emperor,Împărat,ro
 Epic Rolldown,Reîncărcări epice,ro
+Eternal,Etern,ro
+Eternal Pact,Pact etern,ro
+Evenshroud,Văl uniform,ro
 Exclusive Customization,Personalizare exclusivă,ro
 Exiles,Exilați,ro
 Expected Unexpectedness,Surpriză nesurprinzătoare,ro
 Explosive Growth,Creștere explozivă,ro
 Eye For An Eye,Ochi pentru ochi,ro
 Feed the Flames,Întețește focul,ro
+Fiddlesticks,Fiddlesticks,ro
 Find Your Center,Găsește-ți centrul de putere,ro
 Fire Axiom,Axioma focului,ro
+First Mate's Flintlock,Pistolul secundului,ro
+First One's Free!,Primul e gratuit!,ro
+Fishbones,Bubuilă,ro
+Fizz,Fizz,ro
+Flickerblades,Tăișuri sclipitoare,ro
 Focused Fire,Foc concentrat,ro
+Forbidden Idol,Idol interzis,ro
+Freljord,Freljord,ro
+Freljord Emblem,Emblema Freljordului,ro
+Frying Pan,Tigaia de aur,ro
+Galio,Galio,ro
+Gangplank,Gangplank,ro
+Garen,Garen,ro
+Gargoyle Stoneplate,Platoșa garguiului,ro
+Giant Slayer,Vânătorul de uriași,ro
 Giant and Mighty,Mare și amenințătoare,ro
+Giant's Belt,Cureaua uriașului,ro
+Gigantification Ray,Rază de mărire,ro
 Gilded Steel,Oțel aurit,ro
 Glass Cannon,"Puternic, dar fragil",ro
+Glutton,Lacom,ro
 Going Long,Pariu pe viitor,ro
 Gold Destiny,Destin de aur,ro
+Golem,Golem,ro
 Golemify,Golemificare,ro
 Good For Something,Tot sunt buni la ceva,ro
+Graves,Graves,ro
 Growth Mindset,Axat pe creștere,ro
+Guinsoo's Rageblade,Spada furiei lui Guinsoo,ro
+Gunslinger,Pistolar,ro
+Gunslinger Emblem,Emblema pistolarilor,ro
+Gwen,Gwen,ro
+Hand Of Justice,Mâna justiției,ro
 Hard Commit,Angajament solid,ro
+Harvester,Culegător,ro
+Haunted Spyglass,Luneta bântuită,ro
 Healing Orbs,Sfere vindecătoare,ro
 Heart of Steel,Inimă de oțel,ro
 Heavy Is the Crown,Povara coroanei,ro
 Hedge Fund,Fond de investiții,ro
 Hefty Rolls,Reîncărcări zdravene,ro
+Hellfire Hatchet,Secure din focul iadului,ro
+Heroic,Eroic,ro
 Heroic Grab Bag,Punguță eroică,ro
+HexMech,HexMech,ro
 Hexgate Travel,Călătorie prin hexportal,ro
+Hextech Gunblade,Pușcă cu baionetă hextech,ro
 High Voltage,Linie de înaltă tensiune,ro
 Hold the Line,Rezistența din prima linie,ro
+Horizon Focus,Focalizarea orizontului,ro
+Huntress,Vânătoare,ro
+Illaoi,Illaoi,ro
+Immortal,Nemuritor,ro
 Indecision,Indecizie,ro
 Indiscriminate Killer,Ucigaș fără discriminare,ro
+Infinity Edge,Sabia infinitului,ro
+Innervating Locket,Medalion stimulant,ro
 Invested,Investiție,ro
+Invoker,Invocator,ro
+Invoker Emblem,Emblema invocatorilor,ro
+Ionia,Ionia,ro
+Ionia Emblem,Emblema Ioniei,ro
+Ionic Spark,Scânteie ionică,ro
 Iron Assets,Tare ca fierul,ro
 Item Grab Bag,Punguță cu obiecte surpriză,ro
+Ixtal,Ixtal,ro
+Ixtal Emblem,Emblema Ixtalului,ro
+Jarvan IV,Jarvan IV,ro
+Jeweled Gauntlet,Mănușa cu nestemate,ro
 Jeweled Lotus,Lotus cu nestemate,ro
+Jhin,Jhin,ro
+Jinx,Jinx,ro
+Juggernaut,Titan,ro
+Juggernaut Emblem,Emblema titanilor,ro
 Just Hit,Hai odată,ro
 Kahunahuna,Kahunahuna,ro
+Kai'Sa,Kai'Sa,ro
+Kalista,Kalista,ro
+Kennen,Kennen,ro
+Kindred,Kindred,ro
+Kinetic Barrier,Barieră cinetică,ro
+Knight's Vow,Legământul cavalerului,ro
+Kobuko & Yuumi,Kobuko și Yuumi,ro
+Kog'Maw,Kog'Maw,ro
+Kraken's Fury,Furia krakenului,ro
+L-90 カリバーネット,Plase de calibru 90,ro
 Last Second Save,La mustață,ro
+Last Whisper,Ultima șoaptă,ro
 Late Game Scaling,Creștere pe final de joc,ro
 Late Game Specialist,Specialistul sfârșitului jocului,ro
+LeBlanc,LeBlanc,ro
 Leap of Faith,Triumful credinței,ro
 Legion of Threes,Legiunea de trei,ro
+Leona,Leona,ro
+Lesser Mirrored Persona,Personalitate în oglindă minoră,ro
 Level Up!,Nivelul următor!,ro
+Lich Bane,Urgia de pe lume,ro
 Lifting Competition,Competiție de haltere,ro
+Lightshield Crest,Blazonul Lightshield,ro
 Lineup,Aliniere,ro
+Lissandra,Lissandra,ro
 Little Buddies,Prieteni micuți,ro
+Locket of the Iron Solari,Blazonul solarilor de fier,ro
+Longshot,Țintaș de distanță,ro
+Longshot Emblem,Emblema țintașilor de distanță,ro
+Loris,Loris,ro
+Lucian & Senna,Lucian și Senna,ro
+Lucky Doubloon,Dublon norocos,ro
 Lucky Gloves,Mănuși norocoase,ro
+Luden's Tempest,Furtuna lui Luden,ro
+Lulu,Lulu,ro
+Lux,Lux,ro
 Mace's Will,Voința buzduganului,ro
+Magnetron Coil,Spirală magnetron,ro
 Makeshift Armor,Armură improvizată,ro
+Malzahar,Malzahar,ro
+Mel,Mel,ro
+Mending Echoes,Ecouri tămăduitoare,ro
 Mess Hall,Sala dezordinii,ro
+Micro-Rockets,Micro-rachete,ro
+Milio,Milio,ro
 Min-Max,Min-Max,ro
+Mining Drill,Burghiu de mină,ro
+Mirrored Persona,Personalitate în oglindă,ro
+Miss Fortune,Miss Fortune,ro
 Missed Connections,Legături ratate,ro
+Mittens,Mănuși strașnice,ro
+Momentum Drive,Avânt crescut,ro
 Money Monsoon,Muson de bani,ro
+Morellonomicon,Morellonomicon,ro
+Nashor's Tooth,Dintele lui Nashor,ro
+Nasus,Nasus,ro
+Nautilus,Nautilus,ro
+Needlessly Large Rod,Toiag uriaș,ro
+Neeko,Neeko,ro
+Negatron Cloak,Mantie Negatron,ro
+Nidalee,Nidalee,ro
+Noxus,Noxus,ro
+Noxus Emblem,Emblema Noxusului,ro
 On a Roll,Pe val,ro
 "One Buff, Two Buff","Un buff, două buff-uri",ro
 One Twos Three,"Unu, doi, trei",ro
 "One, Two, Five!","Unu, doi, cinci!",ro
+Orianna,Orianna,ro
+Ornn,Ornn,ro
+Overclocked Capacitors,Condensatoare suprasolicitate,ro
 Pandora's Bench,Banca Pandorei,ro
 Pandora's Items,Obiectele Pandorei,ro
 Patience is a Virtue,Răbdarea e o virtute,ro
+Pile O' Citrus,Grămadă de citrice,ro
+Piltover,Piltover,ro
+Piltover Emblem,Emblema Piltoverului,ro
+Piltover Invention,Invenția Piltoverului,ro
 Placebo,Placebo,ro
 Plot Armor,Protecție universală,ro
+Poison Pals,Tovarășii Otrăvitori,ro
+Poppy,Poppy,ro
 Portable Forge,Forjă portabilă,ro
 Precision and Grace,Precizie și grație,ro
 Preparation,Pregătire,ro
 Prismatic Destiny,Destin prismatic,ro
 Prismatic Ticket,Bilet prismatic,ro
 Promised Protection,Protecție promisă,ro
+Protector's Vow,Jurământul protectorului,ro
+Prowler's Claw,Gheara prădătorului,ro
 Pyromaniac,Piromanie,ro
+Qiyana,Qiyana,ro
+Quicksilver,Argint viu,ro
+Quickstriker,Lovituri rapide,ro
+Quickstriker Emblem,Emblema loviturilor rapide,ro
+Rabadon's Deathcap,Pălăria malefică a lui Rabadon,ro
 Radiant Rascal,Poznaș radiant,ro
 Radiant Relics,Relicve radiante,ro
 Raining Gold,Ploaie de aur,ro
+Rapid Firecannon,Tun-mitralieră,ro
+Realm Warp,Sferă de teleportare,ro
 Recombobulator,Recombobulator,ro
+Recurve Bow,Arc încovoiat,ro
+Red Buff,Buff-ul roșu,ro
 ReinFOURcement,"Unde-s 2 stele, puterea crește",ro
+Rek'Sai,Rek'Sai,ro
+Renekton,Renekton,ro
 Replication,Reproducere,ro
 Restart Mission,Misiune în acțiune,ro
 Retribution,Pedeapsă,ro
+Rift Herald,Solul Riftului,ro
+Rift Scuttler,Crabul,ro
+Riftscourge,Năpasta Riftului,ro
 Rolling For Days,Reîncărcări la grămadă,ro
+Rumble,Rumble,ro
+Rune Mage,Magul runelor,ro
+Ryze,Ryze,ro
 Savings Account,Cont de economii,ro
 Second Wind,Forțe proaspete,ro
+Seeker's Armguard,Brățara căutătorului,ro
+Sejuani,Sejuani,ro
+Sentinels of Light,Santinelele Luminii,ro
 Seraphim's Staff,Sceptrul serafimului,ro
+Seraphine,Seraphine,ro
+Sett,Sett,ro
+Shadow Isles,Insulele Umbrelor,ro
+Shadow Puppet,Păpușa din umbră,ro
+Shen,Shen,ro
 Shimmerscale Essence,Solzi sclipitori,ro
 Shopping Spree,La cumpărături,ro
+Shroud of Stillness,Vălul nemișcării,ro
+Shurima,Shurima,ro
+Shyvana,Shyvana,ro
 Silco's Revenge,Răzbunarea lui Silco,ro
 Silver Destiny,Destin de argint,ro
 Silver Spoon,Născut înțelept,ro
+Silvermere Dawn,Răsăritul din Silvermere,ro
+Singed,Singed,ro
+Sion,Sion,ro
+Skarner,Skarner,ro
+Slayer,Ucigaș,ro
+Slayer Emblem,Emblema ucigașilor,ro
 Slightly Magic Roll,Reîncărcare relativ magică,ro
 Small Grab Bag,Punguță mică,ro
 Solo Plate,Platoșă unică,ro
+Sona,Sona,ro
 Soul Awakening,Trezirea sufletului,ro
+Soulbound,Suflet unit,ro
+Sparring Gloves,Mănuși de antrenament,ro
+Spatula,Spatulă,ro
+Spear of Shojin,Lancea lui Shojin,ro
 Spear's Will,Voința lăncii,ro
+Spectral Cutlass,Hanger fantomatic,ro
+Spirit Visage,Înfățișarea sufletului,ro
 Spirit of Redemption,Spiritul izbăvirii,ro
 Spreading Roots,Rădăcini răspândite,ro
 Staffsmith,Meșter de toiege,ro
 Stand United,Unire în luptă,ro
+Star Forger,Făuritorul de stele,ro
 Stars Are Born,Nașterea stelelor,ro
 Starter Kit,Trusa începătorului,ro
-Sweet Treats,Gustări dulci,ro
-Sword Overflow,Săbii fără număr,ro
-Swordsmith,Meșter de săbii,ro
-Teaming Up,În echipă,ro
-The Axiomata,Axiomele,ro
-The Golden Dragon,Dragonul auriu,ro
-The Ruined King,Regele înfrânt,ro
-The Trait Tree,Copacul caracteristicilor,ro
-The World Runes,Runele antice,ro
-Thorn-Plated Armor,Armură cu spini,ro
-"Tiny, but Deadly",Mici și letale,ro
-Tons of Stats!,Sute de atribute!,ro
-Trade Sector,Sectorul comercial,ro
-Trials of Twilight,Provocările crepusculului,ro
-Trifecta,Triplu avantaj,ro
-Twin Guardians,Gardienii gemeni,ro
-Two Much Value,De două ori mai câștigați,ro
-Two Trick,Doi e cifra magică,ro
-U.R.F,U.R.F,ro
-Unsealed From Steel,Dezvăluit din oțel,ro
-Upward Mobility,Ascensiune socială,ro
-Wand Overflow,Toiege fără număr,ro
-Warlord's Honor,Onoarea războinicului,ro
-Water Axiom,Axioma apei,ro
-We Stick Together,Rămânem împreună,ro
-Wild Growth,Creștere sălbatică,ro
-Win Out,Victorie neașteptată,ro
-Wood Axiom,Axioma lemnului,ro
-Woven Magic,Magie întrepătrunsă,ro
-90 Caliber Nets,Plase de calibru 90,ro
-Acceleration Gate,Poarta accelerării,ro
-Adaptive Helm,Coif cameleonic,ro
-Aegis of Dawn,Scutul zorilor,ro
-Aegis of Dusk,Scutul amurgului,ro
-Arcanist Emblem,Emblema oculților,ro
-Archangel's Staff,Toiagul arhanghelului,ro
-Armor Nullifier,Nulificator de armură,ro
-B.F. Sword,Sabia forței brute,ro
-Barknuckles,Pumni de lemn,ro
-Bilgewater Emblem,Emblema Bilgewater,ro
-Bilgewater Lesser Champion Duplicator,Duplicator minor de campioni din Bilgewater,ro
-Black Market Restock,Reaprovizionarea pieței negre,ro
-Blackmarket Explosives,Explozibili de contrabandă,ro
-Blast Shield,Scut exploziv,ro
-Blighting Jewel,Giuvaier blestemat,ro
-Bloodthirster,Sabia sângeroasă,ro
-Blue Buff,Buff-ul albastru,ro
-Bramble Vest,Vestă de mărăcini,ro
-Brigand's Dice,Zarul necruțătorului,ro
-Bruiser Emblem,Emblema luptătorilor,ro
-Cappa Juice,Suc Cappa,ro
-Captain's Brew,Băutura căpitanului,ro
-Captain's Hat,Pălăria căpitanului,ro
-Chain Vest,Vestă de zale,ro
-Chalice of Power,Pocalul puterii,ro
-Continuum Cogs,Rotițe nesfârșite,ro
-Corrupt Vampiric Scepter,Sceptru vampiric corupt,ro
-Crownguard,Crownguard,ro
-Cursed Blade,Sabia blestemată,ro
-Cutthroat's Cutlass,Hangerul ucigașului,ro
-Dawncore,Miezul zorilor,ro
-Dead Man's Dagger,Pumnalul ostașului ucis,ro
-Deathblade,Sabia morții,ro
-Defender Emblem,Emblema apărătorilor,ro
-Demacia Emblem,Emblema Demaciei,ro
-Disruptor Emblem,Emblemă neutralizatorilor,ro
-Dragon's Claw,Gheara dragonului,ro
-Dreadway Cannon,Tunul Groazei,ro
-E.M.P.,E.M.P.,ro
-Echo Engine,Motor în oglindă,ro
-Edge of Night,Taina întunericului,ro
-Electrical Overload,Supraîncărcare electrică,ro
-Eternal Pact,Pact etern,ro
-Evenshroud,Văl uniform,ro
-First Mate's Flintlock,Pistolul secundului,ro
-First One's Free!,Primul e gratuit!,ro
-Fishbones,Bubuilă,ro
-Flickerblades,Tăișuri sclipitoare,ro
-Forbidden Idol,Idol interzis,ro
-Freljord Emblem,Emblema Freljordului,ro
-Frying Pan,Tigaia de aur,ro
-Gargoyle Stoneplate,Platoșa garguiului,ro
-Giant Slayer,Vânătorul de uriași,ro
-Giant's Belt,Cureaua uriașului,ro
-Gigantification Ray,Rază de mărire,ro
-Guinsoo's Rageblade,Spada furiei lui Guinsoo,ro
-Gunslinger Emblem,Emblema pistolarilor,ro
-Hand Of Justice,Mâna justiției,ro
-Haunted Spyglass,Luneta bântuită,ro
-Hellfire Hatchet,Secure din focul iadului,ro
-Hextech Gunblade,Pușcă cu baionetă hextech,ro
-Horizon Focus,Focalizarea orizontului,ro
-Infinity Edge,Sabia infinitului,ro
-Innervating Locket,Medalion stimulant,ro
-Invoker Emblem,Emblema invocatorilor,ro
-Ionia Emblem,Emblema Ioniei,ro
-Ionic Spark,Scânteie ionică,ro
-Ixtal Emblem,Emblema Ixtalului,ro
-Jeweled Gauntlet,Mănușa cu nestemate,ro
-Juggernaut Emblem,Emblema titanilor,ro
-Kinetic Barrier,Barieră cinetică,ro
-Knight's Vow,Legământul cavalerului,ro
-Kraken's Fury,Furia krakenului,ro
-Last Whisper,Ultima șoaptă,ro
-Lesser Mirrored Persona,Personalitate în oglindă minoră,ro
-Lich Bane,Urgia de pe lume,ro
-Lightshield Crest,Blazonul Lightshield,ro
-Locket of the Iron Solari,Blazonul solarilor de fier,ro
-Longshot Emblem,Emblema țintașilor de distanță,ro
-Lucky Doubloon,Dublon norocos,ro
-Luden's Tempest,Furtuna lui Luden,ro
-Magnetron Coil,Spirală magnetron,ro
-Mending Echoes,Ecouri tămăduitoare,ro
-Micro-Rockets,Micro-rachete,ro
-Mining Drill,Burghiu de mină,ro
-Mirrored Persona,Personalitate în oglindă,ro
-Mittens,Mănuși strașnice,ro
-Momentum Drive,Avânt crescut,ro
-Morellonomicon,Morellonomicon,ro
-Nashor's Tooth,Dintele lui Nashor,ro
-Needlessly Large Rod,Toiag uriaș,ro
-Negatron Cloak,Mantie Negatron,ro
-Noxus Emblem,Emblema Noxusului,ro
-Overclocked Capacitors,Condensatoare suprasolicitate,ro
-Pile O' Citrus,Grămadă de citrice,ro
-Piltover Emblem,Emblema Piltoverului,ro
-Protector's Vow,Jurământul protectorului,ro
-Prowler's Claw,Gheara prădătorului,ro
-Quicksilver,Argint viu,ro
-Quickstriker Emblem,Emblema loviturilor rapide,ro
-Rabadon's Deathcap,Pălăria malefică a lui Rabadon,ro
-Rapid Firecannon,Tun-mitralieră,ro
-Realm Warp,Sferă de teleportare,ro
-Recurve Bow,Arc încovoiat,ro
-Red Buff,Buff-ul roșu,ro
-Seeker's Armguard,Brățara căutătorului,ro
-Shadow Puppet,Păpușa din umbră,ro
-Shroud of Stillness,Vălul nemișcării,ro
-Silvermere Dawn,Răsăritul din Silvermere,ro
-Slayer Emblem,Emblema ucigașilor,ro
-Sparring Gloves,Mănuși de antrenament,ro
-Spatula,Spatulă,ro
-Spear of Shojin,Lancea lui Shojin,ro
-Spectral Cutlass,Hanger fantomatic,ro
-Spirit Visage,Înfățișarea sufletului,ro
 Statikk Shiv,Cuțit electrostatic,ro
 Steadfast Heart,Iubire nezdruncinată,ro
 Sterak's Gage,Gheara lui Sterak,ro
@@ -451,34 +397,1052 @@ Striker's Flail,Buzduganul înaintașului,ro
 Sunfire Cape,Mantie solară,ro
 Superior Lifeform,Formă de viață superioară,ro
 Suspicious Trench Coat,Trenci suspect,ro
+Swain,Swain,ro
+Sweet Treats,Gustări dulci,ro
+Sword Overflow,Săbii fără număr,ro
+Swordsmith,Meșter de săbii,ro
+Sylas,Sylas,ro
 Syren's Broadside,Salvele Sirenei,ro
+T-Hex,T-Hex,ro
 Tactician's Cape,Mantia tacticianului,ro
 Tactician's Crown,Coroana tacticianului,ro
 Tactician's Shield,Scutul tacticianului,ro
+Tahm Kench,Tahm Kench,ro
 Talisman Of Ascension,Talismanul ascensiunii,ro
+Targon,Targon,ro
+Taric,Taric,ro
+Teaming Up,În echipă,ro
 Tear of the Goddess,Lacrima zeiței,ro
+Teemo,Teemo,ro
+The Axiomata,Axiomele,ro
+The Boss,Bătăușul-șef,ro
+The Golden Dragon,Dragonul auriu,ro
 The Indomitable,Neînduplecare,ro
+The Ruined King,Regele înfrânt,ro
+The Trait Tree,Copacul caracteristicilor,ro
+The World Runes,Runele antice,ro
 Thief's Gloves,Mănușile tâlharului,ro
+Thorn-Plated Armor,Armură cu spini,ro
+Thresh,Thresh,ro
+Timewinders,Crono-bumeranguri,ro
+"Tiny, but Deadly",Mici și letale,ro
 Titan's Resolve,Voința titanului,ro
 Titanic Hydra,Hidra titanilor,ro
 Tome of Traits,Tomul caracteristicilor,ro
+Tons of Stats!,Sute de atribute!,ro
+Trade Sector,Sectorul comercial,ro
+Training Dummy,Manechin de antrenament,ro
 Treasure Typhoon,Taifunul comorii,ro
+Trials of Twilight,Provocările crepusculului,ro
+Trifecta,Triplu avantaj,ro
+Tristana,Tristana,ro
+Tryndamere,Tryndamere,ro
 Tuned Oscillator,Oscilator ajustat,ro
+Twin Guardians,Gardienii gemeni,ro
+Twisted Fate,Twisted Fate,ro
+Two Much Value,De două ori mai câștigați,ro
+Two Trick,Doi e cifra magică,ro
+U.R.F,U.R.F,ro
+U.R.F.,U.R.F,ro
 Unending Despair,Disperare nemărginită,ro
+Unsealed From Steel,Dezvăluit din oțel,ro
 Unstable Core,Nucleu instabil,ro
 Upgrade!,Îmbunătățire!,ro
+Upward Mobility,Ascensiune socială,ro
+Vanquisher,Cuceritor,ro
 Vanquisher Emblem,Emblema cuceritorilor,ro
+Vayne,Vayne,ro
+Veigar,Veigar,ro
+Vi,Vi,ro
+Viego,Viego,ro
 Virtue of the Martyr,Virtutea martirului,ro
+Void,Vid,ro
 Void Emblem,Emblema Vidului,ro
 Void Gauntlet,Mănușa Vidului,ro
 Void Staff,Sceptrul Vidului,ro
+Volibear,Volibear,ro
 Voltage Conduit,Canal de tensiune,ro
+Wand Overflow,Toiege fără număr,ro
+Warden,Gardian,ro
 Warden Emblem,Emblema gardienilor,ro
+Warlord's Honor,Onoarea războinicului,ro
 Warmog's Armor,Armura lui Warmog,ro
+Warwick,Warwick,ro
+Water Axiom,Axioma apei,ro
+We Stick Together,Rămânem împreună,ro
+Wild Growth,Creștere sălbatică,ro
+Win Out,Victorie neașteptată,ro
 Wit's End,Sfârșitul rațiunii,ro
 Withered Relic,Relicva ofilită,ro
+Wood Axiom,Axioma lemnului,ro
+World Ender,Distrugătorul lumilor,ro
+Woven Magic,Magie întrepătrunsă,ro
+Wukong,Wukong,ro
+Xerath,Xerath,ro
+Xin Zhao,Xin Zhao,ro
+Yasuo,Yasuo,ro
+Yone,Yone,ro
+Yordle,Yordle,ro
 Yordle Emblem,Emblema yordelilor,ro
+Yorick,Yorick,ro
+Yunara,Yunara,ro
+Zaahen,Zaahen,ro
+Zaun,Zaun,ro
 Zaun Emblem,Emblema Zaunului,ro
 Zeke's Herald,Solul lui Zeke,ro
 Zephyr,Zefir,ro
+Ziggs,Ziggs,ro
+Zilean,Zilean,ro
+Zoe,Zoe,ro
 Zz'Rot Portal,Portal Zz'rot,ro
+“塞壬号”的舷炮,Salvele Sirenei,ro
+いつでも一緒,Rămânem împreună,ro
+おおきくなぁれ！,Creștere sălbatică,ro
+お得な2,De două ori mai câștigați,ro
+ここがセンター,Găsește-ți centrul de putere,ro
+たっぷりリロール,Reîncărcări zdravene,ro
+ちょっとだけ魔法のダイス,Reîncărcare relativ magică,ro
+へら,Spatulă,ro
+もっと怖いキャップ,Pălării mai letale,ro
+アイオニア,Ionia,ro
+アイオニアの紋章,Emblema Ioniei,ro
+アイオニック スパーク,Scânteie ionică,ro
+アイテム福袋,Punguță cu obiecte surpriză,ro
+アクシオマタ,Axiomele,ro
+アクセルゲート,Poarta accelerării,ro
+アシミレーター,Asimilator,ro
+アジール,Azir,ro
+アセンション,Ascensiune,ro
+アダプティブ ヘルム,Coif cameleonic,ro
+アッシュ,Ashe,ro
+アップグレード！,Îmbunătățire!,ro
+アニビア,Anivia,ro
+アニー,Annie,ro
+アフェリオス,Aphelios,ro
+アルカニスト,Ocult,ro
+アルカニストの紋章,Emblema oculților,ro
+アンベッサ,Ambessa,ro
+アークエンジェル スタッフ,Toiagul arhanghelului,ro
+アーマー ナリファイア,Nulificator de armură,ro
+アーリ,Ahri,ro
+イシュタル,Ixtal,ro
+イシュタルの紋章,Emblema Ixtalului,ro
+イモータル,Nemuritor,ro
+イラオイ,Illaoi,ro
+インフィニティ エッジ,Sabia infinitului,ro
+インヴォーカー,Invocator,ro
+インヴォーカーの紋章,Emblema invocatorilor,ro
+イーブンシュラウド,Văl uniform,ro
+ウィッツ エンド,Sfârșitul rațiunii,ro
+ウォーロードの名誉,Onoarea războinicului,ro
+ウーコン,Wukong,ro
+エイトロックス,Aatrox,ro
+エグザイル,Exilați,ro
+エコー,Ekko,ro
+エコーエンジン,Motor în oglindă,ro
+エターナル,Etern,ro
+エピックなロールダウン,Reîncărcări epice,ro
+エルダードラゴン,Dragonul străvechi,ro
+エレクトリカル オーバーロード,Supraîncărcare electrică,ro
+エンペラー,Împărat,ro
+オリアナ,Orianna,ro
+オレリオン・ソル,Aurelion Sol,ro
+オーバークロック コンデンサー,Condensatoare suprasolicitate,ro
+オーン,Ornn,ro
+カイ＝サ,Kai'Sa,ro
+カナとカネ,Tare ca fierul,ro
+カフナフナ,Kahunahuna,ro
+カリスタ,Kalista,ro
+ガリオ,Galio,ro
+ガレン,Garen,ro
+ガングプランク,Gangplank,ro
+ガンスリンガー,Pistolar,ro
+ガンスリンガーの紋章,Emblema pistolarilor,ro
+ガーゴイル ストーンプレート,Platoșa garguiului,ro
+キネティックバリア,Barieră cinetică,ro
+キャプテンの帽子,Pălăria căpitanului,ro
+キャプテンの醸造酒,Băutura căpitanului,ro
+キヤナ,Qiyana,ro
+キンドレッド,Kindred,ro
+ギリギリの救出,La mustață,ro
+クイックシルバー,Argint viu,ro
+クラウンの決意,Voința Coroanei,ro
+クラウンガード,Crownguard,ro
+クラーケンの怒り,Furia krakenului,ro
+クロノキーパー,Paznicul timpului,ro
+グインソー レイジブレード,Spada furiei lui Guinsoo,ro
+グウェン,Gwen,ro
+グラスキャノン,"Puternic, dar fragil",ro
+グラットン,Lacom,ro
+グレイブス,Graves,ro
+ケアテイカー,Îngrijitor,ro
+ケイトリン,Caitlyn,ro
+ケネン,Kennen,ro
+ケンカの作法,Scut exploziv,ro
+コグ＝マウ,Kog'Maw,ro
+コブコ&ユーミ,Kobuko și Yuumi,ro
+コマース コア,Comerț de bază,ro
+コンパニオン作成,Construiește un însoțitor,ro
+ゴールドの運命,Destin de aur,ro
+ゴールドの雨,Ploaie de aur,ro
+ゴーレム,Golem,ro
+ゴーレム化,Golemificare,ro
+サイオン,Sion,ro
+サイラス,Sylas,ro
+サンファイア ケープ,Mantie solară,ro
+ザ・ボス,Bătăușul-șef,ro
+ザーヘン,Zaahen,ro
+シェン,Shen,ro
+シマースケールのエッセンス,Solzi sclipitori,ro
+シャドウアイル,Insulele Umbrelor,ro
+シュリーマ,Shurima,ro
+ショウジンの矛,Lancea lui Shojin,ro
+シルコの復讐,Răzbunarea lui Silco,ro
+シルバーの運命,Destin de argint,ro
+シルバーミアの夜明け,Răsăritul din Silvermere,ro
+シンジド,Singed,ro
+シン・ジャオ,Xin Zhao,ro
+シヴァーナ,Shyvana,ro
+シーカー アームガード,Brățara căutătorului,ro
+ジグス,Ziggs,ro
+ジャイアント スレイヤー,Vânătorul de uriași,ro
+ジャイアント ベルト,Cureaua uriașului,ro
+ジャイアント&マイティ,Mare și amenințătoare,ro
+ジャガーノート,Titan,ro
+ジャガーノートの紋章,Emblema titanilor,ro
+ジャストヒット,Hai odată,ro
+ジャーヴァンⅣ,Jarvan IV,ro
+ジュエル ガントレット,Mănușa cu nestemate,ro
+ジュエル ロータス,Lotus cu nestemate,ro
+ジリアン,Zilean,ro
+ジン,Jhin,ro
+ジンクス,Jinx,ro
+ジークの使者,Solul lui Zeke,ro
+ジ＝ロット ポータル,Portal Zz'rot,ro
+スウェイン,Swain,ro
+スカーナー,Skarner,ro
+スタティック シヴ,Cuțit electrostatic,ro
+スターターキット,Trusa începătorului,ro
+スターフォージャー,Făuritorul de stele,ro
+スター誕生,Nașterea stelelor,ro
+ステラックの篭手,Gheara lui Sterak,ro
+ステータスマシマシ,Sute de atribute!,ro
+ストライカー フレイル,Buzduganul înaintașului,ro
+スパーリング グローブ,Mănuși de antrenament,ro
+スピリット ビサージュ,Înfățișarea sufletului,ro
+スペクトラル カトラス,Hanger fantomatic,ro
+スレイヤー,Ucigaș,ro
+スレイヤーの紋章,Emblema ucigașilor,ro
+スレッシュ,Thresh,ro
+セイレーン号の片舷砲,Salvele Sirenei,ro
+セジュアニ,Sejuani,ro
+セト,Sett,ro
+セラフィムの杖,Sceptrul serafimului,ro
+セラフィーン,Seraphine,ro
+ゼファー,Zefir,ro
+ゼラス,Xerath,ro
+ソウルの目覚め,Trezirea sufletului,ro
+ソウルバウンド,Suflet unit,ro
+ソナ,Sona,ro
+ソラリのロケット,Blazonul solarilor de fier,ro
+ソード オーバーフロー,Săbii fără număr,ro
+ソーンプレートアーマー,Armură cu spini,ro
+ゾウン,Zaun,ro
+ゾウンの紋章,Emblema Zaunului,ro
+ゾーイ,Zoe,ro
+タイタン ハイドラ,Hidra titanilor,ro
+タイムワインダー,Crono-bumeranguri,ro
+タクティシャンのケープ,Mantia tacticianului,ro
+タクティシャンの王冠,Coroana tacticianului,ro
+タクティシャンの盾,Scutul tacticianului,ro
+タム・ケンチ,Tahm Kench,ro
+タリック,Taric,ro
+ターゴン,Targon,ro
+ダイアナ,Diana,ro
+ダブルトラブル,Probleme la pătrat,ro
+ダミー,Manechin de antrenament,ro
+ダミー化,Manechinizare,ro
+ダリウス,Darius,ro
+ダーキン,Darkin,ro
+ダークウィルの侵略,Invazia lui Darkwill,ro
+ダークチャイルド,Copilul întunericului,ro
+チェイン ベスト,Vestă de zale,ro
+チェインブレイカー,Distrugător de lanțuri,ro
+チューンド オシレーター,Oscilator ajustat,ro
+チョ＝ガス,Cho'Gath,ro
+ツイステッド・フェイト,Twisted Fate,ro
+ツインガーディアン,Gardienii gemeni,ro
+ティーモ,Teemo,ro
+ディスラプター,Neutralizator,ro
+ディスラプターの紋章,Emblemă neutralizatorilor,ro
+ディフェンダー,Apărător,ro
+ディフェンダーの紋章,Emblema apărătorilor,ro
+デスブレード,Sabia morții,ro
+デッド マン ダガー,Pumnalul ostașului ucis,ro
+デッドリアー ブレード,Săbii mai letale,ro
+デマーシア,Demacia,ro
+デマーシアの紋章,Emblema Demaciei,ro
+デマーシアよ永遠に,Demacia pentru totdeauna,ro
+デュオキュー,Listă duo,ro
+トライフェクタ,Triplu avantaj,ro
+トリスターナ,Tristana,ro
+トリンダメア,Tryndamere,ro
+トレードセクター,Sectorul comercial,ro
+ドクター・ムンド,Dr. Mundo,ro
+ドラゴン クロウ,Gheara dragonului,ro
+ドラゴンの守護者,Gărzile-dragon,ro
+ドラゴンボーン,Fiica dragonului,ro
+ドレイヴン,Draven,ro
+ドレッドウェイの砲撃,Tunul Groazei,ro
+ドーンコア,Miezul zorilor,ro
+ナイト エッジ,Taina întunericului,ro
+ナサス,Nasus,ro
+ナッシャー トゥース,Dintele lui Nashor,ro
+ニダリー,Nidalee,ro
+ニーコ,Neeko,ro
+ネガトロン クローク,Mantie Negatron,ro
+ノクサス,Noxus,ro
+ノクサスの紋章,Emblema Noxusului,ro
+ノーチラス,Nautilus,ro
+ハントレス,Vânătoare,ro
+ハンド オブ ジャスティス,Mâna justiției,ro
+ハーベスター,Culegător,ro
+バイナリー空中投下,Livrare binară,ro
+バフが1つ、バフが2つ,"Un buff, două buff-uri",ro
+バロンナッシャー,Baronul Nashor,ro
+バークナックル,Pumni de lemn,ro
+バースデー リユニオン,Reuniune aniversară,ro
+バースデープレゼント,Cadou aniversar,ro
+バード,Bard,ro
+パンドラのアイテム,Obiectele Pandorei,ro
+パンドラのベンチ,Banca Pandorei,ro
+ヒロイック,Eroic,ro
+ヒーリングオーブ,Sfere vindecătoare,ro
+ビッグフレンド,Prieten mare,ro
+ビルジウォーター,Bilgewater,ro
+ビルジウォーターの小型チャンピオン複製器,Duplicator minor de campioni din Bilgewater,ro
+ビルジウォーターの紋章,Emblema Bilgewater,ro
+ピルトーヴァー,Piltover,ro
+ピルトーヴァーの発明品,Invenția Piltoverului,ro
+ピルトーヴァーの紋章,Emblema Piltoverului,ro
+フィズ,Fizz,ro
+フィッシュボーン,Bubuilă,ro
+フィドルスティックス,Fiddlesticks,ro
+フォビドゥン アイドル,Idol interzis,ro
+フライパン,Tigaia de aur,ro
+フリッカーブレード,Tăișuri sclipitoare,ro
+フレヨルド,Freljord,ro
+フレヨルドの紋章,Emblema Freljordului,ro
+ブライアー,Briar,ro
+ブラウム,Braum,ro
+ブラックスミス,Fierar,ro
+ブラックマーケットの再入荷,Reaprovizionarea pieței negre,ro
+ブラックマーケットの爆発物,Explozibili de contrabandă,ro
+ブラッドサースター,Sabia sângeroasă,ro
+ブランブル ベスト,Vestă de mărăcini,ro
+ブリッツクランク,Blitzcrank,ro
+ブルーザー,Luptător,ro
+ブルーザーの紋章,Emblema luptătorilor,ro
+ブルーバフ,Buff-ul albastru,ro
+ブロック,Brock,ro
+プラシディウムの防衛,Apărarea Placidiumului,ro
+プラシーボ,Placebo,ro
+プリズムの運命,Destin prismatic,ro
+プリズムチケット,Bilet prismatic,ro
+プロテクターの誓い,Jurământul protectorului,ro
+プローラー クロウ,Gheara prădătorului,ro
+ヘクスゲート トラベル,Călătorie prin hexportal,ro
+ヘクステック ガンブレード,Pușcă cu baionetă hextech,ro
+ヘクスメック,HexMech,ro
+ヘッジファンド,Fond de investiții,ro
+ベイガー,Veigar,ro
+ベストフレンド,Cei mai buni prieteni,ro
+ベルト オーバーフロー,Curele fără număr,ro
+ベル＝ヴェス,Bel'Veth,ro
+ホライゾン フォーカス,Focalizarea orizontului,ro
+ボクシングのレッスン,Lecții de box,ro
+ボディーガードの訓練,Antrenamentul gărzii de corp,ro
+ボリベア,Volibear,ro
+ポイズンパル,Tovarășii Otrăvitori,ro
+ポッピー,Poppy,ro
+ポータブル フォージ,Forjă portabilă,ro
+ポータルワープ,Sferă de teleportare,ro
+マイクロロケット,Micro-rachete,ro
+マグネトロンコイル,Spirală magnetron,ro
+マルザハール,Malzahar,ro
+マーターズ ヴァーチュ,Virtutea martirului,ro
+ミスコネクション,Legături ratate,ro
+ミス・フォーチュン,Miss Fortune,ro
+ミッションの再開,Misiune în acțiune,ro
+ミトン,Mănuși strașnice,ro
+ミニマックス,Min-Max,ro
+ミリオ,Milio,ro
+ムダニ デカイ ロッド,Toiag uriaș,ro
+メイスの決意,Voința buzduganului,ro
+メル,Mel,ro
+モメンタムドライブ,Avânt crescut,ro
+モレロノミコン,Morellonomicon,ro
+ヤスオ,Yasuo,ro
+ユナラ,Yunara,ro
+ヨネ,Yone,ro
+ヨリック,Yorick,ro
+ヨードル,Yordle,ro
+ヨードルの紋章,Emblema yordelilor,ro
+ライズ,Ryze,ro
+ライトシールドのクレスト,Blazonul Lightshield,ro
+ラインナップ,Aliniere,ro
+ラスト ウィスパー,Ultima șoaptă,ro
+ラッキーグローブ,Mănuși norocoase,ro
+ラックス,Lux,ro
+ラバドン デスキャップ,Pălăria malefică a lui Rabadon,ro
+ラピッド ファイアキャノン,Tun-mitralieră,ro
+ランブル,Rumble,ro
+リカーブ ボウ,Arc încovoiat,ro
+リサンドラ,Lissandra,ro
+リッチ ベイン,Urgia de pe lume,ro
+リデンプションの魂,Spiritul izbăvirii,ro
+リフティング大会,Competiție de haltere,ro
+リフトスカトル,Crabul,ro
+リフトスカージ,Năpasta Riftului,ro
+リフトヘラルド,Solul Riftului,ro
+ルシアン&セナ,Lucian și Senna,ro
+ルブラン,LeBlanc,ro
+ルル,Lulu,ro
+ルーデン テンペスト,Furtuna lui Luden,ro
+ルーンメイジ,Magul runelor,ro
+レイトゲーム スケーリング,Creștere pe final de joc,ro
+レイトゲーム スペシャリスト,Specialistul sfârșitului jocului,ro
+レオナ,Leona,ro
+レク＝サイ,Rek'Sai,ro
+レッドバフ,Buff-ul roșu,ro
+レディアントの遺物,Relicve radiante,ro
+レネクトン,Renekton,ro
+レベルアップ！,Nivelul următor!,ro
+ロリス,Loris,ro
+ロングショット,Țintaș de distanță,ro
+ロングショットの紋章,Emblema țintașilor de distanță,ro
+ローリングデイズ,Reîncărcări la grămadă,ro
+ワン、ツー、ファイブ！,"Unu, doi, cinci!",ro
+ワン、ツーツー、スリー,"Unu, doi, trei",ro
+ワンド オーバーフロー,Toiege fără număr,ro
+ワーウィック,Warwick,ro
+ワーデン,Gardian,ro
+ワーデンの紋章,Emblema gardienilor,ro
+ワーモグ アーマー,Armura lui Warmog,ro
+ワールドエンダー,Distrugătorul lumilor,ro
+ワールドルーン,Runele antice,ro
+ヴァイ,Vi,ro
+ヴァンキッシャー,Cuceritor,ro
+ヴァンキッシャーの紋章,Emblema cuceritorilor,ro
+ヴィエゴ,Viego,ro
+ヴェイン,Vayne,ro
+ヴォイド,Vid,ro
+ヴォイド ガントレット,Mănușa Vidului,ro
+ヴォイド スタッフ,Sceptrul Vidului,ro
+ヴォイドの紋章,Emblema Vidului,ro
+一二二三,"Unu, doi, trei",ro
+一人前プレート,Platoșă unică,ro
+一等航海士のフリントロック,Pistolul secundului,ro
+一致団結,Unire în luptă,ro
+一致団結,În echipă,ro
+一，二，五！,"Unu, doi, cinci!",ro
+三幻神,Legiunea de trei,ro
+三项赛,Triplu avantaj,ro
+三，三，三！,Trei de 3,ro
+上方移動,Ascensiune socială,ro
+上进心,Ascensiune socială,ro
+不安定なコア,Nucleu instabil,ro
+不屈,Neînduplecare,ro
+不滅の協定,Pact etern,ro
+不稳定核心,Nucleu instabil,ro
+不落魔锋,Nemuritor,ro
+与狼共舞,Lupi aleși,ro
+专属定制,Personalizare exclusivă,ro
+世界符文,Runele antice,ro
+两把刷子,Doi e cifra magică,ro
+主人公補正,Protecție universală,ro
+主宰,Titan,ro
+主宰纹章,Emblema titanilor,ro
+丽桑卓,Lissandra,ro
+举重比赛,Competiție de haltere,ro
+乐芙兰,LeBlanc,ro
+二进制空投,Livrare binară,ro
+亚恒,Zaahen,ro
+亚托克斯,Aatrox,ro
+亚索,Yasuo,ro
+亡者的短剑,Pumnalul ostașului ucis,ro
+仕送り,Pachet de îngrijire,ro
+以眼还眼,Ochi pentru ochi,ro
+以绪塔尔,Ixtal,ro
+以绪塔尔纹章,Emblema Ixtalului,ro
+优柔寡断,Indecizie,ro
+伺机待发,Pregătire,ro
+佐伊,Zoe,ro
+佛耶戈,Viego,ro
+便携锻炉,Forjă portabilă,ro
+俄洛伊,Illaoi,ro
+信仰之跃,Triumful credinței,ro
+信仰震,Triumful credinței,ro
+修复型回响,Ecouri tămăduitoare,ro
+假人化,Manechinizare,ro
+储蓄账户,Cont de economii,ro
+優柔不断,Indecizie,ro
+元初公理,Axiomele,ro
+光の番人,Santinelele Luminii,ro
+光明哨兵,Santinelele Luminii,ro
+光明圣物,Relicve radiante,ro
+光明无赖,Poznaș radiant,ro
+光盾徽章,Blazonul Lightshield,ro
+克格莫,Kog'Maw,ro
+入门套件,Trusa începătorului,ro
+全身全霊,Angajament solid,ro
+兰博,Rumble,ro
+关爱包裹,Pachet de îngrijire,ro
+兹若特传送门,Portal Zz'rot,ro
+内瑟斯,Nasus,ro
+冕卫,Crownguard,ro
+凯南,Kennen,ro
+凯特琳,Caitlyn,ro
+列队,Aliniere,ro
+利落保镖,Antrenamentul gărzii de corp,ro
+别再错过,Legături ratate,ro
+前借り,Împrumut avansat,ro
+前線維持,Rezistența din prima linie,ro
+剑之工匠,Meșter de săbii,ro
+剣鍛冶,Meșter de săbii,ro
+力の聖杯,Pocalul puterii,ro
+加冕礼,Încoronare,ro
+加速之门,Poarta accelerării,ro
+加里奥,Galio,ro
+劣化版鏡像のペルソナ,Personalitate în oglindă minoră,ro
+动能屏障,Barieră cinetică,ro
+动量驱动器,Avânt crescut,ro
+勝ち抜け,Victorie neașteptată,ro
+千珏,Kindred,ro
+升星之运,Pe val,ro
+升级咯！,Nivelul următor!,ro
+升级！,Îmbunătățire!,ro
+卑尔维斯,Bel'Veth,ro
+单身板甲,Platoșă unică,ro
+卡莉丝塔,Kalista,ro
+卡莎,Kai'Sa,ro
+卢登的激荡,Furtuna lui Luden,ro
+卢锡安与赛娜,Lucian și Senna,ro
+即席アーマー,Armură improvizată,ro
+厄斐琉斯,Aphelios,ro
+厄运小姐,Miss Fortune,ro
+厨神阿福,U.R.F,ro
+双城赢家,Viktor-ie ocultă,ro
+双子守护神,Gardienii gemeni,ro
+双排,Listă duo,ro
+反响,Reproducere,ro
+反曲之弓,Arc încovoiat,ro
+变形重组器,Recombobulator,ro
+可大可小,Min-Max,ro
+可酷伯与悠米,Kobuko și Yuumi,ro
+吉格斯,Ziggs,ro
+后期专家,Specialistul sfârșitului jocului,ro
+后期收益,Creștere pe final de joc,ro
+呪いの刃,Sabia blestemată,ro
+呪われた望遠鏡,Luneta bântuită,ro
+嗜火,Piromanie,ro
+嘉文四世,Jarvan IV,ro
+四费增援,"Unde-s 2 stele, puterea crește",ro
+回声引擎,Motor în oglindă,ro
+圣盾使的誓约,Jurământul protectorului,ro
+坚守防线,Rezistența din prima linie,ro
+坚定之心,Iubire nezdruncinată,ro
+埋もれた宝物,Comori îngropate,ro
+基克的先驱,Solul lui Zeke,ro
+基兰,Zilean,ro
+基础装备自助餐,Ofertă la componente,ro
+報復,Pedeapsă,ro
+塔姆,Tahm Kench,ro
+塔里克,Taric,ro
+塞拉斯,Sylas,ro
+复苏之风,Forțe proaspete,ro
+夕闇の加護,Scutul amurgului,ro
+夜之锋刃,Taina întunericului,ro
+夜明けの加護,Scutul zorilor,ro
+大きな福袋,Punguță mare,ro
+大买特买,La cumpărături,ro
+大刷特刷,Reîncărcări zdravene,ro
+大剑溢流,Săbii fără număr,ro
+大副的燧发枪,Pistolul secundului,ro
+大哥罩我,Prieten mare,ro
+大地のアクシオム,Axioma pământului,ro
+大天使之杖,Toiagul arhanghelului,ro
+大炮火力网,Rafală de artilerie,ro
+大百宝袋,Punguță mare,ro
+大砲の雨,Rafală de artilerie,ro
+大而有力,Mare și amenințătoare,ro
+天の祝福,Binecuvântarea stelelor,ro
+天生二星,Nașterea stelelor,ro
+天降金币,Ploaie de aur,ro
+奇亚娜,Qiyana,ro
+奈德丽,Nidalee,ro
+奥恩,Ornn,ro
+奥瑞利安·索尔,Aurelion Sol,ro
+奥莉安娜,Orianna,ro
+女神の涙,Lacrima zeiței,ro
+女神之泪,Lacrima zeiței,ro
+好きなだけ泣くがいい,Cod roșu de lacrimi,ro
+好事成双,Probleme la pătrat,ro
+妮蔻,Neeko,ro
+娑娜,Sona,ro
+孙悟空,Wukong,ro
+宇宙の呼び声,Chemare cosmică,ro
+安妮,Annie,ro
+安慰剂,Placebo,ro
+安蓓萨,Ambessa,ro
+宝藏台风,Taifunul comorii,ro
+密银黎明,Răsăritul din Silvermere,ro
+对冲基金,Fond de investiții,ro
+小さくても強烈,Mici și letale,ro
+小さな仲間たち,Prieteni micuți,ro
+小さな福袋,Punguță mică,ro
+小伙伴,Prieteni micuți,ro
+小小福袋,Punguță mică,ro
+小而致命,Mici și letale,ro
+山積みのシトラス,Grămadă de citrice,ro
+山隐之焰,Fierar,ro
+岩土公理,Axioma pământului,ro
+岩宝,Brock,ro
+峡谷先锋,Solul Riftului,ro
+峡谷迅捷蟹,Crabul,ro
+崔丝塔娜,Tristana,ro
+崔斯特,Twisted Fate,ro
+巧みなクラフト,Forja reîncărcărilor,ro
+巨人の誓い,Voința titanului,ro
+巨人杀手,Vânătorul de uriași,ro
+巨人腰带,Cureaua uriașului,ro
+巨型九头蛇,Hidra titanilor,ro
+巨大化ビーム,Rază de mărire,ro
+巨大化射线,Rază de mărire,ro
+巨神峰,Targon,ro
+巨龙之爪,Gheara dragonului,ro
+巨龙卫士,Gărzile-dragon,ro
+巫妖之祸,Urgia de pe lume,ro
+巴德,Bard,ro
+布里茨,Blitzcrank,ro
+布隆,Braum,ro
+希尔科的复仇,Răzbunarea lui Silco,ro
+希瓦娜,Shyvana,ro
+帽子ジュース,Suc Cappa,ro
+帽子饮品,Suc Cappa,ro
+幸运手套,Mănuși norocoase,ro
+幸运达布隆金币,Dublon norocos,ro
+幸運の金貨,Dublon norocos,ro
+幽魂弯刀,Hanger fantomatic,ro
+広がる根,Rădăcini răspândite,ro
+庇護者のお供,Aliatul îngrijitorului,ro
+应急护甲,Armură improvizată,ro
+应急护盾,Protecție universală,ro
+弗雷尔卓德,Freljord,ro
+弗雷尔卓德纹章,Emblema Freljordului,ro
+强盗的骰子,Zarul necruțătorului,ro
+强袭者的链枷,Buzduganul înaintașului,ro
+影の操り人形,Păpușa din umbră,ro
+征服者,Cuceritor,ro
+征服者纹章,Emblema cuceritorilor,ro
+微型导弹,Micro-rachete,ro
+德玛西亚,Demacia,ro
+德玛西亚万岁,Demacia pentru totdeauna,ro
+德玛西亚纹章,Emblema Demaciei,ro
+德莱厄斯,Darius,ro
+德莱文,Draven,ro
+心之钢,Inimă de oțel,ro
+心身統御のペンダント,Medalion stimulant,ro
+忍耐の美徳,Răbdarea e o virtute,ro
+思惑買い,Pariu pe viitor,ro
+怪しげなトレンチコート,Trenci suspect,ro
+恕瑞玛,Shurima,ro
+恶火小斧,Secure din focul iadului,ro
+想定内の意外性,Surpriză nesurprinzătoare,ro
+意料之中的意外,Surpriză nesurprinzătoare,ro
+慎,Shen,ro
+成吨的属性！,Sute de atribute!,ro
+成堆柑橘,Grămadă de citrice,ro
+成長志向,Axat pe creștere,ro
+成长型思维,Axat pe creștere,ro
+戦闘準備,Pregătire,ro
+戴冠式,Încoronare,ro
+承诺之护,Protecție promisă,ro
+投資完了,Investiție,ro
+投资,Investiție,ro
+护卫,Apărător,ro
+护卫纹章,Emblema apărătorilor,ro
+护甲消除器,Nulificator de armură,ro
+拉克丝,Lux,ro
+拳击课程,Lecții de box,ro
+拳套,Mănuși de antrenament,ro
+挑个好伙计！,Construiește un însoțitor,ro
+振奋盔甲,Înfățișarea sufletului,ro
+採掘ドリル,Burghiu de mină,ro
+探索者的护臂,Brățara căutătorului,ro
+提莫,Teemo,ro
+揺るがぬ心,Iubire nezdruncinată,ro
+摇钱树,Muson de bani,ro
+救赎盔甲,Spiritul izbăvirii,ro
+斗士,Luptător,ro
+斗士纹章,Emblema luptătorilor,ro
+料理鍋,Oală de gătit,ro
+斯卡纳,Skarner,ro
+斯塔缇克电刃,Cuțit electrostatic,ro
+斯特拉克的挑战护手,Gheara lui Sterak,ro
+斯维因,Swain,ro
+无尽之刃,Sabia infinitului,ro
+无差别攻击,Ucigaș fără discriminare,ro
+无序进化,Evoluție haotică,ro
+无用大棒,Toiag uriaș,ro
+无终恨意,Disperare nemărginită,ro
+日炎斗篷,Mantie solară,ro
+时光守护者,Paznicul timpului,ro
+时间旅者,Crono-bumeranguri,ro
+星界感召,Chemare cosmică,ro
+星界游神,Îngrijitor,ro
+星界赐福,Binecuvântarea stelelor,ro
+時の歯車,Rotițe nesfârșite,ro
+普朗克,Gangplank,ro
+普通預金口座,Cont de economii,ro
+普雷西典保卫战,Apărarea Placidiumului,ro
+智慧末刃,Sfârșitul rațiunii,ro
+暗影岛,Insulele Umbrelor,ro
+暗影木偶,Păpușa din umbră,ro
+暗行者之爪,Gheara prădătorului,ro
+暗裔,Darkin,ro
+暗裔剑魔,Distrugătorul lumilor,ro
+暮光试炼,Provocările crepusculului,ro
+暴风之剑,Sabia forței brute,ro
+曲境折跃,Sferă de teleportare,ro
+更要命的帽子,Pălării mai letale,ro
+更要命的战刃,Săbii mai letale,ro
+最佳好友,Cei mai buni prieteni,ro
+最初の1つは無料！,Primul e gratuit!,ro
+最后一秒营救,La mustață,ro
+最后的轻语,Ultima șoaptă,ro
+最強の四配者,"Unde-s 2 stele, puterea crește",ro
+有効活用,Tot sunt buni la ceva,ro
+有用之材,Tot sunt buni la ceva,ro
+朔极之矛,Lancea lui Shojin,ro
+木のアクシオム,Axioma lemnului,ro
+权杖意志,Voința buzduganului,ro
+杖之工匠,Meșter de toiege,ro
+杖鍛冶,Meșter de toiege,ro
+枪手,Pistolar,ro
+枪手纹章,Emblema pistolarilor,ro
+枯朽の遺物,Relicva ofilită,ro
+枯死の宝石,Giuvaier blestemat,ro
+枯萎圣物,Relicva ofilită,ro
+枯萎珠宝,Giuvaier blestemat,ro
+格温,Gwen,ro
+格雷福斯,Graves,ro
+梅尔,Mel,ro
+棘刺背心,Vestă de mărăcini,ro
+棘刺镀板铠甲,Armură cu spini,ro
+森罗公理,Axioma lemnului,ro
+棱彩命运,Destin prismatic,ro
+棱彩门票,Bilet prismatic,ro
+構成拡大,Ramificare,ro
+槍の決意,Voința lăncii,ro
+次级镜像人格面具,Personalitate în oglindă minoră,ro
+正义之手,Mâna justiției,ro
+正义巨像,Eroic,ro
+正义报复,Pedeapsă,ro
+死亡之刃,Sabia morții,ro
+殉道美德,Virtutea martirului,ro
+残酷弯刀,Hangerul ucigașului,ro
+殺し屋のカトラス,Hangerul ucigașului,ro
+比尔吉沃特,Bilgewater,ro
+比尔吉沃特 次级英雄复制器,Duplicator minor de campioni din Bilgewater,ro
+比尔吉沃特纹章,Emblema Bilgewater,ro
+气旋公理,Axioma aerului,ro
+水のアクシオム,Axioma apei,ro
+水乳交融,Rămânem împreună,ro
+水银,Argint viu,ro
+永恒契约,Pact etern,ro
+永恩,Yone,ro
+永猎双子,Etern,ro
+沃利贝尔,Volibear,ro
+沃里克,Warwick,ro
+沈黙の帳,Vălul nemișcării,ro
+沙漠皇帝,Împărat,ro
+河流之王,Lacom,ro
+治疗法球,Sfere vindecătoare,ro
+法师,Ocult,ro
+法师纹章,Emblema oculților,ro
+法杖溢流,Toiege fără număr,ro
+波比,Poppy,ro
+泪流成河,Cod roșu de lacrimi,ro
+泰坦的坚决,Voința titanului,ro
+泰达米尔,Tryndamere,ro
+泽拉斯,Xerath,ro
+洛里斯,Loris,ro
+浪人,Exilați,ro
+海克斯机甲,HexMech,ro
+海克斯科技枪刃,Pușcă cu baionetă hextech,ro
+海克斯霸龙,T-Hex,ro
+海克斯飞门之旅,Călătorie prin hexportal,ro
+海妖之怒,Furia krakenului,ro
+涌泉公理,Axioma apei,ro
+混乱回復装置,Recombobulator,ro
+混沌の進化,Evoluție haotică,ro
+游神的盟友,Aliatul îngrijitorului,ro
+滅びの王,Regele înfrânt,ro
+潘朵拉的备战席,Banca Pandorei,ro
+潘朵拉的装备,Obiectele Pandorei,ro
+激发之匣,Medalion stimulant,ro
+火上浇油,Întețește focul,ro
+灭世者的死亡之帽,Pălăria malefică a lui Rabadon,ro
+灵风,Zefir,ro
+灵魂唤醒,Trezirea sufletului,ro
+災禍の使者,Aducătorul distrugerii,ro
+炎のアクシオム,Axioma focului,ro
+炎の愛好家,Piromanie,ro
+炎を強めて,Întețește focul,ro
+点击即送,Hai odată,ro
+炽天使之拥,Sceptrul serafimului,ro
+炽焰公理,Axioma focului,ro
+烁刃,Tăișuri sclipitoare,ro
+烬,Jhin,ro
+無差別殺人者,Ucigaș fără discriminare,ro
+爆炸式增长,Creștere explozivă,ro
+爆発的成長,Creștere explozivă,ro
+爆裂护盾,Scut exploziv,ro
+特性の書,Tomul caracteristicilor,ro
+特性の木,Copacul caracteristicilor,ro
+狂徒铠甲,Armura lui Warmog,ro
+狂野女猎手,Vânătoare,ro
+狂野生长,Creștere sălbatică,ro
+狙神,Țintaș de distanță,ro
+狙神纹章,Emblema țintașilor de distanță,ro
+猛将的荣耀,Onoarea războinicului,ro
+獄炎のハチェット,Secure din focul iadului,ro
+王冠とは重きもの,Povara coroanei,ro
+王冠之重,Povara coroanei,ro
+王冠意志,Voința Coroanei,ro
+玛尔扎哈,Malzahar,ro
+玻璃大炮,"Puternic, dar fragil",ro
+珍藏财宝,Comori îngropate,ro
+珠光护手,Mănușa cu nestemate,ro
+珠光莲花,Lotus cu nestemate,ro
+瑞兹,Ryze,ro
+瑟庄妮,Sejuani,ro
+瑟提,Sett,ro
+璐璐,Lulu,ro
+甘いおやつ,Gustări dulci,ro
+甜点,Gustări dulci,ro
+生日礼物,Cadou aniversar,ro
+生日聚会,Reuniune aniversară,ro
+生涯ブロンズ,Bronz pentru totdeauna,ro
+由二生D,De două ori mai câștigați,ro
+电压导管,Canal de tensiune,ro
+电流过载,Supraîncărcare electrică,ro
+电磁脉冲,E.M.P.,ro
+略奪者のダイス,Zarul necruțătorului,ro
+疾射火炮,Tun-mitralieră,ro
+癒しのこだま,Ecouri tămăduitoare,ro
+登上最高峰,Victorie neașteptată,ro
+白银命运,Destin de argint,ro
+皮尔特沃夫,Piltover,ro
+皮尔特沃夫发明,Invenția Piltoverului,ro
+皮尔特沃夫纹章,Emblema Piltoverului,ro
+盖伦,Garen,ro
+盗賊のグローブ,Mănușile tâlharului,ro
+盗賊団,Bandă de tâlhari,ro
+目には目を,Ochi pentru ochi,ro
+石像鬼石板甲,Platoșa garguiului,ro
+破灭使者,Aducătorul distrugerii,ro
+破败之王,Regele înfrânt,ro
+硬性承诺,Angajament solid,ro
+碰撞测试假人,Manechine animate,ro
+確約された守護,Protecție promisă,ro
+磁控线圈,Spirală magnetron,ro
+祖安,Zaun,ro
+祖安纹章,Emblema Zaunului,ro
+神盾使,Gardian,ro
+神盾使纹章,Emblema gardienilor,ro
+神谕者,Invocator,ro
+神谕者纹章,Emblema invocatorilor,ro
+禁忌雕像,Idol interzis,ro
+离子火花,Scânteie ionică,ro
+科加斯,Cho'Gath,ro
+秘传奥义,Kahunahuna,ro
+穢れたヴァンパイア セプター,Sceptru vampiric corupt,ro
+窃贼帮派,Bandă de tâlhari,ro
+窃贼手套,Mănușile tâlharului,ro
+符文法师,Magul runelor,ro
+第一份免费！,Primul e gratuit!,ro
+米利欧,Milio,ro
+精准而优雅,Precizie și grație,ro
+精密かつ優雅,Precizie și grație,ro
+精心打造,Forja reîncărcărilor,ro
+系魂圣枪,Suflet unit,ro
+素材ビュッフェ,Ofertă la componente,ro
+紡がれし魔法,Magie întrepătrunsă,ro
+終わりなき絶望,Disperare nemărginită,ro
+絶好調,Pe val,ro
+红霸符,Buff-ul roșu,ro
+约德尔人,Yordle,ro
+约德尔人纹章,Emblema yordelilor,ro
+约里克,Yorick,ro
+纳什之牙,Dintele lui Nashor,ro
+纳什男爵,Baronul Nashor,ro
+纳什男爵,Năpasta Riftului,ro
+纹章之书,Tomul caracteristicilor,ro
+纺织魔法,Magie întrepătrunsă,ro
+终身黄铜,Bronz pentru totdeauna,ro
+绝命毒师,Tovarășii Otrăvitori,ro
+维迦,Veigar,ro
+羁绊树,Copacul caracteristicilor,ro
+耀光使,Neutralizator,ro
+耀光使纹章,Emblemă neutralizatorilor,ro
+耐心是一种美德,Răbdarea e o virtute,ro
+联合作战,Unire în luptă,ro
+能量圣杯,Pocalul puterii,ro
+腐蚀,Coroziune,ro
+腐食,Coroziune,ro
+腕豪,Bătăușul-șef,ro
+腰带溢流,Curele fără număr,ro
+船长的帽子,Pălăria căpitanului,ro
+船长的酿造品,Băutura căpitanului,ro
+艾克,Ekko,ro
+艾尼维亚,Anivia,ro
+艾希,Ashe,ro
+艾欧尼亚,Ionia,ro
+艾欧尼亚纹章,Emblema Ioniei,ro
+节外生枝,Ramificare,ro
+芸阿娜,Yunara,ro
+英勇福袋,Punguță eroică,ro
+英雄のラッキーバッグ,Punguță eroică,ro
+莫雷洛秘典,Morellonomicon,ro
+菲兹,Fizz,ro
+萨勒芬妮,Seraphine,ro
+蒙多医生,Dr. Mundo,ro
+蓝霸符,Buff-ul albastru,ro
+蔓延之根,Rădăcini răspândite,ro
+蔚,Vi,ro
+蕾欧娜,Leona,ro
+薄暮法袍,Văl uniform,ro
+薇恩,Vayne,ro
+虚空,Vid,ro
+虚空之女,Asimilator,ro
+虚空之杖,Sceptrul Vidului,ro
+虚空护手,Mănușa Vidului,ro
+虚空纹章,Emblema Vidului,ro
+血の供物,Ofrandă de sânge,ro
+衝突試験用ダミー,Manechine animate,ro
+裁决战士,Ucigaș,ro
+裁决战士纹章,Emblema ucigașilor,ro
+装备百宝袋,Punguță cu obiecte surpriză,ro
+複製,Reproducere,ro
+视界专注,Focalizarea orizontului,ro
+解封魔武,Dezvăluit din oțel,ro
+解脱者,Distrugător de lanțuri,ro
+训练假人,Manechin de antrenament,ro
+诅咒之刃,Sabia blestemată,ro
+诺克萨斯,Noxus,ro
+诺克萨斯纹章,Emblema Noxusului,ro
+诺提勒斯,Nautilus,ro
+调谐振荡器,Oscilator ajustat,ro
+財宝の竜巻,Taifunul comorii,ro
+買い物三昧,La cumpărături,ro
+贝蕾亚,Briar,ro
+负极斗篷,Mantie Negatron,ro
+贸易中心,Comerț de bază,ro
+费德提克,Fiddlesticks,ro
+赛恩,Sion,ro
+赵信,Xin Zhao,ro
+起死回生,Forțe proaspete,ro
+超越のタリスマン,Talismanul ascensiunii,ro
+超越生体,Formă de viață superioară,ro
+超越者,Iluminat,ro
+超频电容器,Condensatoare suprasolicitate,ro
+輝く悪党,Poznaș radiant,ro
+轻量魔法投掷,Reîncărcare relativ magică,ro
+辛吉德,Singed,ro
+达克威尔入侵,Invazia lui Darkwill,ro
+迅击战士,Lovituri rapide,ro
+迅击战士纹章,Emblema loviturilor rapide,ro
+远古巨龙,Dragonul străvechi,ro
+远古巫灵,Iluminat,ro
+远古恐惧,Culegător,ro
+连指手套,Mănuși strașnice,ro
+连续齿轮,Rotițe nesfârșite,ro
+迷离风衣,Trenci suspect,ro
+适应性头盔,Coif cameleonic,ro
+遥遥领先,Pariu pe viitor,ro
+選ばれし狼,Lupi aleși,ro
+酒吧指虎,Pumni de lemn,ro
+采矿钻机,Burghiu de mină,ro
+重启任务,Misiune în acțiune,ro
+金のモンスーン,Muson de bani,ro
+金ピカの鋼,Oțel aurit,ro
+金克丝,Jinx,ro
+金色炊具,Oală de gătit,ro
+金铲铲,Spatulă,ro
+金铲铲冠冕,Coroana tacticianului,ro
+金锅铲冠冕,Mantia tacticianului,ro
+金锅锅,Tigaia de aur,ro
+金锅锅冠冕,Scutul tacticianului,ro
+金霖龙,Dragonul auriu,ro
+金鳞精粹,Solzi sclipitori,ro
+銀の匙,Născut înțelept,ro
+鋼からの解放,Dezvăluit din oțel,ro
+鋼の心,Inimă de oțel,ro
+鏡像のペルソナ,Personalitate în oglindă,ro
+钢铁烈阳之匣,Blazonul solarilor de fier,ro
+银汤匙,Născut înțelept,ro
+铸星龙王,Făuritorul de stele,ro
+锁子甲,Vestă de zale,ro
+锤石,Thresh,ro
+镀金钢铁,Oțel aurit,ro
+镜像人格面具,Personalitate în oglindă,ro
+长矛意志,Voința lăncii,ro
+阿兹尔,Azir,ro
+阿狸,Ahri,ro
+限定カスタマイズ,Personalizare exclusivă,ro
+集中火力,Foc concentrat,ro
+集中砲火,Foc concentrat,ro
+集结战队,În echipă,ro
+雷克塞,Rek'Sai,ro
+雷克顿,Renekton,ro
+震畏大炮,Tunul Groazei,ro
+静止法衣,Vălul nemișcării,ro
+韋駄天,Lovituri rapide,ro
+韋駄天の紋章,Emblema loviturilor rapide,ro
+顽强不屈,Neînduplecare,ro
+風のアクシオム,Axioma aerului,ro
+飞升,Ascensiune,ro
+飞升护符,Talismanul ascensiunii,ro
+食堂,Sala dezordinii,ro
+饭厅,Sala dezordinii,ro
+饮血剑,Sabia sângeroasă,ro
+騎士の誓い,Legământul cavalerului,ro
+骑士之誓,Legământul cavalerului,ro
+高压电,Linie de înaltă tensiune,ro
+高级生命体,Formă de viață superioară,ro
+高级贷款,Împrumut avansat,ro
+高電圧,Linie de înaltă tensiune,ro
+高電圧管,Canal de tensiune,ro
+鬼影望远镜,Luneta bântuită,ro
+鬼索的狂暴之刃,Spada furiei lui Guinsoo,ro
+魔像,Golem,ro
+魔像化,Golemificare,ro
+魔法のダイス,Aruncare magică,ro
+魔法投掷,Aruncare magică,ro
+鱼骨头,Bubuilă,ro
+鲜血祭品,Ofrandă de sânge,ro
+黄昏の試練,Provocările crepusculului,ro
+黄昏圣盾,Scutul amurgului,ro
+黄金の龍,Dragonul auriu,ro
+黄金命运,Destin de aur,ro
+黎明圣盾,Scutul zorilor,ro
+黎明核心,Miezul zorilor,ro
+黑市炸药,Explozibili de contrabandă,ro
+黑市补货,Reaprovizionarea pieței negre,ro
+黑暗之女,Copilul întunericului,ro
+黑暗吸血鬼节杖,Sceptru vampiric corupt,ro
+黑铁资产,Tare ca fierul,ro
+黛安娜,Diana,ro
+龙血武姬,Fiica dragonului,ro

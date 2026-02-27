@@ -1,449 +1,395 @@
 source,target,tgt_lng
+1个霸符，2个霸符,"Un buff, due buff",it
+2のトリック,La prova del 2,it
+3 Threes,3 tre,it
+3×3,3 tre,it
+3の軍団,Legione dei tre,it
+8级D干的传说,Cambio epico,it
+90 Caliber Nets,Reti calibro 90,it
+90口径绳网,Reti calibro 90,it
+A Magic Roll,Un tiro magico,it
 Aatrox,Aatrox,it
+Acceleration Gate,Portale acceleratore,it
+Adaptive Helm,Elmo adattivo,it
+Advanced Loan,Finanziamento,it
+Aegis of Dawn,Egida dell'Aurora,it
+Aegis of Dusk,Egida del Crepuscolo,it
 Ahri,Ahri,it
+Air Axiom,Assioma aereo,it
 Ambessa,Ambessa,it
 Anivia,Anivia,it
 Annie,Annie,it
 Aphelios,Aphelios,it
+Arcane Viktor-y,Viktor-ia di Arcane,it
+Arcane ビクタリー,Viktor-ia di Arcane,it
+Arcanist,Arcanista,it
+Arcanist Emblem,Emblema dell'Arcanista,it
+Archangel's Staff,Scettro dell'arcangelo,it
+Armor Nullifier,Nullificatore di armatura,it
+Artillery Barrage,Sbarramento d'artiglieria,it
+Ascendant,Ascendente,it
+Ascension,Ascensione,it
 Ashe,Ashe,it
+Assimilator,Assimilatore,it
 Aurelion Sol,Aurelion Sol,it
 Azir,Azir,it
+B.F. Sword,M.C. Spada,it
+B.F.ソード,M.C. Spada,it
+Band of Thieves,Banda di ladri,it
 Bard,Bard,it
+Barknuckles,A mani nude,it
 Baron Nashor,Barone Nashor,it
 Bel'Veth,Bel'Veth,it
-Blitzcrank,Blitzcrank,it
-Braum,Braum,it
-Briar,Briar,it
-Brock,Brock,it
-Caitlyn,Caitlyn,it
-Cho'Gath,Cho'Gath,it
-Darius,Darius,it
-Diana,Diana,it
-Dr. Mundo,Dr. Mundo,it
-Draven,Draven,it
-Ekko,Ekko,it
-Elder Dragon,Drago maggiore,it
-Fiddlesticks,Fiddlesticks,it
-Fizz,Fizz,it
-Galio,Galio,it
-Gangplank,Gangplank,it
-Garen,Garen,it
-Golem,Golem,it
-Graves,Graves,it
-Gwen,Gwen,it
-Illaoi,Illaoi,it
-Jarvan IV,Jarvan IV,it
-Jhin,Jhin,it
-Jinx,Jinx,it
-Kai'Sa,Kai'Sa,it
-Kalista,Kalista,it
-Kennen,Kennen,it
-Kindred,Kindred,it
-Kobuko & Yuumi,Kobuko e Yuumi,it
-Kog'Maw,Kog'Maw,it
-LeBlanc,LeBlanc,it
-Leona,Leona,it
-Lissandra,Lissandra,it
-Loris,Loris,it
-Lucian & Senna,Lucian e Senna,it
-Lulu,Lulu,it
-Lux,Lux,it
-Malzahar,Malzahar,it
-Mel,Mel,it
-Milio,Milio,it
-Miss Fortune,Miss Fortune,it
-Nasus,Nasus,it
-Nautilus,Nautilus,it
-Neeko,Neeko,it
-Nidalee,Nidalee,it
-Orianna,Orianna,it
-Ornn,Ornn,it
-Piltover Invention,Invenzione di Piltover,it
-Poppy,Poppy,it
-Qiyana,Qiyana,it
-Rek'Sai,Rek'Sai,it
-Renekton,Renekton,it
-Rift Herald,Messaggero della Landa,it
-Rift Scuttler,Argogranchio,it
-Rumble,Rumble,it
-Ryze,Ryze,it
-Sejuani,Sejuani,it
-Seraphine,Seraphine,it
-Sett,Sett,it
-Shen,Shen,it
-Shyvana,Shyvana,it
-Singed,Singed,it
-Sion,Sion,it
-Skarner,Skarner,it
-Sona,Sona,it
-Swain,Swain,it
-Sylas,Sylas,it
-T-Hex,T-Hex,it
-Tahm Kench,Tahm Kench,it
-Taric,Taric,it
-Teemo,Teemo,it
-Thresh,Thresh,it
-Training Dummy,Fantoccio di addestramento,it
-Tristana,Tristana,it
-Tryndamere,Tryndamere,it
-Twisted Fate,Twisted Fate,it
-Vayne,Vayne,it
-Veigar,Veigar,it
-Vi,Vi,it
-Viego,Viego,it
-Volibear,Volibear,it
-Warwick,Warwick,it
-Wukong,Wukong,it
-Xerath,Xerath,it
-Xin Zhao,Xin Zhao,it
-Yasuo,Yasuo,it
-Yone,Yone,it
-Yorick,Yorick,it
-Yunara,Yunara,it
-Zaahen,Zaahen,it
-Ziggs,Ziggs,it
-Zilean,Zilean,it
-Zoe,Zoe,it
-Arcanist,Arcanista,it
-Ascendant,Ascendente,it
-Assimilator,Assimilatore,it
-Bilgewater,Bilgewater,it
-Blacksmith,Fabbro,it
-Bruiser,Picchiatore,it
-Caretaker,Allevatore,it
-Chainbreaker,Spezzacatene,it
-Chosen Wolves,Prescelti del Lupo,it
-Chronokeeper,Custode del tempo,it
-Dark Child,Bambina oscura,it
-Darkin,Darkin,it
-Defender,Difensore,it
-Demacia,Demacia,it
-Disruptor,Disturbatore,it
-Dragonborn,Dragonide,it
-Dragonguards,Guardie draconiche,it
-Emperor,Imperatore,it
-Eternal,Eterno,it
-Freljord,Freljord,it
-Glutton,Ingordo,it
-Gunslinger,Pistolero,it
-Harvester,Mietitore,it
-Heroic,Eroico,it
-HexMech,Mecha Hex,it
-Huntress,Cacciatrice,it
-Immortal,Immortale,it
-Invoker,Evocatore,it
-Ionia,Ionia,it
-Ixtal,Ixtal,it
-Juggernaut,Colosso,it
-Longshot,Lungo raggio,it
-Noxus,Noxus,it
-Piltover,Piltover,it
-Poison Pals,Compagnia del veleno,it
-Quickstriker,Colporapido,it
-Riftscourge,Flagello della Landa,it
-Rune Mage,Mago delle rune,it
-Sentinels of Light,Sentinelle della Luce,it
-Shadow Isles,Isole Ombra,it
-Shurima,Shurima,it
-Slayer,Uccisore,it
-Soulbound,Legame spirituale,it
-Star Forger,Forgiatore di stelle,it
-Targon,Targon,it
-The Boss,Il Boss,it
-Timewinders,Cronodischi,it
-Vanquisher,Annientatore,it
-Void,Vuoto,it
-Warden,Guardiano,it
-World Ender,Sterminatore di Mondi,it
-Yordle,Yordle,it
-Zaun,Zaun,it
-3 Threes,3 tre,it
-A Magic Roll,Un tiro magico,it
-Advanced Loan,Finanziamento,it
-Air Axiom,Assioma aereo,it
-Arcane Viktor-y,Viktor-ia di Arcane,it
-Artillery Barrage,Sbarramento d'artiglieria,it
-Ascension,Ascensione,it
-Band of Thieves,Banda di ladri,it
 Belt Overflow,Eccesso di cinture,it
 Best Friends,Migliori amici,it
 Big Friend,Grande amico,it
 Big Grab Bag,Borsa grande,it
+Bilgewater,Bilgewater,it
+Bilgewater Emblem,Emblema di Bilgewater,it
+Bilgewater Lesser Champion Duplicator,Duplicatore di campioni minore di Bilgewater,it
 Binary Airdrop,Lancio binario,it
 Birthday Present,Regalo di compleanno,it
 Birthday Reunion,Ritrovo di compleanno,it
+Black Market Restock,Rifornimento al Mercato nero,it
+Blackmarket Explosives,Esplosivi del Mercato nero,it
+Blacksmith,Fabbro,it
+Blast Shield,Scudo energetico,it
+Blighting Jewel,Gioiello della rovina,it
+Blitzcrank,Blitzcrank,it
 Blood Offering,Sacrificio cruento,it
+Bloodthirster,La Bramasangue,it
+Blue Buff,Buff blu,it
 Bodyguard Training,Addestramento da Guardia del corpo,it
 Boxing Lessons,Lezioni di pugilato,it
+Bramble Vest,Corpetto di rovi,it
 Branching Out,Su tutti i fronti,it
+Braum,Braum,it
+Briar,Briar,it
+Brigand's Dice,Dadi del brigante,it
 Bringer of Ruin,Portatore di rovina,it
+Brock,Brock,it
 Bronze For Life,Bronzo per la vita,it
+Bruiser,Picchiatore,it
+Bruiser Emblem,Emblema del Picchiatore,it
 Buried Treasures,Tesori sepolti,it
+Caitlyn,Caitlyn,it
+Cappa Juice,Succo Cappa,it
+Captain's Brew,Miscela del Capitano,it
+Captain's Hat,Cappello da Capitano,it
 Care Package,Pacchetto di aiuti,it
+Caretaker,Allevatore,it
 Caretaker's Ally,Alleato del custode,it
 Celestial Blessing,Benedizione celestiale,it
+Chain Vest,Cotta di maglia,it
+Chainbreaker,Spezzacatene,it
+Chalice of Power,Calice del potere,it
 Chaotic Evolution,Evoluzione caotica,it
+Cho'Gath,Cho'Gath,it
+Chosen Wolves,Prescelti del Lupo,it
+Chronokeeper,Custode del tempo,it
 Commerce Core,Fulcro del commercio,it
 Component Buffet,Abbuffata di componenti,it
 Construct a Companion,Costruisci un Compagno,it
+Continuum Cogs,Ingranaggi senza fine,it
 Cooking Pot,Pentolone,it
 Coronation,Incoronazione,it
 Corrosion,Corrosione,it
+Corrupt Vampiric Scepter,Scettro vampirico corrotto,it
 Cosmic Calling,Vocazione cosmica,it
 Crafted Crafting,Creazione artigianale,it
 Crash Test Dummies,Fantocci da crash test,it
 Crown's Will,Volontà della corona,it
+Crownguard,Corona reale,it
 Cry Me A River,Fiumi di lacrime,it
+Cursed Blade,Lama maledetta,it
+Cutthroat's Cutlass,Sciabola del tagliagole,it
+C位的觉悟,Trova il tuo centro,it
+DD街区,Settore dello scambio,it
+Darius,Darius,it
+Dark Child,Bambina oscura,it
+Darkin,Darkin,it
 Darkwill's Invasion,L'invasione di Darkwill,it
+Dawncore,Nucleo dell'alba,it
+Dead Man's Dagger,Daga dell'uomo morto,it
 Deadlier Blades,Lame più letali,it
 Deadlier Caps,Cappelli più letali,it
+Deathblade,Lama mortale,it
+Defender,Difensore,it
+Defender Emblem,Emblema del Difensore,it
 Defense of the Placidium,Difesa del Placidium,it
+Demacia,Demacia,it
+Demacia Emblem,Emblema di Demacia,it
 Demacia Forever,Demacia per sempre,it
+Diana,Diana,it
+Disruptor,Disturbatore,it
+Disruptor Emblem,Emblema del Disturbatore,it
 Double Trouble,Guai doppi,it
+Dr. Mundo,Dr. Mundo,it
+Dragon's Claw,Artiglio del drago,it
+Dragonborn,Dragonide,it
+Dragonguards,Guardie draconiche,it
+Draven,Draven,it
+Dreadway Cannon,Cannone della Via del dolore,it
 Dummify,Fantoccificazione,it
 Duo Queue,Coda in duo,it
+D个痛快！,Cambio eterno,it
+E.M.P.,EMP,it
 Earth Axiom,Assioma terrestre,it
+Echo Engine,Motore Eco,it
+Edge of Night,Fine della notte,it
+Ekko,Ekko,it
+Elder Dragon,Drago maggiore,it
+Electrical Overload,Sovraccarico elettrico,it
+Emperor,Imperatore,it
 Epic Rolldown,Cambio epico,it
+Eternal,Eterno,it
+Eternal Pact,Patto eterno,it
+Evenshroud,Velo costante,it
 Exclusive Customization,Personalizzazione esclusiva,it
 Exiles,Esuli,it
 Expected Unexpectedness,L'atteso inaspettato,it
 Explosive Growth,Crescita esplosiva,it
 Eye For An Eye,Occhio per occhio,it
 Feed the Flames,Alimentare le fiamme,it
+Fiddlesticks,Fiddlesticks,it
 Find Your Center,Trova il tuo centro,it
 Fire Axiom,Assioma igneo,it
+First Mate's Flintlock,Pistola del primo ufficiale,it
+First One's Free!,Il primo giro è gratuito!,it
+Fishbones,Fishbones,it
+Fizz,Fizz,it
+Flickerblades,Lame rotanti,it
 Focused Fire,Fuoco concentrato,it
+Forbidden Idol,Idolo proibito,it
+Freljord,Freljord,it
+Freljord Emblem,Emblema del Freljord,it
+Frying Pan,Padella,it
+Galio,Galio,it
+Gangplank,Gangplank,it
+Garen,Garen,it
+Gargoyle Stoneplate,Lastrapietra del gargoyle,it
+Giant Slayer,Uccisore di giganti,it
 Giant and Mighty,Grande e possente,it
+Giant's Belt,Cintura del gigante,it
+Gigantification Ray,Raggio della gigantificazione,it
 Gilded Steel,Acciaio brillante,it
 Glass Cannon,Cannone di cristallo,it
+Glutton,Ingordo,it
 Going Long,Andare per le lunghe,it
 Gold Destiny,Destino d'oro,it
+Golem,Golem,it
 Golemify,Golemizzazione,it
 Good For Something,Non proprio inutile,it
+Graves,Graves,it
 Growth Mindset,Attitudine alla crescita,it
+Guinsoo's Rageblade,Furia di Guinsoo,it
+Gunslinger,Pistolero,it
+Gunslinger Emblem,Emblema del Pistolero,it
+Gwen,Gwen,it
+Hand Of Justice,Mano della giustizia,it
 Hard Commit,Scommessa rischiosa,it
+Harvester,Mietitore,it
+Haunted Spyglass,Cannocchiale infestato,it
 Healing Orbs,Sfere curative,it
 Heart of Steel,Cuore d'acciaio,it
 Heavy Is the Crown,Pesante è la corona,it
 Hedge Fund,Fondo speculativo,it
 Hefty Rolls,Aggiornamenti impegnativi,it
+Hellfire Hatchet,Accetta infernale,it
+Heroic,Eroico,it
 Heroic Grab Bag,Borsa eroica,it
+HexMech,Mecha Hex,it
 Hexgate Travel,Viaggio nell'Hexportale,it
+Hextech Gunblade,Pistola a lame hextech,it
 High Voltage,Alta tensione,it
 Hold the Line,Tenete la posizione,it
+Horizon Focus,Concentrazione dell'orizzonte,it
+Huntress,Cacciatrice,it
+Illaoi,Illaoi,it
+Immortal,Immortale,it
 Indecision,Esitazione,it
 Indiscriminate Killer,Uccisore indiscriminato,it
+Infinity Edge,Frammento d'infinito,it
+Innervating Locket,Medaglione diramante,it
 Invested,Investitura,it
+Invoker,Evocatore,it
+Invoker Emblem,Emblema dell'Evocatore,it
+Ionia,Ionia,it
+Ionia Emblem,Emblema di Ionia,it
+Ionic Spark,Scintilla ionica,it
 Iron Assets,Risorse ferrose,it
 Item Grab Bag,Borsa degli oggetti,it
+Ixtal,Ixtal,it
+Ixtal Emblem,Emblema di Ixtal,it
+Jarvan IV,Jarvan IV,it
+Jeweled Gauntlet,Guanto ingioiellato,it
 Jeweled Lotus,Loto ingioiellato,it
+Jhin,Jhin,it
+Jinx,Jinx,it
+Juggernaut,Colosso,it
+Juggernaut Emblem,Emblema del Colosso,it
 Just Hit,Colpire e basta,it
 Kahunahuna,Kahunahuna,it
+Kai'Sa,Kai'Sa,it
+Kalista,Kalista,it
+Kennen,Kennen,it
+Kindred,Kindred,it
+Kinetic Barrier,Barriera cinetica,it
+Knight's Vow,Voto del cavaliere,it
+Kobuko & Yuumi,Kobuko e Yuumi,it
+Kog'Maw,Kog'Maw,it
+Kraken's Fury,Furia del kraken,it
+L-90 カリバーネット,Reti calibro 90,it
 Last Second Save,Salvataggio all'ultimo secondo,it
+Last Whisper,Sussurro fatale,it
 Late Game Scaling,Crescita a fine partita,it
 Late Game Specialist,Specialista del finale,it
+LeBlanc,LeBlanc,it
 Leap of Faith,Salto della fede,it
 Legion of Threes,Legione dei tre,it
+Leona,Leona,it
+Lesser Mirrored Persona,Personalità speculare minore,it
 Level Up!,Aumento di livello!,it
+Lich Bane,Terrore dei lich,it
 Lifting Competition,Gara di sollevamento pesi,it
+Lightshield Crest,Stemma di Lightshield,it
 Lineup,Formazione,it
+Lissandra,Lissandra,it
 Little Buddies,Piccoli alleati,it
+Locket of the Iron Solari,Medaglione dei Solari di ferro,it
+Longshot,Lungo raggio,it
+Longshot Emblem,Emblema del Lungo raggio,it
+Loris,Loris,it
+Lucian & Senna,Lucian e Senna,it
+Lucky Doubloon,Doblone fortunato,it
 Lucky Gloves,Guanti fortunati,it
+Luden's Tempest,Tempesta di Luden,it
+Lulu,Lulu,it
+Lux,Lux,it
 Mace's Will,La legge della mazza,it
+Magnetron Coil,Bobina di Magnetron,it
 Makeshift Armor,Armatura improvvisata,it
+Malzahar,Malzahar,it
+Mel,Mel,it
+Mending Echoes,Echi curativi,it
 Mess Hall,Refettorio,it
+Micro-Rockets,Micro-razzi,it
+Milio,Milio,it
 Min-Max,Il massimo con il minimo,it
+Mining Drill,Trivella mineraria,it
+Mirrored Persona,Personalità speculare,it
+Miss Fortune,Miss Fortune,it
 Missed Connections,Coincidenze perse,it
+Mittens,Muffole,it
+Momentum Drive,Impeto cosmico,it
 Money Monsoon,Monsoni sonanti,it
+Morellonomicon,Morellonomicon,it
+Nashor's Tooth,Dente di Nashor,it
+Nasus,Nasus,it
+Nautilus,Nautilus,it
+Needlessly Large Rod,Bastone colossale,it
+Neeko,Neeko,it
+Negatron Cloak,Mantello di Negatron,it
+Nidalee,Nidalee,it
+Noxus,Noxus,it
+Noxus Emblem,Emblema di Noxus,it
 On a Roll,Giù come birilli,it
 "One Buff, Two Buff","Un buff, due buff",it
 One Twos Three,"Gli uno, i due e il tre",it
 "One, Two, Five!","Uno, due, cinque!",it
+Orianna,Orianna,it
+Ornn,Ornn,it
+Overclocked Capacitors,Condensatori sovraccarichi,it
 Pandora's Bench,Panca di Pandora,it
 Pandora's Items,Oggetti di Pandora,it
 Patience is a Virtue,La pazienza è una virtù,it
+Pile O' Citrus,Scorta di agrumi,it
+Piltover,Piltover,it
+Piltover Emblem,Emblema di Piltover,it
+Piltover Invention,Invenzione di Piltover,it
 Placebo,Placebo,it
 Plot Armor,Protezione di trama,it
+Poison Pals,Compagnia del veleno,it
+Poppy,Poppy,it
 Portable Forge,Forgia portatile,it
 Precision and Grace,Grazia e precisione,it
 Preparation,Preparazione,it
 Prismatic Destiny,Destino prismatico,it
 Prismatic Ticket,Biglietto prismatico,it
 Promised Protection,Protezione promessa,it
+Protector's Vow,Voto del Protettore,it
+Prowler's Claw,Artiglio del predatore,it
 Pyromaniac,Piromane,it
+Qiyana,Qiyana,it
+Quicksilver,Argento vivo,it
+Quickstriker,Colporapido,it
+Quickstriker Emblem,Emblema del Colporapido,it
+Rabadon's Deathcap,Copricapo di Rabadon,it
 Radiant Rascal,Canaglia radiosa,it
 Radiant Relics,Reliquie Radiose,it
 Raining Gold,Pioggia d'oro,it
+Rapid Firecannon,Archibugio a ripetizione,it
+Realm Warp,Portale dei reami,it
 Recombobulator,Ricombussolatore,it
+Recurve Bow,Arco ricurvo,it
+Red Buff,Buff rosso,it
 ReinFOURcement,In quattro e quattr'otto,it
+Rek'Sai,Rek'Sai,it
+Renekton,Renekton,it
 Replication,Replica,it
 Restart Mission,Riavvia missione,it
 Retribution,Rappresaglia,it
+Rift Herald,Messaggero della Landa,it
+Rift Scuttler,Argogranchio,it
+Riftscourge,Flagello della Landa,it
 Rolling For Days,Cambio eterno,it
+Rumble,Rumble,it
+Rune Mage,Mago delle rune,it
+Ryze,Ryze,it
 Savings Account,Conto dei risparmi,it
 Second Wind,Secondo fiato,it
+Seeker's Armguard,Parabraccia del cercatore,it
+Sejuani,Sejuani,it
+Sentinels of Light,Sentinelle della Luce,it
 Seraphim's Staff,Scettro serafino,it
+Seraphine,Seraphine,it
+Sett,Sett,it
+Shadow Isles,Isole Ombra,it
+Shadow Puppet,Burattino d'ombra,it
+Shen,Shen,it
 Shimmerscale Essence,Essenza Scaglialucida,it
 Shopping Spree,Shopping scatenato,it
+Shroud of Stillness,Veste della stabilità,it
+Shurima,Shurima,it
+Shyvana,Shyvana,it
 Silco's Revenge,Vendetta di Silco,it
 Silver Destiny,Destino argenteo,it
 Silver Spoon,Cucchiaio d'argento,it
+Silvermere Dawn,Alba di Silvermere,it
+Singed,Singed,it
+Sion,Sion,it
+Skarner,Skarner,it
+Slayer,Uccisore,it
+Slayer Emblem,Emblema dell'Uccisore,it
 Slightly Magic Roll,Tiro lievemente magico,it
 Small Grab Bag,Borsa piccola,it
 Solo Plate,Corazza singola,it
+Sona,Sona,it
 Soul Awakening,Risveglio dell'anima,it
+Soulbound,Legame spirituale,it
+Sparring Gloves,Guantoni,it
+Spatula,Spatola,it
+Spear of Shojin,Lancia di Shojin,it
 Spear's Will,La legge della lancia,it
+Spectral Cutlass,Sciabola spettrale,it
+Spirit Visage,Corazza spirituale,it
 Spirit of Redemption,Spirito di redenzione,it
 Spreading Roots,Radici diffuse,it
 Staffsmith,Fabbricante di bastoni,it
 Stand United,Uniti nelle difficoltà,it
+Star Forger,Forgiatore di stelle,it
 Stars Are Born,Figli delle stelle,it
 Starter Kit,Kit iniziale,it
-Sweet Treats,Dolci,it
-Sword Overflow,Eccesso di spade,it
-Swordsmith,Fabbricante di spade,it
-Teaming Up,Fare squadra,it
-The Axiomata,Gli Assiomi,it
-The Golden Dragon,Il Drago dorato,it
-The Ruined King,Il Re in rovina,it
-The Trait Tree,L'Albero dei tratti,it
-The World Runes,Le Rune Terrene,it
-Thorn-Plated Armor,Armatura di spine,it
-"Tiny, but Deadly","Piccole, ma letali",it
-Tons of Stats!,Pioggia di statistiche!,it
-Trade Sector,Settore dello scambio,it
-Trials of Twilight,Prove del Crepuscolo,it
-Trifecta,Tripletta,it
-Twin Guardians,Guardiani gemelli,it
-Two Much Value,Due volte il valore,it
-Two Trick,La prova del 2,it
-U.R.F,U.R.F.,it
-Unsealed From Steel,Liberato dall'acciaio,it
-Upward Mobility,Mobilità aumentata,it
-Wand Overflow,Eccesso di bacchette,it
-Warlord's Honor,L'onore del Signore della guerra,it
-Water Axiom,Assioma idrico,it
-We Stick Together,Restiamo uniti,it
-Wild Growth,Crescita selvaggia,it
-Win Out,Prevalere,it
-Wood Axiom,Assioma ligneo,it
-Woven Magic,Tela magica,it
-90 Caliber Nets,Reti calibro 90,it
-Acceleration Gate,Portale acceleratore,it
-Adaptive Helm,Elmo adattivo,it
-Aegis of Dawn,Egida dell'Aurora,it
-Aegis of Dusk,Egida del Crepuscolo,it
-Arcanist Emblem,Emblema dell'Arcanista,it
-Archangel's Staff,Scettro dell'arcangelo,it
-Armor Nullifier,Nullificatore di armatura,it
-B.F. Sword,M.C. Spada,it
-Barknuckles,A mani nude,it
-Bilgewater Emblem,Emblema di Bilgewater,it
-Bilgewater Lesser Champion Duplicator,Duplicatore di campioni minore di Bilgewater,it
-Black Market Restock,Rifornimento al Mercato nero,it
-Blackmarket Explosives,Esplosivi del Mercato nero,it
-Blast Shield,Scudo energetico,it
-Blighting Jewel,Gioiello della rovina,it
-Bloodthirster,La Bramasangue,it
-Blue Buff,Buff blu,it
-Bramble Vest,Corpetto di rovi,it
-Brigand's Dice,Dadi del brigante,it
-Bruiser Emblem,Emblema del Picchiatore,it
-Cappa Juice,Succo Cappa,it
-Captain's Brew,Miscela del Capitano,it
-Captain's Hat,Cappello da Capitano,it
-Chain Vest,Cotta di maglia,it
-Chalice of Power,Calice del potere,it
-Continuum Cogs,Ingranaggi senza fine,it
-Corrupt Vampiric Scepter,Scettro vampirico corrotto,it
-Crownguard,Corona reale,it
-Cursed Blade,Lama maledetta,it
-Cutthroat's Cutlass,Sciabola del tagliagole,it
-Dawncore,Nucleo dell'alba,it
-Dead Man's Dagger,Daga dell'uomo morto,it
-Deathblade,Lama mortale,it
-Defender Emblem,Emblema del Difensore,it
-Demacia Emblem,Emblema di Demacia,it
-Disruptor Emblem,Emblema del Disturbatore,it
-Dragon's Claw,Artiglio del drago,it
-Dreadway Cannon,Cannone della Via del dolore,it
-E.M.P.,EMP,it
-Echo Engine,Motore Eco,it
-Edge of Night,Fine della notte,it
-Electrical Overload,Sovraccarico elettrico,it
-Eternal Pact,Patto eterno,it
-Evenshroud,Velo costante,it
-First Mate's Flintlock,Pistola del primo ufficiale,it
-First One's Free!,Il primo giro è gratuito!,it
-Fishbones,Fishbones,it
-Flickerblades,Lame rotanti,it
-Forbidden Idol,Idolo proibito,it
-Freljord Emblem,Emblema del Freljord,it
-Frying Pan,Padella,it
-Gargoyle Stoneplate,Lastrapietra del gargoyle,it
-Giant Slayer,Uccisore di giganti,it
-Giant's Belt,Cintura del gigante,it
-Gigantification Ray,Raggio della gigantificazione,it
-Guinsoo's Rageblade,Furia di Guinsoo,it
-Gunslinger Emblem,Emblema del Pistolero,it
-Hand Of Justice,Mano della giustizia,it
-Haunted Spyglass,Cannocchiale infestato,it
-Hellfire Hatchet,Accetta infernale,it
-Hextech Gunblade,Pistola a lame hextech,it
-Horizon Focus,Concentrazione dell'orizzonte,it
-Infinity Edge,Frammento d'infinito,it
-Innervating Locket,Medaglione diramante,it
-Invoker Emblem,Emblema dell'Evocatore,it
-Ionia Emblem,Emblema di Ionia,it
-Ionic Spark,Scintilla ionica,it
-Ixtal Emblem,Emblema di Ixtal,it
-Jeweled Gauntlet,Guanto ingioiellato,it
-Juggernaut Emblem,Emblema del Colosso,it
-Kinetic Barrier,Barriera cinetica,it
-Knight's Vow,Voto del cavaliere,it
-Kraken's Fury,Furia del kraken,it
-Last Whisper,Sussurro fatale,it
-Lesser Mirrored Persona,Personalità speculare minore,it
-Lich Bane,Terrore dei lich,it
-Lightshield Crest,Stemma di Lightshield,it
-Locket of the Iron Solari,Medaglione dei Solari di ferro,it
-Longshot Emblem,Emblema del Lungo raggio,it
-Lucky Doubloon,Doblone fortunato,it
-Luden's Tempest,Tempesta di Luden,it
-Magnetron Coil,Bobina di Magnetron,it
-Mending Echoes,Echi curativi,it
-Micro-Rockets,Micro-razzi,it
-Mining Drill,Trivella mineraria,it
-Mirrored Persona,Personalità speculare,it
-Mittens,Muffole,it
-Momentum Drive,Impeto cosmico,it
-Morellonomicon,Morellonomicon,it
-Nashor's Tooth,Dente di Nashor,it
-Needlessly Large Rod,Bastone colossale,it
-Negatron Cloak,Mantello di Negatron,it
-Noxus Emblem,Emblema di Noxus,it
-Overclocked Capacitors,Condensatori sovraccarichi,it
-Pile O' Citrus,Scorta di agrumi,it
-Piltover Emblem,Emblema di Piltover,it
-Protector's Vow,Voto del Protettore,it
-Prowler's Claw,Artiglio del predatore,it
-Quicksilver,Argento vivo,it
-Quickstriker Emblem,Emblema del Colporapido,it
-Rabadon's Deathcap,Copricapo di Rabadon,it
-Rapid Firecannon,Archibugio a ripetizione,it
-Realm Warp,Portale dei reami,it
-Recurve Bow,Arco ricurvo,it
-Red Buff,Buff rosso,it
-Seeker's Armguard,Parabraccia del cercatore,it
-Shadow Puppet,Burattino d'ombra,it
-Shroud of Stillness,Veste della stabilità,it
-Silvermere Dawn,Alba di Silvermere,it
-Slayer Emblem,Emblema dell'Uccisore,it
-Sparring Gloves,Guantoni,it
-Spatula,Spatola,it
-Spear of Shojin,Lancia di Shojin,it
-Spectral Cutlass,Sciabola spettrale,it
-Spirit Visage,Corazza spirituale,it
 Statikk Shiv,Pugnale di Statikk,it
 Steadfast Heart,Cuor saldo,it
 Sterak's Gage,Pegno di Sterak,it
@@ -451,34 +397,1051 @@ Striker's Flail,Mazzafrusto dell'Assaltatore,it
 Sunfire Cape,Mantello del Sole,it
 Superior Lifeform,Entità superiore,it
 Suspicious Trench Coat,Impermeabile sospetto,it
+Swain,Swain,it
+Sweet Treats,Dolci,it
+Sword Overflow,Eccesso di spade,it
+Swordsmith,Fabbricante di spade,it
+Sylas,Sylas,it
 Syren's Broadside,Le bordate della Sirena,it
+T-Hex,T-Hex,it
 Tactician's Cape,Mantello dello stratega,it
 Tactician's Crown,Corona dello Stratega,it
 Tactician's Shield,Scudo dello stratega,it
+Tahm Kench,Tahm Kench,it
 Talisman Of Ascension,Talismano dell'ascensione,it
+Targon,Targon,it
+Taric,Taric,it
+Teaming Up,Fare squadra,it
 Tear of the Goddess,Lacrima della dea,it
+Teemo,Teemo,it
+The Axiomata,Gli Assiomi,it
+The Boss,Il Boss,it
+The Golden Dragon,Il Drago dorato,it
 The Indomitable,L'indomabile,it
+The Ruined King,Il Re in rovina,it
+The Trait Tree,L'Albero dei tratti,it
+The World Runes,Le Rune Terrene,it
 Thief's Gloves,Guanti del ladro,it
+Thorn-Plated Armor,Armatura di spine,it
+Thresh,Thresh,it
+Timewinders,Cronodischi,it
+"Tiny, but Deadly","Piccole, ma letali",it
 Titan's Resolve,Determinazione del titano,it
 Titanic Hydra,Idra titanica,it
 Tome of Traits,Tomo dei tratti,it
+Tons of Stats!,Pioggia di statistiche!,it
+Trade Sector,Settore dello scambio,it
+Training Dummy,Fantoccio di addestramento,it
 Treasure Typhoon,Tifone di tesori,it
+Trials of Twilight,Prove del Crepuscolo,it
+Trifecta,Tripletta,it
+Tristana,Tristana,it
+Tryndamere,Tryndamere,it
 Tuned Oscillator,Oscillatore impeccabile,it
+Twin Guardians,Guardiani gemelli,it
+Twisted Fate,Twisted Fate,it
+Two Much Value,Due volte il valore,it
+Two Trick,La prova del 2,it
+U.R.F,U.R.F.,it
 Unending Despair,Disperazione eterna,it
+Unsealed From Steel,Liberato dall'acciaio,it
 Unstable Core,Nucleo instabile,it
 Upgrade!,Potenziamento!,it
+Upward Mobility,Mobilità aumentata,it
+Vanquisher,Annientatore,it
 Vanquisher Emblem,Emblema dell'Annientatore,it
+Vayne,Vayne,it
+Veigar,Veigar,it
+Vi,Vi,it
+Viego,Viego,it
 Virtue of the Martyr,Virtù del martire,it
+Void,Vuoto,it
 Void Emblem,Emblema del Vuoto,it
 Void Gauntlet,Guanto del Vuoto,it
 Void Staff,Bastone del Vuoto,it
+Volibear,Volibear,it
 Voltage Conduit,Condotto voltaico,it
+Wand Overflow,Eccesso di bacchette,it
+Warden,Guardiano,it
 Warden Emblem,Emblema del Guardiano,it
+Warlord's Honor,L'onore del Signore della guerra,it
 Warmog's Armor,Armatura di Warmog,it
+Warwick,Warwick,it
+Water Axiom,Assioma idrico,it
+We Stick Together,Restiamo uniti,it
+Wild Growth,Crescita selvaggia,it
+Win Out,Prevalere,it
 Wit's End,Speranza perduta,it
 Withered Relic,Reliquia appassita,it
+Wood Axiom,Assioma ligneo,it
+World Ender,Sterminatore di Mondi,it
+Woven Magic,Tela magica,it
+Wukong,Wukong,it
+Xerath,Xerath,it
+Xin Zhao,Xin Zhao,it
+Yasuo,Yasuo,it
+Yone,Yone,it
+Yordle,Yordle,it
 Yordle Emblem,Emblema dello Yordle,it
+Yorick,Yorick,it
+Yunara,Yunara,it
+Zaahen,Zaahen,it
+Zaun,Zaun,it
 Zaun Emblem,Emblema di Zaun,it
 Zeke's Herald,Araldo di Zeke,it
 Zephyr,Zefiro,it
+Ziggs,Ziggs,it
+Zilean,Zilean,it
+Zoe,Zoe,it
 Zz'Rot Portal,Portale Zz'Rot,it
+“塞壬号”的舷炮,Le bordate della Sirena,it
+いつでも一緒,Restiamo uniti,it
+おおきくなぁれ！,Crescita selvaggia,it
+お得な2,Due volte il valore,it
+ここがセンター,Trova il tuo centro,it
+たっぷりリロール,Aggiornamenti impegnativi,it
+ちょっとだけ魔法のダイス,Tiro lievemente magico,it
+へら,Spatola,it
+もっと怖いキャップ,Cappelli più letali,it
+アイオニア,Ionia,it
+アイオニアの紋章,Emblema di Ionia,it
+アイオニック スパーク,Scintilla ionica,it
+アイテム福袋,Borsa degli oggetti,it
+アクシオマタ,Gli Assiomi,it
+アクセルゲート,Portale acceleratore,it
+アシミレーター,Assimilatore,it
+アジール,Azir,it
+アセンション,Ascensione,it
+アダプティブ ヘルム,Elmo adattivo,it
+アッシュ,Ashe,it
+アップグレード！,Potenziamento!,it
+アニビア,Anivia,it
+アニー,Annie,it
+アフェリオス,Aphelios,it
+アルカニスト,Arcanista,it
+アルカニストの紋章,Emblema dell'Arcanista,it
+アンベッサ,Ambessa,it
+アークエンジェル スタッフ,Scettro dell'arcangelo,it
+アーマー ナリファイア,Nullificatore di armatura,it
+アーリ,Ahri,it
+イシュタル,Ixtal,it
+イシュタルの紋章,Emblema di Ixtal,it
+イモータル,Immortale,it
+イラオイ,Illaoi,it
+インフィニティ エッジ,Frammento d'infinito,it
+インヴォーカー,Evocatore,it
+インヴォーカーの紋章,Emblema dell'Evocatore,it
+イーブンシュラウド,Velo costante,it
+ウィッツ エンド,Speranza perduta,it
+ウォーロードの名誉,L'onore del Signore della guerra,it
+ウーコン,Wukong,it
+エイトロックス,Aatrox,it
+エグザイル,Esuli,it
+エコー,Ekko,it
+エコーエンジン,Motore Eco,it
+エターナル,Eterno,it
+エピックなロールダウン,Cambio epico,it
+エルダードラゴン,Drago maggiore,it
+エレクトリカル オーバーロード,Sovraccarico elettrico,it
+エンペラー,Imperatore,it
+オリアナ,Orianna,it
+オレリオン・ソル,Aurelion Sol,it
+オーバークロック コンデンサー,Condensatori sovraccarichi,it
+オーン,Ornn,it
+カイ＝サ,Kai'Sa,it
+カナとカネ,Risorse ferrose,it
+カフナフナ,Kahunahuna,it
+カリスタ,Kalista,it
+ガリオ,Galio,it
+ガレン,Garen,it
+ガングプランク,Gangplank,it
+ガンスリンガー,Pistolero,it
+ガンスリンガーの紋章,Emblema del Pistolero,it
+ガーゴイル ストーンプレート,Lastrapietra del gargoyle,it
+キネティックバリア,Barriera cinetica,it
+キャプテンの帽子,Cappello da Capitano,it
+キャプテンの醸造酒,Miscela del Capitano,it
+キヤナ,Qiyana,it
+キンドレッド,Kindred,it
+ギリギリの救出,Salvataggio all'ultimo secondo,it
+クイックシルバー,Argento vivo,it
+クラウンの決意,Volontà della corona,it
+クラウンガード,Corona reale,it
+クラーケンの怒り,Furia del kraken,it
+クロノキーパー,Custode del tempo,it
+グインソー レイジブレード,Furia di Guinsoo,it
+グウェン,Gwen,it
+グラスキャノン,Cannone di cristallo,it
+グラットン,Ingordo,it
+グレイブス,Graves,it
+ケアテイカー,Allevatore,it
+ケイトリン,Caitlyn,it
+ケネン,Kennen,it
+ケンカの作法,Scudo energetico,it
+コグ＝マウ,Kog'Maw,it
+コブコ&ユーミ,Kobuko e Yuumi,it
+コマース コア,Fulcro del commercio,it
+コンパニオン作成,Costruisci un Compagno,it
+ゴールドの運命,Destino d'oro,it
+ゴールドの雨,Pioggia d'oro,it
+ゴーレム,Golem,it
+ゴーレム化,Golemizzazione,it
+サイオン,Sion,it
+サイラス,Sylas,it
+サンファイア ケープ,Mantello del Sole,it
+ザ・ボス,Il Boss,it
+ザーヘン,Zaahen,it
+シェン,Shen,it
+シマースケールのエッセンス,Essenza Scaglialucida,it
+シャドウアイル,Isole Ombra,it
+シュリーマ,Shurima,it
+ショウジンの矛,Lancia di Shojin,it
+シルコの復讐,Vendetta di Silco,it
+シルバーの運命,Destino argenteo,it
+シルバーミアの夜明け,Alba di Silvermere,it
+シンジド,Singed,it
+シン・ジャオ,Xin Zhao,it
+シヴァーナ,Shyvana,it
+シーカー アームガード,Parabraccia del cercatore,it
+ジグス,Ziggs,it
+ジャイアント スレイヤー,Uccisore di giganti,it
+ジャイアント ベルト,Cintura del gigante,it
+ジャイアント&マイティ,Grande e possente,it
+ジャガーノート,Colosso,it
+ジャガーノートの紋章,Emblema del Colosso,it
+ジャストヒット,Colpire e basta,it
+ジャーヴァンⅣ,Jarvan IV,it
+ジュエル ガントレット,Guanto ingioiellato,it
+ジュエル ロータス,Loto ingioiellato,it
+ジリアン,Zilean,it
+ジン,Jhin,it
+ジンクス,Jinx,it
+ジークの使者,Araldo di Zeke,it
+ジ＝ロット ポータル,Portale Zz'Rot,it
+スウェイン,Swain,it
+スカーナー,Skarner,it
+スタティック シヴ,Pugnale di Statikk,it
+スターターキット,Kit iniziale,it
+スターフォージャー,Forgiatore di stelle,it
+スター誕生,Figli delle stelle,it
+ステラックの篭手,Pegno di Sterak,it
+ステータスマシマシ,Pioggia di statistiche!,it
+ストライカー フレイル,Mazzafrusto dell'Assaltatore,it
+スパーリング グローブ,Guantoni,it
+スピリット ビサージュ,Corazza spirituale,it
+スペクトラル カトラス,Sciabola spettrale,it
+スレイヤー,Uccisore,it
+スレイヤーの紋章,Emblema dell'Uccisore,it
+スレッシュ,Thresh,it
+セイレーン号の片舷砲,Le bordate della Sirena,it
+セジュアニ,Sejuani,it
+セト,Sett,it
+セラフィムの杖,Scettro serafino,it
+セラフィーン,Seraphine,it
+ゼファー,Zefiro,it
+ゼラス,Xerath,it
+ソウルの目覚め,Risveglio dell'anima,it
+ソウルバウンド,Legame spirituale,it
+ソナ,Sona,it
+ソラリのロケット,Medaglione dei Solari di ferro,it
+ソード オーバーフロー,Eccesso di spade,it
+ソーンプレートアーマー,Armatura di spine,it
+ゾウン,Zaun,it
+ゾウンの紋章,Emblema di Zaun,it
+ゾーイ,Zoe,it
+タイタン ハイドラ,Idra titanica,it
+タイムワインダー,Cronodischi,it
+タクティシャンのケープ,Mantello dello stratega,it
+タクティシャンの王冠,Corona dello Stratega,it
+タクティシャンの盾,Scudo dello stratega,it
+タム・ケンチ,Tahm Kench,it
+タリック,Taric,it
+ターゴン,Targon,it
+ダイアナ,Diana,it
+ダブルトラブル,Guai doppi,it
+ダミー,Fantoccio di addestramento,it
+ダミー化,Fantoccificazione,it
+ダリウス,Darius,it
+ダーキン,Darkin,it
+ダークウィルの侵略,L'invasione di Darkwill,it
+ダークチャイルド,Bambina oscura,it
+チェイン ベスト,Cotta di maglia,it
+チェインブレイカー,Spezzacatene,it
+チューンド オシレーター,Oscillatore impeccabile,it
+チョ＝ガス,Cho'Gath,it
+ツイステッド・フェイト,Twisted Fate,it
+ツインガーディアン,Guardiani gemelli,it
+ティーモ,Teemo,it
+ディスラプター,Disturbatore,it
+ディスラプターの紋章,Emblema del Disturbatore,it
+ディフェンダー,Difensore,it
+ディフェンダーの紋章,Emblema del Difensore,it
+デスブレード,Lama mortale,it
+デッド マン ダガー,Daga dell'uomo morto,it
+デッドリアー ブレード,Lame più letali,it
+デマーシア,Demacia,it
+デマーシアの紋章,Emblema di Demacia,it
+デマーシアよ永遠に,Demacia per sempre,it
+デュオキュー,Coda in duo,it
+トライフェクタ,Tripletta,it
+トリスターナ,Tristana,it
+トリンダメア,Tryndamere,it
+トレードセクター,Settore dello scambio,it
+ドクター・ムンド,Dr. Mundo,it
+ドラゴン クロウ,Artiglio del drago,it
+ドラゴンの守護者,Guardie draconiche,it
+ドラゴンボーン,Dragonide,it
+ドレイヴン,Draven,it
+ドレッドウェイの砲撃,Cannone della Via del dolore,it
+ドーンコア,Nucleo dell'alba,it
+ナイト エッジ,Fine della notte,it
+ナサス,Nasus,it
+ナッシャー トゥース,Dente di Nashor,it
+ニダリー,Nidalee,it
+ニーコ,Neeko,it
+ネガトロン クローク,Mantello di Negatron,it
+ノクサス,Noxus,it
+ノクサスの紋章,Emblema di Noxus,it
+ノーチラス,Nautilus,it
+ハントレス,Cacciatrice,it
+ハンド オブ ジャスティス,Mano della giustizia,it
+ハーベスター,Mietitore,it
+バイナリー空中投下,Lancio binario,it
+バフが1つ、バフが2つ,"Un buff, due buff",it
+バロンナッシャー,Barone Nashor,it
+バークナックル,A mani nude,it
+バースデー リユニオン,Ritrovo di compleanno,it
+バースデープレゼント,Regalo di compleanno,it
+バード,Bard,it
+パンドラのアイテム,Oggetti di Pandora,it
+パンドラのベンチ,Panca di Pandora,it
+ヒロイック,Eroico,it
+ヒーリングオーブ,Sfere curative,it
+ビッグフレンド,Grande amico,it
+ビルジウォーター,Bilgewater,it
+ビルジウォーターの小型チャンピオン複製器,Duplicatore di campioni minore di Bilgewater,it
+ビルジウォーターの紋章,Emblema di Bilgewater,it
+ピルトーヴァー,Piltover,it
+ピルトーヴァーの発明品,Invenzione di Piltover,it
+ピルトーヴァーの紋章,Emblema di Piltover,it
+フィズ,Fizz,it
+フィッシュボーン,Fishbones,it
+フィドルスティックス,Fiddlesticks,it
+フォビドゥン アイドル,Idolo proibito,it
+フライパン,Padella,it
+フリッカーブレード,Lame rotanti,it
+フレヨルド,Freljord,it
+フレヨルドの紋章,Emblema del Freljord,it
+ブライアー,Briar,it
+ブラウム,Braum,it
+ブラックスミス,Fabbro,it
+ブラックマーケットの再入荷,Rifornimento al Mercato nero,it
+ブラックマーケットの爆発物,Esplosivi del Mercato nero,it
+ブラッドサースター,La Bramasangue,it
+ブランブル ベスト,Corpetto di rovi,it
+ブリッツクランク,Blitzcrank,it
+ブルーザー,Picchiatore,it
+ブルーザーの紋章,Emblema del Picchiatore,it
+ブルーバフ,Buff blu,it
+ブロック,Brock,it
+プラシディウムの防衛,Difesa del Placidium,it
+プラシーボ,Placebo,it
+プリズムの運命,Destino prismatico,it
+プリズムチケット,Biglietto prismatico,it
+プロテクターの誓い,Voto del Protettore,it
+プローラー クロウ,Artiglio del predatore,it
+ヘクスゲート トラベル,Viaggio nell'Hexportale,it
+ヘクステック ガンブレード,Pistola a lame hextech,it
+ヘクスメック,Mecha Hex,it
+ヘッジファンド,Fondo speculativo,it
+ベイガー,Veigar,it
+ベストフレンド,Migliori amici,it
+ベルト オーバーフロー,Eccesso di cinture,it
+ベル＝ヴェス,Bel'Veth,it
+ホライゾン フォーカス,Concentrazione dell'orizzonte,it
+ボクシングのレッスン,Lezioni di pugilato,it
+ボディーガードの訓練,Addestramento da Guardia del corpo,it
+ボリベア,Volibear,it
+ポイズンパル,Compagnia del veleno,it
+ポッピー,Poppy,it
+ポータブル フォージ,Forgia portatile,it
+ポータルワープ,Portale dei reami,it
+マイクロロケット,Micro-razzi,it
+マグネトロンコイル,Bobina di Magnetron,it
+マルザハール,Malzahar,it
+マーターズ ヴァーチュ,Virtù del martire,it
+ミスコネクション,Coincidenze perse,it
+ミス・フォーチュン,Miss Fortune,it
+ミッションの再開,Riavvia missione,it
+ミトン,Muffole,it
+ミニマックス,Il massimo con il minimo,it
+ミリオ,Milio,it
+ムダニ デカイ ロッド,Bastone colossale,it
+メイスの決意,La legge della mazza,it
+メル,Mel,it
+モメンタムドライブ,Impeto cosmico,it
+モレロノミコン,Morellonomicon,it
+ヤスオ,Yasuo,it
+ユナラ,Yunara,it
+ヨネ,Yone,it
+ヨリック,Yorick,it
+ヨードル,Yordle,it
+ヨードルの紋章,Emblema dello Yordle,it
+ライズ,Ryze,it
+ライトシールドのクレスト,Stemma di Lightshield,it
+ラインナップ,Formazione,it
+ラスト ウィスパー,Sussurro fatale,it
+ラッキーグローブ,Guanti fortunati,it
+ラックス,Lux,it
+ラバドン デスキャップ,Copricapo di Rabadon,it
+ラピッド ファイアキャノン,Archibugio a ripetizione,it
+ランブル,Rumble,it
+リカーブ ボウ,Arco ricurvo,it
+リサンドラ,Lissandra,it
+リッチ ベイン,Terrore dei lich,it
+リデンプションの魂,Spirito di redenzione,it
+リフティング大会,Gara di sollevamento pesi,it
+リフトスカトル,Argogranchio,it
+リフトスカージ,Flagello della Landa,it
+リフトヘラルド,Messaggero della Landa,it
+ルシアン&セナ,Lucian e Senna,it
+ルブラン,LeBlanc,it
+ルル,Lulu,it
+ルーデン テンペスト,Tempesta di Luden,it
+ルーンメイジ,Mago delle rune,it
+レイトゲーム スケーリング,Crescita a fine partita,it
+レイトゲーム スペシャリスト,Specialista del finale,it
+レオナ,Leona,it
+レク＝サイ,Rek'Sai,it
+レッドバフ,Buff rosso,it
+レディアントの遺物,Reliquie Radiose,it
+レネクトン,Renekton,it
+レベルアップ！,Aumento di livello!,it
+ロリス,Loris,it
+ロングショット,Lungo raggio,it
+ロングショットの紋章,Emblema del Lungo raggio,it
+ローリングデイズ,Cambio eterno,it
+ワン、ツー、ファイブ！,"Uno, due, cinque!",it
+ワン、ツーツー、スリー,"Gli uno, i due e il tre",it
+ワンド オーバーフロー,Eccesso di bacchette,it
+ワーウィック,Warwick,it
+ワーデン,Guardiano,it
+ワーデンの紋章,Emblema del Guardiano,it
+ワーモグ アーマー,Armatura di Warmog,it
+ワールドエンダー,Sterminatore di Mondi,it
+ワールドルーン,Le Rune Terrene,it
+ヴァイ,Vi,it
+ヴァンキッシャー,Annientatore,it
+ヴァンキッシャーの紋章,Emblema dell'Annientatore,it
+ヴィエゴ,Viego,it
+ヴェイン,Vayne,it
+ヴォイド,Vuoto,it
+ヴォイド ガントレット,Guanto del Vuoto,it
+ヴォイド スタッフ,Bastone del Vuoto,it
+ヴォイドの紋章,Emblema del Vuoto,it
+一二二三,"Gli uno, i due e il tre",it
+一人前プレート,Corazza singola,it
+一等航海士のフリントロック,Pistola del primo ufficiale,it
+一致団結,Fare squadra,it
+一致団結,Uniti nelle difficoltà,it
+一，二，五！,"Uno, due, cinque!",it
+三幻神,Legione dei tre,it
+三项赛,Tripletta,it
+三，三，三！,3 tre,it
+上方移動,Mobilità aumentata,it
+上进心,Mobilità aumentata,it
+不安定なコア,Nucleo instabile,it
+不屈,L'indomabile,it
+不滅の協定,Patto eterno,it
+不稳定核心,Nucleo instabile,it
+不落魔锋,Immortale,it
+与狼共舞,Prescelti del Lupo,it
+专属定制,Personalizzazione esclusiva,it
+世界符文,Le Rune Terrene,it
+两把刷子,La prova del 2,it
+主人公補正,Protezione di trama,it
+主宰,Colosso,it
+主宰纹章,Emblema del Colosso,it
+丽桑卓,Lissandra,it
+举重比赛,Gara di sollevamento pesi,it
+乐芙兰,LeBlanc,it
+二进制空投,Lancio binario,it
+亚恒,Zaahen,it
+亚托克斯,Aatrox,it
+亚索,Yasuo,it
+亡者的短剑,Daga dell'uomo morto,it
+仕送り,Pacchetto di aiuti,it
+以眼还眼,Occhio per occhio,it
+以绪塔尔,Ixtal,it
+以绪塔尔纹章,Emblema di Ixtal,it
+优柔寡断,Esitazione,it
+伺机待发,Preparazione,it
+佐伊,Zoe,it
+佛耶戈,Viego,it
+便携锻炉,Forgia portatile,it
+俄洛伊,Illaoi,it
+信仰之跃,Salto della fede,it
+信仰震,Salto della fede,it
+修复型回响,Echi curativi,it
+假人化,Fantoccificazione,it
+储蓄账户,Conto dei risparmi,it
+優柔不断,Esitazione,it
+元初公理,Gli Assiomi,it
+光の番人,Sentinelle della Luce,it
+光明哨兵,Sentinelle della Luce,it
+光明圣物,Reliquie Radiose,it
+光明无赖,Canaglia radiosa,it
+光盾徽章,Stemma di Lightshield,it
+克格莫,Kog'Maw,it
+入门套件,Kit iniziale,it
+全身全霊,Scommessa rischiosa,it
+兰博,Rumble,it
+关爱包裹,Pacchetto di aiuti,it
+兹若特传送门,Portale Zz'Rot,it
+内瑟斯,Nasus,it
+冕卫,Corona reale,it
+凯南,Kennen,it
+凯特琳,Caitlyn,it
+列队,Formazione,it
+利落保镖,Addestramento da Guardia del corpo,it
+别再错过,Coincidenze perse,it
+前借り,Finanziamento,it
+前線維持,Tenete la posizione,it
+剑之工匠,Fabbricante di spade,it
+剣鍛冶,Fabbricante di spade,it
+力の聖杯,Calice del potere,it
+加冕礼,Incoronazione,it
+加速之门,Portale acceleratore,it
+加里奥,Galio,it
+劣化版鏡像のペルソナ,Personalità speculare minore,it
+动能屏障,Barriera cinetica,it
+动量驱动器,Impeto cosmico,it
+勝ち抜け,Prevalere,it
+千珏,Kindred,it
+升星之运,Giù come birilli,it
+升级咯！,Aumento di livello!,it
+升级！,Potenziamento!,it
+卑尔维斯,Bel'Veth,it
+单身板甲,Corazza singola,it
+卡莉丝塔,Kalista,it
+卡莎,Kai'Sa,it
+卢登的激荡,Tempesta di Luden,it
+卢锡安与赛娜,Lucian e Senna,it
+即席アーマー,Armatura improvvisata,it
+厄斐琉斯,Aphelios,it
+厄运小姐,Miss Fortune,it
+厨神阿福,U.R.F.,it
+双城赢家,Viktor-ia di Arcane,it
+双子守护神,Guardiani gemelli,it
+双排,Coda in duo,it
+反响,Replica,it
+反曲之弓,Arco ricurvo,it
+变形重组器,Ricombussolatore,it
+可大可小,Il massimo con il minimo,it
+可酷伯与悠米,Kobuko e Yuumi,it
+吉格斯,Ziggs,it
+后期专家,Specialista del finale,it
+后期收益,Crescita a fine partita,it
+呪いの刃,Lama maledetta,it
+呪われた望遠鏡,Cannocchiale infestato,it
+嗜火,Piromane,it
+嘉文四世,Jarvan IV,it
+四费增援,In quattro e quattr'otto,it
+回声引擎,Motore Eco,it
+圣盾使的誓约,Voto del Protettore,it
+坚守防线,Tenete la posizione,it
+坚定之心,Cuor saldo,it
+埋もれた宝物,Tesori sepolti,it
+基克的先驱,Araldo di Zeke,it
+基兰,Zilean,it
+基础装备自助餐,Abbuffata di componenti,it
+報復,Rappresaglia,it
+塔姆,Tahm Kench,it
+塔里克,Taric,it
+塞拉斯,Sylas,it
+复苏之风,Secondo fiato,it
+夕闇の加護,Egida del Crepuscolo,it
+夜之锋刃,Fine della notte,it
+夜明けの加護,Egida dell'Aurora,it
+大きな福袋,Borsa grande,it
+大买特买,Shopping scatenato,it
+大刷特刷,Aggiornamenti impegnativi,it
+大剑溢流,Eccesso di spade,it
+大副的燧发枪,Pistola del primo ufficiale,it
+大哥罩我,Grande amico,it
+大地のアクシオム,Assioma terrestre,it
+大天使之杖,Scettro dell'arcangelo,it
+大炮火力网,Sbarramento d'artiglieria,it
+大百宝袋,Borsa grande,it
+大砲の雨,Sbarramento d'artiglieria,it
+大而有力,Grande e possente,it
+天の祝福,Benedizione celestiale,it
+天生二星,Figli delle stelle,it
+天降金币,Pioggia d'oro,it
+奇亚娜,Qiyana,it
+奈德丽,Nidalee,it
+奥恩,Ornn,it
+奥瑞利安·索尔,Aurelion Sol,it
+奥莉安娜,Orianna,it
+女神の涙,Lacrima della dea,it
+女神之泪,Lacrima della dea,it
+好きなだけ泣くがいい,Fiumi di lacrime,it
+好事成双,Guai doppi,it
+妮蔻,Neeko,it
+娑娜,Sona,it
+孙悟空,Wukong,it
+宇宙の呼び声,Vocazione cosmica,it
+安妮,Annie,it
+安慰剂,Placebo,it
+安蓓萨,Ambessa,it
+宝藏台风,Tifone di tesori,it
+密银黎明,Alba di Silvermere,it
+对冲基金,Fondo speculativo,it
+小さくても強烈,"Piccole, ma letali",it
+小さな仲間たち,Piccoli alleati,it
+小さな福袋,Borsa piccola,it
+小伙伴,Piccoli alleati,it
+小小福袋,Borsa piccola,it
+小而致命,"Piccole, ma letali",it
+山積みのシトラス,Scorta di agrumi,it
+山隐之焰,Fabbro,it
+岩土公理,Assioma terrestre,it
+岩宝,Brock,it
+峡谷先锋,Messaggero della Landa,it
+峡谷迅捷蟹,Argogranchio,it
+崔丝塔娜,Tristana,it
+崔斯特,Twisted Fate,it
+巧みなクラフト,Creazione artigianale,it
+巨人の誓い,Determinazione del titano,it
+巨人杀手,Uccisore di giganti,it
+巨人腰带,Cintura del gigante,it
+巨型九头蛇,Idra titanica,it
+巨大化ビーム,Raggio della gigantificazione,it
+巨大化射线,Raggio della gigantificazione,it
+巨神峰,Targon,it
+巨龙之爪,Artiglio del drago,it
+巨龙卫士,Guardie draconiche,it
+巫妖之祸,Terrore dei lich,it
+巴德,Bard,it
+布里茨,Blitzcrank,it
+布隆,Braum,it
+希尔科的复仇,Vendetta di Silco,it
+希瓦娜,Shyvana,it
+帽子ジュース,Succo Cappa,it
+帽子饮品,Succo Cappa,it
+幸运手套,Guanti fortunati,it
+幸运达布隆金币,Doblone fortunato,it
+幸運の金貨,Doblone fortunato,it
+幽魂弯刀,Sciabola spettrale,it
+広がる根,Radici diffuse,it
+庇護者のお供,Alleato del custode,it
+应急护甲,Armatura improvvisata,it
+应急护盾,Protezione di trama,it
+弗雷尔卓德,Freljord,it
+弗雷尔卓德纹章,Emblema del Freljord,it
+强盗的骰子,Dadi del brigante,it
+强袭者的链枷,Mazzafrusto dell'Assaltatore,it
+影の操り人形,Burattino d'ombra,it
+征服者,Annientatore,it
+征服者纹章,Emblema dell'Annientatore,it
+微型导弹,Micro-razzi,it
+德玛西亚,Demacia,it
+德玛西亚万岁,Demacia per sempre,it
+德玛西亚纹章,Emblema di Demacia,it
+德莱厄斯,Darius,it
+德莱文,Draven,it
+心之钢,Cuore d'acciaio,it
+心身統御のペンダント,Medaglione diramante,it
+忍耐の美徳,La pazienza è una virtù,it
+思惑買い,Andare per le lunghe,it
+怪しげなトレンチコート,Impermeabile sospetto,it
+恕瑞玛,Shurima,it
+恶火小斧,Accetta infernale,it
+想定内の意外性,L'atteso inaspettato,it
+意料之中的意外,L'atteso inaspettato,it
+慎,Shen,it
+成吨的属性！,Pioggia di statistiche!,it
+成堆柑橘,Scorta di agrumi,it
+成長志向,Attitudine alla crescita,it
+成长型思维,Attitudine alla crescita,it
+戦闘準備,Preparazione,it
+戴冠式,Incoronazione,it
+承诺之护,Protezione promessa,it
+投資完了,Investitura,it
+投资,Investitura,it
+护卫,Difensore,it
+护卫纹章,Emblema del Difensore,it
+护甲消除器,Nullificatore di armatura,it
+拉克丝,Lux,it
+拳击课程,Lezioni di pugilato,it
+拳套,Guantoni,it
+挑个好伙计！,Costruisci un Compagno,it
+振奋盔甲,Corazza spirituale,it
+採掘ドリル,Trivella mineraria,it
+探索者的护臂,Parabraccia del cercatore,it
+提莫,Teemo,it
+揺るがぬ心,Cuor saldo,it
+摇钱树,Monsoni sonanti,it
+救赎盔甲,Spirito di redenzione,it
+斗士,Picchiatore,it
+斗士纹章,Emblema del Picchiatore,it
+料理鍋,Pentolone,it
+斯卡纳,Skarner,it
+斯塔缇克电刃,Pugnale di Statikk,it
+斯特拉克的挑战护手,Pegno di Sterak,it
+斯维因,Swain,it
+无尽之刃,Frammento d'infinito,it
+无差别攻击,Uccisore indiscriminato,it
+无序进化,Evoluzione caotica,it
+无用大棒,Bastone colossale,it
+无终恨意,Disperazione eterna,it
+日炎斗篷,Mantello del Sole,it
+时光守护者,Custode del tempo,it
+时间旅者,Cronodischi,it
+星界感召,Vocazione cosmica,it
+星界游神,Allevatore,it
+星界赐福,Benedizione celestiale,it
+時の歯車,Ingranaggi senza fine,it
+普朗克,Gangplank,it
+普通預金口座,Conto dei risparmi,it
+普雷西典保卫战,Difesa del Placidium,it
+智慧末刃,Speranza perduta,it
+暗影岛,Isole Ombra,it
+暗影木偶,Burattino d'ombra,it
+暗行者之爪,Artiglio del predatore,it
+暗裔,Darkin,it
+暗裔剑魔,Sterminatore di Mondi,it
+暮光试炼,Prove del Crepuscolo,it
+暴风之剑,M.C. Spada,it
+曲境折跃,Portale dei reami,it
+更要命的帽子,Cappelli più letali,it
+更要命的战刃,Lame più letali,it
+最佳好友,Migliori amici,it
+最初の1つは無料！,Il primo giro è gratuito!,it
+最后一秒营救,Salvataggio all'ultimo secondo,it
+最后的轻语,Sussurro fatale,it
+最強の四配者,In quattro e quattr'otto,it
+有効活用,Non proprio inutile,it
+有用之材,Non proprio inutile,it
+朔极之矛,Lancia di Shojin,it
+木のアクシオム,Assioma ligneo,it
+权杖意志,La legge della mazza,it
+杖之工匠,Fabbricante di bastoni,it
+杖鍛冶,Fabbricante di bastoni,it
+枪手,Pistolero,it
+枪手纹章,Emblema del Pistolero,it
+枯朽の遺物,Reliquia appassita,it
+枯死の宝石,Gioiello della rovina,it
+枯萎圣物,Reliquia appassita,it
+枯萎珠宝,Gioiello della rovina,it
+格温,Gwen,it
+格雷福斯,Graves,it
+梅尔,Mel,it
+棘刺背心,Corpetto di rovi,it
+棘刺镀板铠甲,Armatura di spine,it
+森罗公理,Assioma ligneo,it
+棱彩命运,Destino prismatico,it
+棱彩门票,Biglietto prismatico,it
+構成拡大,Su tutti i fronti,it
+槍の決意,La legge della lancia,it
+次级镜像人格面具,Personalità speculare minore,it
+正义之手,Mano della giustizia,it
+正义巨像,Eroico,it
+正义报复,Rappresaglia,it
+死亡之刃,Lama mortale,it
+殉道美德,Virtù del martire,it
+残酷弯刀,Sciabola del tagliagole,it
+殺し屋のカトラス,Sciabola del tagliagole,it
+比尔吉沃特,Bilgewater,it
+比尔吉沃特 次级英雄复制器,Duplicatore di campioni minore di Bilgewater,it
+比尔吉沃特纹章,Emblema di Bilgewater,it
+气旋公理,Assioma aereo,it
+水のアクシオム,Assioma idrico,it
+水乳交融,Restiamo uniti,it
+水银,Argento vivo,it
+永恒契约,Patto eterno,it
+永恩,Yone,it
+永猎双子,Eterno,it
+沃利贝尔,Volibear,it
+沃里克,Warwick,it
+沈黙の帳,Veste della stabilità,it
+沙漠皇帝,Imperatore,it
+河流之王,Ingordo,it
+治疗法球,Sfere curative,it
+法师,Arcanista,it
+法师纹章,Emblema dell'Arcanista,it
+法杖溢流,Eccesso di bacchette,it
+波比,Poppy,it
+泪流成河,Fiumi di lacrime,it
+泰坦的坚决,Determinazione del titano,it
+泰达米尔,Tryndamere,it
+泽拉斯,Xerath,it
+洛里斯,Loris,it
+浪人,Esuli,it
+海克斯机甲,Mecha Hex,it
+海克斯科技枪刃,Pistola a lame hextech,it
+海克斯霸龙,T-Hex,it
+海克斯飞门之旅,Viaggio nell'Hexportale,it
+海妖之怒,Furia del kraken,it
+涌泉公理,Assioma idrico,it
+混乱回復装置,Ricombussolatore,it
+混沌の進化,Evoluzione caotica,it
+游神的盟友,Alleato del custode,it
+滅びの王,Il Re in rovina,it
+潘朵拉的备战席,Panca di Pandora,it
+潘朵拉的装备,Oggetti di Pandora,it
+激发之匣,Medaglione diramante,it
+火上浇油,Alimentare le fiamme,it
+灭世者的死亡之帽,Copricapo di Rabadon,it
+灵风,Zefiro,it
+灵魂唤醒,Risveglio dell'anima,it
+災禍の使者,Portatore di rovina,it
+炎のアクシオム,Assioma igneo,it
+炎の愛好家,Piromane,it
+炎を強めて,Alimentare le fiamme,it
+点击即送,Colpire e basta,it
+炽天使之拥,Scettro serafino,it
+炽焰公理,Assioma igneo,it
+烁刃,Lame rotanti,it
+烬,Jhin,it
+無差別殺人者,Uccisore indiscriminato,it
+爆炸式增长,Crescita esplosiva,it
+爆発的成長,Crescita esplosiva,it
+爆裂护盾,Scudo energetico,it
+特性の書,Tomo dei tratti,it
+特性の木,L'Albero dei tratti,it
+狂徒铠甲,Armatura di Warmog,it
+狂野女猎手,Cacciatrice,it
+狂野生长,Crescita selvaggia,it
+狙神,Lungo raggio,it
+狙神纹章,Emblema del Lungo raggio,it
+猛将的荣耀,L'onore del Signore della guerra,it
+獄炎のハチェット,Accetta infernale,it
+王冠とは重きもの,Pesante è la corona,it
+王冠之重,Pesante è la corona,it
+王冠意志,Volontà della corona,it
+玛尔扎哈,Malzahar,it
+玻璃大炮,Cannone di cristallo,it
+珍藏财宝,Tesori sepolti,it
+珠光护手,Guanto ingioiellato,it
+珠光莲花,Loto ingioiellato,it
+瑞兹,Ryze,it
+瑟庄妮,Sejuani,it
+瑟提,Sett,it
+璐璐,Lulu,it
+甘いおやつ,Dolci,it
+甜点,Dolci,it
+生日礼物,Regalo di compleanno,it
+生日聚会,Ritrovo di compleanno,it
+生涯ブロンズ,Bronzo per la vita,it
+由二生D,Due volte il valore,it
+电压导管,Condotto voltaico,it
+电流过载,Sovraccarico elettrico,it
+电磁脉冲,EMP,it
+略奪者のダイス,Dadi del brigante,it
+疾射火炮,Archibugio a ripetizione,it
+癒しのこだま,Echi curativi,it
+登上最高峰,Prevalere,it
+白银命运,Destino argenteo,it
+皮尔特沃夫,Piltover,it
+皮尔特沃夫发明,Invenzione di Piltover,it
+皮尔特沃夫纹章,Emblema di Piltover,it
+盖伦,Garen,it
+盗賊のグローブ,Guanti del ladro,it
+盗賊団,Banda di ladri,it
+目には目を,Occhio per occhio,it
+石像鬼石板甲,Lastrapietra del gargoyle,it
+破灭使者,Portatore di rovina,it
+破败之王,Il Re in rovina,it
+硬性承诺,Scommessa rischiosa,it
+碰撞测试假人,Fantocci da crash test,it
+確約された守護,Protezione promessa,it
+磁控线圈,Bobina di Magnetron,it
+祖安,Zaun,it
+祖安纹章,Emblema di Zaun,it
+神盾使,Guardiano,it
+神盾使纹章,Emblema del Guardiano,it
+神谕者,Evocatore,it
+神谕者纹章,Emblema dell'Evocatore,it
+禁忌雕像,Idolo proibito,it
+离子火花,Scintilla ionica,it
+科加斯,Cho'Gath,it
+秘传奥义,Kahunahuna,it
+穢れたヴァンパイア セプター,Scettro vampirico corrotto,it
+窃贼帮派,Banda di ladri,it
+窃贼手套,Guanti del ladro,it
+符文法师,Mago delle rune,it
+第一份免费！,Il primo giro è gratuito!,it
+米利欧,Milio,it
+精准而优雅,Grazia e precisione,it
+精密かつ優雅,Grazia e precisione,it
+精心打造,Creazione artigianale,it
+系魂圣枪,Legame spirituale,it
+素材ビュッフェ,Abbuffata di componenti,it
+紡がれし魔法,Tela magica,it
+終わりなき絶望,Disperazione eterna,it
+絶好調,Giù come birilli,it
+红霸符,Buff rosso,it
+约德尔人,Yordle,it
+约德尔人纹章,Emblema dello Yordle,it
+约里克,Yorick,it
+纳什之牙,Dente di Nashor,it
+纳什男爵,Barone Nashor,it
+纳什男爵,Flagello della Landa,it
+纹章之书,Tomo dei tratti,it
+纺织魔法,Tela magica,it
+终身黄铜,Bronzo per la vita,it
+绝命毒师,Compagnia del veleno,it
+维迦,Veigar,it
+羁绊树,L'Albero dei tratti,it
+耀光使,Disturbatore,it
+耀光使纹章,Emblema del Disturbatore,it
+耐心是一种美德,La pazienza è una virtù,it
+联合作战,Uniti nelle difficoltà,it
+能量圣杯,Calice del potere,it
+腐蚀,Corrosione,it
+腐食,Corrosione,it
+腕豪,Il Boss,it
+腰带溢流,Eccesso di cinture,it
+船长的帽子,Cappello da Capitano,it
+船长的酿造品,Miscela del Capitano,it
+艾克,Ekko,it
+艾尼维亚,Anivia,it
+艾希,Ashe,it
+艾欧尼亚,Ionia,it
+艾欧尼亚纹章,Emblema di Ionia,it
+节外生枝,Su tutti i fronti,it
+芸阿娜,Yunara,it
+英勇福袋,Borsa eroica,it
+英雄のラッキーバッグ,Borsa eroica,it
+莫雷洛秘典,Morellonomicon,it
+菲兹,Fizz,it
+萨勒芬妮,Seraphine,it
+蒙多医生,Dr. Mundo,it
+蓝霸符,Buff blu,it
+蔓延之根,Radici diffuse,it
+蔚,Vi,it
+蕾欧娜,Leona,it
+薄暮法袍,Velo costante,it
+薇恩,Vayne,it
+虚空,Vuoto,it
+虚空之女,Assimilatore,it
+虚空之杖,Bastone del Vuoto,it
+虚空护手,Guanto del Vuoto,it
+虚空纹章,Emblema del Vuoto,it
+血の供物,Sacrificio cruento,it
+衝突試験用ダミー,Fantocci da crash test,it
+裁决战士,Uccisore,it
+裁决战士纹章,Emblema dell'Uccisore,it
+装备百宝袋,Borsa degli oggetti,it
+複製,Replica,it
+视界专注,Concentrazione dell'orizzonte,it
+解封魔武,Liberato dall'acciaio,it
+解脱者,Spezzacatene,it
+训练假人,Fantoccio di addestramento,it
+诅咒之刃,Lama maledetta,it
+诺克萨斯,Noxus,it
+诺克萨斯纹章,Emblema di Noxus,it
+诺提勒斯,Nautilus,it
+调谐振荡器,Oscillatore impeccabile,it
+財宝の竜巻,Tifone di tesori,it
+買い物三昧,Shopping scatenato,it
+贝蕾亚,Briar,it
+负极斗篷,Mantello di Negatron,it
+贸易中心,Fulcro del commercio,it
+费德提克,Fiddlesticks,it
+赛恩,Sion,it
+赵信,Xin Zhao,it
+起死回生,Secondo fiato,it
+超越のタリスマン,Talismano dell'ascensione,it
+超越生体,Entità superiore,it
+超越者,Ascendente,it
+超频电容器,Condensatori sovraccarichi,it
+輝く悪党,Canaglia radiosa,it
+轻量魔法投掷,Tiro lievemente magico,it
+辛吉德,Singed,it
+达克威尔入侵,L'invasione di Darkwill,it
+迅击战士,Colporapido,it
+迅击战士纹章,Emblema del Colporapido,it
+远古巨龙,Drago maggiore,it
+远古巫灵,Ascendente,it
+远古恐惧,Mietitore,it
+连指手套,Muffole,it
+连续齿轮,Ingranaggi senza fine,it
+迷离风衣,Impermeabile sospetto,it
+适应性头盔,Elmo adattivo,it
+遥遥领先,Andare per le lunghe,it
+選ばれし狼,Prescelti del Lupo,it
+酒吧指虎,A mani nude,it
+采矿钻机,Trivella mineraria,it
+重启任务,Riavvia missione,it
+金のモンスーン,Monsoni sonanti,it
+金ピカの鋼,Acciaio brillante,it
+金克丝,Jinx,it
+金色炊具,Pentolone,it
+金铲铲,Spatola,it
+金铲铲冠冕,Corona dello Stratega,it
+金锅铲冠冕,Mantello dello stratega,it
+金锅锅,Padella,it
+金锅锅冠冕,Scudo dello stratega,it
+金霖龙,Il Drago dorato,it
+金鳞精粹,Essenza Scaglialucida,it
+銀の匙,Cucchiaio d'argento,it
+鋼からの解放,Liberato dall'acciaio,it
+鋼の心,Cuore d'acciaio,it
+鏡像のペルソナ,Personalità speculare,it
+钢铁烈阳之匣,Medaglione dei Solari di ferro,it
+银汤匙,Cucchiaio d'argento,it
+铸星龙王,Forgiatore di stelle,it
+锁子甲,Cotta di maglia,it
+锤石,Thresh,it
+镀金钢铁,Acciaio brillante,it
+镜像人格面具,Personalità speculare,it
+长矛意志,La legge della lancia,it
+阿兹尔,Azir,it
+阿狸,Ahri,it
+限定カスタマイズ,Personalizzazione esclusiva,it
+集中火力,Fuoco concentrato,it
+集中砲火,Fuoco concentrato,it
+集结战队,Fare squadra,it
+雷克塞,Rek'Sai,it
+雷克顿,Renekton,it
+震畏大炮,Cannone della Via del dolore,it
+静止法衣,Veste della stabilità,it
+韋駄天,Colporapido,it
+韋駄天の紋章,Emblema del Colporapido,it
+顽强不屈,L'indomabile,it
+風のアクシオム,Assioma aereo,it
+飞升,Ascensione,it
+飞升护符,Talismano dell'ascensione,it
+食堂,Refettorio,it
+饭厅,Refettorio,it
+饮血剑,La Bramasangue,it
+騎士の誓い,Voto del cavaliere,it
+骑士之誓,Voto del cavaliere,it
+高压电,Alta tensione,it
+高级生命体,Entità superiore,it
+高级贷款,Finanziamento,it
+高電圧,Alta tensione,it
+高電圧管,Condotto voltaico,it
+鬼影望远镜,Cannocchiale infestato,it
+鬼索的狂暴之刃,Furia di Guinsoo,it
+魔像,Golem,it
+魔像化,Golemizzazione,it
+魔法のダイス,Un tiro magico,it
+魔法投掷,Un tiro magico,it
+鱼骨头,Fishbones,it
+鲜血祭品,Sacrificio cruento,it
+黄昏の試練,Prove del Crepuscolo,it
+黄昏圣盾,Egida del Crepuscolo,it
+黄金の龍,Il Drago dorato,it
+黄金命运,Destino d'oro,it
+黎明圣盾,Egida dell'Aurora,it
+黎明核心,Nucleo dell'alba,it
+黑市炸药,Esplosivi del Mercato nero,it
+黑市补货,Rifornimento al Mercato nero,it
+黑暗之女,Bambina oscura,it
+黑暗吸血鬼节杖,Scettro vampirico corrotto,it
+黑铁资产,Risorse ferrose,it
+黛安娜,Diana,it
+龙血武姬,Dragonide,it

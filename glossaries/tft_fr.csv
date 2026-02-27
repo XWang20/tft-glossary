@@ -47508,16 +47508,17 @@ scrimming,scrim,fr
 草丛,bush,fr
 对面,opponent,fr
 血线,HP threshold,fr
-打工,item holder,fr
-打工仔,item holder,fr
+打工,item holder unit,fr
+打工仔,item holder unit,fr
 毕业,full build,fr
 毕业装,best in slot items,fr
 铲子,Spatula,fr
 大棒,Needlessly Large Rod,fr
-魔抗,Negatron Cloak,fr
+魔抗,magic resist,fr
 腰带,Giant's Belt,fr
 弓,Recurve Bow,fr
 剑,B.F. Sword,fr
 大剑,B.F. Sword,fr
 泪,Tear of the Goddess,fr
 女神泪,Tear of the Goddess,fr
+斗篷,Negatron Cloak,fr

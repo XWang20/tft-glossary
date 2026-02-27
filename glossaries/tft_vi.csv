@@ -47518,16 +47518,17 @@ scrimming,scrim,vi
 草丛,bush,vi
 对面,opponent,vi
 血线,HP threshold,vi
-打工,item holder,vi
-打工仔,item holder,vi
+打工,item holder unit,vi
+打工仔,item holder unit,vi
 毕业,full build,vi
 毕业装,best in slot items,vi
 铲子,Spatula,vi
 大棒,Needlessly Large Rod,vi
-魔抗,Negatron Cloak,vi
+魔抗,magic resist,vi
 腰带,Giant's Belt,vi
 弓,Recurve Bow,vi
 剑,B.F. Sword,vi
 大剑,B.F. Sword,vi
 泪,Tear of the Goddess,vi
 女神泪,Tear of the Goddess,vi
+斗篷,Negatron Cloak,vi

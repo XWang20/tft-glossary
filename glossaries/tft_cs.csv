@@ -47506,16 +47506,17 @@ scrimming,scrim,cs
 草丛,bush,cs
 对面,opponent,cs
 血线,HP threshold,cs
-打工,item holder,cs
-打工仔,item holder,cs
+打工,item holder unit,cs
+打工仔,item holder unit,cs
 毕业,full build,cs
 毕业装,best in slot items,cs
 铲子,Spatula,cs
 大棒,Needlessly Large Rod,cs
-魔抗,Negatron Cloak,cs
+魔抗,magic resist,cs
 腰带,Giant's Belt,cs
 弓,Recurve Bow,cs
 剑,B.F. Sword,cs
 大剑,B.F. Sword,cs
 泪,Tear of the Goddess,cs
 女神泪,Tear of the Goddess,cs
+斗篷,Negatron Cloak,cs

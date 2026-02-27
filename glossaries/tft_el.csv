@@ -47317,16 +47317,17 @@ scrimming,scrim,el
 草丛,bush,el
 对面,opponent,el
 血线,HP threshold,el
-打工,item holder,el
-打工仔,item holder,el
+打工,item holder unit,el
+打工仔,item holder unit,el
 毕业,full build,el
 毕业装,best in slot items,el
 铲子,Spatula,el
 大棒,Needlessly Large Rod,el
-魔抗,Negatron Cloak,el
+魔抗,magic resist,el
 腰带,Giant's Belt,el
 弓,Recurve Bow,el
 剑,B.F. Sword,el
 大剑,B.F. Sword,el
 泪,Tear of the Goddess,el
 女神泪,Tear of the Goddess,el
+斗篷,Negatron Cloak,el

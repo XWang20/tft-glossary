@@ -47519,16 +47519,17 @@ scrimming,scrim,ro
 草丛,bush,ro
 对面,opponent,ro
 血线,HP threshold,ro
-打工,item holder,ro
-打工仔,item holder,ro
+打工,item holder unit,ro
+打工仔,item holder unit,ro
 毕业,full build,ro
 毕业装,best in slot items,ro
 铲子,Spatula,ro
 大棒,Needlessly Large Rod,ro
-魔抗,Negatron Cloak,ro
+魔抗,magic resist,ro
 腰带,Giant's Belt,ro
 弓,Recurve Bow,ro
 剑,B.F. Sword,ro
 大剑,B.F. Sword,ro
 泪,Tear of the Goddess,ro
 女神泪,Tear of the Goddess,ro
+斗篷,Negatron Cloak,ro

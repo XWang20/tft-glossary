@@ -48228,8 +48228,8 @@ scrimming,打训练赛,zh-CN
 草丛,bush,zh-CN
 对面,opponent,zh-CN
 血线,HP threshold,zh-CN
-打工,item holder,zh-CN
-打工仔,item holder,zh-CN
+打工,item holder unit,zh-CN
+打工仔,item holder unit,zh-CN
 毕业,full build,zh-CN
 毕业装,best in slot items,zh-CN
 铲子,Spatula,zh-CN
@@ -48237,10 +48237,11 @@ scrimming,打训练赛,zh-CN
 拳套,Sparring Gloves,zh-CN
 锁子甲,Chain Vest,zh-CN
 负极斗篷,Negatron Cloak,zh-CN
-魔抗,Negatron Cloak,zh-CN
+魔抗,magic resist,zh-CN
 腰带,Giant's Belt,zh-CN
 弓,Recurve Bow,zh-CN
 剑,B.F. Sword,zh-CN
 大剑,B.F. Sword,zh-CN
 泪,Tear of the Goddess,zh-CN
 女神泪,Tear of the Goddess,zh-CN
+斗篷,Negatron Cloak,zh-CN

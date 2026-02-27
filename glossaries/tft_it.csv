@@ -47488,16 +47488,17 @@ scrimming,scrim,it
 草丛,bush,it
 对面,opponent,it
 血线,HP threshold,it
-打工,item holder,it
-打工仔,item holder,it
+打工,item holder unit,it
+打工仔,item holder unit,it
 毕业,full build,it
 毕业装,best in slot items,it
 铲子,Spatula,it
 大棒,Needlessly Large Rod,it
-魔抗,Negatron Cloak,it
+魔抗,magic resist,it
 腰带,Giant's Belt,it
 弓,Recurve Bow,it
 剑,B.F. Sword,it
 大剑,B.F. Sword,it
 泪,Tear of the Goddess,it
 女神泪,Tear of the Goddess,it
+斗篷,Negatron Cloak,it

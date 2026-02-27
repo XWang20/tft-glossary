@@ -47387,16 +47387,17 @@ scrimming,scrim,ar
 草丛,bush,ar
 对面,opponent,ar
 血线,HP threshold,ar
-打工,item holder,ar
-打工仔,item holder,ar
+打工,item holder unit,ar
+打工仔,item holder unit,ar
 毕业,full build,ar
 毕业装,best in slot items,ar
 铲子,Spatula,ar
 大棒,Needlessly Large Rod,ar
-魔抗,Negatron Cloak,ar
+魔抗,magic resist,ar
 腰带,Giant's Belt,ar
 弓,Recurve Bow,ar
 剑,B.F. Sword,ar
 大剑,B.F. Sword,ar
 泪,Tear of the Goddess,ar
 女神泪,Tear of the Goddess,ar
+斗篷,Negatron Cloak,ar

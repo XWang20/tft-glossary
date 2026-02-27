@@ -48892,16 +48892,17 @@ scrimming,scrim,th
 草丛,bush,th
 对面,opponent,th
 血线,HP threshold,th
-打工,item holder,th
-打工仔,item holder,th
+打工,item holder unit,th
+打工仔,item holder unit,th
 毕业,full build,th
 毕业装,best in slot items,th
 铲子,Spatula,th
 大棒,Needlessly Large Rod,th
-魔抗,Negatron Cloak,th
+魔抗,magic resist,th
 腰带,Giant's Belt,th
 弓,Recurve Bow,th
 剑,B.F. Sword,th
 大剑,B.F. Sword,th
 泪,Tear of the Goddess,th
 女神泪,Tear of the Goddess,th
+斗篷,Negatron Cloak,th

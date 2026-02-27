@@ -48860,16 +48860,17 @@ scrimming,scrim,id
 草丛,bush,id
 对面,opponent,id
 血线,HP threshold,id
-打工,item holder,id
-打工仔,item holder,id
+打工,item holder unit,id
+打工仔,item holder unit,id
 毕业,full build,id
 毕业装,best in slot items,id
 铲子,Spatula,id
 大棒,Needlessly Large Rod,id
-魔抗,Negatron Cloak,id
+魔抗,magic resist,id
 腰带,Giant's Belt,id
 弓,Recurve Bow,id
 剑,B.F. Sword,id
 大剑,B.F. Sword,id
 泪,Tear of the Goddess,id
 女神泪,Tear of the Goddess,id
+斗篷,Negatron Cloak,id

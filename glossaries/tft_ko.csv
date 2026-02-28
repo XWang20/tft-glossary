@@ -45435,15 +45435,12 @@ hyper roll,풀리롤,ko
 速D,풀리롤,ko
 go 3-star,3성작,ko
 追三,3성작,ko
-go 3-star,3성작,ko
 追三星,3성작,ko
 push level 8,8렙 치기,ko
 上八,8렙 치기,ko
 push level 9,9렙 치기,ko
 上九,9렙 치기,ko
-push level 8,8렙 치기,ko
 拉八,8렙 치기,ko
-push level 9,9렙 치기,ko
 拉九,9렙 치기,ko
 main carry,메인캐리,ko
 主C,메인캐리,ko
@@ -45525,8 +45522,8 @@ econ,이자,ko
 经济,이자,ko
 tempo,템포,ko
 节奏,템포,ko
-carousel,공동선택,ko
-选秀,공동선택,ko
+carousel,공동 선택,ko
+选秀,공동 선택,ko
 anvil,모루,ko
 铁砧,모루,ko
 armory,무기고,ko
@@ -45675,8 +45672,6 @@ grandmaster,그랜드마스터,ko
 超凡大师,그랜드마스터,ko
 Tear,여눈,ko
 女神之泪,여눈,ko
-carousel,공동 선택,ko
-选秀,공동 선택,ko
 Jeweled Gauntlet,보건,ko
 珠光护手,보건,ko
 Giant Slayer,거학,ko

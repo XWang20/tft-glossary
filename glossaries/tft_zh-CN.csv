@@ -3512,15 +3512,12 @@ tft_item_name_Mercenary_Soldier,tft_item_name_Mercenary_Soldier,zh-CN
 해방,无装之迅,zh-CN
 사이버네틱 집합체,源计划重块,zh-CN
 확산 지대,法力流地带,zh-CN
-사일러스,塞拉斯,zh-CN
 카직스,卡兹克,zh-CN
 잔나,迦娜,zh-CN
 알룬,拉露恩,zh-CN
 세나,赛娜,zh-CN
 리 신,李青,zh-CN
-쓰레쉬,锤石,zh-CN
 흐웨이,彗,zh-CN
-카이사,卡莎,zh-CN
 신드라,辛德拉,zh-CN
 아무무,阿木木,zh-CN
 시비르,希维尔,zh-CN
@@ -3529,14 +3526,9 @@ tft_item_name_Mercenary_Soldier,tft_item_name_Mercenary_Soldier,zh-CN
 케인,凯隐,zh-CN
 코부코,可酷伯,zh-CN
 라칸,洛,zh-CN
-볼리베어,沃利贝尔,zh-CN
-트린다미어,泰达米尔,zh-CN
-아트록스,亚托克斯,zh-CN
-요릭,约里克,zh-CN
 우디르,乌迪尔,zh-CN
 말파이트,墨菲特,zh-CN
 리븐,锐雯,zh-CN
-바드,巴德,zh-CN
 자이라,婕拉,zh-CN
 카서스,卡尔萨斯,zh-CN
 릴리아,莉莉娅,zh-CN
@@ -27959,23 +27951,6 @@ EDM セレクター,电子舞曲选择器,zh-CN
 アタカン,厄塔汗,zh-CN
 凍った塔,冰封之塔,zh-CN
 ティバーズ,提伯斯,zh-CN
-뽀삐,波比,zh-CN
-케넨,凯南,zh-CN
-직스,吉格斯,zh-CN
-라이즈,瑞兹,zh-CN
-니달리,奈德丽,zh-CN
-협곡의 전령,峡谷先锋,zh-CN
-멜,梅尔,zh-CN
-그레이브즈,格雷福斯,zh-CN
-스카너,斯卡纳,zh-CN
-다이애나,黛安娜,zh-CN
-레넥톤,雷克顿,zh-CN
-나서스,内瑟斯,zh-CN
-제라스,泽拉斯,zh-CN
-그웬,格温,zh-CN
-칼리스타,卡莉丝塔,zh-CN
-르블랑,乐芙兰,zh-CN
-오리아나,奥莉安娜,zh-CN
 Cecha: Zjednoczenie,羁绊：重新联合,zh-CN
 Korona Osiłka,格斗家之冕,zh-CN
 Krwiożerczy Pakt,血色契约,zh-CN
@@ -46303,7 +46278,7 @@ econ,经济,zh-CN
 tempo,节奏,zh-CN
 템포,节奏,zh-CN
 carousel,选秀,zh-CN
-공동선택,选秀,zh-CN
+공동 선택,选秀,zh-CN
 anvil,铁砧,zh-CN
 모루,铁砧,zh-CN
 armory,军械库,zh-CN
@@ -46433,7 +46408,6 @@ grandmaster,超凡大师,zh-CN
 그마,超凡大师,zh-CN
 그랜드마스터,超凡大师,zh-CN
 여눈,女神之泪,zh-CN
-공동 선택,选秀,zh-CN
 보건,珠光护手,zh-CN
 거학,巨人杀手,zh-CN
 인피,无尽之刃,zh-CN

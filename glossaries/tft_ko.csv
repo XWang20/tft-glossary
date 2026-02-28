@@ -45533,3 +45533,188 @@ armory,무기고,ko
 军械库,무기고,ko
 contested,겹친,ko
 同行,겹친,ko
+augment,증강,ko
+强化,증강,ko
+augment,증강체,ko
+海克斯强化,증강체,ko
+synergy,시너지,ko
+羁绊,시너지,ko
+HP,체력,ko
+血量,체력,ko
+value,밸류,ko
+质量,밸류,ko
+emblem,상징,ko
+转职纹章,상징,ko
+hextech,핵스,ko
+海克斯,핵스,ko
+cost,코스트,ko
+费用,코스트,ko
+stage,스테이지,ko
+阶段,스테이지,ko
+build up,빌드업,ko
+过渡成型,빌드업,ko
+round,라운드,ko
+回合,라운드,ko
+level up,레벨업,ko
+升级,레벨업,ko
+mana,마나,ko
+法力,마나,ko
+attack speed,공속,ko
+攻速,공속,ko
+XP,경험치,ko
+经验值,경험치,ko
+meta,메타,ko
+版本,메타,ko
+tier comp,티어덱,ko
+强势阵容,티어덱,ko
+nerf,너프,ko
+削弱,너프,ko
+stack,스택,ko
+层数,스택,ko
+high value,고밸류,ko
+高质量阵容,고밸류,ko
+aggro,어그로,ko
+仇恨,어그로,ko
+buff,버프,ko
+加强,버프,ko
+focus fire,점사,ko
+集火,점사,ko
+AoE ability,광역기,ko
+AOE技能,광역기,ko
+elimination,탈락,ko
+淘汰,탈락,ko
+portal,차원문,ko
+传送门,차원문,ko
+portal,조우자,ko
+传送门,조우자,ko
+denying units,견제,ko
+抢棋子,견제,ko
+item,템,ko
+装备,템,ko
+comp,덱,ko
+阵容,덱,ko
+level,레벨,ko
+等级,레벨,ko
+level,렙,ko
+等级,렙,ko
+tank,탱,ko
+坦克,탱,ko
+DPS,딜러,ko
+输出,딜러,ko
+line,라인,ko
+排,라인,ko
+shop,상점,ko
+商店,상점,ko
+patch,패치,ko
+补丁,패치,ko
+broken,사기,ko
+超模,사기,ko
+ult,궁,ko
+大招,궁,ko
+econ,운영,ko
+运营,운영,ko
+hex tile,칸,ko
+格子,칸,ko
+balance,밸런스,ko
+平衡,밸런스,ko
+creep round,크립,ko
+PVE回合,크립,ko
+refresh,새로고침,ko
+刷新,새로고침,ko
+magic resist,마저,ko
+魔抗,마저,ko
+heal,회복,ko
+回复,회복,ko
+armor,방어력,ko
+护甲,방어력,ko
+adjustment,조정,ko
+调整,조정,ko
+core,핵심,ko
+核心,핵심,ko
+Negatron Cloak,망토,ko
+负极斗篷,망토,ko
+give up,포기,ko
+放弃,포기,ko
+super broken,개사기,ko
+太超模了,개사기,ko
+econ strategy,운영법,ko
+运营方法,운영법,ko
+queue,큐,ko
+排队,큐,ko
+challenger,챌,ko
+宗师,챌,ko
+challenger,챌린저,ko
+宗师,챌린저,ko
+shield,보호막,ko
+护盾,보호막,ko
+shield,쉴드,ko
+护盾,쉴드,ko
+trait,특성,ko
+特质,특성,ko
+master,마스터,ko
+大师,마스터,ko
+activate,활성화,ko
+激活,활성화,ko
+diamond,다이아,ko
+钻石,다이아,ko
+Needlessly Large Rod,봉,ko
+无用大棒,봉,ko
+Giant's Belt,벨트,ko
+巨人腰带,벨트,ko
+Chain Vest,갑옷,ko
+锁子甲,갑옷,ko
+lock shop,잠금,ko
+锁定商店,잠금,ko
+ultimate ability,궁극기,ko
+终极技能,궁극기,ko
+omnivamp,흡혈,ko
+全能吸血,흡혈,ko
+grandmaster,그마,ko
+超凡大师,그마,ko
+grandmaster,그랜드마스터,ko
+超凡大师,그랜드마스터,ko
+Tear,눈물,ko
+女神之泪,눈물,ko
+carousel,돌림판,ko
+选秀,돌림판,ko
+Jeweled Gauntlet,보건,ko
+珠光护手,보건,ko
+Giant Slayer,거학,ko
+巨人杀手,거학,ko
+Infinity Edge,인피,ko
+无尽之刃,인피,ko
+Spear of Shojin,쇼진,ko
+枪刃,쇼진,ko
+Guinsoo's Rageblade,구인수,ko
+鬼索的狂暴之刃,구인수,ko
+Gargoyle Stoneplate,가고일,ko
+石像鬼石板甲,가고일,ko
+Morellonomicon,모렐로,ko
+莫雷洛秘典,모렐로,ko
+Warmog's Armor,워모그,ko
+狂徒铠甲,워모그,ko
+3-star,삼성,ko
+三星,삼성,ko
+2-star,이성,ko
+二星,이성,ko
+1-star,일성,ko
+一星,일성,ko
+position,자리,ko
+位置,자리,ko
+econ augment,돈증강,ko
+经济强化,돈증강,ko
+Kraken,크라켄,ko
+海妖,크라켄,ko
+unlock,해금,ko
+解锁,해금,ko
+OP comp,사기덱,ko
+超模阵容,사기덱,ko
+free,꿀,ko
+白嫖,꿀,ko
+must-have,필수,ko
+必备,필수,ko
+Little Legend,정령,ko
+小小英雄,정령,ko
+经济运营,이자,ko
+portal,도적,ko
+城邦,도적,ko

@@ -973,35 +973,21 @@ highroll,运气好,zh-CN
 lowroll,运气差,zh-CN
 reroll,赌狗,zh-CN
 slowroll,慢D,zh-CN
-slow roll,慢D,zh-CN
 fast 8,速8,zh-CN
 fast 9,速9,zh-CN
-hyper roll,速D,zh-CN
 open fort,摆烂,zh-CN
-win streak,连胜,zh-CN
-lose streak,连败,zh-CN
-econ,经济,zh-CN
 slam,合装备,zh-CN
 slamming,物尽其用,zh-CN
 slammin',物尽其用,zh-CN
-pivot,转型,zh-CN
 capped,阵容拉满,zh-CN
 capped out,阵容拉满,zh-CN
 rolldown,D牌,zh-CN
 donkey roll,梭哈D,zh-CN
 hit,D到了,zh-CN
 whiff,空了,zh-CN
-naturaled,白嫖,zh-CN
-stabilize,稳住,zh-CN
-tempo,节奏,zh-CN
 board strength,战力,zh-CN
-frontline,前排,zh-CN
-backline,后排,zh-CN
-carry,C位,zh-CN
-main carry,主C,zh-CN
 itemize,出装,zh-CN
 wincon,吃鸡条件,zh-CN
-power spike,强势期,zh-CN
 prismatic augment,棱彩强化,zh-CN
 BIS,神装,zh-CN
 best in slot,神装,zh-CN
@@ -1042,7 +1028,6 @@ AD,物理伤害,zh-CN
 AP,法术强度,zh-CN
 BT,饮血剑,zh-CN
 Champion pool,牌库,zh-CN
-champion pool,牌库,zh-CN
 D-Claw,龙牙（巨龙之爪）,zh-CN
 Encounter,遭遇战,zh-CN
 FFGS,金铲铲争霸赛,zh-CN
@@ -1174,14 +1159,11 @@ completed item,成装,zh-CN
 artifact,光明神器,zh-CN
 radiant item,光明装备,zh-CN
 tank items,坦装,zh-CN
-damage items,输出装,zh-CN
-utility items,功能装,zh-CN
 opener,开局,zh-CN
 midgame,中期,zh-CN
 lategame,后期,zh-CN
 endgame,终局,zh-CN
 top 2,吃鸡,zh-CN
-first place,吃鸡,zh-CN
 eighth,第八/倒一,zh-CN
 bot 8,倒一,zh-CN
 grief comp,恶心人的阵容,zh-CN
@@ -1321,10 +1303,7 @@ dragons claw,巨龙之爪,zh-CN
 protectors vow,守护者之誓,zh-CN
 ludens,卢登的回声,zh-CN
 steraks,斯特拉克的挑战护手,zh-CN
-carousel,选秀,zh-CN
-anvil,铁砧,zh-CN
 item anvil,装备铁砧,zh-CN
-armory,军械库,zh-CN
 greed,贪装备,zh-CN
 greeding,贪装备,zh-CN
 splashable,可混搭的,zh-CN
@@ -1334,7 +1313,6 @@ tech in,混入,zh-CN
 tech unit,工具人,zh-CN
 filler,凑数的,zh-CN
 filler unit,凑数棋子,zh-CN
-transition,过渡,zh-CN
 donate,送血,zh-CN
 donating,送血,zh-CN
 matchup,对阵,zh-CN
@@ -1342,15 +1320,12 @@ counter,克制,zh-CN
 force,强玩,zh-CN
 forcing,强玩,zh-CN
 angling,瞄准,zh-CN
-roll down,D牌,zh-CN
 board state,场面,zh-CN
 cap out,拉满,zh-CN
 item diff,装备差距,zh-CN
 item prio,装备优先级,zh-CN
 item priority,装备优先级,zh-CN
 item slam,直接合装备,zh-CN
-secondary carry,副C,zh-CN
-flex spot,灵活位,zh-CN
 tank line,前排坦克线,zh-CN
 pivot window,转型窗口,zh-CN
 read the lobby,看整个对局,zh-CN
@@ -46228,15 +46203,25 @@ T2,B-tier,zh-CN
 出装思路,itemization guide,zh-CN
 open fort,半空城,zh-CN
 오픈포트,半空城,zh-CN
+slow roll,慢D,zh-CN
+골드 킵 리롤,慢D,zh-CN
+hyper roll,速D,zh-CN
+풀리롤,速D,zh-CN
 go 3-star,追三,zh-CN
 3성작,追三,zh-CN
 go 3-star,追三星,zh-CN
 3성작,追三星,zh-CN
 push level 8,上八,zh-CN
+8렙 치기,上八,zh-CN
 push level 9,上九,zh-CN
+9렙 치기,上九,zh-CN
 push level 8,拉八,zh-CN
+8렙 치기,拉八,zh-CN
 push level 9,拉九,zh-CN
+9렙 치기,拉九,zh-CN
+main carry,主C,zh-CN
 메인캐리,主C,zh-CN
+secondary carry,副C,zh-CN
 세컨캐리,副C,zh-CN
 main tank,主坦,zh-CN
 메인 탱,主坦,zh-CN
@@ -46246,25 +46231,34 @@ utility unit,工具人,zh-CN
 utility card,工具卡,zh-CN
 positioning,对位,zh-CN
 배치,对位,zh-CN
+first place,吃鸡,zh-CN
 1등,吃鸡,zh-CN
 top 4,吃分,zh-CN
 순방,吃分,zh-CN
 lose LP,掉分,zh-CN
+점수 떨어짐,掉分,zh-CN
+roll down,D牌,zh-CN
 리롤,D牌,zh-CN
 rolling,抽牌,zh-CN
 components,散件,zh-CN
 조합 아이템,散件,zh-CN
+utility items,功能装,zh-CN
 유틸 아이템,功能装,zh-CN
 tank items,肉装,zh-CN
 방템,肉装,zh-CN
+damage items,输出装,zh-CN
 딜템,输出装,zh-CN
 神器,橙装,zh-CN
+유물,橙装,zh-CN
 comp build,构筑,zh-CN
+조합,构筑,zh-CN
 챔피언 풀,牌库,zh-CN
+power spike,强势期,zh-CN
 파워 스파이크,强势期,zh-CN
 weak side,弱侧,zh-CN
 약한 쪽,弱侧,zh-CN
 tankiness,坦度,zh-CN
+탱킹력,坦度,zh-CN
 resistance,抗性,zh-CN
 내구력,抗性,zh-CN
 damage reduction,免伤,zh-CN
@@ -46278,26 +46272,41 @@ grievous wounds,重伤,zh-CN
 치감,重伤,zh-CN
 reroll player,赌狗,zh-CN
 리롤 플레이어,赌狗,zh-CN
+naturaled,白嫖,zh-CN
 자연빵,白嫖,zh-CN
 bleeding HP,掉血,zh-CN
 출혈,掉血,zh-CN
+pivot,转型,zh-CN
 조합 전환,转型,zh-CN
+stabilize,稳住,zh-CN
 안정화,稳住,zh-CN
+frontline,前排,zh-CN
 앞라인,前排,zh-CN
+backline,后排,zh-CN
 뒷라인,后排,zh-CN
+carry,C位,zh-CN
 캐리,C位,zh-CN
 itemization,出装,zh-CN
 템소모,出装,zh-CN
+transition,过渡,zh-CN
 전환,过渡,zh-CN
 donate HP,送血,zh-CN
 피 까기,送血,zh-CN
+flex spot,灵活位,zh-CN
 비는자리,灵活位,zh-CN
+win streak,连胜,zh-CN
 연승,连胜,zh-CN
+lose streak,连败,zh-CN
 연패,连败,zh-CN
+econ,经济,zh-CN
 이자,经济,zh-CN
+tempo,节奏,zh-CN
 템포,节奏,zh-CN
+carousel,选秀,zh-CN
 공동선택,选秀,zh-CN
+anvil,铁砧,zh-CN
 모루,铁砧,zh-CN
+armory,军械库,zh-CN
 무기고,军械库,zh-CN
 contested,同行,zh-CN
 겹친,同行,zh-CN

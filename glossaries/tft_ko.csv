@@ -45429,10 +45429,22 @@ T2,B-tier,ko
 出装思路,itemization guide,ko
 open fort,오픈포트,ko
 半空城,오픈포트,ko
+slow roll,골드 킵 리롤,ko
+慢D,골드 킵 리롤,ko
+hyper roll,풀리롤,ko
+速D,풀리롤,ko
 go 3-star,3성작,ko
 追三,3성작,ko
 go 3-star,3성작,ko
 追三星,3성작,ko
+push level 8,8렙 치기,ko
+上八,8렙 치기,ko
+push level 9,9렙 치기,ko
+上九,9렙 치기,ko
+push level 8,8렙 치기,ko
+拉八,8렙 치기,ko
+push level 9,9렙 치기,ko
+拉九,9렙 치기,ko
 main carry,메인캐리,ko
 主C,메인캐리,ko
 secondary carry,세컨캐리,ko
@@ -45447,6 +45459,8 @@ first place,1등,ko
 吃鸡,1등,ko
 top 4,순방,ko
 吃分,순방,ko
+lose LP,점수 떨어짐,ko
+掉分,점수 떨어짐,ko
 roll down,리롤,ko
 D牌,리롤,ko
 components,조합 아이템,ko
@@ -45457,12 +45471,18 @@ tank items,방템,ko
 肉装,방템,ko
 damage items,딜템,ko
 输出装,딜템,ko
+神器,유물,ko
+橙装,유물,ko
+comp build,조합,ko
+构筑,조합,ko
 champion pool,챔피언 풀,ko
 牌库,챔피언 풀,ko
 power spike,파워 스파이크,ko
 强势期,파워 스파이크,ko
 weak side,약한 쪽,ko
 弱侧,약한 쪽,ko
+tankiness,탱킹력,ko
+坦度,탱킹력,ko
 resistance,내구력,ko
 抗性,내구력,ko
 damage reduction,데미지 감소,ko

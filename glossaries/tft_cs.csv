@@ -1374,7 +1374,6 @@ Zz'Rot Portal,Portál Zz'Rotu,cs
 韋駄天の紋章,Emblém Mrštné čepele,cs
 顽强不屈,Nezdolný,cs
 風のアクシオム,Axiom vzduchu,cs
-飞升,Vzestup,cs
 飞升护符,Amulet Vyzdvižení,cs
 食堂,Bitva v jídelně,cs
 饭厅,Bitva v jídelně,cs
@@ -40333,7 +40332,6 @@ Nữ Thợ Săn,Lovkyně,cs
 2个【次级英雄复制器】,2 Menší duplikátory šampionů,cs
 3费弈子,Šampion za 3 zlaťáky,cs
 获得10生命值。,Získáš 10 zdraví.,cs
-救赎,Odplata,cs
 【狙神】弈子们,Odstřelovači,cs
 你的弈子们获得18法术加成。,Tvůj tým získá 18 k síle schopností.,cs
 获得1个可无限次使用的【装备拆卸器】。,Získáš Magnetický odstraňovač s neomezeným počtem použití.,cs
@@ -45242,12 +45240,10 @@ Kaisa,Kai'Sa,cs
 Heimer,Heimerdinger,cs
 Yi,Master Yi,cs
 RB,Rageblade,cs
-BB,Blue Buff,cs
 blue buff,Blue Buff,cs
 red buff,Red Buff,cs
 IS,Ionic Spark,cs
 ionic,Ionic Spark,cs
-DC,Deathcap,cs
 dcap,Deathcap,cs
 rageblade,Guinsoo's Rageblade,cs
 gunblade,Hextech Gunblade,cs
@@ -45259,7 +45255,6 @@ garg,Gargoyle Stoneplate,cs
 claw,Dragon's Claw,cs
 dclaw,Dragon's Claw,cs
 archangels,Archangel's Staff,cs
-AA,Archangel's Staff,cs
 sojin,Spear of Shojin,cs
 SoS,Spear of Shojin,cs
 bilge,Bilgewater,cs
@@ -45307,7 +45302,6 @@ D,roll,cs
 攻速,attack speed,cs
 暴击,crit,cs
 穿甲,armor pen,cs
-法穿,magic pen,cs
 回蓝,mana regen,cs
 回血,heal,cs
 减甲,armor shred,cs
@@ -45365,7 +45359,6 @@ scrimming,scrim,cs
 远古龙,Elder Dragon,cs
 先锋,Rift Herald,cs
 红buff,Red Buff,cs
-蓝buff,Blue Buff,cs
 红BUFF,Red Buff,cs
 野区,jungle,cs
 河道,river,cs

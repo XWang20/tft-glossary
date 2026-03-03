@@ -45040,8 +45040,6 @@ UwU砲,UwUβόλα,el
 捍衛者,Φρουρός,el
 女獵手,Κυνηγός,el
 神器,artifact,el
-J4,Jarvan IV,el
-LB,LeBlanc,el
 Nid,Nidalee,el
 Morde,Mordekaiser,el
 Renek,Renekton,el
@@ -45054,12 +45052,10 @@ Kaisa,Kai'Sa,el
 Heimer,Heimerdinger,el
 Yi,Master Yi,el
 RB,Rageblade,el
-BB,Blue Buff,el
 blue buff,Blue Buff,el
 red buff,Red Buff,el
 IS,Ionic Spark,el
 ionic,Ionic Spark,el
-DC,Deathcap,el
 dcap,Deathcap,el
 rageblade,Guinsoo's Rageblade,el
 gunblade,Hextech Gunblade,el
@@ -45071,7 +45067,6 @@ garg,Gargoyle Stoneplate,el
 claw,Dragon's Claw,el
 dclaw,Dragon's Claw,el
 archangels,Archangel's Staff,el
-AA,Archangel's Staff,el
 sojin,Spear of Shojin,el
 SoS,Spear of Shojin,el
 bilge,Bilgewater,el
@@ -45119,7 +45114,6 @@ D,roll,el
 攻速,attack speed,el
 暴击,crit,el
 穿甲,armor pen,el
-法穿,magic pen,el
 回蓝,mana regen,el
 回血,heal,el
 减甲,armor shred,el
@@ -45177,7 +45171,6 @@ scrimming,scrim,el
 远古龙,Elder Dragon,el
 先锋,Rift Herald,el
 红buff,Red Buff,el
-蓝buff,Blue Buff,el
 红BUFF,Red Buff,el
 野区,jungle,el
 河道,river,el

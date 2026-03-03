@@ -46374,8 +46374,6 @@ UwU砲,UwU ブラスター,ja
 捍衛者,ディフェンダー,ja
 女獵手,ハントレス,ja
 神器,artifact,ja
-J4,Jarvan IV,ja
-LB,LeBlanc,ja
 Nid,Nidalee,ja
 Morde,Mordekaiser,ja
 Renek,Renekton,ja
@@ -46388,12 +46386,10 @@ Kaisa,Kai'Sa,ja
 Heimer,Heimerdinger,ja
 Yi,Master Yi,ja
 RB,Rageblade,ja
-BB,Blue Buff,ja
 blue buff,Blue Buff,ja
 red buff,Red Buff,ja
 IS,Ionic Spark,ja
 ionic,Ionic Spark,ja
-DC,Deathcap,ja
 dcap,Deathcap,ja
 rageblade,Guinsoo's Rageblade,ja
 gunblade,Hextech Gunblade,ja
@@ -46405,7 +46401,6 @@ garg,Gargoyle Stoneplate,ja
 claw,Dragon's Claw,ja
 dclaw,Dragon's Claw,ja
 archangels,Archangel's Staff,ja
-AA,Archangel's Staff,ja
 sojin,Spear of Shojin,ja
 SoS,Spear of Shojin,ja
 bilge,Bilgewater,ja
@@ -46453,7 +46448,6 @@ D,roll,ja
 攻速,attack speed,ja
 暴击,crit,ja
 穿甲,armor pen,ja
-法穿,magic pen,ja
 回蓝,mana regen,ja
 回血,heal,ja
 减甲,armor shred,ja
@@ -46511,7 +46505,6 @@ scrimming,scrim,ja
 远古龙,Elder Dragon,ja
 先锋,Rift Herald,ja
 红buff,Red Buff,ja
-蓝buff,Blue Buff,ja
 红BUFF,Red Buff,ja
 野区,jungle,ja
 河道,river,ja

@@ -45242,12 +45242,10 @@ Kaisa,Kai'Sa,vi
 Heimer,Heimerdinger,vi
 Yi,Master Yi,vi
 RB,Rageblade,vi
-BB,Blue Buff,vi
 blue buff,Blue Buff,vi
 red buff,Red Buff,vi
 IS,Ionic Spark,vi
 ionic,Ionic Spark,vi
-DC,Deathcap,vi
 dcap,Deathcap,vi
 rageblade,Guinsoo's Rageblade,vi
 gunblade,Hextech Gunblade,vi
@@ -45259,7 +45257,6 @@ garg,Gargoyle Stoneplate,vi
 claw,Dragon's Claw,vi
 dclaw,Dragon's Claw,vi
 archangels,Archangel's Staff,vi
-AA,Archangel's Staff,vi
 sojin,Spear of Shojin,vi
 SoS,Spear of Shojin,vi
 bilge,Bilgewater,vi
@@ -45307,7 +45304,6 @@ D,roll,vi
 攻速,attack speed,vi
 暴击,crit,vi
 穿甲,armor pen,vi
-法穿,magic pen,vi
 回蓝,mana regen,vi
 回血,heal,vi
 减甲,armor shred,vi
@@ -45365,7 +45361,6 @@ scrimming,scrim,vi
 远古龙,Elder Dragon,vi
 先锋,Rift Herald,vi
 红buff,Red Buff,vi
-蓝buff,Blue Buff,vi
 红BUFF,Red Buff,vi
 野区,jungle,vi
 河道,river,vi

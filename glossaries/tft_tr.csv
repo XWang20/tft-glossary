@@ -1186,7 +1186,6 @@ Zz'Rot Portal,Zz'Rot Kapısı,tr
 狂徒铠甲,Warmog'un Zırhı,tr
 狂野生长,Vahşi Büyüme,tr
 狙神,Mesafeci,tr
-狙神纹章,Mesafeci Amblemi,tr
 猛将的荣耀,Cengâver Onuru,tr
 獄炎のハチェット,Cehennem Ateşi Baltası,tr
 王冠とは重きもの,Bu Taç Ağır,tr
@@ -1231,7 +1230,6 @@ Zz'Rot Portal,Zz'Rot Kapısı,tr
 祖安,Zaun,tr
 祖安纹章,Zaun Amblemi,tr
 神盾使,Gardiyan,tr
-神盾使纹章,Gardiyan Amblemi,tr
 神谕者,Manabaz,tr
 神谕者纹章,Manabaz Amblemi,tr
 禁忌雕像,Yasak İdol,tr
@@ -40314,7 +40312,6 @@ Nữ Thợ Săn,Avcı,tr
 2个【次级英雄复制器】,2 Küçük Şampiyon Çoğaltıcı,tr
 3费弈子,3 Altınlık şampiyon,tr
 获得10生命值。,10 Can kazan.,tr
-救赎,Kefaret,tr
 【狙神】弈子们,Keskin Nişancılar,tr
 你的弈子们获得18法术加成。,Takımın 18 Yetenek Gücü kazansın.,tr
 获得1个可无限次使用的【装备拆卸器】。,Sınırsız kez kullanılabilen bir Manyetik Sökücü kazan.,tr
@@ -45223,12 +45220,10 @@ Kaisa,Kai'Sa,tr
 Heimer,Heimerdinger,tr
 Yi,Master Yi,tr
 RB,Rageblade,tr
-BB,Blue Buff,tr
 blue buff,Blue Buff,tr
 red buff,Red Buff,tr
 IS,Ionic Spark,tr
 ionic,Ionic Spark,tr
-DC,Deathcap,tr
 dcap,Deathcap,tr
 rageblade,Guinsoo's Rageblade,tr
 gunblade,Hextech Gunblade,tr
@@ -45240,7 +45235,6 @@ garg,Gargoyle Stoneplate,tr
 claw,Dragon's Claw,tr
 dclaw,Dragon's Claw,tr
 archangels,Archangel's Staff,tr
-AA,Archangel's Staff,tr
 sojin,Spear of Shojin,tr
 SoS,Spear of Shojin,tr
 bilge,Bilgewater,tr
@@ -45288,7 +45282,6 @@ D,roll,tr
 攻速,attack speed,tr
 暴击,crit,tr
 穿甲,armor pen,tr
-法穿,magic pen,tr
 回蓝,mana regen,tr
 回血,heal,tr
 减甲,armor shred,tr
@@ -45346,7 +45339,6 @@ scrimming,scrim,tr
 远古龙,Elder Dragon,tr
 先锋,Rift Herald,tr
 红buff,Red Buff,tr
-蓝buff,Blue Buff,tr
 红BUFF,Red Buff,tr
 野区,jungle,tr
 河道,river,tr

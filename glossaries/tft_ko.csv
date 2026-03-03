@@ -1442,63 +1442,11 @@ Zz'Rot Portal,즈롯 차원문,ko
 龙爪,용의 발톱,ko
 轻语,최후의 속삭임,ko
 薄暮,저녁갑주,ko
-半空城,open fort,ko
-慢D,slow roll,ko
-速D,hyper roll,ko
-追三,go 3-star,ko
-追三星,go 3-star,ko
-上八,push level 8,ko
-上九,push level 9,ko
-拉八,push level 8,ko
-拉九,push level 9,ko
-主C,main carry,ko
-副C,secondary carry,ko
-主坦,main tank,ko
-挂件,filler unit,ko
 工具人,utility unit,ko
 工具卡,utility card,ko
-对位,positioning,ko
-吃鸡,first place,ko
-吃分,top 4,ko
-掉分,lose LP,ko
-D牌,roll down,ko
 抽牌,rolling,ko
-散件,components,ko
-功能装,utility items,ko
-肉装,tank items,ko
-输出装,damage items,ko
 橙装,神器,ko
-构筑,comp build,ko
-牌库,champion pool,ko
-强势期,power spike,ko
-弱侧,weak side,ko
-坦度,tankiness,ko
-抗性,resistance,ko
-免伤,damage reduction,ko
 双抗,dual resistance,ko
-破甲,armor shred,ko
-减抗,resistance reduction,ko
-重伤,grievous wounds,ko
-赌狗,reroll player,ko
-白嫖,naturaled,ko
-掉血,bleeding HP,ko
-转型,pivot,ko
-稳住,stabilize,ko
-前排,frontline,ko
-后排,backline,ko
-C位,carry,ko
-出装,itemization,ko
-过渡,transition,ko
-送血,donate HP,ko
-灵活位,flex spot,ko
-连胜,win streak,ko
-连败,lose streak,ko
-经济,econ,ko
-节奏,tempo,ko
-选秀,carousel,ko
-铁砧,anvil,ko
-军械库,armory,ko
-同行,contested,ko
 Trait: Reunion,특성: 재회,ko
 羁绊：重新联合,특성: 재회,ko
 特性: 再会,특성: 재회,ko
@@ -45154,9 +45102,6 @@ UwU砲,귀여운 발사기,ko
 愛歐尼亞,아이오니아,ko
 捍衛者,엄호대,ko
 女獵手,여사냥꾼,ko
-神器,artifact,ko
-J4,Jarvan IV,ko
-LB,LeBlanc,ko
 Nid,Nidalee,ko
 Morde,Mordekaiser,ko
 Renek,Renekton,ko
@@ -45169,12 +45114,10 @@ Kaisa,Kai'Sa,ko
 Heimer,Heimerdinger,ko
 Yi,Master Yi,ko
 RB,Rageblade,ko
-BB,Blue Buff,ko
 blue buff,Blue Buff,ko
 red buff,Red Buff,ko
 IS,Ionic Spark,ko
 ionic,Ionic Spark,ko
-DC,Deathcap,ko
 dcap,Deathcap,ko
 rageblade,Guinsoo's Rageblade,ko
 gunblade,Hextech Gunblade,ko
@@ -45186,7 +45129,6 @@ garg,Gargoyle Stoneplate,ko
 claw,Dragon's Claw,ko
 dclaw,Dragon's Claw,ko
 archangels,Archangel's Staff,ko
-AA,Archangel's Staff,ko
 sojin,Spear of Shojin,ko
 SoS,Spear of Shojin,ko
 bilge,Bilgewater,ko
@@ -45201,7 +45143,6 @@ sorc,Sorcerer,ko
 sorcs,Sorcerer,ko
 削,nerf,ko
 砍,nerf,ko
-加强,buff,ko
 改,change/adjust,ko
 返工,rework,ko
 重做,rework,ko
@@ -45229,12 +45170,9 @@ D,roll,ko
 冲分,push for LP,ko
 保分,play safe for LP,ko
 上分,climb,ko
-血量,HP,ko
 法强,AP,ko
-攻速,attack speed,ko
 暴击,crit,ko
 穿甲,armor pen,ko
-法穿,magic pen,ko
 回蓝,mana regen,ko
 回血,heal,ko
 减甲,armor shred,ko
@@ -45246,8 +45184,6 @@ D,roll,ko
 站撸,stand and fight,ko
 拉扯,kite,ko
 抗压,tank pressure,ko
-回合,round,ko
-阶段,stage,ko
 备战席,bench,ko
 棋盘,board,ko
 野怪,PvE round,ko
@@ -45282,8 +45218,6 @@ scrimming,scrim,ko
 拉8,push level 8,ko
 上9,push level 9,ko
 拉9,push level 9,ko
-海克斯,augment,ko
-海克斯强化,augment,ko
 选海,augment selection,ko
 金海,gold augment,ko
 银海,silver augment,ko
@@ -45292,7 +45226,6 @@ scrimming,scrim,ko
 远古龙,Elder Dragon,ko
 先锋,Rift Herald,ko
 红buff,Red Buff,ko
-蓝buff,Blue Buff,ko
 红BUFF,Red Buff,ko
 野区,jungle,ko
 河道,river,ko
@@ -45305,7 +45238,6 @@ scrimming,scrim,ko
 毕业装,best in slot items,ko
 铲子,Spatula,ko
 大棒,Needlessly Large Rod,ko
-魔抗,magic resist,ko
 腰带,Giant's Belt,ko
 弓,Recurve Bow,ko
 剑,B.F. Sword,ko
@@ -45328,7 +45260,6 @@ scrimming,scrim,ko
 攒钱,save gold,ko
 破产,broke,ko
 裸装,no items,ko
-质量,board quality,ko
 血压,stress/pressure,ko
 锁血,stabilize HP,ko
 卖血,lose on purpose,ko
@@ -45343,14 +45274,9 @@ scrimming,scrim,ko
 三费,3-cost,ko
 四费,4-cost,ko
 五费,5-cost,ko
-一星,1-star,ko
-二星,2-star,ko
-三星,3-star,ko
 两星,2-star,ko
 转职,emblem,ko
 纹章,emblem,ko
-羁绊,trait,ko
-阵容,comp,ko
 成型,complete comp,ko
 拉满,maxed out,ko
 断牌,out of units,ko
@@ -45369,7 +45295,6 @@ scrimming,scrim,ko
 读牌,read the lobby,ko
 看牌,scout,ko
 侦查,scout,ko
-版本,patch,ko
 赛季,set,ko
 改版,patch update,ko
 环境,meta,ko

@@ -1,0 +1,7 @@
+# Project-internal files (not for GitHub)
+rules/
+slang/
+scripts/
+screenshots/
+*.pyc
+__pycache__/

@@ -3013,7 +3013,7 @@ Adaptive Strikes,Адаптивные удары,ru
 Street Demon Crown,Корона Уличного демона,ru
 街头恶魔之冕,Корона Уличного демона,ru
 ストリートデーモンのクラウン,Корона Уличного демона,ru
-Cower, Weaklings!,Трепещите, слабаки!,ru
+Cower,Weaklings!,Трепещите, слабаки!,ru
 颤抖吧，弱者！,Трепещите, слабаки!,ru
 畏怖せよ！,Трепещите, слабаки!,ru
 Syndicate Crown,Корона преступника,ru
@@ -3088,7 +3088,7 @@ Soul Eater,Пожиратель душ,ru
 Cosmic Hemomancy,Космическая гемомантия,ru
 星界血巫术,Космическая гемомантия,ru
 宇宙操血術,Космическая гемомантия,ru
-All Done<br><tftitemrules>Stop transforming, and allow me to star up</tftitemrules>,Хватит<br><tftitemrules>Прекратить превращения бойца и позволить ему повышать звездный уровень</tftitemrules>,ru
+All Done<br><tftitemrules>Stop transforming,and allow me to star up</tftitemrules>,Хватит<br><tftitemrules>Прекратить превращения бойца и позволить ему повышать звездный уровень</tftitemrules>,ru
 完成了【成长之路】<br><tftitemrules>停止成长，并允许升星</tftitemrules>,Хватит<br><tftitemrules>Прекратить превращения бойца и позволить ему повышать звездный уровень</tftitemrules>,ru
 完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,Хватит<br><tftitemrules>Прекратить превращения бойца и позволить ему повышать звездный уровень</tftitemrules>,ru
 Shock Treatment,Шоковая терапия,ru
@@ -45152,15 +45152,8 @@ UwU砲,Бластеры UwU,ru
 愛歐尼亞,Иония,ru
 捍衛者,Страж,ru
 女獵手,Охотница,ru
-冰心,Frozen Heart,ru
 神器,artifact,ru
-ASol,Aurelion Sol,ru
-A Sol,Aurelion Sol,ru
-TF,Twisted Fate,ru
-GP,Gangplank,ru
 J4,Jarvan IV,ru
-MF,Miss Fortune,ru
-TK,Tahm Kench,ru
 LB,LeBlanc,ru
 Nid,Nidalee,ru
 Morde,Mordekaiser,ru
@@ -45173,21 +45166,10 @@ KogMaw,Kog'Maw,ru
 Kaisa,Kai'Sa,ru
 Heimer,Heimerdinger,ru
 Yi,Master Yi,ru
-IE,Infinity Edge,ru
-BT,Bloodthirster,ru
-GA,Guardian Angel,ru
-JG,Jeweled Gauntlet,ru
-GS,Giant Slayer,ru
-DB,Deathblade,ru
 RB,Rageblade,ru
-RFC,Rapid Firecannon,ru
-LW,Last Whisper,ru
-BV,Banshee's Veil,ru
 BB,Blue Buff,ru
 blue buff,Blue Buff,ru
 red buff,Red Buff,ru
-HoJ,Hand of Justice,ru
-HOJ,Hand of Justice,ru
 IS,Ionic Spark,ru
 ionic,Ionic Spark,ru
 DC,Deathcap,ru
@@ -45201,8 +45183,6 @@ gargoyle,Gargoyle Stoneplate,ru
 garg,Gargoyle Stoneplate,ru
 claw,Dragon's Claw,ru
 dclaw,Dragon's Claw,ru
-FH,Frozen Heart,ru
-frozen heart,Frozen Heart,ru
 archangels,Archangel's Staff,ru
 AA,Archangel's Staff,ru
 sojin,Spear of Shojin,ru
@@ -45306,7 +45286,6 @@ scrimming,scrim,ru
 金海,gold augment,ru
 银海,silver augment,ru
 彩海,prismatic augment,ru
-大龙,Baron Nashor,ru
 小龙,Dragon,ru
 远古龙,Elder Dragon,ru
 先锋,Rift Herald,ru
@@ -45459,7 +45438,7 @@ J4,Джарван IV,ru
 牌爹,Твистед Фэйт,ru
 TF,Твистед Фэйт,ru
 挖掘机,Рек'Сай,ru
-妖姬,Ле Блан ,ru
+妖姬,Ле Блан,ru
 船长,Гангпланк,ru
 GP,Гангпланк,ru
 大卑,Бел'Вет,ru
@@ -45471,19 +45450,19 @@ GP,Гангпланк,ru
 猴子,Вуконг,ru
 稻草人,Фиддлстикс,ru
 蛤蟆,Таам Кенч,ru
-狗熊,Волибир ,ru
+狗熊,Волибир,ru
 龙王,Аурелион Сол,ru
 小法,Вейгар,ru
 老鼠,Твич,ru
 诺手,Дариус,ru
 德玛,Гарен,ru
 大虫子,Чо'Гат,ru
-灯笼,Треш ,ru
+灯笼,Треш,ru
 大嘴,Ког'Мао,ru
 狼人,Варвик,ru
-鳄鱼,Ренектон ,ru
+鳄鱼,Ренектон,ru
 龙女,Шивана,ru
-豹女,Нидали ,ru
+豹女,Нидали,ru
 寒冰,Эш,ru
 女警,Кейтлин,ru
 皮城女警,Кейтлин,ru
@@ -45566,12 +45545,10 @@ Radiant DC,Лучезарный Коготь дракона,ru
 Radiant Steraks,Лучезарное Испытание Стерака,ru
 Radiant TG,Лучезарные Перчатки вора,ru
 大龙,Барон Нашор,ru
-鳄鱼,Ренектон,ru
 荒漠屠夫,Ренектон,ru
 流浪,Райз,ru
 符文法师,Райз,ru
 小菊,Брок,ru
-狗熊,Волибир,ru
 不灭狂雷,Волибир,ru
 奥巴马,Люциан и Сенна,ru
 塞纳,Люциан и Сенна,ru
@@ -45590,9 +45567,8 @@ Fidds,Фиддлстикс,ru
 龙血武姬,Шивана,ru
 劲夫,Сетт,ru
 腕豪,Сетт,ru
-泽拉斯,Зерат ,ru
-棺材板,Зерат ,ru
-远古巫灵,Зерат ,ru
+棺材板,Зерат,ru
+远古巫灵,Зерат,ru
 河流之王,Таам Кенч,ru
 TK,Таам Кенч,ru
 魂锁典狱长,Треш,ru
@@ -45696,7 +45672,6 @@ BV,Бел'Вет,ru
 九尾妖狐,Ари,ru
 暮光星灵,Зои,ru
 深渊巨口,Ког'Мао,ru
-妖姬,Ле Блан,ru
 诡术妖姬,Ле Блан,ru
 LB,Ле Блан,ru
 戏命师,Джин,ru
@@ -45712,9 +45687,8 @@ LB,Ле Блан,ru
 祖安狂人,Доктор Мундо,ru
 虚空恐惧,Чо'Гат,ru
 万花通灵,Нико,ru
-奥莉安娜,Орианна ,ru
-发条,Орианна ,ru
-发条魔灵,Орианна ,ru
+发条,Орианна,ru
+发条魔灵,Орианна,ru
 日女,Леона,ru
 女坦,Леона,ru
 曙光女神,Леона,ru
@@ -45722,7 +45696,6 @@ LB,Ле Блан,ru
 蝎子,Скарнер,ru
 水晶先锋,Скарнер,ru
 蒸汽机器人,Блицкранк,ru
-豹女,Нидали,ru
 狂野女猎手,Нидали,ru
 丁真,Милио,ru
 明烛,Милио,ru

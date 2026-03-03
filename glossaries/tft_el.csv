@@ -3013,7 +3013,7 @@ Adaptive Strikes,Ευέλικτα Χτυπήματα,el
 Street Demon Crown,Στέμμα των Δαιμόνων του Δρόμου,el
 街头恶魔之冕,Στέμμα των Δαιμόνων του Δρόμου,el
 ストリートデーモンのクラウン,Στέμμα των Δαιμόνων του Δρόμου,el
-Cower, Weaklings!,Τρέμετε, Ανήμπορα Πλάσματα!,el
+Cower,Weaklings!,Τρέμετε, Ανήμπορα Πλάσματα!,el
 颤抖吧，弱者！,Τρέμετε, Ανήμπορα Πλάσματα!,el
 畏怖せよ！,Τρέμετε, Ανήμπορα Πλάσματα!,el
 Syndicate Crown,Στέμμα του Συνδικάτου,el
@@ -3088,7 +3088,7 @@ Soul Eater,Θεριστής Ψυχών,el
 Cosmic Hemomancy,Κοσμική Αιμομαντία,el
 星界血巫术,Κοσμική Αιμομαντία,el
 宇宙操血術,Κοσμική Αιμομαντία,el
-All Done<br><tftitemrules>Stop transforming, and allow me to star up</tftitemrules>,Όλα Έτοιμα<br><tftitemrules>Σταματά τη μεταμόρφωση και μου επιτρέπει να ανεβάσω αστέρια</tftitemrules>,el
+All Done<br><tftitemrules>Stop transforming,and allow me to star up</tftitemrules>,Όλα Έτοιμα<br><tftitemrules>Σταματά τη μεταμόρφωση και μου επιτρέπει να ανεβάσω αστέρια</tftitemrules>,el
 完成了【成长之路】<br><tftitemrules>停止成长，并允许升星</tftitemrules>,Όλα Έτοιμα<br><tftitemrules>Σταματά τη μεταμόρφωση και μου επιτρέπει να ανεβάσω αστέρια</tftitemrules>,el
 完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,Όλα Έτοιμα<br><tftitemrules>Σταματά τη μεταμόρφωση και μου επιτρέπει να ανεβάσω αστέρια</tftitemrules>,el
 Shock Treatment,Θεραπεία Ηλεκτροσόκ,el
@@ -45039,15 +45039,8 @@ UwU砲,UwUβόλα,el
 愛歐尼亞,Ιονία,el
 捍衛者,Φρουρός,el
 女獵手,Κυνηγός,el
-冰心,Frozen Heart,el
 神器,artifact,el
-ASol,Aurelion Sol,el
-A Sol,Aurelion Sol,el
-TF,Twisted Fate,el
-GP,Gangplank,el
 J4,Jarvan IV,el
-MF,Miss Fortune,el
-TK,Tahm Kench,el
 LB,LeBlanc,el
 Nid,Nidalee,el
 Morde,Mordekaiser,el
@@ -45060,21 +45053,10 @@ KogMaw,Kog'Maw,el
 Kaisa,Kai'Sa,el
 Heimer,Heimerdinger,el
 Yi,Master Yi,el
-IE,Infinity Edge,el
-BT,Bloodthirster,el
-GA,Guardian Angel,el
-JG,Jeweled Gauntlet,el
-GS,Giant Slayer,el
-DB,Deathblade,el
 RB,Rageblade,el
-RFC,Rapid Firecannon,el
-LW,Last Whisper,el
-BV,Banshee's Veil,el
 BB,Blue Buff,el
 blue buff,Blue Buff,el
 red buff,Red Buff,el
-HoJ,Hand of Justice,el
-HOJ,Hand of Justice,el
 IS,Ionic Spark,el
 ionic,Ionic Spark,el
 DC,Deathcap,el
@@ -45088,8 +45070,6 @@ gargoyle,Gargoyle Stoneplate,el
 garg,Gargoyle Stoneplate,el
 claw,Dragon's Claw,el
 dclaw,Dragon's Claw,el
-FH,Frozen Heart,el
-frozen heart,Frozen Heart,el
 archangels,Archangel's Staff,el
 AA,Archangel's Staff,el
 sojin,Spear of Shojin,el
@@ -45193,7 +45173,6 @@ scrimming,scrim,el
 金海,gold augment,el
 银海,silver augment,el
 彩海,prismatic augment,el
-大龙,Baron Nashor,el
 小龙,Dragon,el
 远古龙,Elder Dragon,el
 先锋,Rift Herald,el
@@ -45346,7 +45325,7 @@ J4,Τζάρβαν ο Δ',el
 牌爹,Τουίστεντ Φέιτ,el
 TF,Τουίστεντ Φέιτ,el
 挖掘机,Ρεκ'Σάι,el
-妖姬,ΛεΜπλάν ,el
+妖姬,ΛεΜπλάν,el
 船长,Γκάνγκπλανκ,el
 GP,Γκάνγκπλανκ,el
 大卑,Μπελ'Βεθ,el
@@ -45358,19 +45337,19 @@ GP,Γκάνγκπλανκ,el
 猴子,Γουκόνγκ,el
 稻草人,Φίντλστιξ,el
 蛤蟆,Ταμ Κεντς,el
-狗熊,Βόλιμπεαρ ,el
+狗熊,Βόλιμπεαρ,el
 龙王,Ωρέλιον Σολ,el
 小法,Βέιγκαρ,el
 老鼠,Τουίτς,el
 诺手,Ντάριους,el
 德玛,Γκάρεν,el
 大虫子,Τσο'Γκαθ,el
-灯笼,Θρες ,el
+灯笼,Θρες,el
 大嘴,Κογκ'Μο,el
 狼人,Γουόργουικ,el
-鳄鱼,Ρένεκτον ,el
+鳄鱼,Ρένεκτον,el
 龙女,Σιβάνα,el
-豹女,Νίνταλι ,el
+豹女,Νίνταλι,el
 寒冰,Ας,el
 女警,Κέιτλιν,el
 皮城女警,Κέιτλιν,el
@@ -45452,12 +45431,10 @@ Radiant DC,Υπέρλαμπρο Νύχι του Δράκου,el
 Radiant Steraks,Υπέρλαμπρη Πρόκληση του Στέρακ,el
 Radiant TG,Υπέρλαμπρα Γάντια του Κλέφτη,el
 大龙,Βαρόνος Νάσορ,el
-鳄鱼,Ρένεκτον,el
 荒漠屠夫,Ρένεκτον,el
 流浪,Ράιζ,el
 符文法师,Ράιζ,el
 小菊,Μπροκ,el
-狗熊,Βόλιμπεαρ,el
 不灭狂雷,Βόλιμπεαρ,el
 奥巴马,Λούσιαν + Σέννα,el
 塞纳,Λούσιαν + Σέννα,el
@@ -45476,9 +45453,8 @@ Fidds,Φίντλστιξ,el
 龙血武姬,Σιβάνα,el
 劲夫,Σεττ,el
 腕豪,Σεττ,el
-泽拉斯,Ζέραθ ,el
-棺材板,Ζέραθ ,el
-远古巫灵,Ζέραθ ,el
+棺材板,Ζέραθ,el
+远古巫灵,Ζέραθ,el
 河流之王,Ταμ Κεντς,el
 TK,Ταμ Κεντς,el
 魂锁典狱长,Θρες,el
@@ -45582,7 +45558,6 @@ BV,Μπελ'Βεθ,el
 九尾妖狐,Άρι,el
 暮光星灵,Ζόη,el
 深渊巨口,Κογκ'Μο,el
-妖姬,ΛεΜπλάν,el
 诡术妖姬,ΛεΜπλάν,el
 LB,ΛεΜπλάν,el
 戏命师,Τζιν,el
@@ -45598,9 +45573,8 @@ LB,ΛεΜπλάν,el
 蒙多医生,Δρ. Μούντο,el
 虚空恐惧,Τσο'Γκαθ,el
 万花通灵,Νίκκο,el
-奥莉安娜,Οριάνα ,el
-发条,Οριάνα ,el
-发条魔灵,Οριάνα ,el
+发条,Οριάνα,el
+发条魔灵,Οριάνα,el
 日女,Λεόνα,el
 女坦,Λεόνα,el
 曙光女神,Λεόνα,el
@@ -45608,7 +45582,6 @@ LB,ΛεΜπλάν,el
 蝎子,Σκάρνερ,el
 水晶先锋,Σκάρνερ,el
 蒸汽机器人,Μπλίτζκρανκ,el
-豹女,Νίνταλι,el
 狂野女猎手,Νίνταλι,el
 丁真,Μίλιο,el
 明烛,Μίλιο,el

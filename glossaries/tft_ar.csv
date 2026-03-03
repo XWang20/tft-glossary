@@ -3013,7 +3013,7 @@ Adaptive Strikes,الضربات المتكيفة,ar
 Street Demon Crown,تاج عفريت الشوارع,ar
 街头恶魔之冕,تاج عفريت الشوارع,ar
 ストリートデーモンのクラウン,تاج عفريت الشوارع,ar
-Cower, Weaklings!,ارتعدوا أيها الضعفاء!,ar
+Cower,Weaklings!,ارتعدوا أيها الضعفاء!,ar
 颤抖吧，弱者！,ارتعدوا أيها الضعفاء!,ar
 畏怖せよ！,ارتعدوا أيها الضعفاء!,ar
 Syndicate Crown,تاج العصابة,ar
@@ -3088,7 +3088,7 @@ Soul Eater,آكل الروح,ar
 Cosmic Hemomancy,سحر الدم الكوني,ar
 星界血巫术,سحر الدم الكوني,ar
 宇宙操血術,سحر الدم الكوني,ar
-All Done<br><tftitemrules>Stop transforming, and allow me to star up</tftitemrules>,لقد اكتفيت<br><tftitemrules>توقف عن التحويل واسمح لي بترقية مستوى النجوم</tftitemrules>,ar
+All Done<br><tftitemrules>Stop transforming,and allow me to star up</tftitemrules>,لقد اكتفيت<br><tftitemrules>توقف عن التحويل واسمح لي بترقية مستوى النجوم</tftitemrules>,ar
 完成了【成长之路】<br><tftitemrules>停止成长，并允许升星</tftitemrules>,لقد اكتفيت<br><tftitemrules>توقف عن التحويل واسمح لي بترقية مستوى النجوم</tftitemrules>,ar
 完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,لقد اكتفيت<br><tftitemrules>توقف عن التحويل واسمح لي بترقية مستوى النجوم</tftitemrules>,ar
 Shock Treatment,العلاج بالصدمة,ar
@@ -45159,15 +45159,8 @@ UwU砲,مفجرات UwU,ar
 愛歐尼亞,أيونيا,ar
 捍衛者,مدافع,ar
 女獵手,صيادة,ar
-冰心,Frozen Heart,ar
 神器,artifact,ar
-ASol,Aurelion Sol,ar
-A Sol,Aurelion Sol,ar
-TF,Twisted Fate,ar
-GP,Gangplank,ar
 J4,Jarvan IV,ar
-MF,Miss Fortune,ar
-TK,Tahm Kench,ar
 LB,LeBlanc,ar
 Nid,Nidalee,ar
 Morde,Mordekaiser,ar
@@ -45180,21 +45173,10 @@ KogMaw,Kog'Maw,ar
 Kaisa,Kai'Sa,ar
 Heimer,Heimerdinger,ar
 Yi,Master Yi,ar
-IE,Infinity Edge,ar
-BT,Bloodthirster,ar
-GA,Guardian Angel,ar
-JG,Jeweled Gauntlet,ar
-GS,Giant Slayer,ar
-DB,Deathblade,ar
 RB,Rageblade,ar
-RFC,Rapid Firecannon,ar
-LW,Last Whisper,ar
-BV,Banshee's Veil,ar
 BB,Blue Buff,ar
 blue buff,Blue Buff,ar
 red buff,Red Buff,ar
-HoJ,Hand of Justice,ar
-HOJ,Hand of Justice,ar
 IS,Ionic Spark,ar
 ionic,Ionic Spark,ar
 DC,Deathcap,ar
@@ -45208,8 +45190,6 @@ gargoyle,Gargoyle Stoneplate,ar
 garg,Gargoyle Stoneplate,ar
 claw,Dragon's Claw,ar
 dclaw,Dragon's Claw,ar
-FH,Frozen Heart,ar
-frozen heart,Frozen Heart,ar
 archangels,Archangel's Staff,ar
 AA,Archangel's Staff,ar
 sojin,Spear of Shojin,ar
@@ -45313,7 +45293,6 @@ scrimming,scrim,ar
 金海,gold augment,ar
 银海,silver augment,ar
 彩海,prismatic augment,ar
-大龙,Baron Nashor,ar
 小龙,Dragon,ar
 远古龙,Elder Dragon,ar
 先锋,Rift Herald,ar
@@ -45466,7 +45445,7 @@ J4,جارفان الرابع,ar
 牌爹,تويستد فايت,ar
 TF,تويستد فايت,ar
 挖掘机,ريكساي,ar
-妖姬,لوبلانك ,ar
+妖姬,لوبلانك,ar
 船长,غانغ بلانك,ar
 GP,غانغ بلانك,ar
 大卑,بيلفيث,ar
@@ -45478,19 +45457,19 @@ GP,غانغ بلانك,ar
 猴子,ووكونغ,ar
 稻草人,فيدل ستيكس,ar
 蛤蟆,تام كينش,ar
-狗熊,فوليبير ,ar
+狗熊,فوليبير,ar
 龙王,أوريليون سول,ar
 小法,فيغار,ar
 老鼠,تويتش,ar
 诺手,داريوس,ar
 德玛,غارين,ar
 大虫子,تشوغاث,ar
-灯笼,ثريش ,ar
+灯笼,ثريش,ar
 大嘴,كوغ ماو,ar
 狼人,وارويك,ar
-鳄鱼,رينيكتون ,ar
+鳄鱼,رينيكتون,ar
 龙女,شيفانا,ar
-豹女,نيدالي ,ar
+豹女,نيدالي,ar
 寒冰,آش,ar
 女警,كايتلين,ar
 皮城女警,كايتلين,ar
@@ -45573,12 +45552,10 @@ Radiant DC,مخلب التنين المشع,ar
 Radiant Steraks,قفاز ستيراك المشع,ar
 Radiant TG,قفاز اللص المشع,ar
 大龙,بارون ناشور,ar
-鳄鱼,رينيكتون,ar
 荒漠屠夫,رينيكتون,ar
 流浪,رايز,ar
 符文法师,رايز,ar
 小菊,بروك,ar
-狗熊,فوليبير,ar
 不灭狂雷,فوليبير,ar
 奥巴马,لوشيان وسينا,ar
 塞纳,لوشيان وسينا,ar
@@ -45597,9 +45574,8 @@ Fidds,فيدل ستيكس,ar
 龙血武姬,شيفانا,ar
 劲夫,سيت,ar
 腕豪,سيت,ar
-泽拉斯,زيراث ,ar
-棺材板,زيراث ,ar
-远古巫灵,زيراث ,ar
+棺材板,زيراث,ar
+远古巫灵,زيراث,ar
 河流之王,تام كينش,ar
 TK,تام كينش,ar
 魂锁典狱长,ثريش,ar
@@ -45703,7 +45679,6 @@ BV,بيلفيث,ar
 九尾妖狐,آري,ar
 暮光星灵,زوي,ar
 深渊巨口,كوغ ماو,ar
-妖姬,لوبلانك,ar
 诡术妖姬,لوبلانك,ar
 LB,لوبلانك,ar
 戏命师,جين,ar
@@ -45719,9 +45694,8 @@ LB,لوبلانك,ar
 祖安狂人,د. موندو,ar
 虚空恐惧,تشوغاث,ar
 万花通灵,نِكو,ar
-奥莉安娜,أوريانا ,ar
-发条,أوريانا ,ar
-发条魔灵,أوريانا ,ar
+发条,أوريانا,ar
+发条魔灵,أوريانا,ar
 日女,ليونا,ar
 女坦,ليونا,ar
 曙光女神,ليونا,ar
@@ -45729,7 +45703,6 @@ LB,لوبلانك,ar
 蝎子,سكارنر,ar
 水晶先锋,سكارنر,ar
 蒸汽机器人,بليتزكرانك,ar
-豹女,نيدالي,ar
 狂野女猎手,نيدالي,ar
 丁真,ميليو,ar
 明烛,ميليو,ar

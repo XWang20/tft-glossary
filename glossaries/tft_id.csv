@@ -31,14 +31,12 @@ Ascendant,Ascendant,id
 Ascension,Ascension,id
 Ashe,Ashe,id
 Assimilator,Assimilator,id
-Aurelion Sol,Aurelion Sol,id
 Azir,Azir,id
 B.F. Sword,B.F. Sword,id
 B.F.ソード,B.F. Sword,id
 Band of Thieves,Band of Thieves,id
 Bard,Bard,id
 Barknuckles,Barknuckles,id
-Baron Nashor,Baron Nashor,id
 Bel'Veth,Bel'Veth,id
 Belt Overflow,Belt Overflow,id
 Best Friends,Best Friends,id
@@ -57,7 +55,6 @@ Blast Shield,Blast Shield,id
 Blighting Jewel,Blighting Jewel,id
 Blitzcrank,Blitzcrank,id
 Blood Offering,Blood Offering,id
-Bloodthirster,Bloodthirster,id
 Blue Buff,Blue Buff,id
 Bodyguard Training,Bodyguard Training,id
 Boxing Lessons,Boxing Lessons,id
@@ -113,7 +110,6 @@ Dawncore,Dawncore,id
 Dead Man's Dagger,Dead Man's Dagger,id
 Deadlier Blades,Deadlier Blades,id
 Deadlier Caps,Deadlier Caps,id
-Deathblade,Deathblade,id
 Defender,Defender,id
 Defender Emblem,Emblem Defender,id
 Defense of the Placidium,Defense of the Placidium,id
@@ -165,10 +161,8 @@ Freljord,Freljord,id
 Freljord Emblem,Emblem Freljord,id
 Frying Pan,Frying Pan,id
 Galio,Galio,id
-Gangplank,Gangplank,id
 Garen,Garen,id
 Gargoyle Stoneplate,Gargoyle Stoneplate,id
-Giant Slayer,Giant Slayer,id
 Giant and Mighty,Giant and Mighty,id
 Giant's Belt,Giant's Belt,id
 Gigantification Ray,Gigantification Ray,id
@@ -209,7 +203,6 @@ Illaoi,Illaoi,id
 Immortal,Immortal,id
 Indecision,Indecision,id
 Indiscriminate Killer,Indiscriminate Killer,id
-Infinity Edge,Infinity Edge,id
 Innervating Locket,Innervating Locket,id
 Invested,Invested,id
 Invoker,Invoker,id
@@ -222,7 +215,6 @@ Item Grab Bag,Item Grab Bag,id
 Ixtal,Ixtal,id
 Ixtal Emblem,Emblem Ixtal,id
 Jarvan IV,Jarvan IV,id
-Jeweled Gauntlet,Jeweled Gauntlet,id
 Jeweled Lotus,Jeweled Lotus,id
 Jhin,Jhin,id
 Jinx,Jinx,id
@@ -241,7 +233,6 @@ Kog'Maw,Kog'Maw,id
 Kraken's Fury,Kraken's Fury,id
 L-90 カリバーネット,90 Caliber Nets,id
 Last Second Save,Last Second Save,id
-Last Whisper,Last Whisper,id
 Late Game Scaling,Late Game Scaling,id
 Late Game Specialist,Late Game Specialist,id
 LeBlanc,LeBlanc,id
@@ -278,7 +269,6 @@ Milio,Milio,id
 Min-Max,Min-Max,id
 Mining Drill,Mining Drill,id
 Mirrored Persona,Mirrored Persona,id
-Miss Fortune,Miss Fortune,id
 Missed Connections,Missed Connections,id
 Mittens,Mittens,id
 Momentum Drive,Momentum Drive,id
@@ -328,7 +318,6 @@ Rabadon's Deathcap,Rabadon's Deathcap,id
 Radiant Rascal,Radiant Rascal,id
 Radiant Relics,Radiant Relics,id
 Raining Gold,Raining Gold,id
-Rapid Firecannon,Rapid Firecannon,id
 Realm Warp,Realm Warp,id
 Recombobulator,Recombobulator,id
 Recurve Bow,Recurve Bow,id
@@ -407,7 +396,6 @@ T-Hex,T-Hex,id
 Tactician's Cape,Tactician's Cape,id
 Tactician's Crown,Tactician's Crown,id
 Tactician's Shield,Tactician's Shield,id
-Tahm Kench,Tahm Kench,id
 Talisman Of Ascension,Talisman Of Ascension,id
 Targon,Targon,id
 Taric,Taric,id
@@ -439,7 +427,6 @@ Tristana,Tristana,id
 Tryndamere,Tryndamere,id
 Tuned Oscillator,Tuned Oscillator,id
 Twin Guardians,Twin Guardian,id
-Twisted Fate,Twisted Fate,id
 Two Much Value,Two Much Value,id
 Two Trick,Two Trick,id
 U.R.F,U.R.F,id
@@ -529,7 +516,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 イシュタルの紋章,Emblem Ixtal,id
 イモータル,Immortal,id
 イラオイ,Illaoi,id
-インフィニティ エッジ,Infinity Edge,id
 インヴォーカー,Invoker,id
 インヴォーカーの紋章,Emblem Invoker,id
 イーブンシュラウド,Evenshroud,id
@@ -546,7 +532,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 エレクトリカル オーバーロード,Electrical Overload,id
 エンペラー,Emperor,id
 オリアナ,Orianna,id
-オレリオン・ソル,Aurelion Sol,id
 オーバークロック コンデンサー,Overclocked Capacitors,id
 オーン,Ornn,id
 カイ＝サ,Kai'Sa,id
@@ -555,7 +540,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 カリスタ,Kalista,id
 ガリオ,Galio,id
 ガレン,Garen,id
-ガングプランク,Gangplank,id
 ガンスリンガー,Gunslinger,id
 ガンスリンガーの紋章,Emblem Gunslinger,id
 ガーゴイル ストーンプレート,Gargoyle Stoneplate,id
@@ -605,14 +589,12 @@ Zz'Rot Portal,Zz'Rot Portal,id
 シヴァーナ,Shyvana,id
 シーカー アームガード,Seeker's Armguard,id
 ジグス,Ziggs,id
-ジャイアント スレイヤー,Giant Slayer,id
 ジャイアント ベルト,Giant's Belt,id
 ジャイアント&マイティ,Giant and Mighty,id
 ジャガーノート,Juggernaut,id
 ジャガーノートの紋章,Emblem Juggernaut,id
 ジャストヒット,Just Hit,id
 ジャーヴァンⅣ,Jarvan IV,id
-ジュエル ガントレット,Jeweled Gauntlet,id
 ジュエル ロータス,Jeweled Lotus,id
 ジリアン,Zilean,id
 ジン,Jhin,id
@@ -655,7 +637,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 タクティシャンのケープ,Tactician's Cape,id
 タクティシャンの王冠,Tactician's Crown,id
 タクティシャンの盾,Tactician's Shield,id
-タム・ケンチ,Tahm Kench,id
 タリック,Taric,id
 ターゴン,Targon,id
 ダイアナ,Diana,id
@@ -670,14 +651,12 @@ Zz'Rot Portal,Zz'Rot Portal,id
 チェインブレイカー,Chainbreaker,id
 チューンド オシレーター,Tuned Oscillator,id
 チョ＝ガス,Cho'Gath,id
-ツイステッド・フェイト,Twisted Fate,id
 ツインガーディアン,Twin Guardian,id
 ティーモ,Teemo,id
 ディスラプター,Disruptor,id
 ディスラプターの紋章,Emblem Disruptor,id
 ディフェンダー,Defender,id
 ディフェンダーの紋章,Emblem Defender,id
-デスブレード,Deathblade,id
 デッド マン ダガー,Dead Man's Dagger,id
 デッドリアー ブレード,Deadlier Blades,id
 デマーシア,Demacia,id
@@ -709,7 +688,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 ハーベスター,Harvester,id
 バイナリー空中投下,Binary Airdrop,id
 バフが1つ、バフが2つ,"One Buff, Two Buff",id
-バロンナッシャー,Baron Nashor,id
 バークナックル,Barknuckles,id
 バースデー リユニオン,Birthday Reunion,id
 バースデープレゼント,Birthday Present,id
@@ -738,7 +716,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 ブラックスミス,Blacksmith,id
 ブラックマーケットの再入荷,Black Market Restock,id
 ブラックマーケットの爆発物,Blackmarket Explosives,id
-ブラッドサースター,Bloodthirster,id
 ブランブル ベスト,Bramble Vest,id
 ブリッツクランク,Blitzcrank,id
 ブルーザー,Bruiser,id
@@ -772,7 +749,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 マルザハール,Malzahar,id
 マーターズ ヴァーチュ,Virtue of the Martyr,id
 ミスコネクション,Missed Connections,id
-ミス・フォーチュン,Miss Fortune,id
 ミッションの再開,Restart Mission,id
 ミトン,Mittens,id
 ミニマックス,Min-Max,id
@@ -791,11 +767,9 @@ Zz'Rot Portal,Zz'Rot Portal,id
 ライズ,Ryze,id
 ライトシールドのクレスト,Lightshield Crest,id
 ラインナップ,Lineup,id
-ラスト ウィスパー,Last Whisper,id
 ラッキーグローブ,Lucky Gloves,id
 ラックス,Lux,id
 ラバドン デスキャップ,Rabadon's Deathcap,id
-ラピッド ファイアキャノン,Rapid Firecannon,id
 ランブル,Rumble,id
 リカーブ ボウ,Recurve Bow,id
 リサンドラ,Lissandra,id
@@ -928,7 +902,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 卢锡安与赛娜,Lucian & Senna,id
 即席アーマー,Makeshift Armor,id
 厄斐琉斯,Aphelios,id
-厄运小姐,Miss Fortune,id
 厨神阿福,U.R.F,id
 双城赢家,Arcane Viktor-y,id
 双子守护神,Twin Guardian,id
@@ -955,7 +928,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 基兰,Zilean,id
 基础装备自助餐,Component Buffet,id
 報復,Retribution,id
-塔姆,Tahm Kench,id
 塔里克,Taric,id
 塞拉斯,Sylas,id
 复苏之风,Second Wind,id
@@ -980,7 +952,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 奇亚娜,Qiyana,id
 奈德丽,Nidalee,id
 奥恩,Ornn,id
-奥瑞利安·索尔,Aurelion Sol,id
 奥莉安娜,Orianna,id
 女神の涙,Tear of the Goddess,id
 女神之泪,Tear of the Goddess,id
@@ -1008,10 +979,8 @@ Zz'Rot Portal,Zz'Rot Portal,id
 峡谷先锋,Rift Herald,id
 峡谷迅捷蟹,Rift Scuttler,id
 崔丝塔娜,Tristana,id
-崔斯特,Twisted Fate,id
 巧みなクラフト,Crafted Crafting,id
 巨人の誓い,Titan's Resolve,id
-巨人杀手,Giant Slayer,id
 巨人腰带,Giant's Belt,id
 巨型九头蛇,Titanic Hydra,id
 巨大化ビーム,Gigantification Ray,id
@@ -1088,7 +1057,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 斯塔缇克电刃,Statikk Shiv,id
 斯特拉克的挑战护手,Sterak's Gage,id
 斯维因,Swain,id
-无尽之刃,Infinity Edge,id
 无差别攻击,Indiscriminate Killer,id
 无序进化,Chaotic Evolution,id
 无用大棒,Needlessly Large Rod,id
@@ -1098,7 +1066,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 星界感召,Cosmic Calling,id
 星界赐福,Celestial Blessing,id
 時の歯車,Continuum Cogs,id
-普朗克,Gangplank,id
 普通預金口座,Savings Account,id
 普雷西典保卫战,Defense of the Placidium,id
 智慧末刃,Wit's End,id
@@ -1114,7 +1081,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 最佳好友,Best Friends,id
 最初の1つは無料！,First One's Free!,id
 最后一秒营救,Last Second Save,id
-最后的轻语,Last Whisper,id
 最強の四配者,ReinFOURcement,id
 有効活用,Good For Something,id
 有用之材,Good For Something,id
@@ -1142,7 +1108,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 次级镜像人格面具,Lesser Mirrored Persona,id
 正义之手,Hand Of Justice,id
 正义报复,Retribution,id
-死亡之刃,Deathblade,id
 殉道美德,Virtue of the Martyr,id
 残酷弯刀,Cutthroat's Cutlass,id
 殺し屋のカトラス,Cutthroat's Cutlass,id
@@ -1213,7 +1178,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 玛尔扎哈,Malzahar,id
 玻璃大炮,Glass Cannon,id
 珍藏财宝,Buried Treasure,id
-珠光护手,Jeweled Gauntlet,id
 珠光莲花,Jeweled Lotus,id
 瑞兹,Ryze,id
 瑟庄妮,Sejuani,id
@@ -1229,7 +1193,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 电流过载,Electrical Overload,id
 电磁脉冲,E.M.P.,id
 略奪者のダイス,Brigand's Dice,id
-疾射火炮,Rapid Firecannon,id
 癒しのこだま,Mending Echoes,id
 登上最高峰,Win Out,id
 白银命运,Silver Destiny,id
@@ -1274,7 +1237,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 约德尔人纹章,Emblem Yordle,id
 约里克,Yorick,id
 纳什之牙,Nashor's Tooth,id
-纳什男爵,Baron Nashor,id
 纹章之书,Tome of Trait,id
 纺织魔法,Woven Magic,id
 终身黄铜,Bronze For Life,id
@@ -1397,7 +1359,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 飞升护符,Talisman Of Ascension,id
 食堂,Mess Hall,id
 饭厅,Mess Hall,id
-饮血剑,Bloodthirster,id
 騎士の誓い,Knight's Vow,id
 骑士之誓,Knight's Vow,id
 高压电,High Voltage,id
@@ -1431,7 +1392,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 鬼索,Guinsoo's Rageblade,id
 莫雷洛,Morellonomicon,id
 日炎,Sunfire Cape,id
-饮血,Bloodthirster,id
 灭世帽,Rabadon's Deathcap,id
 大帽子,Rabadon's Deathcap,id
 电刃,Statikk Shiv,id
@@ -1441,7 +1401,6 @@ Zz'Rot Portal,Zz'Rot Portal,id
 大天使,Archangel's Staff,id
 科技枪,Hextech Gunblade,id
 龙爪,Dragon's Claw,id
-轻语,Last Whisper,id
 薄暮,Evenshroud,id
 半空城,open fort,id
 慢D,slow roll,id
@@ -1759,7 +1718,6 @@ Trait: Menaces,Trait: Menaces,id
 光无尽,Radiant Infinity Edge,id
 光死刃,Radiant Deathblade,id
 光适应,Radiant Adaptive Helm,id
-大龙,Baron Nashor,id
 鳄鱼,Renekton,id
 荒漠屠夫,Renekton,id
 流浪,Ryze,id
@@ -1786,12 +1744,8 @@ Fidds,Fiddlesticks,id
 龙血武姬,Shyvana,id
 劲夫,Sett,id
 腕豪,Sett,id
-泽拉斯,Xerath ,id
-棺材板,Xerath ,id
-远古巫灵,Xerath ,id
-蛤蟆,Tahm Kench,id
-河流之王,Tahm Kench,id
-TK,Tahm Kench,id
+棺材板,Xerath,id
+远古巫灵,Xerath,id
 魂锁典狱长,Thresh,id
 时光老头,Zilean,id
 时光守护者,Zilean,id
@@ -1843,10 +1797,6 @@ WW,Warwick,id
 猪妹,Sejuani,id
 凛冬之怒,Sejuani,id
 虚空之女,Kai'Sa,id
-龙王,Aurelion Sol,id
-铸星龙王,Aurelion Sol,id
-A Sol,Aurelion Sol,id
-Asol,Aurelion Sol,id
 剪刀,Gwen,id
 灵罗娃娃,Gwen,id
 德玛西亚之力,Garen,id
@@ -1864,23 +1814,14 @@ efls,Aphelios,id
 圣锤之毅,Poppy,id
 星界游神,Bard,id
 狂厄蔷薇,Briar,id
-船长,Gangplank,id
-海洋之灾,Gangplank,id
-GP,Gangplank,id
 诺手,Darius,id
 诺克萨斯之手,Darius,id
 深海泰坦,Nautilus,id
 皮城执法官,Vi,id
 小鱼人,Fizz,id
 潮汐海灵,Fizz,id
-女枪,Miss Fortune,id
-赏金,Miss Fortune,id
-赏金猎人,Miss Fortune,id
-MF,Miss Fortune,id
 冰鸟,Anivia,id
 冰晶凤凰,Anivia,id
-卡牌大师,Twisted Fate,id
-TF,Twisted Fate,id
 德邦总管,Xin Zhao,id
 大卑,Bel'Veth,id
 虚空女皇,Bel'Veth,id
@@ -1927,9 +1868,8 @@ LB,LeBlanc,id
 大虫子,Cho'Gath,id
 虚空恐惧,Cho'Gath,id
 万花通灵,Neeko,id
-奥莉安娜,Orianna ,id
-发条,Orianna ,id
-发条魔灵,Orianna ,id
+发条,Orianna,id
+发条魔灵,Orianna,id
 日女,Leona,id
 女坦,Leona,id
 曙光女神,Leona,id
@@ -1994,8 +1934,6 @@ LB,LeBlanc,id
 光明版适应性头盔,Radiant Adaptive Helm,id
 光明版饮血剑,Radiant Bloodthirster,id
 光明版鬼索的狂暴之刃,Radiant Guinsoo's Rageblade,id
-破甲弓,Last Whisper,id
-LW,Last Whisper,id
 冰甲,Protector's Vow,id
 心之刚,Steadfast Heart,id
 夜刃,Edge of Night,id
@@ -2003,8 +1941,6 @@ EON,Edge of Night,id
 大亨之铠,Mogul's Mail,id
 AA,Archangel's Staff,id
 眼泪,Tear of the Goddess,id
-巨杀,Giant Slayer,id
-GS,Giant Slayer,id
 巨九,Titanic Hydra,id
 龙牙,Dragon's Claw,id
 DC,Dragon's Claw,id
@@ -2019,15 +1955,12 @@ DC,Dragon's Claw,id
 斗士纹章,Emblem Brawler,id
 电刀,Statikk Shiv,id
 血手,Sterak's Gage,id
-IE,Infinity Edge,id
 暗爪,Prowler's Claw,id
 暗裔之弓,The Darkin Bow,id
 暗裔之杖,The Darkin Staff,id
 暗裔之盾,The Darkin Aegis,id
 暗裔之镰,The Darkin Scythe,id
 BF,B.F. Sword,id
-杀人剑,Deathblade,id
-DB,Deathblade,id
 死亡之蔑,Death's Defiance,id
 比尔吉沃特转,Emblem Bilgewater,id
 QSS,Quicksilver,id
@@ -2036,7 +1969,6 @@ QSS,Quicksilver,id
 狙击手的专注,Sniper's Focus,id
 狙神纹章,Emblem Sniper,id
 狙神转,Emblem Sniper,id
-法爆,Jeweled Gauntlet,id
 碎舰者,Hullcrusher,id
 破舰者,Hullcrusher,id
 祖安转,Emblem Zaun,id
@@ -2057,5 +1989,4 @@ BB,Blue Buff,id
 迅击战士转,Emblem Quickstriker,id
 金币收集者,Gold Collector,id
 金丹,Talisman Of Ascension,id
-BT,Bloodthirster,id
 羊刀,Guinsoo's Rageblade,id

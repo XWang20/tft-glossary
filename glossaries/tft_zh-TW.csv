@@ -1259,7 +1259,6 @@ Zz'Rot Portal,虛空之門,zh-TW
 约德尔人纹章,約德爾徽章,zh-TW
 约里克,約瑞科,zh-TW
 纳什之牙,納什之牙,zh-TW
-纳什男爵,峽谷災厄,zh-TW
 纹章之书,特性典籍,zh-TW
 纺织魔法,魔力編織,zh-TW
 终身黄铜,銅級之命II,zh-TW
@@ -2991,7 +2990,7 @@ Adaptive Strikes,適性打擊,zh-TW
 Street Demon Crown,街頭狂魔之冠,zh-TW
 街头恶魔之冕,街頭狂魔之冠,zh-TW
 ストリートデーモンのクラウン,街頭狂魔之冠,zh-TW
-Cower, Weaklings!,弱者，顫抖吧！,zh-TW
+Cower,Weaklings!,弱者，顫抖吧！,zh-TW
 颤抖吧，弱者！,弱者，顫抖吧！,zh-TW
 畏怖せよ！,弱者，顫抖吧！,zh-TW
 Syndicate Crown,罪惡之冠,zh-TW
@@ -3066,7 +3065,7 @@ Soul Eater,食魂者,zh-TW
 Cosmic Hemomancy,宇宙血魔,zh-TW
 星界血巫术,宇宙血魔,zh-TW
 宇宙操血術,宇宙血魔,zh-TW
-All Done<br><tftitemrules>Stop transforming, and allow me to star up</tftitemrules>,大功告成<br><tftitemrules>停止轉變或是讓我繼續升星</tftitemrules>,zh-TW
+All Done<br><tftitemrules>Stop transforming,and allow me to star up</tftitemrules>,大功告成<br><tftitemrules>停止轉變或是讓我繼續升星</tftitemrules>,zh-TW
 完成了【成长之路】<br><tftitemrules>停止成长，并允许升星</tftitemrules>,大功告成<br><tftitemrules>停止轉變或是讓我繼續升星</tftitemrules>,zh-TW
 完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,大功告成<br><tftitemrules>停止轉變或是讓我繼續升星</tftitemrules>,zh-TW
 Shock Treatment,電擊療法,zh-TW
@@ -45095,15 +45094,8 @@ C位觉悟,中堅自強,zh-TW
 爱欧尼亚,愛歐尼亞,zh-TW
 捍卫者,捍衛者,zh-TW
 女猎手,女獵手,zh-TW
-冰心,Frozen Heart,zh-TW
 神器,artifact,zh-TW
-ASol,Aurelion Sol,zh-TW
-A Sol,Aurelion Sol,zh-TW
-TF,Twisted Fate,zh-TW
-GP,Gangplank,zh-TW
 J4,Jarvan IV,zh-TW
-MF,Miss Fortune,zh-TW
-TK,Tahm Kench,zh-TW
 LB,LeBlanc,zh-TW
 Nid,Nidalee,zh-TW
 Morde,Mordekaiser,zh-TW
@@ -45116,21 +45108,10 @@ KogMaw,Kog'Maw,zh-TW
 Kaisa,Kai'Sa,zh-TW
 Heimer,Heimerdinger,zh-TW
 Yi,Master Yi,zh-TW
-IE,Infinity Edge,zh-TW
-BT,Bloodthirster,zh-TW
-GA,Guardian Angel,zh-TW
-JG,Jeweled Gauntlet,zh-TW
-GS,Giant Slayer,zh-TW
-DB,Deathblade,zh-TW
 RB,Rageblade,zh-TW
-RFC,Rapid Firecannon,zh-TW
-LW,Last Whisper,zh-TW
-BV,Banshee's Veil,zh-TW
 BB,Blue Buff,zh-TW
 blue buff,Blue Buff,zh-TW
 red buff,Red Buff,zh-TW
-HoJ,Hand of Justice,zh-TW
-HOJ,Hand of Justice,zh-TW
 IS,Ionic Spark,zh-TW
 ionic,Ionic Spark,zh-TW
 DC,Deathcap,zh-TW
@@ -45144,8 +45125,6 @@ gargoyle,Gargoyle Stoneplate,zh-TW
 garg,Gargoyle Stoneplate,zh-TW
 claw,Dragon's Claw,zh-TW
 dclaw,Dragon's Claw,zh-TW
-FH,Frozen Heart,zh-TW
-frozen heart,Frozen Heart,zh-TW
 archangels,Archangel's Staff,zh-TW
 AA,Archangel's Staff,zh-TW
 sojin,Spear of Shojin,zh-TW
@@ -45249,7 +45228,6 @@ scrimming,scrim,zh-TW
 金海,gold augment,zh-TW
 银海,silver augment,zh-TW
 彩海,prismatic augment,zh-TW
-大龙,Baron Nashor,zh-TW
 小龙,Dragon,zh-TW
 远古龙,Elder Dragon,zh-TW
 先锋,Rift Herald,zh-TW
@@ -45402,7 +45380,7 @@ J4,嘉文四世,zh-TW
 牌爹,逆命,zh-TW
 TF,逆命,zh-TW
 挖掘机,雷珂煞,zh-TW
-妖姬,勒布朗 ,zh-TW
+妖姬,勒布朗,zh-TW
 船长,剛普朗克,zh-TW
 GP,剛普朗克,zh-TW
 大卑,貝爾薇斯,zh-TW
@@ -45414,19 +45392,19 @@ GP,剛普朗克,zh-TW
 猴子,悟空,zh-TW
 稻草人,費德提克,zh-TW
 蛤蟆,貪啃奇,zh-TW
-狗熊,弗力貝爾 ,zh-TW
+狗熊,弗力貝爾,zh-TW
 龙王,翱銳龍獸,zh-TW
 小法,維迦,zh-TW
 老鼠,圖奇,zh-TW
 诺手,達瑞斯,zh-TW
 德玛,蓋倫,zh-TW
 大虫子,科加斯,zh-TW
-灯笼,瑟雷西 ,zh-TW
+灯笼,瑟雷西,zh-TW
 大嘴,寇格魔,zh-TW
 狼人,沃維克,zh-TW
-鳄鱼,雷尼克頓 ,zh-TW
+鳄鱼,雷尼克頓,zh-TW
 龙女,希瓦娜,zh-TW
-豹女,奈德麗 ,zh-TW
+豹女,奈德麗,zh-TW
 寒冰,艾希,zh-TW
 女警,凱特琳,zh-TW
 皮城女警,凱特琳,zh-TW
@@ -45510,12 +45488,10 @@ Radiant Steraks,聖光史特拉克手套,zh-TW
 Radiant TG,聖光竊賊手套,zh-TW
 纳什男爵,巴龍納什,zh-TW
 大龙,巴龍納什,zh-TW
-鳄鱼,雷尼克頓,zh-TW
 荒漠屠夫,雷尼克頓,zh-TW
 流浪,雷茲,zh-TW
 符文法师,雷茲,zh-TW
 小菊,布洛克,zh-TW
-狗熊,弗力貝爾,zh-TW
 不灭狂雷,弗力貝爾,zh-TW
 奥巴马,路西恩與姍娜,zh-TW
 塞纳,路西恩與姍娜,zh-TW
@@ -45535,9 +45511,8 @@ Fidds,費德提克,zh-TW
 龙血武姬,希瓦娜,zh-TW
 劲夫,賽特,zh-TW
 腕豪,賽特,zh-TW
-泽拉斯,齊勒斯 ,zh-TW
-棺材板,齊勒斯 ,zh-TW
-远古巫灵,齊勒斯 ,zh-TW
+棺材板,齊勒斯,zh-TW
+远古巫灵,齊勒斯,zh-TW
 河流之王,貪啃奇,zh-TW
 TK,貪啃奇,zh-TW
 魂锁典狱长,瑟雷西,zh-TW
@@ -45650,7 +45625,6 @@ BV,貝爾薇斯,zh-TW
 九尾妖狐,阿璃,zh-TW
 暮光星灵,柔依,zh-TW
 深渊巨口,寇格魔,zh-TW
-妖姬,勒布朗,zh-TW
 诡术妖姬,勒布朗,zh-TW
 LB,勒布朗,zh-TW
 戏命师,燼,zh-TW
@@ -45668,9 +45642,8 @@ LB,勒布朗,zh-TW
 科加斯,科加斯,zh-TW
 虚空恐惧,科加斯,zh-TW
 万花通灵,妮可,zh-TW
-奥莉安娜,奧莉安娜 ,zh-TW
-发条,奧莉安娜 ,zh-TW
-发条魔灵,奧莉安娜 ,zh-TW
+发条,奧莉安娜,zh-TW
+发条魔灵,奧莉安娜,zh-TW
 日女,雷歐娜,zh-TW
 女坦,雷歐娜,zh-TW
 曙光女神,雷歐娜,zh-TW
@@ -45680,7 +45653,6 @@ LB,勒布朗,zh-TW
 水晶先锋,史加納,zh-TW
 布里茨,布里茨,zh-TW
 蒸汽机器人,布里茨,zh-TW
-豹女,奈德麗,zh-TW
 狂野女猎手,奈德麗,zh-TW
 丁真,米里歐,zh-TW
 明烛,米里歐,zh-TW

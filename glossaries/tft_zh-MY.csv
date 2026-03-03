@@ -1194,7 +1194,6 @@ Zz'Rot Portal,虚空之门,zh-MY
 红霸符,红增益,zh-MY
 约德尔人纹章,约德尔人徽章,zh-MY
 约里克,约瑞科,zh-MY
-纳什男爵,峡谷之灾,zh-MY
 纹章之书,特性典籍,zh-MY
 纺织魔法,编织魔法,zh-MY
 终身黄铜,终身青铜,zh-MY
@@ -2909,7 +2908,7 @@ Adaptive Strikes,适性打击,zh-MY
 Street Demon Crown,街头恶魔之冠,zh-MY
 街头恶魔之冕,街头恶魔之冠,zh-MY
 ストリートデーモンのクラウン,街头恶魔之冠,zh-MY
-Cower, Weaklings!,颤抖吧，弱者！,zh-MY
+Cower,Weaklings!,颤抖吧，弱者！,zh-MY
 颤抖吧，弱者！,颤抖吧，弱者！,zh-MY
 畏怖せよ！,颤抖吧，弱者！,zh-MY
 Syndicate Crown,罪恶集团之冠,zh-MY
@@ -2984,7 +2983,7 @@ Soul Eater,食魂者,zh-MY
 Cosmic Hemomancy,星界血魔法,zh-MY
 星界血巫术,星界血魔法,zh-MY
 宇宙操血術,星界血魔法,zh-MY
-All Done<br><tftitemrules>Stop transforming, and allow me to star up</tftitemrules>,结束成长<br><tftitemrules>停止变形，并允许升星</tftitemrules>,zh-MY
+All Done<br><tftitemrules>Stop transforming,and allow me to star up</tftitemrules>,结束成长<br><tftitemrules>停止变形，并允许升星</tftitemrules>,zh-MY
 完成了【成长之路】<br><tftitemrules>停止成长，并允许升星</tftitemrules>,结束成长<br><tftitemrules>停止变形，并允许升星</tftitemrules>,zh-MY
 完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,结束成长<br><tftitemrules>停止变形，并允许升星</tftitemrules>,zh-MY
 Shock Treatment,休克疗法,zh-MY
@@ -45349,15 +45348,8 @@ UwU砲,UwU轰炸枪手,zh-MY
 愛歐尼亞,爱欧尼亚,zh-MY
 捍衛者,捍卫者,zh-MY
 女獵手,女猎手,zh-MY
-冰心,Frozen Heart,zh-MY
 神器,artifact,zh-MY
-ASol,Aurelion Sol,zh-MY
-A Sol,Aurelion Sol,zh-MY
-TF,Twisted Fate,zh-MY
-GP,Gangplank,zh-MY
 J4,Jarvan IV,zh-MY
-MF,Miss Fortune,zh-MY
-TK,Tahm Kench,zh-MY
 LB,LeBlanc,zh-MY
 Nid,Nidalee,zh-MY
 Morde,Mordekaiser,zh-MY
@@ -45370,21 +45362,10 @@ KogMaw,Kog'Maw,zh-MY
 Kaisa,Kai'Sa,zh-MY
 Heimer,Heimerdinger,zh-MY
 Yi,Master Yi,zh-MY
-IE,Infinity Edge,zh-MY
-BT,Bloodthirster,zh-MY
-GA,Guardian Angel,zh-MY
-JG,Jeweled Gauntlet,zh-MY
-GS,Giant Slayer,zh-MY
-DB,Deathblade,zh-MY
 RB,Rageblade,zh-MY
-RFC,Rapid Firecannon,zh-MY
-LW,Last Whisper,zh-MY
-BV,Banshee's Veil,zh-MY
 BB,Blue Buff,zh-MY
 blue buff,Blue Buff,zh-MY
 red buff,Red Buff,zh-MY
-HoJ,Hand of Justice,zh-MY
-HOJ,Hand of Justice,zh-MY
 IS,Ionic Spark,zh-MY
 ionic,Ionic Spark,zh-MY
 DC,Deathcap,zh-MY
@@ -45398,8 +45379,6 @@ gargoyle,Gargoyle Stoneplate,zh-MY
 garg,Gargoyle Stoneplate,zh-MY
 claw,Dragon's Claw,zh-MY
 dclaw,Dragon's Claw,zh-MY
-FH,Frozen Heart,zh-MY
-frozen heart,Frozen Heart,zh-MY
 archangels,Archangel's Staff,zh-MY
 AA,Archangel's Staff,zh-MY
 sojin,Spear of Shojin,zh-MY
@@ -45503,7 +45482,6 @@ scrimming,scrim,zh-MY
 金海,gold augment,zh-MY
 银海,silver augment,zh-MY
 彩海,prismatic augment,zh-MY
-大龙,Baron Nashor,zh-MY
 小龙,Dragon,zh-MY
 远古龙,Elder Dragon,zh-MY
 先锋,Rift Herald,zh-MY
@@ -45658,7 +45636,7 @@ J4,嘉文四世,zh-MY
 牌爹,逆命,zh-MY
 TF,逆命,zh-MY
 挖掘机,雷珂煞,zh-MY
-妖姬,勒布朗 ,zh-MY
+妖姬,勒布朗,zh-MY
 船长,刚普朗克,zh-MY
 GP,刚普朗克,zh-MY
 大卑,贝尔薇斯,zh-MY
@@ -45670,19 +45648,19 @@ GP,刚普朗克,zh-MY
 猴子,悟空,zh-MY
 稻草人,费德提克,zh-MY
 蛤蟆,贪啃奇,zh-MY
-狗熊,弗力贝尔 ,zh-MY
+狗熊,弗力贝尔,zh-MY
 龙王,翱锐龙兽,zh-MY
 小法,维迦,zh-MY
 老鼠,图奇,zh-MY
 诺手,达瑞斯,zh-MY
 德玛,盖伦,zh-MY
 大虫子,科加斯,zh-MY
-灯笼,瑟雷西 ,zh-MY
+灯笼,瑟雷西,zh-MY
 大嘴,寇格魔,zh-MY
 狼人,沃维克,zh-MY
-鳄鱼,雷尼克顿 ,zh-MY
+鳄鱼,雷尼克顿,zh-MY
 龙女,希瓦娜,zh-MY
-豹女,奈德丽 ,zh-MY
+豹女,奈德丽,zh-MY
 寒冰,艾希,zh-MY
 女警,凯特琳,zh-MY
 皮城女警,凯特琳,zh-MY
@@ -45766,12 +45744,10 @@ Radiant Steraks,圣光史特拉克手套,zh-MY
 Radiant TG,圣光窃贼手套,zh-MY
 纳什男爵,巴龙纳什,zh-MY
 大龙,巴龙纳什,zh-MY
-鳄鱼,雷尼克顿,zh-MY
 荒漠屠夫,雷尼克顿,zh-MY
 流浪,雷兹,zh-MY
 符文法师,雷兹,zh-MY
 小菊,布洛克,zh-MY
-狗熊,弗力贝尔,zh-MY
 不灭狂雷,弗力贝尔,zh-MY
 奥巴马,路西恩和姗娜,zh-MY
 塞纳,路西恩和姗娜,zh-MY
@@ -45793,9 +45769,8 @@ Fidds,费德提克,zh-MY
 龙血武姬,希瓦娜,zh-MY
 劲夫,赛特,zh-MY
 腕豪,赛特,zh-MY
-泽拉斯,齐勒斯 ,zh-MY
-棺材板,齐勒斯 ,zh-MY
-远古巫灵,齐勒斯 ,zh-MY
+棺材板,齐勒斯,zh-MY
+远古巫灵,齐勒斯,zh-MY
 河流之王,贪啃奇,zh-MY
 TK,贪啃奇,zh-MY
 魂锁典狱长,瑟雷西,zh-MY
@@ -45916,7 +45891,6 @@ BV,贝尔薇斯,zh-MY
 九尾妖狐,阿璃,zh-MY
 暮光星灵,柔依,zh-MY
 深渊巨口,寇格魔,zh-MY
-妖姬,勒布朗,zh-MY
 诡术妖姬,勒布朗,zh-MY
 LB,勒布朗,zh-MY
 烬,烬,zh-MY
@@ -45936,9 +45910,9 @@ LB,勒布朗,zh-MY
 科加斯,科加斯,zh-MY
 虚空恐惧,科加斯,zh-MY
 万花通灵,妮可,zh-MY
-奥莉安娜,奥莉安娜 ,zh-MY
-发条,奥莉安娜 ,zh-MY
-发条魔灵,奥莉安娜 ,zh-MY
+奥莉安娜,奥莉安娜,zh-MY
+发条,奥莉安娜,zh-MY
+发条魔灵,奥莉安娜,zh-MY
 日女,雷欧娜,zh-MY
 女坦,雷欧娜,zh-MY
 曙光女神,雷欧娜,zh-MY
@@ -45949,7 +45923,6 @@ LB,勒布朗,zh-MY
 布里茨,布里茨,zh-MY
 蒸汽机器人,布里茨,zh-MY
 奈德丽,奈德丽,zh-MY
-豹女,奈德丽,zh-MY
 狂野女猎手,奈德丽,zh-MY
 凯特琳,凯特琳,zh-MY
 丁真,米里欧,zh-MY

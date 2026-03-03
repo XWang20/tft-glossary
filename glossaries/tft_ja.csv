@@ -2561,7 +2561,7 @@ Adaptive Strikes,アダプティブストライク,ja
 Street Demon Crown,ストリートデーモンのクラウン,ja
 街头恶魔之冕,ストリートデーモンのクラウン,ja
 ストリートデーモンのクラウン,ストリートデーモンのクラウン,ja
-Cower, Weaklings!,畏怖せよ！,ja
+Cower,Weaklings!,畏怖せよ！,ja
 颤抖吧，弱者！,畏怖せよ！,ja
 畏怖せよ！,畏怖せよ！,ja
 Syndicate Crown,シンジケートのクラウン,ja
@@ -2637,7 +2637,7 @@ Soul Eater,ソウルイーター,ja
 Cosmic Hemomancy,宇宙操血術,ja
 星界血巫术,宇宙操血術,ja
 宇宙操血術,宇宙操血術,ja
-All Done<br><tftitemrules>Stop transforming, and allow me to star up</tftitemrules>,完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,ja
+All Done<br><tftitemrules>Stop transforming,and allow me to star up</tftitemrules>,完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,ja
 完成了【成长之路】<br><tftitemrules>停止成长，并允许升星</tftitemrules>,完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,ja
 完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,ja
 Shock Treatment,ショック療法,ja
@@ -46373,15 +46373,8 @@ UwU砲,UwU ブラスター,ja
 愛歐尼亞,アイオニア,ja
 捍衛者,ディフェンダー,ja
 女獵手,ハントレス,ja
-冰心,Frozen Heart,ja
 神器,artifact,ja
-ASol,Aurelion Sol,ja
-A Sol,Aurelion Sol,ja
-TF,Twisted Fate,ja
-GP,Gangplank,ja
 J4,Jarvan IV,ja
-MF,Miss Fortune,ja
-TK,Tahm Kench,ja
 LB,LeBlanc,ja
 Nid,Nidalee,ja
 Morde,Mordekaiser,ja
@@ -46394,21 +46387,10 @@ KogMaw,Kog'Maw,ja
 Kaisa,Kai'Sa,ja
 Heimer,Heimerdinger,ja
 Yi,Master Yi,ja
-IE,Infinity Edge,ja
-BT,Bloodthirster,ja
-GA,Guardian Angel,ja
-JG,Jeweled Gauntlet,ja
-GS,Giant Slayer,ja
-DB,Deathblade,ja
 RB,Rageblade,ja
-RFC,Rapid Firecannon,ja
-LW,Last Whisper,ja
-BV,Banshee's Veil,ja
 BB,Blue Buff,ja
 blue buff,Blue Buff,ja
 red buff,Red Buff,ja
-HoJ,Hand of Justice,ja
-HOJ,Hand of Justice,ja
 IS,Ionic Spark,ja
 ionic,Ionic Spark,ja
 DC,Deathcap,ja
@@ -46422,8 +46404,6 @@ gargoyle,Gargoyle Stoneplate,ja
 garg,Gargoyle Stoneplate,ja
 claw,Dragon's Claw,ja
 dclaw,Dragon's Claw,ja
-FH,Frozen Heart,ja
-frozen heart,Frozen Heart,ja
 archangels,Archangel's Staff,ja
 AA,Archangel's Staff,ja
 sojin,Spear of Shojin,ja
@@ -46527,7 +46507,6 @@ scrimming,scrim,ja
 金海,gold augment,ja
 银海,silver augment,ja
 彩海,prismatic augment,ja
-大龙,Baron Nashor,ja
 小龙,Dragon,ja
 远古龙,Elder Dragon,ja
 先锋,Rift Herald,ja
@@ -46680,7 +46659,7 @@ J4,ジャーヴァンⅣ,ja
 牌爹,ツイステッド・フェイト,ja
 TF,ツイステッド・フェイト,ja
 挖掘机,レク＝サイ,ja
-妖姬,ルブラン ,ja
+妖姬,ルブラン,ja
 船长,ガングプランク,ja
 GP,ガングプランク,ja
 大卑,ベル＝ヴェス,ja
@@ -46692,19 +46671,19 @@ GP,ガングプランク,ja
 猴子,ウーコン,ja
 稻草人,フィドルスティックス,ja
 蛤蟆,タム・ケンチ,ja
-狗熊,ボリベア ,ja
+狗熊,ボリベア,ja
 龙王,オレリオン・ソル,ja
 小法,ベイガー,ja
 老鼠,トゥイッチ,ja
 诺手,ダリウス,ja
 德玛,ガレン,ja
 大虫子,チョ＝ガス,ja
-灯笼,スレッシュ ,ja
+灯笼,スレッシュ,ja
 大嘴,コグ＝マウ,ja
 狼人,ワーウィック,ja
-鳄鱼,レネクトン ,ja
+鳄鱼,レネクトン,ja
 龙女,シヴァーナ,ja
-豹女,ニダリー ,ja
+豹女,ニダリー,ja
 寒冰,アッシュ,ja
 女警,ケイトリン,ja
 皮城女警,ケイトリン,ja
@@ -46787,12 +46766,10 @@ Radiant DC,レディアント ドラゴン クロウ,ja
 Radiant Steraks,レディアント ステラックの篭手,ja
 Radiant TG,レディアント 盗賊のグローブ,ja
 大龙,バロンナッシャー,ja
-鳄鱼,レネクトン,ja
 荒漠屠夫,レネクトン,ja
 流浪,ライズ,ja
 符文法师,ライズ,ja
 小菊,ブロック,ja
-狗熊,ボリベア,ja
 不灭狂雷,ボリベア,ja
 奥巴马,ルシアン&セナ,ja
 塞纳,ルシアン&セナ,ja
@@ -46811,9 +46788,8 @@ Fidds,フィドルスティックス,ja
 龙血武姬,シヴァーナ,ja
 劲夫,セト,ja
 腕豪,セト,ja
-泽拉斯,ゼラス ,ja
-棺材板,ゼラス ,ja
-远古巫灵,ゼラス ,ja
+棺材板,ゼラス,ja
+远古巫灵,ゼラス,ja
 河流之王,タム・ケンチ,ja
 TK,タム・ケンチ,ja
 魂锁典狱长,スレッシュ,ja
@@ -46917,7 +46893,6 @@ BV,ベル＝ヴェス,ja
 九尾妖狐,アーリ,ja
 暮光星灵,ゾーイ,ja
 深渊巨口,コグ＝マウ,ja
-妖姬,ルブラン,ja
 诡术妖姬,ルブラン,ja
 LB,ルブラン,ja
 戏命师,ジン,ja
@@ -46933,9 +46908,8 @@ LB,ルブラン,ja
 祖安狂人,ドクター・ムンド,ja
 虚空恐惧,チョ＝ガス,ja
 万花通灵,ニーコ,ja
-奥莉安娜,オリアナ ,ja
-发条,オリアナ ,ja
-发条魔灵,オリアナ ,ja
+发条,オリアナ,ja
+发条魔灵,オリアナ,ja
 日女,レオナ,ja
 女坦,レオナ,ja
 曙光女神,レオナ,ja
@@ -46943,7 +46917,6 @@ LB,ルブラン,ja
 蝎子,スカーナー,ja
 水晶先锋,スカーナー,ja
 蒸汽机器人,ブリッツクランク,ja
-豹女,ニダリー,ja
 狂野女猎手,ニダリー,ja
 丁真,ミリオ,ja
 明烛,ミリオ,ja

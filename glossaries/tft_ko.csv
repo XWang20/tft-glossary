@@ -1274,7 +1274,6 @@ Zz'Rot Portal,즈롯 차원문,ko
 约德尔人纹章,요들 상징,ko
 约里克,요릭,ko
 纳什之牙,내셔의 이빨,ko
-纳什男爵,균열의 재앙,ko
 纹章之书,특성의 고서,ko
 纺织魔法,얽힌 마법,ko
 终身黄铜,영원한 브론즈,ko
@@ -3013,7 +3012,7 @@ Adaptive Strikes,적응형 타격,ko
 Street Demon Crown,거리의 악마 왕관,ko
 街头恶魔之冕,거리의 악마 왕관,ko
 ストリートデーモンのクラウン,거리의 악마 왕관,ko
-Cower, Weaklings!,꿇어라, 약한 것들아!,ko
+Cower,Weaklings!,꿇어라, 약한 것들아!,ko
 颤抖吧，弱者！,꿇어라, 약한 것들아!,ko
 畏怖せよ！,꿇어라, 약한 것들아!,ko
 Syndicate Crown,범죄 조직 왕관,ko
@@ -3088,7 +3087,7 @@ Soul Eater,영혼의 포식자,ko
 Cosmic Hemomancy,우주의 혈마법,ko
 星界血巫术,우주의 혈마법,ko
 宇宙操血術,우주의 혈마법,ko
-All Done<br><tftitemrules>Stop transforming, and allow me to star up</tftitemrules>,성장 끝<br><tftitemrules>변신을 중단하고 별 레벨 상승이 가능한 상태가 됩니다.</tftitemrules>,ko
+All Done<br><tftitemrules>Stop transforming,and allow me to star up</tftitemrules>,성장 끝<br><tftitemrules>변신을 중단하고 별 레벨 상승이 가능한 상태가 됩니다.</tftitemrules>,ko
 完成了【成长之路】<br><tftitemrules>停止成长，并允许升星</tftitemrules>,성장 끝<br><tftitemrules>변신을 중단하고 별 레벨 상승이 가능한 상태가 됩니다.</tftitemrules>,ko
 完了<br><tftitemrules>変身を終え、このユニットをスターアップする。</tftitemrules>,성장 끝<br><tftitemrules>변신을 중단하고 별 레벨 상승이 가능한 상태가 됩니다.</tftitemrules>,ko
 Shock Treatment,충격 요법,ko
@@ -45155,15 +45154,8 @@ UwU砲,귀여운 발사기,ko
 愛歐尼亞,아이오니아,ko
 捍衛者,엄호대,ko
 女獵手,여사냥꾼,ko
-冰心,Frozen Heart,ko
 神器,artifact,ko
-ASol,Aurelion Sol,ko
-A Sol,Aurelion Sol,ko
-TF,Twisted Fate,ko
-GP,Gangplank,ko
 J4,Jarvan IV,ko
-MF,Miss Fortune,ko
-TK,Tahm Kench,ko
 LB,LeBlanc,ko
 Nid,Nidalee,ko
 Morde,Mordekaiser,ko
@@ -45176,21 +45168,10 @@ KogMaw,Kog'Maw,ko
 Kaisa,Kai'Sa,ko
 Heimer,Heimerdinger,ko
 Yi,Master Yi,ko
-IE,Infinity Edge,ko
-BT,Bloodthirster,ko
-GA,Guardian Angel,ko
-JG,Jeweled Gauntlet,ko
-GS,Giant Slayer,ko
-DB,Deathblade,ko
 RB,Rageblade,ko
-RFC,Rapid Firecannon,ko
-LW,Last Whisper,ko
-BV,Banshee's Veil,ko
 BB,Blue Buff,ko
 blue buff,Blue Buff,ko
 red buff,Red Buff,ko
-HoJ,Hand of Justice,ko
-HOJ,Hand of Justice,ko
 IS,Ionic Spark,ko
 ionic,Ionic Spark,ko
 DC,Deathcap,ko
@@ -45204,8 +45185,6 @@ gargoyle,Gargoyle Stoneplate,ko
 garg,Gargoyle Stoneplate,ko
 claw,Dragon's Claw,ko
 dclaw,Dragon's Claw,ko
-FH,Frozen Heart,ko
-frozen heart,Frozen Heart,ko
 archangels,Archangel's Staff,ko
 AA,Archangel's Staff,ko
 sojin,Spear of Shojin,ko
@@ -45309,7 +45288,6 @@ scrimming,scrim,ko
 金海,gold augment,ko
 银海,silver augment,ko
 彩海,prismatic augment,ko
-大龙,Baron Nashor,ko
 小龙,Dragon,ko
 远古龙,Elder Dragon,ko
 先锋,Rift Herald,ko
@@ -45748,7 +45726,7 @@ J4,자르반 4세,ko
 牌爹,트위스티드 페이트,ko
 TF,트위스티드 페이트,ko
 挖掘机,렉사이,ko
-妖姬,르블랑 ,ko
+妖姬,르블랑,ko
 船长,갱플랭크,ko
 GP,갱플랭크,ko
 大卑,벨베스,ko
@@ -45760,19 +45738,19 @@ GP,갱플랭크,ko
 猴子,오공,ko
 稻草人,피들스틱,ko
 蛤蟆,탐 켄치,ko
-狗熊,볼리베어 ,ko
+狗熊,볼리베어,ko
 龙王,아우렐리온 솔,ko
 小法,베이가,ko
 老鼠,트위치,ko
 诺手,다리우스,ko
 德玛,가렌,ko
 大虫子,초가스,ko
-灯笼,쓰레쉬 ,ko
+灯笼,쓰레쉬,ko
 大嘴,코그모,ko
 狼人,워윅,ko
-鳄鱼,레넥톤 ,ko
+鳄鱼,레넥톤,ko
 龙女,쉬바나,ko
-豹女,니달리 ,ko
+豹女,니달리,ko
 寒冰,애쉬,ko
 女警,케이틀린,ko
 皮城女警,케이틀린,ko
@@ -45856,12 +45834,10 @@ Radiant Steraks,찬란한 스테락의 도전,ko
 Radiant TG,찬란한 도적의 장갑,ko
 纳什男爵,내셔 남작,ko
 大龙,내셔 남작,ko
-鳄鱼,레넥톤,ko
 荒漠屠夫,레넥톤,ko
 流浪,라이즈,ko
 符文法师,라이즈,ko
 小菊,브록,ko
-狗熊,볼리베어,ko
 不灭狂雷,볼리베어,ko
 奥巴马,루시안과 세나,ko
 塞纳,루시안과 세나,ko
@@ -45880,9 +45856,8 @@ Fidds,피들스틱,ko
 龙血武姬,쉬바나,ko
 劲夫,세트,ko
 腕豪,세트,ko
-泽拉斯,제라스 ,ko
-棺材板,제라스 ,ko
-远古巫灵,제라스 ,ko
+棺材板,제라스,ko
+远古巫灵,제라스,ko
 河流之王,탐 켄치,ko
 TK,탐 켄치,ko
 魂锁典狱长,쓰레쉬,ko
@@ -45986,7 +45961,6 @@ BV,벨베스,ko
 九尾妖狐,아리,ko
 暮光星灵,조이,ko
 深渊巨口,코그모,ko
-妖姬,르블랑,ko
 诡术妖姬,르블랑,ko
 LB,르블랑,ko
 戏命师,진,ko
@@ -46002,9 +45976,8 @@ LB,르블랑,ko
 祖安狂人,문도 박사,ko
 虚空恐惧,초가스,ko
 万花通灵,니코,ko
-奥莉安娜,오리아나 ,ko
-发条,오리아나 ,ko
-发条魔灵,오리아나 ,ko
+发条,오리아나,ko
+发条魔灵,오리아나,ko
 日女,레오나,ko
 女坦,레오나,ko
 曙光女神,레오나,ko
@@ -46012,7 +45985,6 @@ LB,르블랑,ko
 蝎子,스카너,ko
 水晶先锋,스카너,ko
 蒸汽机器人,블리츠크랭크,ko
-豹女,니달리,ko
 狂野女猎手,니달리,ko
 丁真,밀리오,ko
 明烛,밀리오,ko

@@ -51,20 +51,31 @@ Every CSV accepts source text in **all 23 supported languages**. No matter which
 
 ### 23 Supported Languages
 
-| Code | Language | Code | Language |
-|------|----------|------|----------|
-| ar | العربية | ko | 한국어 |
-| cs | Čeština | pl | Polski |
-| de | Deutsch | pt-BR | Português (BR) |
-| el | Ελληνικά | ro | Română |
-| es-AR | Español (AR) | ru | Русский |
-| es-ES | Español (ES) | th | ไทย |
-| es-MX | Español (MX) | tr | Türkçe |
-| fr | Français | vi | Tiếng Việt |
-| hu | Magyar | zh-CN | 简体中文 |
-| id | Bahasa Indonesia | zh-MY | 中文 (马来) |
-| it | Italiano | zh-TW | 繁體中文 |
-| ja | 日本語 | | |
+| Code | Language | Download |
+|------|----------|----------|
+| ar | العربية | [tft_ar.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_ar.csv) |
+| cs | Čeština | [tft_cs.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_cs.csv) |
+| de | Deutsch | [tft_de.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_de.csv) |
+| el | Ελληνικά | [tft_el.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_el.csv) |
+| es-AR | Español (AR) | [tft_es-AR.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_es-AR.csv) |
+| es-ES | Español (ES) | [tft_es-ES.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_es-ES.csv) |
+| es-MX | Español (MX) | [tft_es-MX.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_es-MX.csv) |
+| fr | Français | [tft_fr.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_fr.csv) |
+| hu | Magyar | [tft_hu.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_hu.csv) |
+| id | Bahasa Indonesia | [tft_id.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_id.csv) |
+| it | Italiano | [tft_it.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_it.csv) |
+| ja | 日本語 | [tft_ja.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_ja.csv) |
+| ko | 한국어 | [tft_ko.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_ko.csv) |
+| pl | Polski | [tft_pl.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_pl.csv) |
+| pt-BR | Português (BR) | [tft_pt-BR.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_pt-BR.csv) |
+| ro | Română | [tft_ro.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_ro.csv) |
+| ru | Русский | [tft_ru.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_ru.csv) |
+| th | ไทย | [tft_th.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_th.csv) |
+| tr | Türkçe | [tft_tr.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_tr.csv) |
+| vi | Tiếng Việt | [tft_vi.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_vi.csv) |
+| zh-CN | 简体中文 | [tft_zh-CN.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-CN.csv) |
+| zh-MY | 中文 (马来) | [tft_zh-MY.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-MY.csv) |
+| zh-TW | 繁體中文 | [tft_zh-TW.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-TW.csv) |
 
 ## File Structure
 

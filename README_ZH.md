@@ -50,20 +50,31 @@ https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-CN
 
 ### 支持 23 种语言
 
-| 代码 | 语言 | 代码 | 语言 |
-|------|------|------|------|
-| ar | 阿拉伯语 | ko | 韩语 |
-| cs | 捷克语 | pl | 波兰语 |
-| de | 德语 | pt-BR | 葡萄牙语（巴西） |
-| el | 希腊语 | ro | 罗马尼亚语 |
-| es-AR | 西班牙语（阿根廷） | ru | 俄语 |
-| es-ES | 西班牙语（西班牙） | th | 泰语 |
-| es-MX | 西班牙语（墨西哥） | tr | 土耳其语 |
-| fr | 法语 | vi | 越南语 |
-| hu | 匈牙利语 | zh-CN | 简体中文 |
-| id | 印尼语 | zh-MY | 中文（马来） |
-| it | 意大利语 | zh-TW | 繁體中文 |
-| ja | 日语 | | |
+| 代码 | 语言 | 下载 |
+|------|------|------|
+| ar | 阿拉伯语 | [tft_ar.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_ar.csv) |
+| cs | 捷克语 | [tft_cs.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_cs.csv) |
+| de | 德语 | [tft_de.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_de.csv) |
+| el | 希腊语 | [tft_el.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_el.csv) |
+| es-AR | 西班牙语（阿根廷） | [tft_es-AR.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_es-AR.csv) |
+| es-ES | 西班牙语（西班牙） | [tft_es-ES.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_es-ES.csv) |
+| es-MX | 西班牙语（墨西哥） | [tft_es-MX.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_es-MX.csv) |
+| fr | 法语 | [tft_fr.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_fr.csv) |
+| hu | 匈牙利语 | [tft_hu.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_hu.csv) |
+| id | 印尼语 | [tft_id.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_id.csv) |
+| it | 意大利语 | [tft_it.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_it.csv) |
+| ja | 日语 | [tft_ja.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_ja.csv) |
+| ko | 韩语 | [tft_ko.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_ko.csv) |
+| pl | 波兰语 | [tft_pl.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_pl.csv) |
+| pt-BR | 葡萄牙语（巴西） | [tft_pt-BR.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_pt-BR.csv) |
+| ro | 罗马尼亚语 | [tft_ro.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_ro.csv) |
+| ru | 俄语 | [tft_ru.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_ru.csv) |
+| th | 泰语 | [tft_th.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_th.csv) |
+| tr | 土耳其语 | [tft_tr.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_tr.csv) |
+| vi | 越南语 | [tft_vi.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_vi.csv) |
+| zh-CN | 简体中文 | [tft_zh-CN.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-CN.csv) |
+| zh-MY | 中文（马来） | [tft_zh-MY.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-MY.csv) |
+| zh-TW | 繁體中文 | [tft_zh-TW.csv](https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-TW.csv) |
 
 ## 文件结构
 

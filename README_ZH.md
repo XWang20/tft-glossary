@@ -1,8 +1,8 @@
-**[English](README.md)** | **[中文](#tft-s16-多语言术语表)**
+**[English](README.md)** | **[中文](#tft-s17-多语言术语表)**
 
-# TFT S16 多语言术语表
+# TFT S17 多语言术语表
 
-给 [沉浸式翻译](https://immersivetranslate.com/) 浏览器插件用的云顶之弈 S16 术语表。看外服 TFT 攻略时，自动翻译棋子名、羁绊、装备、海克斯和社区俚语。
+给 [沉浸式翻译](https://immersivetranslate.com/) 浏览器插件用的云顶之弈 S17 术语表。看外服 TFT 攻略时，自动翻译棋子名、羁绊、装备、海克斯和社区俚语。
 
 ## 使用方法
 
@@ -29,14 +29,14 @@ https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-CN
 
 | 类别 | 数量 | 举例 |
 |------|------|------|
-| 棋子 | 115 | Aatrox → 亚托克斯 |
-| 羁绊 | 53 | Slayer → 杀戮者 |
-| 海克斯 | 1,200+ | Placebo → 安慰剂, Celestial Blessing → 星界祝福 |
-| 装备 | 150+ | Deathcap → 灭世者的帽子 |
+| 棋子 | 67 | Fiora → 菲奥娜 |
+| 羁绊 | 37 | Anima → 幻灵战队 |
+| 海克斯 | 228+ | Apotheotic Forge → 神器锻造, A Magic Roll → 魔法投掷 |
+| 装备 | 132+ | Deathcap → 灭世者的帽子 |
 | 英文缩写 | 70+ | IE → 无尽之刃, ASol → 奥瑞利安·索尔, bilge → 比尔吉沃特 |
 | 英文俚语 | 200+ | slam → 合装备, highroll → 运气好, BIS → 神装 |
 | 中文俚语 | 130+ | 偷偷 → TG, 青龙刀 → Shojin, 半空城 → open fort |
-| **每个 CSV 总计** | **~45,000 条** | 23 种语言双向互译 |
+| **每个 CSV 总计** | **~8,300 条** | 23 种语言双向互译 |
 
 ## 全语言互译
 
@@ -81,9 +81,9 @@ https://raw.githubusercontent.com/XWang20/tft-glossary/main/glossaries/tft_zh-CN
 ```
 ├── meta/tft.json              # 元数据
 └── glossaries/
-    ├── tft_zh-CN.csv          # → 简体中文（~45,000 条）
-    ├── tft_ja.csv             # → 日文（~45,000 条）
-    ├── tft_ko.csv             # → 韩文（~45,000 条）
+    ├── tft_zh-CN.csv          # → 简体中文（~8,300 条）
+    ├── tft_ja.csv             # → 日文（~8,300 条）
+    ├── tft_ko.csv             # → 韩文（~8,300 条）
     └── ...（共 23 个文件）
 ```
 

@@ -1,6 +1,6 @@
-**[English](#tft-set-16-multilingual-glossary)** | **[中文](README_ZH.md)**
+**[English](#tft-set-17-multilingual-glossary)** | **[中文](README_ZH.md)**
 
-# TFT Set 16 Multilingual Glossary
+# TFT Set 17 Multilingual Glossary
 
 A glossary for the [Immersive Translate](https://immersivetranslate.com/) browser extension. Automatically translates TFT champion names, traits, augments, items, and community slang while browsing.
 
@@ -30,14 +30,14 @@ Works with **any of 23 languages as source** — English, Chinese, Korean, Japan
 
 | Category | Count | Example |
 |----------|-------|---------|
-| Champions | 115 | Aatrox → 亚托克斯 / 아트록스 / アトロックス |
-| Traits | 53 | Slayer → 杀戮者 / 학살자 / スレイヤー |
-| Augments | 1,200+ | Placebo → 安慰剂, Celestial Blessing → 星界祝福 |
-| Items | 150+ | Deathcap → 灭世者的帽子 |
+| Champions | 67 | Fiora → 菲奥娜 / 피오라 / フィオラ |
+| Traits | 37 | Anima → 幻灵战队 / 아니마 / アニマ |
+| Augments | 228+ | Apotheotic Forge → 神器锻造, A Magic Roll → 魔法投掷 |
+| Items | 132+ | Deathcap → 灭世者的帽子 |
 | Abbreviations | 70+ | IE → Infinity Edge, ASol → Aurelion Sol, bilge → Bilgewater |
 | Community slang | 200+ | slam → 合装备, highroll → 运气好, BIS → 神装 |
 | Chinese slang | 130+ | 偷偷 → TG, 青龙刀 → Shojin, 半空城 → open fort |
-| **Total per CSV** | **~45,000** | 23 languages × bidirectional |
+| **Total per CSV** | **~8,300** | 23 languages × bidirectional |
 
 ## Full Cross-Language Support
 
@@ -82,9 +82,9 @@ Every CSV accepts source text in **all 23 supported languages**. No matter which
 ```
 ├── meta/tft.json              # Metadata
 └── glossaries/
-    ├── tft_zh-CN.csv          # → Simplified Chinese (~45,000 rows)
-    ├── tft_ja.csv             # → Japanese (~45,000 rows)
-    ├── tft_ko.csv             # → Korean (~45,000 rows)
+    ├── tft_zh-CN.csv          # → Simplified Chinese (~8,300 rows)
+    ├── tft_ja.csv             # → Japanese (~8,300 rows)
+    ├── tft_ko.csv             # → Korean (~8,300 rows)
     └── ... (23 files total)
 ```
 

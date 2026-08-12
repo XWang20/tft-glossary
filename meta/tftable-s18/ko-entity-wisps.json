@@ -1,0 +1,980 @@
+{
+  "DA_18_AfterShock": {
+    "category": "combat",
+    "description": "8초 후 모든 적을 1.5초 동안 기절시킵니다.",
+    "id": "DA_18_AfterShock",
+    "name": "여진"
+  },
+  "DA_18_AllFives": {
+    "category": "shop",
+    "description": "상점을 새로고침해 모두 5단계 챔피언으로 채웁니다.",
+    "id": "DA_18_AllFives",
+    "name": "5단계 집결"
+  },
+  "DA_18_AllFours": {
+    "category": "shop",
+    "description": "상점을 새로고침해 모두 4단계 챔피언으로 채웁니다.",
+    "id": "DA_18_AllFours",
+    "name": "4단계 집결"
+  },
+  "DA_18_AllOnes": {
+    "category": "shop",
+    "description": "상점을 새로고침해 모두 1단계 챔피언으로 채웁니다.",
+    "id": "DA_18_AllOnes",
+    "name": "1단계 집결"
+  },
+  "DA_18_AllThrees": {
+    "category": "shop",
+    "description": "상점을 새로고침해 모두 3단계 챔피언으로 채웁니다.",
+    "id": "DA_18_AllThrees",
+    "name": "3단계 집결"
+  },
+  "DA_18_AllTwos": {
+    "category": "shop",
+    "description": "상점을 새로고침해 모두 2단계 챔피언으로 채웁니다.",
+    "id": "DA_18_AllTwos",
+    "name": "2단계 집결"
+  },
+  "DA_18_BackrowStar": {
+    "category": "combat",
+    "description": "무작위 후방 챔피언이 7초 동안 공격 속도를 75% 얻습니다.",
+    "id": "DA_18_BackrowStar",
+    "name": "후방의 핵심"
+  },
+  "DA_18_BarkArmor": {
+    "category": "combat",
+    "description": "아군 챔피언이 10초 동안 150의 보호막을 얻습니다.",
+    "id": "DA_18_BarkArmor",
+    "name": "나무껍질 갑옷"
+  },
+  "DA_18_BloodMoney": {
+    "category": "goldxp",
+    "description": "챔피언을 처치할 때마다 1골드를 획득합니다.",
+    "id": "DA_18_BloodMoney",
+    "name": "목숨값"
+  },
+  "DA_18_BronzeSpoon": {
+    "category": "goldxp",
+    "description": "경험치를 4 얻습니다.",
+    "id": "DA_18_BronzeSpoon",
+    "name": "동수저"
+  },
+  "DA_18_CircleofElders": {
+    "category": "champion",
+    "description": "5단계 챔피언을 각각 하나씩 획득합니다.",
+    "id": "DA_18_CircleofElders",
+    "name": "장로회"
+  },
+  "DA_18_Counterspell": {
+    "category": "combat",
+    "description": "모든 적이 다음 스킬 사용 전까지 최대 마나가 15 증가합니다.",
+    "id": "DA_18_Counterspell",
+    "name": "마법 차단"
+  },
+  "DA_18_EarlyFix": {
+    "category": "misc",
+    "description": "아이템 재조합기 1개를 획득합니다.",
+    "id": "DA_18_EarlyFix",
+    "name": "빠른 수정"
+  },
+  "DA_18_Experienced": {
+    "category": "goldxp",
+    "description": "경험치를 2 얻습니다.",
+    "id": "DA_18_Experienced",
+    "name": "숙련자"
+  },
+  "DA_18_Fellowship": {
+    "category": "combat",
+    "description": "챔피언이 인접한 아군 하나당 최대 체력의 4%에 해당하는 보호막과 피해 증폭을4% 얻습니다.",
+    "id": "DA_18_Fellowship",
+    "name": "유대감"
+  },
+  "DA_18_Fertilize": {
+    "category": "risky",
+    "description": "사망하는 적 하나당 경험치를 1 얻습니다.",
+    "id": "DA_18_Fertilize",
+    "name": "비옥화"
+  },
+  "DA_18_FieldofMice": {
+    "category": "champion",
+    "description": "지난 라운드에 배치한 1단계 유닛 한 종류당 소형 챔피언 복제기 1개를 획득합니다.",
+    "id": "DA_18_FieldofMice",
+    "name": "생쥐 들판"
+  },
+  "DA_18_ForestMage": {
+    "category": "misc",
+    "description": "상점을 수호령으로 채웁니다. 하나만 구매할 수 있습니다.",
+    "id": "DA_18_ForestMage",
+    "name": "숲의 마법사"
+  },
+  "DA_18_Freeroller": {
+    "category": "shop",
+    "description": "새로고침을 2회 얻습니다.",
+    "id": "DA_18_Freeroller",
+    "name": "자유로운 새로고침"
+  },
+  "DA_18_GiantGrowth": {
+    "category": "combat",
+    "description": "가장 체력이 높은 아군 유닛이 성장하여 체력을 600 얻습니다.",
+    "id": "DA_18_GiantGrowth",
+    "name": "거대한 성장"
+  },
+  "DA_18_HeatedRivalry": {
+    "category": "champion",
+    "description": "렝가 또는 카직스를 획득합니다. 해당 챔피언이 처치 관여를 3회 얻습니다.",
+    "id": "DA_18_HeatedRivalry",
+    "name": "뜨거운 경쟁"
+  },
+  "DA_18_HeroicSacrifice": {
+    "category": "combat",
+    "description": "가장 강한 아군 챔피언 3명이 영웅적인 힘을 얻지만, 다른 아군이 희생됩니다.",
+    "id": "DA_18_HeroicSacrifice",
+    "name": "영웅적 희생"
+  },
+  "DA_18_Hummingbird": {
+    "category": "combat",
+    "description": "가장 공격 속도가 높은 아군이 작아지며 공격 속도를 20% 얻습니다.",
+    "id": "DA_18_Hummingbird",
+    "name": "벌새"
+  },
+  "DA_18_Infliction": {
+    "category": "combat",
+    "description": "적에게 8초 동안 둔화, 화상, 파쇄 및 파열을 적용합니다.",
+    "id": "DA_18_Infliction",
+    "name": "형벌"
+  },
+  "DA_18_KillingFrenzy": {
+    "category": "combat",
+    "description": "전사가 체력이 12% 아래인 대상을 처형합니다. 처치 시 공격 속도를 15% 얻습니다.",
+    "id": "DA_18_KillingFrenzy",
+    "name": "살육의 광란"
+  },
+  "DA_18_LifeDebt": {
+    "category": "goldxp",
+    "description": "잃은 플레이어 체력 12마다 1골드를 획득합니다.",
+    "id": "DA_18_LifeDebt",
+    "name": "생명의 빚"
+  },
+  "DA_18_LightningStorm": {
+    "category": "combat",
+    "description": "1초마다 적 1명에게 최대 체력의 5%에 해당하는 고정 피해를 입힙니다.",
+    "id": "DA_18_LightningStorm",
+    "name": "번개 폭풍"
+  },
+  "DA_18_LightningStrike": {
+    "category": "combat",
+    "description": "모든 적에게 최대 체력의 10%만큼 고정 피해를 입힙니다.",
+    "id": "DA_18_LightningStrike",
+    "name": "벼락"
+  },
+  "DA_18_LostTravelers": {
+    "category": "champion",
+    "description": "3골드 가치의 무작위 챔피언을 획득합니다.",
+    "id": "DA_18_LostTravelers",
+    "name": "길 잃은 여행자"
+  },
+  "DA_18_MajorPolymorph": {
+    "category": "risky",
+    "description": "보유한 무작위 4단계 유닛 1명이 영구히 5단계로 변합니다.",
+    "id": "DA_18_MajorPolymorph",
+    "name": "상급 변이"
+  },
+  "DA_18_MercenaryForce": {
+    "category": "combat",
+    "description": "보유한 10골드마다 피해 증폭을 3% 얻습니다.",
+    "id": "DA_18_MercenaryForce",
+    "name": "용병 부대"
+  },
+  "DA_18_MinorPolymorph": {
+    "category": "risky",
+    "description": "보유한 무작위 1단계 유닛 1명이 영구히 2단계로 변합니다.",
+    "id": "DA_18_MinorPolymorph",
+    "name": "하급 변이"
+  },
+  "DA_18_Mitosis": {
+    "category": "champion",
+    "description": "소형 챔피언 복제기 1개를 획득합니다.",
+    "id": "DA_18_Mitosis",
+    "name": "체세포 분열"
+  },
+  "DA_18_Moonrise": {
+    "category": "combat",
+    "description": "8초 후 달빛 효과가 100% 증가합니다.",
+    "id": "DA_18_Moonrise",
+    "name": "달오름"
+  },
+  "DA_18_Payday": {
+    "category": "risky",
+    "description": "전투에서 생존한 아군 챔피언 1명당 2골드를 획득합니다.",
+    "id": "DA_18_Payday",
+    "name": "수금"
+  },
+  "DA_18_PocketChange": {
+    "category": "goldxp",
+    "description": "아군 1성 챔피언이 사망 시 1골드를 떨어뜨립니다.",
+    "id": "DA_18_PocketChange",
+    "name": "잔돈"
+  },
+  "DA_18_Polymorph": {
+    "category": "risky",
+    "description": "보유한 무작위 2단계 유닛 1명이 영구히 3단계로 변합니다.",
+    "id": "DA_18_Polymorph",
+    "name": "변이"
+  },
+  "DA_18_Preppers": {
+    "category": "combat",
+    "description": "중첩 아이템이 다음 전투에서 일부 중첩을 지닌 상태로 시작합니다.",
+    "id": "DA_18_Preppers",
+    "name": "생존주의자"
+  },
+  "DA_18_ProlificPower": {
+    "category": "combat",
+    "description": "아군 챔피언이 공격력 및 주문력을 8% 얻습니다.",
+    "id": "DA_18_ProlificPower",
+    "name": "풍성한 힘"
+  },
+  "DA_18_Propagate": {
+    "category": "champion",
+    "description": "처음 사망하는 아군 챔피언의 복사본을 획득합니다.",
+    "id": "DA_18_Propagate",
+    "name": "번식"
+  },
+  "DA_18_Radiantize": {
+    "category": "combat",
+    "description": "10초 후, 장착한 무작위 아이템 1개가 일시적으로 찬란한 아이템으로 변경됩니다.",
+    "id": "DA_18_Radiantize",
+    "name": "찬란함"
+  },
+  "DA_18_Resistant": {
+    "category": "combat",
+    "description": "탱커는 피해를 받을 때 해당 피해량이 10 감소합니다.",
+    "id": "DA_18_Resistant",
+    "name": "내성"
+  },
+  "DA_18_Starfall": {
+    "category": "shop",
+    "description": "이번 라운드에 상점을 처음 6번 새로고침하면 가장 단계가 낮은 챔피언이 2성이 됩니다.",
+    "id": "DA_18_Starfall",
+    "name": "유성"
+  },
+  "DA_18_SunfireSorcery": {
+    "category": "combat",
+    "description": "10초 동안 적에게 화상과 상처를 적용합니다.",
+    "id": "DA_18_SunfireSorcery",
+    "name": "태양불꽃 마법"
+  },
+  "DA_18_Supercritical": {
+    "category": "combat",
+    "description": "아군 정밀 유닛이 치명타 피해량을 25% 얻습니다.",
+    "id": "DA_18_Supercritical",
+    "name": "극치"
+  },
+  "DA_18_TatteredArmor": {
+    "category": "combat",
+    "description": "적에게 10초 동안 파쇄 및 파열을 30% 적용합니다.",
+    "id": "DA_18_TatteredArmor",
+    "name": "너덜너덜한 방어구"
+  },
+  "DA_18_Tremors": {
+    "category": "combat",
+    "description": "8초마다 적을 1초 동안 기절시킵니다.",
+    "id": "DA_18_Tremors",
+    "name": "진동"
+  },
+  "DA_18_UltraAscension": {
+    "category": "combat",
+    "description": "25초 후 아군이 피해 증폭을 300% 얻습니다.",
+    "id": "DA_18_UltraAscension",
+    "name": "극한의 초월"
+  },
+  "DA_18_VerdantVitality": {
+    "category": "combat",
+    "description": "아군 챔피언이 체력을 100 얻습니다.",
+    "id": "DA_18_VerdantVitality",
+    "name": "신록의 활력"
+  },
+  "DA_18_YordleSpirit": {
+    "category": "combat",
+    "description": "아군이 4초 동안 99% 확률로 기본 공격을 회피합니다.",
+    "id": "DA_18_YordleSpirit",
+    "name": "요들 영혼"
+  },
+  "DA_AbandonShip18": {
+    "category": "risky",
+    "description": "전장 및 대기석에 있는 챔피언을 판매하고 6골드와 새로고침 10회를 획득합니다.",
+    "id": "DA_AbandonShip18",
+    "name": "배를 버려라"
+  },
+  "DA_AnimateShop18": {
+    "category": "shop",
+    "description": "18초 동안 상점이 2초마다 무료로 새로고침됩니다.",
+    "id": "DA_AnimateShop18",
+    "name": "움직이는 상점"
+  },
+  "DA_Apprentice18": {
+    "category": "champion",
+    "description": "무작위 1단계 2성 챔피언 1명을 획득합니다.",
+    "id": "DA_Apprentice18",
+    "name": "수습생"
+  },
+  "DA_Artifactinate18": {
+    "category": "item",
+    "description": "완성 아이템으로 조합된 조합 아이템 1개를 포함해 조합 아이템 3개를 잃습니다. 유물 모루 1개를 획득합니다.",
+    "id": "DA_Artifactinate18",
+    "name": "유물화"
+  },
+  "DA_Barrier18": {
+    "category": "combat",
+    "description": "아군이 1200의 보호막을 얻습니다. 보호막은 5초에 걸쳐 사라집니다.",
+    "id": "DA_Barrier18",
+    "name": "방어막"
+  },
+  "DA_Barter18": {
+    "category": "goldxp",
+    "description": "이번 라운드에 다음으로 판매하는 챔피언이 200% 골드로 판매됩니다.",
+    "id": "DA_Barter18",
+    "name": "물물교환"
+  },
+  "DA_BearsVisit18": {
+    "category": "combat",
+    "description": "이번 전투에서 곰 원시 효과를 얻습니다.",
+    "id": "DA_BearsVisit18",
+    "name": "곰의 방문"
+  },
+  "DA_BeggarsWisp18": {
+    "category": "goldxp",
+    "description": "이번 새로고침에서는 숲의 수호령을 찾지 못했습니다. 4골드를 획득합니다.",
+    "id": "DA_BeggarsWisp18",
+    "name": "부랑자의 수호령"
+  },
+  "DA_BigBoom18": {
+    "category": "combat",
+    "description": "처음으로 처치된 아군이 폭발해 최대 체력의 25%만큼 마법 피해를 입힙니다.",
+    "id": "DA_BigBoom18",
+    "name": "커다란 한 방"
+  },
+  "DA_BigGuns18": {
+    "category": "champion",
+    "description": "무작위 4단계 1성 유닛 2명을 획득합니다.",
+    "id": "DA_BigGuns18",
+    "name": "압도적 화력"
+  },
+  "DA_BlastPotion18_Charm": {
+    "category": "misc",
+    "description": "장착 가능한 임시 폭발 물약 1개를 획득합니다.",
+    "id": "DA_BlastPotion18_Charm",
+    "name": "폭발 물약"
+  },
+  "DA_Blaze18": {
+    "category": "combat",
+    "description": "전장에 불길이 퍼져 나가 적에게 고정 피해를 입힙니다.",
+    "id": "DA_Blaze18",
+    "name": "불길"
+  },
+  "DA_BloodAndIron18": {
+    "category": "item",
+    "description": "챔피언 사망 20회 이후 조합 아이템 모루 1개를 획득합니다.",
+    "id": "DA_BloodAndIron18",
+    "name": "피와 강철"
+  },
+  "DA_BoosterShot18": {
+    "category": "combat",
+    "description": "전투 중 1성 챔피언 최대 2명의 별 레벨이 임시로 오릅니다.",
+    "id": "DA_BoosterShot18",
+    "name": "강화제 주입"
+  },
+  "DA_BorderVillage18": {
+    "category": "shop",
+    "description": "상점을 새로고침해 모두 2단계 2성 챔피언으로 채웁니다.",
+    "id": "DA_BorderVillage18",
+    "name": "변경 마을"
+  },
+  "DA_BorrowedGear18": {
+    "category": "combat",
+    "description": "챔피언이 임시 추천 아이템 1개를 획득합니다.",
+    "id": "DA_BorrowedGear18",
+    "name": "빌린 장비"
+  },
+  "DA_Bulwark18": {
+    "category": "combat",
+    "description": "아군 탱커의 체력이 50% 아래로 떨어지면 최대 체력의 20%에 해당하는 보호막을 얻습니다.",
+    "id": "DA_Bulwark18",
+    "name": "방벽"
+  },
+  "DA_BunchOBelts18": {
+    "category": "combat",
+    "description": "아군이 제거할 수 없는 임시 거인의 허리띠 7개를 얻습니다.",
+    "id": "DA_BunchOBelts18",
+    "name": "허리띠 뭉치"
+  },
+  "DA_CloneCompanion18": {
+    "category": "combat",
+    "description": "피해량이 가장 높은 아군 챔피언의 분신을 생성합니다. 분신은 20%의 피해를 입힙니다.",
+    "id": "DA_CloneCompanion18",
+    "name": "분신 동료"
+  },
+  "DA_CoinFlip18": {
+    "category": "goldxp",
+    "description": "동전을 던져 앞면이 나오면 1골드를 획득합니다.",
+    "id": "DA_CoinFlip18",
+    "name": "동전 던지기"
+  },
+  "DA_Combust18": {
+    "category": "combat",
+    "description": "아군 챔피언이 사망 시 폭발하여 최대 체력의 15%만큼 마법 피해를 입힙니다.",
+    "id": "DA_Combust18",
+    "name": "연소"
+  },
+  "DA_CurioCart18": {
+    "category": "item",
+    "description": "아이템 상점을 엽니다. 아이템 비용은 0~22골드입니다.",
+    "id": "DA_CurioCart18",
+    "name": "골동품 수레"
+  },
+  "DA_Cutpurse18": {
+    "category": "risky",
+    "description": "5초마다 아군 챔피언이 15% 확률로 1골드를 떨어뜨립니다.",
+    "id": "DA_Cutpurse18",
+    "name": "소매치기"
+  },
+  "DA_DieRoll18": {
+    "category": "goldxp",
+    "description": "육면체 주사위 1개를 굴립니다. 주사위의 값에 따라 골드를 획득합니다.",
+    "id": "DA_DieRoll18",
+    "name": "주사위 굴리기"
+  },
+  "DA_Diversified18": {
+    "category": "combat",
+    "description": "활성화된 고유 특성이 아닌 특성 하나당 아군이 체력을 30 얻습니다.",
+    "id": "DA_Diversified18",
+    "name": "다각화"
+  },
+  "DA_DoodadBag18": {
+    "category": "misc",
+    "description": "방어력 및 마법 저항력 또는 체력을 영구히 부여하는 소모품 2개를 획득합니다.",
+    "id": "DA_DoodadBag18",
+    "name": "잡화 가방"
+  },
+  "DA_DoodadJar18": {
+    "category": "misc",
+    "description": "방어력 및 마법 저항력 또는 체력을 영구히 부여하는 소모품 1개를 획득합니다.",
+    "id": "DA_DoodadJar18",
+    "name": "잡화 단지"
+  },
+  "DA_DoodadSack18": {
+    "category": "misc",
+    "description": "방어력 및 마법 저항력 또는 체력을 영구히 부여하는 소모품 3개를 획득합니다.",
+    "id": "DA_DoodadSack18",
+    "name": "잡화 자루"
+  },
+  "DA_Downpour18": {
+    "category": "combat",
+    "description": "아군이 마나 재생을 2 얻습니다.",
+    "id": "DA_Downpour18",
+    "name": "폭우"
+  },
+  "DA_EssenceTheft18": {
+    "category": "risky",
+    "description": "이번 전투에서 악의 여단 정기를 50% 추가 획득합니다.",
+    "id": "DA_EssenceTheft18",
+    "name": "정기 흡수"
+  },
+  "DA_FlashFire18": {
+    "category": "shop",
+    "description": "상점을 새로고침합니다. 지옥불이 상점 슬롯 2개에 불을 붙여 업그레이드합니다.",
+    "id": "DA_FlashFire18",
+    "name": "순간 발화"
+  },
+  "DA_FlipFrenzy18": {
+    "category": "risky",
+    "description": "동전을 던져 앞면이 나오면 1골드를 획득합니다. 뒷면이 나올 때까지 계속 던집니다.",
+    "id": "DA_FlipFrenzy18",
+    "name": "뒤집기 광란"
+  },
+  "DA_Flow18": {
+    "category": "combat",
+    "description": "아군 챔피언이 10초 동안 저지 불가 상태가 되고 공격 속도를 15% 얻습니다.",
+    "id": "DA_Flow18",
+    "name": "기류"
+  },
+  "DA_ForestGuide18": {
+    "category": "champion",
+    "description": "무작위 4단계 챔피언 1명을 획득합니다.",
+    "id": "DA_ForestGuide18",
+    "name": "숲의 인도자"
+  },
+  "DA_ForestTwins18": {
+    "category": "champion",
+    "description": "보유하지 않은 2단계 챔피언 복사본 2명을 획득합니다.",
+    "id": "DA_ForestTwins18",
+    "name": "숲 쌍둥이"
+  },
+  "DA_FoundFriend18": {
+    "category": "combat",
+    "description": "일시적으로 거인의 허리띠 1개를 장착한 훈련 봇을 획득합니다.",
+    "id": "DA_FoundFriend18",
+    "name": "친구 발견"
+  },
+  "DA_GiantsAura18": {
+    "category": "combat",
+    "description": "체력이 가장 높은 아군이 일정 범위에 매초 최대 체력의 2%만큼 피해를 입힙니다.",
+    "id": "DA_GiantsAura18",
+    "name": "거인의 오라"
+  },
+  "DA_GoldenGoose18": {
+    "category": "goldxp",
+    "description": "가장 높은 피해량을 입힌 챔피언이 1700의 피해를 입힐 때마다 1골드를 획득합니다.",
+    "id": "DA_GoldenGoose18",
+    "name": "황금알을 낳는 거위"
+  },
+  "DA_Grandmaster18": {
+    "category": "champion",
+    "description": "무작위 5단계 2성 챔피언 1명을 획득합니다.",
+    "id": "DA_Grandmaster18",
+    "name": "그랜드마스터"
+  },
+  "DA_GreaterChaos18": {
+    "category": "misc",
+    "description": "무작위 수호령 2마리를 사용합니다.",
+    "id": "DA_GreaterChaos18",
+    "name": "상급 혼돈"
+  },
+  "DA_GrowUp18": {
+    "category": "goldxp",
+    "description": "경험치를 10 얻습니다.",
+    "id": "DA_GrowUp18",
+    "name": "성장"
+  },
+  "DA_HandOfBaron18": {
+    "category": "combat",
+    "description": "아군이 내셔 남작 효과를 얻어 능력치가 상승합니다.",
+    "id": "DA_HandOfBaron18",
+    "name": "남작의 도움"
+  },
+  "DA_HealthPotion18_Charm": {
+    "category": "misc",
+    "description": "장착 가능한 임시 체력 물약 1개를 획득합니다.",
+    "id": "DA_HealthPotion18_Charm",
+    "name": "체력 물약"
+  },
+  "DA_HeroOfProphecy18": {
+    "category": "champion",
+    "description": "5단계 챔피언 1명을 획득합니다. 라운드마다 다시 획득합니다. 이 효과는 영구히 지속됩니다.",
+    "id": "DA_HeroOfProphecy18",
+    "name": "예언의 영웅"
+  },
+  "DA_HerosEntrance18": {
+    "category": "combat",
+    "description": "8초 후, 대기석 가장 왼쪽에 있는 챔피언이 전투에 참여하며 추천 아이템 2개를 장착합니다.",
+    "id": "DA_HerosEntrance18",
+    "name": "영웅출현"
+  },
+  "DA_Hireling18": {
+    "category": "combat",
+    "description": "추천 아이템 1개를 장착한 5단계 1성 챔피언이 일시적으로 팀에 합류합니다.",
+    "id": "DA_Hireling18",
+    "name": "하수인"
+  },
+  "DA_HomingFireflies18": {
+    "category": "combat",
+    "description": "마법사가 마나를 20 사용할 때마다 반딧불이 1마리를 소환합니다. 반딧불이는 각각 125의 마법 피해를 입힙니다.",
+    "id": "DA_HomingFireflies18",
+    "name": "유도 반딧불이"
+  },
+  "DA_Hugify18": {
+    "category": "combat",
+    "description": "가장 체력이 높은 아군 유닛이 성장하여 체력을 350 얻습니다.",
+    "id": "DA_Hugify18",
+    "name": "거대화"
+  },
+  "DA_IdleCraftsman18": {
+    "category": "item",
+    "description": "대기석에 있는 조합 아이템 1개가 상위 완성 아이템으로 변합니다.",
+    "id": "DA_IdleCraftsman18",
+    "name": "한가한 장인"
+  },
+  "DA_ImprovedReach18": {
+    "category": "combat",
+    "description": "아군 전사 사거리가 1 증가합니다.",
+    "id": "DA_ImprovedReach18",
+    "name": "사거리 개선"
+  },
+  "DA_IronCore18": {
+    "category": "combat",
+    "description": "아군 전방 중앙 챔피언이 전방 유닛 하나당 최대 체력을 4% 얻습니다.",
+    "id": "DA_IronCore18",
+    "name": "강철같은 핵심"
+  },
+  "DA_Ironwood18": {
+    "category": "combat",
+    "description": "체력이 가장 높은 아군 챔피언을 공격하는 적이 입히는 피해량이 10% 감소합니다.",
+    "id": "DA_Ironwood18",
+    "name": "강철나무"
+  },
+  "DA_Journeyman18": {
+    "category": "champion",
+    "description": "무작위 2단계 2성 챔피언 1명을 획득합니다.",
+    "id": "DA_Journeyman18",
+    "name": "떠돌이"
+  },
+  "DA_Jungling18": {
+    "category": "shop",
+    "description": "상점이 협곡야수로 뒤덮입니다.",
+    "id": "DA_Jungling18",
+    "name": "정글링"
+  },
+  "DA_KillersRegret18": {
+    "category": "combat",
+    "description": "이번 라운드에서 처음으로 사망하는 아군 챔피언 3명이 처치자를 1.25초 동안 기절시킵니다.",
+    "id": "DA_KillersRegret18",
+    "name": "살인자의 후회"
+  },
+  "DA_KnickKnackBag18": {
+    "category": "misc",
+    "description": "공격력 또는 공격 속도를 영구히 부여하는 소모품 2개를 획득합니다.",
+    "id": "DA_KnickKnackBag18",
+    "name": "잡동사니 가방"
+  },
+  "DA_KnickKnackJar18": {
+    "category": "misc",
+    "description": "공격력 또는 공격 속도를 영구히 부여하는 소모품 1개를 획득합니다.",
+    "id": "DA_KnickKnackJar18",
+    "name": "잡동사니 단지"
+  },
+  "DA_KnickKnackSack18": {
+    "category": "misc",
+    "description": "공격력 또는 공격 속도를 영구히 부여하는 소모품 3개를 획득합니다.",
+    "id": "DA_KnickKnackSack18",
+    "name": "잡동사니 자루"
+  },
+  "DA_LateBloomer18": {
+    "category": "combat",
+    "description": "1단계 3성 챔피언이 일시적으로 아군에 합류합니다.",
+    "id": "DA_LateBloomer18",
+    "name": "대기만성"
+  },
+  "DA_LesserChaos18": {
+    "category": "misc",
+    "description": "무작위 수호령 1마리를 사용합니다.",
+    "id": "DA_LesserChaos18",
+    "name": "하급 혼돈"
+  },
+  "DA_LivingSoil18": {
+    "category": "combat",
+    "description": "4초마다 뿌리가 적 1명을 1초 동안 기절시킵니다.",
+    "id": "DA_LivingSoil18",
+    "name": "살아있는 토양"
+  },
+  "DA_Lucky718": {
+    "category": "shop",
+    "description": "상점 새로고침을 7회 얻습니다.",
+    "id": "DA_Lucky718",
+    "name": "행운의 7"
+  },
+  "DA_ManaPotion18_Charm": {
+    "category": "misc",
+    "description": "장착 가능한 임시 마나 물약 1개를 획득합니다.",
+    "id": "DA_ManaPotion18_Charm",
+    "name": "마나 물약"
+  },
+  "DA_ManaRichSoil18": {
+    "category": "combat",
+    "description": "아군 마법사의 최대 마나가 15% 감소합니다.",
+    "id": "DA_ManaRichSoil18",
+    "name": "마나가 풍부한 토양"
+  },
+  "DA_MarksmensGale18": {
+    "category": "combat",
+    "description": "아군 원거리 딜러가 기본 공격 시 중첩되는 공격 속도를 3% 얻습니다.",
+    "id": "DA_MarksmensGale18",
+    "name": "원거리 딜러의 돌풍"
+  },
+  "DA_MarksmensMarks18": {
+    "category": "combat",
+    "description": "아군 원거리 딜러가 30% 확률로 이중 공격합니다.",
+    "id": "DA_MarksmensMarks18",
+    "name": "원거리 딜러의 표식"
+  },
+  "DA_MemorialDummy18": {
+    "category": "combat",
+    "description": "처음 사망하는 아이템을 장착한 탱커가 자신의 아이템을 장착한 훈련 봇을 소환합니다.",
+    "id": "DA_MemorialDummy18",
+    "name": "추모 훈련 봇"
+  },
+  "DA_MiddlePath18": {
+    "category": "shop",
+    "description": "상점을 새로고침해 모두 3단계 2성 챔피언으로 채웁니다.",
+    "id": "DA_MiddlePath18",
+    "name": "중도"
+  },
+  "DA_MoonlightRitual18": {
+    "category": "combat",
+    "description": "전투 중 별 레벨이 가장 낮은 아군 1단계 또는 2단계 챔피언의 별 레벨이 오릅니다.",
+    "id": "DA_MoonlightRitual18",
+    "name": "월광 의식"
+  },
+  "DA_NaturesAlly18": {
+    "category": "combat",
+    "description": "아군이 3회 사망할 때마다 무작위 협곡야수 1마리를 소환합니다.",
+    "id": "DA_NaturesAlly18",
+    "name": "자연의 지원군"
+  },
+  "DA_NaturesWrath18": {
+    "category": "combat",
+    "description": "10초 후 아이템이 없는 모든 유닛을 처치합니다.",
+    "id": "DA_NaturesWrath18",
+    "name": "자연의 분노"
+  },
+  "DA_Peddler18": {
+    "category": "item",
+    "description": "무작위 아이템 상점을 엽니다. 무작위 아이템 비용은 0~14골드입니다.",
+    "id": "DA_Peddler18",
+    "name": "행상인"
+  },
+  "DA_PetrifiedDummy18": {
+    "category": "combat",
+    "description": "처음으로 사망하는 아군 챔피언이 방어 능력치를 유지한 채 체력이 900인 훈련 봇으로 변합니다.",
+    "id": "DA_PetrifiedDummy18",
+    "name": "석화된 훈련 봇"
+  },
+  "DA_PetrifyShields18": {
+    "category": "combat",
+    "description": "10초 동안 적을 10% 둔화시키고 보호막을 20% 감소시킵니다.",
+    "id": "DA_PetrifyShields18",
+    "name": "보호막 마비"
+  },
+  "DA_PhantomArmor18": {
+    "category": "combat",
+    "description": "임시 워모그의 갑옷 1개를 획득합니다.",
+    "id": "DA_PhantomArmor18",
+    "name": "유령 갑옷"
+  },
+  "DA_PhantomEmblem18": {
+    "category": "combat",
+    "description": "가장 많이 활성화된 아군 특성의 임시 상징을 획득합니다.",
+    "id": "DA_PhantomEmblem18",
+    "name": "유령 상징"
+  },
+  "DA_PhantomGloves18": {
+    "category": "combat",
+    "description": "임시 도적의 장갑 1개를 획득합니다.",
+    "id": "DA_PhantomGloves18",
+    "name": "유령 장갑"
+  },
+  "DA_PhantomSplash18": {
+    "category": "combat",
+    "description": "전투 시작: 비활성화된 특성 최대 2개가 가장 낮은 등급으로 활성화됩니다.",
+    "id": "DA_PhantomSplash18",
+    "name": "환영 조합"
+  },
+  "DA_PhantomVest18": {
+    "category": "combat",
+    "description": "임시 덤불 조끼 1개를 획득합니다.",
+    "id": "DA_PhantomVest18",
+    "name": "유령 조끼"
+  },
+  "DA_PlatedShields18": {
+    "category": "combat",
+    "description": "보호막 효과가 15% 증가합니다. 아군이 10초 동안 150의 보호막을 얻습니다.",
+    "id": "DA_PlatedShields18",
+    "name": "도금 보호막"
+  },
+  "DA_Potioncraft18": {
+    "category": "misc",
+    "description": "장착 가능한 임시 물약 3개를 획득합니다.",
+    "id": "DA_Potioncraft18",
+    "name": "물약 제조"
+  },
+  "DA_PottedLifebloom18": {
+    "category": "combat",
+    "description": "임시 생명꽃 1개를 획득합니다.",
+    "id": "DA_PottedLifebloom18",
+    "name": "생명꽃 화분"
+  },
+  "DA_PottedStonebark18": {
+    "category": "combat",
+    "description": "임시 돌껍질 나무 1개를 획득합니다.",
+    "id": "DA_PottedStonebark18",
+    "name": "돌껍질 화분"
+  },
+  "DA_Quicken18": {
+    "category": "combat",
+    "description": "스킬 사용 시 아군 챔피언이 3초 동안 공격 속도를 30% 얻습니다.",
+    "id": "DA_Quicken18",
+    "name": "가속"
+  },
+  "DA_Rain18": {
+    "category": "combat",
+    "description": "아군이 마나 재생을 1 얻습니다.",
+    "id": "DA_Rain18",
+    "name": "비"
+  },
+  "DA_RefreshingLight18": {
+    "category": "shop",
+    "description": "서로 다른 햇빛 챔피언 별 레벨당 무료 새로고침을 얻습니다.",
+    "id": "DA_RefreshingLight18",
+    "name": "상쾌한 빛"
+  },
+  "DA_Regeneration18": {
+    "category": "combat",
+    "description": "아군이 매초 최대 체력의 1%만큼 체력을 회복합니다.",
+    "id": "DA_Regeneration18",
+    "name": "재생"
+  },
+  "DA_Revenge18": {
+    "category": "combat",
+    "description": "아군이 사망할 때마다 아군 챔피언이 피해 증폭을 4% 얻습니다. (중첩 가능)",
+    "id": "DA_Revenge18",
+    "name": "복수"
+  },
+  "DA_RideTheWave18": {
+    "category": "shop",
+    "description": "이번 라운드의 다음 2회의 새로고침에 지난 전투에 배치했던 챔피언이 2명 이상 포함됩니다.",
+    "id": "DA_RideTheWave18",
+    "name": "파도를 타고"
+  },
+  "DA_RollingBones18": {
+    "category": "shop",
+    "description": "적을 처치할 때마다 50% 확률로 무료 새로고침을 1회 얻습니다.",
+    "id": "DA_RollingBones18",
+    "name": "주사위의 향연"
+  },
+  "DA_RolyPolys18": {
+    "category": "shop",
+    "description": "18초 후 생존한 아군 챔피언 1명당 새로고침을 1회 얻습니다.",
+    "id": "DA_RolyPolys18",
+    "name": "오뚝이"
+  },
+  "DA_Salvager18": {
+    "category": "misc",
+    "description": "대기석에 있는 유닛이 장착한 모든 아이템이 해제 및 분해됩니다.",
+    "id": "DA_Salvager18",
+    "name": "재활용 전문가"
+  },
+  "DA_Scrappy18": {
+    "category": "combat",
+    "description": "전투 시작: 아이템을 장착하지 않은 챔피언 2명이 임시 추천 아이템 1개를 획득합니다.",
+    "id": "DA_Scrappy18",
+    "name": "고물 모으기"
+  },
+  "DA_SearchParty18": {
+    "category": "shop",
+    "description": "이번 라운드에서 상점마다 4단계 유닛이 1명 등장합니다. 구매하기 전까지 유지됩니다.",
+    "id": "DA_SearchParty18",
+    "name": "수색대"
+  },
+  "DA_SlowStudy18": {
+    "category": "goldxp",
+    "description": "15초 후 생존한 아군 챔피언 1명당 경험치를 2 얻습니다.",
+    "id": "DA_SlowStudy18",
+    "name": "느긋한 학습"
+  },
+  "DA_Smurfing18": {
+    "category": "champion",
+    "description": "무작위 5단계 챔피언 1명을 획득합니다.",
+    "id": "DA_Smurfing18",
+    "name": "균형 붕괴"
+  },
+  "DA_Snacktime18": {
+    "category": "combat",
+    "description": "커다란 털뭉치 친구가 최대 체력 15% 아래인 적에게 피해를 입히면 잡아먹습니다.",
+    "id": "DA_Snacktime18",
+    "name": "간식 시간!"
+  },
+  "DA_SolarGift18": {
+    "category": "champion",
+    "description": "레오나, 세주아니, 케일을 획득합니다.",
+    "id": "DA_SolarGift18",
+    "name": "햇빛 선물"
+  },
+  "DA_SolitudesCloak18": {
+    "category": "combat",
+    "description": "인접한 아군이 없는 챔피언이 최대 체력을 10%, 피해 증폭을 10% 얻습니다.",
+    "id": "DA_SolitudesCloak18",
+    "name": "고독의 망토"
+  },
+  "DA_StandAlone18": {
+    "category": "combat",
+    "description": "가로 열에 혼자 있는 챔피언이 체력을 15%, 피해 증폭을 15% 얻습니다.",
+    "id": "DA_StandAlone18",
+    "name": "홀로서기"
+  },
+  "DA_StartingTown18": {
+    "category": "shop",
+    "description": "상점을 새로고침해 모두 1단계 2성 챔피언으로 채웁니다.",
+    "id": "DA_StartingTown18",
+    "name": "시작 마을"
+  },
+  "DA_Stealthy18": {
+    "category": "combat",
+    "description": "가장 강한 아군 전사 또는 암살자 2명이 6초 동안 대상으로 지정할 수 없는 상태가 됩니다.",
+    "id": "DA_Stealthy18",
+    "name": "은밀함"
+  },
+  "DA_Terraforming18": {
+    "category": "misc",
+    "description": "전투 시작 시 씨앗 5개를 획득합니다.",
+    "id": "DA_Terraforming18",
+    "name": "지구화"
+  },
+  "DA_ThingamajigBag18": {
+    "category": "misc",
+    "description": "주문력 또는 마나 재생을 영구히 부여하는 소모품 2개를 획득합니다.",
+    "id": "DA_ThingamajigBag18",
+    "name": "물품 가방"
+  },
+  "DA_ThingamajigJar18": {
+    "category": "misc",
+    "description": "주문력 또는 마나 재생을 영구히 부여하는 소모품 1개를 획득합니다.",
+    "id": "DA_ThingamajigJar18",
+    "name": "물품 단지"
+  },
+  "DA_ThingamajigSack18": {
+    "category": "misc",
+    "description": "주문력 또는 마나 재생을 영구히 부여하는 소모품 3개를 획득합니다.",
+    "id": "DA_ThingamajigSack18",
+    "name": "물품 자루"
+  },
+  "DA_ThreeMe18": {
+    "category": "champion",
+    "description": "무작위 3단계 2성 챔피언 1명을 획득합니다.",
+    "id": "DA_ThreeMe18",
+    "name": "3단계와 함께"
+  },
+  "DA_TigersVisit18_Wisp": {
+    "category": "combat",
+    "description": "이번 전투에서 호랑이 원시 효과를 얻습니다.",
+    "id": "DA_TigersVisit18_Wisp",
+    "name": "호랑이의 방문"
+  },
+  "DA_TrainingYard18": {
+    "category": "combat",
+    "description": "각각 무작위 탱커 아이템 1개를 장착한 훈련 봇 2개를 획득합니다.",
+    "id": "DA_TrainingYard18",
+    "name": "훈련장"
+  },
+  "DA_TreetopArchers": {
+    "category": "combat",
+    "description": "궁수들이 나무 위에서 화살을 발사해 3초마다 500의 물리 피해를 입힙니다.",
+    "id": "DA_TreetopArchers",
+    "name": "나무 위 궁수"
+  },
+  "DA_TrophyHunter18": {
+    "category": "risky",
+    "description": "다음 플레이어 대상 전투에서 아군 경쟁자 처치 관여가 두 배로 계산됩니다.",
+    "id": "DA_TrophyHunter18",
+    "name": "전리품 수집가"
+  },
+  "DA_TurtlesVisit18": {
+    "category": "combat",
+    "description": "이번 전투에서 거북이 원시 효과를 얻습니다.",
+    "id": "DA_TurtlesVisit18",
+    "name": "거북이의 방문"
+  },
+  "DA_WrappedInThorns18": {
+    "category": "combat",
+    "description": "아군 탱커가 4초마다 받은 피해량의 12%를 인접한 적에게 반사합니다.",
+    "id": "DA_WrappedInThorns18",
+    "name": "둘러싼 가시덤불"
+  }
+}

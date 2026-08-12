@@ -1,0 +1,2592 @@
+{
+  "DA_18_EmblemBlackthorn": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi une Ronce-obscure.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemBlackthorn.webp?v=4",
+    "id": "DA_18_EmblemBlackthorn",
+    "name": "Emblème de Ronce-obscure"
+  },
+  "DA_18_EmblemBlossom": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi une Fleur spirituelle.",
+    "effects": {
+      "AD": 0.1,
+      "AP": 10,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemBlossom.webp?v=4",
+    "id": "DA_18_EmblemBlossom",
+    "name": "Emblème de Fleur spirituelle"
+  },
+  "DA_18_EmblemBrawler": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Bagarreur.\n\nSes attaques infligent 2.5% de ses PV max sous forme de dégâts magiques.",
+    "effects": {
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemBrawler.webp?v=4",
+    "id": "DA_18_EmblemBrawler",
+    "name": "Emblème de Bagarreur"
+  },
+  "DA_18_EmblemCoven": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur devient aussi un membre de l'Assemblée.",
+    "effects": {
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemCoven.webp?v=4",
+    "id": "DA_18_EmblemCoven",
+    "name": "Emblème de l'Assemblée"
+  },
+  "DA_18_EmblemDefender": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur devient aussi un Défenseur.\n\nDébut du combat : il gagne 6% de vitesse d'attaque pour chaque allié qui commence sur la première rangée.",
+    "effects": {
+      "Armor": 30,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemDefender.webp?v=4",
+    "id": "DA_18_EmblemDefender",
+    "name": "Emblème de Défenseur"
+  },
+  "DA_18_EmblemElderwood": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Sylvestre.",
+    "effects": {
+      "Armor": 35,
+      "AttackSpeed": 0.25,
+      "MagicResist": 35
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemElderwood.webp?v=4",
+    "id": "DA_18_EmblemElderwood",
+    "name": "Emblème de Sylvestre"
+  },
+  "DA_18_EmblemExecutioner": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Exécuteur.\n\nSes dégâts exécutent les ennemis ayant moins de 12% de leurs PV max.",
+    "effects": {
+      "CritChance": 20,
+      "CritDamage": 10
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemExecutioner.webp?v=4",
+    "id": "DA_18_EmblemExecutioner",
+    "name": "Emblème d'Exécuteur"
+  },
+  "DA_18_EmblemFae": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Fæ.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemFae.webp?v=4",
+    "id": "DA_18_EmblemFae",
+    "name": "Emblème de Fæ"
+  },
+  "DA_18_EmblemFloraFatalis": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur devient aussi un Flora fatalis.",
+    "effects": {
+      "Health": 250,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemFloraFatalis.webp?v=4",
+    "id": "DA_18_EmblemFloraFatalis",
+    "name": "Emblème de Flora fatalis"
+  },
+  "DA_18_EmblemFloraFatalisAugment": {
+    "category": "emblem",
+    "description": "",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_18_EmblemFloraFatalisAugment.webp?v=4",
+    "id": "DA_18_EmblemFloraFatalisAugment",
+    "name": "Flore vorace"
+  },
+  "DA_18_EmblemHunter": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Chasseur. Il gagne 18% de dégâts d'attaque après une élimination.",
+    "effects": {
+      "AD": 0.3
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemHunter.webp?v=4",
+    "id": "DA_18_EmblemHunter",
+    "name": "Emblème de Chasseur"
+  },
+  "DA_18_EmblemInferno": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_RecurveBow"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Infernal.",
+    "effects": {
+      "AttackSpeed": 0.4
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemInferno.webp?v=4",
+    "id": "DA_18_EmblemInferno",
+    "name": "Emblème d'Infernal"
+  },
+  "DA_18_EmblemInvoker": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Incantateur.\n\nAu lancement de sa compétence, il gagne de la puissance équivalente à 10% du mana dépensé.",
+    "effects": {
+      "ManaRegen": 3
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemInvoker.webp?v=4",
+    "id": "DA_18_EmblemInvoker",
+    "name": "Emblème d'Incantateur"
+  },
+  "DA_18_EmblemJuggernaut": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur devient aussi un Colosse.\n\nIl gagne 15 pts de mana à chaque fois qu'un Colosse est éliminé.",
+    "effects": {
+      "Health": 400
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemJuggernaut.webp?v=4",
+    "id": "DA_18_EmblemJuggernaut",
+    "name": "Emblème de Colosse"
+  },
+  "DA_18_EmblemLunar": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Lunaire.",
+    "effects": {
+      "AttackSpeed": 0.2,
+      "ManaRegen": 3
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemLunar.webp?v=4",
+    "id": "DA_18_EmblemLunar",
+    "name": "Emblème de Lunaire"
+  },
+  "DA_18_EmblemPrimal": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Primitif.",
+    "effects": {
+      "AttackSpeed": 0.25,
+      "CritChance": 20,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemPrimal.webp?v=4",
+    "id": "DA_18_EmblemPrimal",
+    "name": "Emblème de Primitif"
+  },
+  "DA_18_EmblemRapidfire": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_RecurveBow"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Ultrarapide.\n\nSes attaques infligent des dégâts bruts équivalents à 1% des PV max de la cible.",
+    "effects": {
+      "AttackSpeed": 0.2
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemRapidfire.webp?v=4",
+    "id": "DA_18_EmblemRapidfire",
+    "name": "Emblème d'Ultrarapide"
+  },
+  "DA_18_EmblemSlayer": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Saccageur.\n\nIl gagne 3% d'amplification des dégâts par tranche de 300 PV récupérés.",
+    "effects": {
+      "AD": 0.2,
+      "AP": 20,
+      "Armor": 20,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemSlayer.webp?v=4",
+    "id": "DA_18_EmblemSlayer",
+    "name": "Emblème de Saccageur"
+  },
+  "DA_18_EmblemSpellweaver": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Tisseur de sorts.\n\nIl gagne 2 de mana chaque fois qu'un allié lance une compétence.",
+    "effects": {
+      "AP": 25
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemSpellweaver.webp?v=4",
+    "id": "DA_18_EmblemSpellweaver",
+    "name": "Emblème de Tisseur de sorts"
+  },
+  "DA_18_EmblemSprykin": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Ami de la forêt.\n\nSi le porteur chevauche l'AMI, il gagne un bonus de 30%{{icon:scaleAS}} 20{{icon:scaleArmor}} 20{{icon:scaleMR}}.",
+    "effects": {
+      "Armor": 20,
+      "AttackSpeed": 0.1,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemSprykin.webp?v=4",
+    "id": "DA_18_EmblemSprykin",
+    "name": "Emblème d'Ami de la forêt"
+  },
+  "DA_18_EmblemVanguard": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur devient aussi un Initiateur.\n\nSi le porteur survit 20 sec lors d'un combat contre un joueur, vous gagnez 1 PV de Tacticien.",
+    "effects": {
+      "Armor": 30,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemVanguard.webp?v=4",
+    "id": "DA_18_EmblemVanguard",
+    "name": "Emblème d'Initiateur"
+  },
+  "DA_AdaptiveHelm": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne 15% de mana bonus, toutes sources confondues. Le porteur gagne un bonus supplémentaire en fonction de son rôle :\n\nTanks et combattants : gagne 30 d'armure et de résistance magique.\n\nAutres rôles : gagne 10% de dégâts d'attaque et de puissance.",
+    "effects": {
+      "MagicResist": 20,
+      "ManaRegen": 3
+    },
+    "icon": "/set18/item-webp/DA_AdaptiveHelm.webp?v=4",
+    "id": "DA_AdaptiveHelm",
+    "name": "Casque adaptatif"
+  },
+  "DA_AdaptiveHelm_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 30% de mana bonus, toutes sources confondues. Le porteur gagne un bonus supplémentaire en fonction de son rôle :\n\nTanks et combattants : gagne 80 d'armure et de résistance magique.\n\nAutres rôles : gagne 40% de dégâts d'attaque et de puissance.",
+    "effects": {
+      "MagicResist": 40,
+      "ManaRegen": 7
+    },
+    "icon": "/set18/item-webp/DA_AdaptiveHelm_Radiant.webp?v=4",
+    "id": "DA_AdaptiveHelm_Radiant",
+    "name": "Casque adaptatif de la lumière"
+  },
+  "DA_ArchangelsStaff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Début du combat : le porteur gagne 20 % de puissance toutes les 5 sec en combat.",
+    "effects": {
+      "AP": 30,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_ArchangelsStaff.webp?v=4",
+    "id": "DA_ArchangelsStaff",
+    "name": "Bâton de l'archange"
+  },
+  "DA_ArchangelsStaffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Début du combat : le porteur gagne 40 % de puissance toutes les 5 sec en combat.",
+    "effects": {
+      "AP": 60,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_ArchangelsStaffRadiant.webp?v=4",
+    "id": "DA_ArchangelsStaffRadiant",
+    "name": "Bâton de l'archange de la lumière"
+  },
+  "DA_Artifact_AegisOfDawn": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Toutes les 2.5 sec, le porteur vole 3 d'armure aux ennemis dans un rayon de 1 hexagone et se soigne de de son armure.\n\nSi le porteur est également équipé d'une Égide du crépuscule, l'effet de cet objet est déclenché toutes les 1.25 sec à la place.\n\nLes soins augmentent en fonction de la phase.",
+    "effects": {
+      "Armor": 50,
+      "Health": 400
+    },
+    "icon": "/set18/item-webp/DA_Artifact_AegisOfDawn.webp?v=4",
+    "id": "DA_Artifact_AegisOfDawn",
+    "name": "Égide de l'aube"
+  },
+  "DA_Artifact_AegisOfDusk": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Toutes les 2.5 sec, le porteur vole 3 de résistance magique aux ennemis dans un rayon de 1 hexagone et inflige des dégâts magiques équivalents à 15% de la résistance magique du porteur.\n\nSi le porteur est également équipé d'une Égide du crépuscule, l'effet de cet objet est déclenché toutes les 1.25 sec à la place.\n\nLes dégâts augmentent en fonction de la phase.",
+    "effects": {
+      "Health": 400,
+      "MagicResist": 70
+    },
+    "icon": "/set18/item-webp/DA_Artifact_AegisOfDusk.webp?v=4",
+    "id": "DA_Artifact_AegisOfDusk",
+    "name": "Égide du crépuscule"
+  },
+  "DA_Artifact_BlightingJewel": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Infliger des dégâts magiques réduit de 4 la résistance magique de la cible. Si la résistance magique de la cible est déjà à 0, le porteur récupère 4 pts de mana à la place.\n\nLes dégâts des compétences ne peuvent se déclencher que sur un ennemi toutes les 0.5 sec.",
+    "effects": {
+      "AP": 30,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_BlightingJewel.webp?v=4",
+    "id": "DA_Artifact_BlightingJewel",
+    "name": "Joyau putréfiant"
+  },
+  "DA_Artifact_CappaJuice": {
+    "category": "artifact",
+    "description": "",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_Artifact_CappaJuice.webp?v=4",
+    "id": "DA_Artifact_CappaJuice",
+    "name": "Cappa Juice"
+  },
+  "DA_Artifact_Dawncore": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Réduit le mana max du porteur de 10. Les compétences suivantes réduisent son mana max de 4 %, jusqu'à un minimum de 10.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Dawncore.webp?v=4",
+    "id": "DA_Artifact_Dawncore",
+    "name": "Cœur de l'aube"
+  },
+  "DA_Artifact_DeathsDefiance": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "50 % des dégâts qui devraient être infligés au porteur sont à la place subis en 4 sec sous forme de dégâts non mortels.\n\n[Unique - Un seul exemplaire par champion.]",
+    "effects": {
+      "AD": 0.25,
+      "Armor": 40,
+      "AttackSpeed": 0.15
+    },
+    "icon": "/set18/item-webp/DA_Artifact_DeathsDefiance.webp?v=4",
+    "id": "DA_Artifact_DeathsDefiance",
+    "name": "Refus de la mort"
+  },
+  "DA_Artifact_EternalPact": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Début du combat : le porteur conclut un pacte avec le champion allié ayant le plus de PV. Si l'allié meurt, le porteur gagne 10 de régénération de mana et 40% de puissance.\n\nLorsque l'allié utilise sa compétence, le porteur gagne 15 pts de mana. Toutes les 6 sec, le porteur octroie à l'allié un bouclier de 200% de sa puissance.",
+    "effects": {
+      "AP": 40,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Artifact_EternalPact.webp?v=4",
+    "id": "DA_Artifact_EternalPact",
+    "name": "Pacte éternel"
+  },
+  "DA_Artifact_Fishbones": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 2 de portée d'attaque et force chacune de ses attaques à cibler un ennemi aléatoire.",
+    "effects": {
+      "AD": 0.3,
+      "AttackSpeed": 0.3
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Fishbones.webp?v=4",
+    "id": "DA_Artifact_Fishbones",
+    "name": "Poiscaille"
+  },
+  "DA_Artifact_ForbiddenIdol": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Convertit 35% de la valeur des boucliers en PV max à la place.",
+    "effects": {
+      "Health": 350,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_ForbiddenIdol.webp?v=4",
+    "id": "DA_Artifact_ForbiddenIdol",
+    "name": "Idole interdite"
+  },
+  "DA_Artifact_GamblersBlade": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 1% de vitesse d'attaque bonus par PO que vous avez en banque (jusqu'à 30 PO).\n\nChacune de ses attaques a 6% de chances de vous faire gagner 1 PO.\n\nPO générées cette partie :\n\nUnique - Un seul exemplaire par champion.",
+    "effects": {
+      "AttackSpeed": 0.55
+    },
+    "icon": "/set18/item-webp/DA_Artifact_GamblersBlade.webp?v=4",
+    "id": "DA_Artifact_GamblersBlade",
+    "name": "Lame du parieur"
+  },
+  "DA_Artifact_GoldCollector": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les attaques et les compétences du porteur exécutent les ennemis qui ont moins de 12% de leurs PV max. Chaque exécution sur un champion a 33% de chances de générer 1 PO.\n\nPO obtenues :\n\nUnique - Un seul exemplaire par champion.",
+    "effects": {
+      "AD": 0.4,
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_Artifact_GoldCollector.webp?v=4",
+    "id": "DA_Artifact_GoldCollector",
+    "name": "Collecteur d'or"
+  },
+  "DA_Artifact_HellfireHatchet": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les attaques infligent 3% des PV max du porteur en dégâts physiques bonus. Tous les 1% PV manquants, le porteur gagne 1.5% de vitesse d'attaque.",
+    "effects": {
+      "Health": 400
+    },
+    "icon": "/set18/item-webp/DA_Artifact_HellfireHatchet.webp?v=4",
+    "id": "DA_Artifact_HellfireHatchet",
+    "name": "Hachette infernale"
+  },
+  "DA_Artifact_HorizonFocus": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Étourdir un ennemi le frappe aussi avec un éclair, lui infligeant des dégâts magiques équivalents à 30% de ses PV max.",
+    "effects": {
+      "Armor": 20,
+      "Health": 250,
+      "MagicResist": 20,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_HorizonFocus.webp?v=4",
+    "id": "DA_Artifact_HorizonFocus",
+    "name": "Concentration lointaine"
+  },
+  "DA_Artifact_Hullcrusher": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Début du combat : si le porteur n'a pas d'allié adjacent, il gagne 400 PV, 10% de dégâts d'attaque et 10% de puissance.",
+    "effects": {
+      "Armor": 60,
+      "MagicResist": 60
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Hullcrusher.webp?v=4",
+    "id": "DA_Artifact_Hullcrusher",
+    "name": "Fracasse-coques"
+  },
+  "DA_Artifact_InfinityForce": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Des tonnes de TOUT !",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "Armor": 30,
+      "AttackSpeed": 0.3,
+      "Health": 300,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_Artifact_InfinityForce.webp?v=4",
+    "id": "DA_Artifact_InfinityForce",
+    "name": "Force de l'infini"
+  },
+  "DA_Artifact_LichBane": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "La première attaque du porteur après chaque lancement de sa compétence inflige  pts de dégâts magiques bonus.\n\nLes dégâts augmentent au fil des phases.",
+    "effects": {
+      "AP": 55,
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_Artifact_LichBane.webp?v=4",
+    "id": "DA_Artifact_LichBane",
+    "name": "Fléau de liche"
+  },
+  "DA_Artifact_LightshieldCrest": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Toutes les 3 sec, l'allié qui a le pourcentage de PV le plus bas gagne pendant 5 sec un bouclier équivalent à 70% de l'armure et de la résistance magique combinées du porteur.\n\nÀ la mort du porteur, tous les alliés gagnent ce bouclier.",
+    "effects": {
+      "Armor": 55,
+      "MagicResist": 55
+    },
+    "icon": "/set18/item-webp/DA_Artifact_LightshieldCrest.webp?v=4",
+    "id": "DA_Artifact_LightshieldCrest",
+    "name": "Blason des Lightshield"
+  },
+  "DA_Artifact_LudensTempest": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "100% des dégâts excédentaires plus 100 sont infligés sous forme de dégâts magiques aux deux ennemis les plus proches de sa cible.",
+    "effects": {
+      "AD": 0.55,
+      "AP": 55
+    },
+    "icon": "/set18/item-webp/DA_Artifact_LudensTempest.webp?v=4",
+    "id": "DA_Artifact_LudensTempest",
+    "name": "Tempête de Luden"
+  },
+  "DA_Artifact_Manazane": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Une fois par combat : après avoir lancé sa compétence, le porteur récupère 100 pts de mana en 5 sec.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Manazane.webp?v=4",
+    "id": "DA_Artifact_Manazane",
+    "name": "Manazane"
+  },
+  "DA_Artifact_Mittens": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur rétrécit, ce qui augmente sa vitesse de déplacement et l'immunise contre les effets de ralentissement, de brûlure, et d'hémorragie.\n\nRalentissement : réduit la vitesse d'attaque.\nBrûlure : inflige un pourcentage des PV max de la cible en dégâts bruts à chaque seconde.\nHémorragie : réduit les soins reçus.",
+    "effects": {
+      "AttackSpeed": 0.65
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Mittens.webp?v=4",
+    "id": "DA_Artifact_Mittens",
+    "name": "Moufles"
+  },
+  "DA_Artifact_MogulsMail": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 1 d'armure, 1 de résistance magique et 5 PV quand il subit des dégâts (cumulable jusqu'à 35 fois).\n\nAu maximum d'effets cumulés, vous gagnez 1 PO instantanément et 1 PO toutes les 11 sec.\n\nPO générées cette partie :.\n\n[Unique - Un seul exemplaire par champion.]",
+    "effects": {
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_Artifact_MogulsMail.webp?v=4",
+    "id": "DA_Artifact_MogulsMail",
+    "name": "Mailles du magnat"
+  },
+  "DA_Artifact_NavoriFlickerblade": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les attaques du champion octroient 5% de vitesse d'attaque cumulable. Toutes les 3 attaques octroient 2% de dégâts d'attaque et 2% de puissance.",
+    "effects": {
+      "AP": 10,
+      "AttackSpeed": 0.2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_NavoriFlickerblade.webp?v=4",
+    "id": "DA_Artifact_NavoriFlickerblade",
+    "name": "Tremblelames"
+  },
+  "DA_Artifact_RapidFireCannon": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Ce champion gagne +1 de portée d'attaque, et ce bonus augmente encore de 1 chaque fois qu'il tue un ennemi.",
+    "effects": {
+      "AttackSpeed": 0.65
+    },
+    "icon": "/set18/item-webp/DA_Artifact_RapidFireCannon.webp?v=4",
+    "id": "DA_Artifact_RapidFireCannon",
+    "name": "Canon ultrarapide"
+  },
+  "DA_Artifact_SeekersArmguard": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Participer à une élimination augmente de 20 l'armure, la résistance magique et la puissance du porteur.",
+    "effects": {
+      "AP": 25,
+      "Armor": 10,
+      "MagicResist": 10
+    },
+    "icon": "/set18/item-webp/DA_Artifact_SeekersArmguard.webp?v=4",
+    "id": "DA_Artifact_SeekersArmguard",
+    "name": "Protège-bras du savant"
+  },
+  "DA_Artifact_SilvermereDawn": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur devient immunisé contre les étourdissements et ses attaques étourdissent la cible pendant 0.8 sec.\n\nLa vitesse d'attaque du porteur reste bloquée à 0.5.",
+    "effects": {
+      "AD": 1.25,
+      "Armor": 30,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_Artifact_SilvermereDawn.webp?v=4",
+    "id": "DA_Artifact_SilvermereDawn",
+    "name": "Aube de Haut-Lac-d'Argent"
+  },
+  "DA_Artifact_StatikkShiv": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Toutes les 3 attaques, le porteur inflige 15 + des dégâts magiques équivalents à 35% de la puissance du porteur à 6 ennemis.",
+    "effects": {
+      "AP": 15,
+      "AttackSpeed": 0.4
+    },
+    "icon": "/set18/item-webp/DA_Artifact_StatikkShiv.webp?v=4",
+    "id": "DA_Artifact_StatikkShiv",
+    "name": "Poignard de Statikk"
+  },
+  "DA_Artifact_TheIndomitable": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "La vitesse de déplacement du porteur est réduite de manière drastique.\n\nLe porteur gagne 15% PV max, il est inarrêtable et attire sa cible actuelle à portée de mêlée.",
+    "effects": {
+      "Health": 500,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Artifact_TheIndomitable.webp?v=4",
+    "id": "DA_Artifact_TheIndomitable",
+    "name": "L'indomptable"
+  },
+  "DA_Artifact_TitanicHydra": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les attaques infligent 4% des PV max du porteur plus 4% de ses dégâts d'attaque sous forme de dégâts physiques bonus à la cible et aux ennemis adjacents.",
+    "effects": {
+      "AD": 0.2,
+      "AttackSpeed": 0.2,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_Artifact_TitanicHydra.webp?v=4",
+    "id": "DA_Artifact_TitanicHydra",
+    "name": "Hydre titanesque"
+  },
+  "DA_Artifact_VoidGauntlet": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Début du combat : le porteur stocke 30% de PV max, puis 2.5% de plus par seconde. Lorsqu'il meurt, il inflige des dégâts magiques en fonction des PV stockés, répartis entre les ennemis dans un rayon de 4 hexagones.\n\nUnique - Un seul exemplaire par champion.",
+    "effects": {
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_Artifact_VoidGauntlet.webp?v=4",
+    "id": "DA_Artifact_VoidGauntlet",
+    "name": "Gantelet du Néant"
+  },
+  "DA_Artifact_WitsEnd": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les attaques du porteur infligent  pts de dégâts magiques bonus.\nLe porteur récupère des PV équivalents à 25 % de tous les dégâts magiques qu'il inflige.\n\nLes dégâts augmentent au fil des phases.",
+    "effects": {
+      "Armor": 20,
+      "AttackSpeed": 0.25,
+      "Health": 400,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Artifact_WitsEnd.webp?v=4",
+    "id": "DA_Artifact_WitsEnd",
+    "name": "Au bout du rouleau"
+  },
+  "DA_Artifact_ZhonyasParadox": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Une fois par combat, quand le porteur tombe à 40% de ses PV, il devient invulnérable et impossible à cibler pendant 3 sec.\n\n[Unique - Un seul exemplaire par champion.]",
+    "effects": {
+      "AP": 25,
+      "Armor": 25,
+      "MagicResist": 25
+    },
+    "icon": "/set18/item-webp/DA_Artifact_ZhonyasParadox.webp?v=4",
+    "id": "DA_Artifact_ZhonyasParadox",
+    "name": "Paradoxe de Zhonya"
+  },
+  "DA_Bloodthirster": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Une fois par combat, quand le porteur tombe sous 40% de ses PV, il gagne un bouclier de 25% de ses PV max qui dure jusqu'à 5 sec.",
+    "effects": {
+      "AD": 15,
+      "AP": 15,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Bloodthirster.webp?v=4",
+    "id": "DA_Bloodthirster",
+    "name": "Soif-de-sang"
+  },
+  "DA_BloodthirsterRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Une fois par combat, quand le porteur tombe sous 40% de ses PV, il gagne un bouclier de 50% de ses PV max qui dure jusqu'à 5 sec.",
+    "effects": {
+      "AD": 30,
+      "AP": 30,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_BloodthirsterRadiant.webp?v=4",
+    "id": "DA_BloodthirsterRadiant",
+    "name": "Soif-de-sang de la lumière"
+  },
+  "DA_BlueBuff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne 10% de dégâts d'attaque et de puissance bonus (toutes sources confondues).",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 5
+    },
+    "icon": "/set18/item-webp/DA_BlueBuff.webp?v=4",
+    "id": "DA_BlueBuff",
+    "name": "Buff bleu"
+  },
+  "DA_BlueBuffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 20% de dégâts d'attaque et de puissance bonus (toutes sources confondues).",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "ManaRegen": 10
+    },
+    "icon": "/set18/item-webp/DA_BlueBuffRadiant.webp?v=4",
+    "id": "DA_BlueBuffRadiant",
+    "name": "Buff bleu de la lumière"
+  },
+  "DA_BrambleVest": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne 6% PV max.\n\nLes attaques lui infligent 5% de dégâts en moins. Quand le porteur est touché par une attaque, il inflige 100 pts de dégâts magiques à tous les ennemis adjacents.\n\nDélai de récupération : 2 sec.",
+    "effects": {
+      "Armor": 50
+    },
+    "icon": "/set18/item-webp/DA_BrambleVest.webp?v=4",
+    "id": "DA_BrambleVest",
+    "name": "Armure roncière"
+  },
+  "DA_BrambleVestRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 12% PV max.\n\nLes attaques lui infligent 10% de dégâts en moins. Quand le porteur est touché par une attaque, il inflige 200 pts de dégâts magiques à tous les ennemis adjacents.\n\nDélai de récupération : 2 sec.",
+    "effects": {
+      "Armor": 100
+    },
+    "icon": "/set18/item-webp/DA_BrambleVestRadiant.webp?v=4",
+    "id": "DA_BrambleVestRadiant",
+    "name": "Armure roncière de la lumière"
+  },
+  "DA_Component_BFSword": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleAD}} +10% dégâts d'attaque",
+    "effects": {
+      "AD": 0.1
+    },
+    "icon": "/set18/item-webp/DA_Component_BFSword.webp?v=4",
+    "id": "DA_Component_BFSword",
+    "name": "BF Glaive"
+  },
+  "DA_Component_ChainVest": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleArmor}} +20 d'armure",
+    "effects": {
+      "Armor": 20
+    },
+    "icon": "/set18/item-webp/DA_Component_ChainVest.webp?v=4",
+    "id": "DA_Component_ChainVest",
+    "name": "Cotte de mailles"
+  },
+  "DA_Component_FryingPan": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "... pourquoi serait-elle là, sinon ?",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_Component_FryingPan.webp?v=4",
+    "id": "DA_Component_FryingPan",
+    "name": "Poêle à frire"
+  },
+  "DA_Component_GiantsBelt": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleHealth}} +150 PV",
+    "effects": {
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_Component_GiantsBelt.webp?v=4",
+    "id": "DA_Component_GiantsBelt",
+    "name": "Ceinture du géant"
+  },
+  "DA_Component_NeedlesslyLargeRod": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleAP}} +10% puissance",
+    "effects": {
+      "AP": 10
+    },
+    "icon": "/set18/item-webp/DA_Component_NeedlesslyLargeRod.webp?v=4",
+    "id": "DA_Component_NeedlesslyLargeRod",
+    "name": "Baguette trop grosse"
+  },
+  "DA_Component_NegatronCloak": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleMR}} +20 résistance magique",
+    "effects": {
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Component_NegatronCloak.webp?v=4",
+    "id": "DA_Component_NegatronCloak",
+    "name": "Manteau de Négatron"
+  },
+  "DA_Component_RecurveBow": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleAS}} +10% de vitesse d'attaque",
+    "effects": {
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_Component_RecurveBow.webp?v=4",
+    "id": "DA_Component_RecurveBow",
+    "name": "Arc courbe"
+  },
+  "DA_Component_SparringGloves": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleCrit}} +20% de chances de coup critique",
+    "effects": {
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_Component_SparringGloves.webp?v=4",
+    "id": "DA_Component_SparringGloves",
+    "name": "Gants d'entraînement"
+  },
+  "DA_Component_Spatula": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Ça doit bien servir à quelque chose...",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_Component_Spatula.webp?v=4",
+    "id": "DA_Component_Spatula",
+    "name": "Spatule"
+  },
+  "DA_Component_TearOfTheGoddess": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:TFTManaRegen}} +1 de régénération du mana",
+    "effects": {
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Component_TearOfTheGoddess.webp?v=4",
+    "id": "DA_Component_TearOfTheGoddess",
+    "name": "Larme de la déesse"
+  },
+  "DA_Crownguard": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Début du combat : le porteur gagne un bouclier de 25 % de ses PV max pendant 8 sec.\nQuand le bouclier expire, le porteur gagne 25 % de puissance.",
+    "effects": {
+      "AP": 20,
+      "Armor": 20,
+      "Health": 100
+    },
+    "icon": "/set18/item-webp/DA_Crownguard.webp?v=4",
+    "id": "DA_Crownguard",
+    "name": "Couronne de la reine"
+  },
+  "DA_CrownguardRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Début du combat : le porteur gagne un bouclier de 50 % de ses PV max pendant 8 sec.\nQuand le bouclier expire, le porteur gagne 50 % de puissance.",
+    "effects": {
+      "AP": 40,
+      "Armor": 40,
+      "Health": 200
+    },
+    "icon": "/set18/item-webp/DA_CrownguardRadiant.webp?v=4",
+    "id": "DA_CrownguardRadiant",
+    "name": "Couronne de la reine de la lumière"
+  },
+  "DA_Deathblade": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Elle procure un sentiment de paix à son porteur... et à ses victimes.",
+    "effects": {
+      "AD": 0.55
+    },
+    "icon": "/set18/item-webp/DA_Deathblade.webp?v=4",
+    "id": "DA_Deathblade",
+    "name": "Lame funeste"
+  },
+  "DA_DeathbladeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Elle brille en la présence d'ennemis. Et d'amis. Et de tout ce qui est vivant, d'ailleurs.",
+    "effects": {
+      "AD": 1
+    },
+    "icon": "/set18/item-webp/DA_DeathbladeRadiant.webp?v=4",
+    "id": "DA_DeathbladeRadiant",
+    "name": "Lame funeste de la lumière"
+  },
+  "DA_DragonsClaw": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NegatronCloak",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Ce champion gagne 6% PV max. Toutes les 2 sec, il récupère 2.5% PV max.",
+    "effects": {
+      "MagicResist": 60
+    },
+    "icon": "/set18/item-webp/DA_DragonsClaw.webp?v=4",
+    "id": "DA_DragonsClaw",
+    "name": "Griffe de dragon"
+  },
+  "DA_DragonsClawRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 28% PV max.\n\nToutes les 2 sec, il récupère 5% de ses PV max.",
+    "effects": {
+      "MagicResist": 120
+    },
+    "icon": "/set18/item-webp/DA_DragonsClawRadiant.webp?v=4",
+    "id": "DA_DragonsClawRadiant",
+    "name": "Griffe de dragon de la lumière"
+  },
+  "DA_EdgeOfNight": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Quand le porteur tombe à 60% de ses PV, il devient brièvement impossible à cibler, dissipe les effets négatifs qui l'affectent et récupère 20% de ses PV manquants.",
+    "effects": {
+      "AD": 0.1,
+      "AP": 10,
+      "Armor": 20,
+      "AttackSpeed": 0.15
+    },
+    "icon": "/set18/item-webp/DA_EdgeOfNight.webp?v=4",
+    "id": "DA_EdgeOfNight",
+    "name": "Manteau de la nuit"
+  },
+  "DA_EdgeOfNightRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Quand le porteur tombe à 60% de ses PV, il devient brièvement impossible à cibler, dissipe les effets négatifs qui l'affectent et récupère tous ses PV manquants.",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "Armor": 40,
+      "AttackSpeed": 0.3
+    },
+    "icon": "/set18/item-webp/DA_EdgeOfNightRadiant.webp?v=4",
+    "id": "DA_EdgeOfNightRadiant",
+    "name": "Manteau de la nuit de la lumière"
+  },
+  "DA_Evenshroud": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NegatronCloak",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur applique 30 % de scission sur les ennemis dans un rayon de 2 hexagones. Le porteur gagne 15 d'armure et de résistance magique pendant les 15 premières secondes de combat.\n\nScission : réduit l'armure.",
+    "effects": {
+      "Health": 250,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Evenshroud.webp?v=4",
+    "id": "DA_Evenshroud",
+    "name": "Linceul de la congruence"
+  },
+  "DA_EvenshroudRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur applique 30 % de scission sur les ennemis dans un rayon de 3 hexagones. Le porteur gagne 50  d'armure et de résistance magique pendant les 20 premières secondes de combat.\n\nScission : réduit l'armure.",
+    "effects": {
+      "Health": 500,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_EvenshroudRadiant.webp?v=4",
+    "id": "DA_EvenshroudRadiant",
+    "name": "Linceul de la congruence de la lumière"
+  },
+  "DA_GargoyleStoneplate": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne 10 d'armure et 10 de résistance magique pour chaque ennemi qui le cible.",
+    "effects": {
+      "Armor": 25,
+      "Health": 100,
+      "MagicResist": 25
+    },
+    "icon": "/set18/item-webp/DA_GargoyleStoneplate.webp?v=4",
+    "id": "DA_GargoyleStoneplate",
+    "name": "Lithoplastron de gargouille"
+  },
+  "DA_GargoyleStoneplate_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 20 d'armure et 20 de résistance magique pour chaque ennemi qui le cible.",
+    "effects": {
+      "Armor": 50,
+      "Health": 300,
+      "MagicResist": 50
+    },
+    "icon": "/set18/item-webp/DA_GargoyleStoneplate_Radiant.webp?v=4",
+    "id": "DA_GargoyleStoneplate_Radiant",
+    "name": "Lithoplastron de gargouille de la lumière"
+  },
+  "DA_GiantSlayer": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne 15% d'amplification des dégâts bonus contre les tanks.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "AttackSpeed": 0.15
+    },
+    "icon": "/set18/item-webp/DA_GiantSlayer.webp?v=4",
+    "id": "DA_GiantSlayer",
+    "name": "Tueur de géants"
+  },
+  "DA_GiantSlayer_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 30% d'amplification des dégâts bonus contre les tanks.",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "AttackSpeed": 0.3
+    },
+    "icon": "/set18/item-webp/DA_GiantSlayer_Radiant.webp?v=4",
+    "id": "DA_GiantSlayer_Radiant",
+    "name": "Tueur de géants de la lumière"
+  },
+  "DA_GuinsoosRageblade": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne 7 % de vitesse d'attaque cumulable toutes les secondes.",
+    "effects": {
+      "AP": 10,
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_GuinsoosRageblade.webp?v=4",
+    "id": "DA_GuinsoosRageblade",
+    "name": "Lame enragée de Guinsoo"
+  },
+  "DA_GuinsoosRagebladeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 16 % de vitesse d'attaque cumulable toutes les secondes.",
+    "effects": {
+      "AP": 20,
+      "AttackSpeed": 0.25
+    },
+    "icon": "/set18/item-webp/DA_GuinsoosRagebladeRadiant.webp?v=4",
+    "id": "DA_GuinsoosRagebladeRadiant",
+    "name": "Lame enragée de Guinsoo de la lumière"
+  },
+  "DA_HandOfJustice": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne 2 effets :\n• 15% de dégâts d'attaque et 15% de puissance.\n• 12% d'omnivampirisme.\n\nQuand il a plus de 50% de ses PV, ces dégâts d'attaque et cette puissance sont doublés. Quand il a moins de 50% de ses PV, l'omnivampirisme est doublé.",
+    "effects": {
+      "CritChance": 20,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_HandOfJustice.webp?v=4",
+    "id": "DA_HandOfJustice",
+    "name": "Main de la justice"
+  },
+  "DA_HandOfJusticeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 2 effets :\n• 30% de dégâts d'attaque et 30% de puissance.\n• 24% d'omnivampirisme.\n\nQuand il a plus de 50% de ses PV, ces dégâts d'attaque et cette puissance sont doublés. Quand il a moins de 50% de ses PV, l'omnivampirisme est doublé.",
+    "effects": {
+      "CritChance": 40,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_HandOfJusticeRadiant.webp?v=4",
+    "id": "DA_HandOfJusticeRadiant",
+    "name": "Main de la justice de la lumière"
+  },
+  "DA_HextechGunblade": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur rend des PV équivalents à 20% des dégâts qu'il inflige à l'allié qui a le pourcentage de PV le plus bas.\n\nSoins aux alliés :",
+    "effects": {
+      "AD": 0.2,
+      "AP": 20,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_HextechGunblade.webp?v=4",
+    "id": "DA_HextechGunblade",
+    "name": "Pistolame Hextech"
+  },
+  "DA_HextechGunbladeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur rend des PV équivalents à 40% des dégâts qu'il inflige à l'allié qui a le pourcentage de PV le plus bas.\n\nSoins aux alliés :",
+    "effects": {
+      "AD": 0.4,
+      "AP": 40,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_HextechGunbladeRadiant.webp?v=4",
+    "id": "DA_HextechGunbladeRadiant",
+    "name": "Pistolame Hextech de la lumière"
+  },
+  "DA_InfinityEdge": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne Précision.\n\nPrécision : les dégâts des compétences peuvent infliger un coup critique. La Précision supplémentaire octroie 10 % de dégâts de coup critique.",
+    "effects": {
+      "AD": 0.35,
+      "CritChance": 35
+    },
+    "icon": "/set18/item-webp/DA_InfinityEdge.webp?v=4",
+    "id": "DA_InfinityEdge",
+    "name": "Lame d'infini"
+  },
+  "DA_InfinityEdgeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne Précision.\n\nPrécision : les dégâts des compétences peuvent infliger un coup critique. La Précision supplémentaire octroie 10 % de dégâts de coup critique.",
+    "effects": {
+      "AD": 0.75,
+      "CritChance": 75
+    },
+    "icon": "/set18/item-webp/DA_InfinityEdgeRadiant.webp?v=4",
+    "id": "DA_InfinityEdgeRadiant",
+    "name": "Lame d'infini de la lumière"
+  },
+  "DA_IonicSpark": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur applique 30% de scission magique sur les ennemis dans un rayon de 2 hexagones. Quand les ennemis lancent une compétence, le porteur leur inflige des dégâts magiques équivalents à 150% du mana dépensé.\n\nScission magique : réduit la résistance magique.",
+    "effects": {
+      "AP": 15,
+      "Health": 250,
+      "MagicResist": 35
+    },
+    "icon": "/set18/item-webp/DA_IonicSpark.webp?v=4",
+    "id": "DA_IonicSpark",
+    "name": "Étincelle ionique"
+  },
+  "DA_IonicSparkRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur applique 30% de scission magique sur les ennemis dans un rayon de 2 hexagones. Quand les ennemis lancent une compétence, le porteur leur inflige des dégâts magiques équivalents à 300% du mana dépensé.\n\nScission magique : réduit la résistance magique.",
+    "effects": {
+      "AP": 30,
+      "Health": 500,
+      "MagicResist": 70
+    },
+    "icon": "/set18/item-webp/DA_IonicSparkRadiant.webp?v=4",
+    "id": "DA_IonicSparkRadiant",
+    "name": "Étincelle ionique de la lumière"
+  },
+  "DA_Item_Artifact_TalismanOfAscension": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Après 22 sec, ce champion gagne 100% de PV max, 8 de régénération de mana et 120% d'amplification des dégâts jusqu'à la fin du combat.",
+    "effects": {
+      "AD": 0.2,
+      "AP": 20,
+      "Health": 450
+    },
+    "icon": "/set18/item-webp/DA_Item_Artifact_TalismanOfAscension.webp?v=4",
+    "id": "DA_Item_Artifact_TalismanOfAscension",
+    "name": "Talisman de l'ascension"
+  },
+  "DA_JeweledGauntlet": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_SparringGloves",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne Précision.\n\nPrécision : les dégâts des compétences peuvent infliger un coup critique. La Précision supplémentaire octroie 10 % de dégâts de coup critique.",
+    "effects": {
+      "AP": 35,
+      "CritChance": 35
+    },
+    "icon": "/set18/item-webp/DA_JeweledGauntlet.webp?v=4",
+    "id": "DA_JeweledGauntlet",
+    "name": "Gantelet précieux"
+  },
+  "DA_JeweledGauntletRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne Précision.\n\nPrécision : les dégâts des compétences peuvent infliger un coup critique. La Précision supplémentaire octroie 10 % de dégâts de coup critique.",
+    "effects": {
+      "AP": 75,
+      "CritChance": 75
+    },
+    "icon": "/set18/item-webp/DA_JeweledGauntletRadiant.webp?v=4",
+    "id": "DA_JeweledGauntletRadiant",
+    "name": "Gantelet précieux de la lumière"
+  },
+  "DA_KrakensFury": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Les attaques du porteur lui octroient 3.5 % de dégâts d'attaque cumulable, jusqu'à 15 attaques. Après 15 attaques, le porteur gagne 15% de vitesse d'attaque.",
+    "effects": {
+      "AD": 0.1,
+      "AttackSpeed": 0.1,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_KrakensFury.webp?v=4",
+    "id": "DA_KrakensFury",
+    "name": "Fureur du kraken"
+  },
+  "DA_KrakensFury_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les attaques du porteur lui octroient 7 % de dégâts d'attaque cumulable, jusqu'à 15 attaques. Après 15 attaques, le porteur gagne 30% de vitesse d'attaque.",
+    "effects": {
+      "AD": 0.2,
+      "AttackSpeed": 0.2,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_KrakensFury_Radiant.webp?v=4",
+    "id": "DA_KrakensFury_Radiant",
+    "name": "Fureur du kraken de la lumière"
+  },
+  "DA_LastWhisper": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Les attaques et les compétences infligent 30 % de scission à la cible pendant 3 sec. Cet effet n'est pas cumulable.\n\nScission : réduit l'armure",
+    "effects": {
+      "AD": 0.15,
+      "AttackSpeed": 0.2,
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_LastWhisper.webp?v=4",
+    "id": "DA_LastWhisper",
+    "name": "Dernier souffle"
+  },
+  "DA_LastWhisperRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les dégâts des attaques et des compétences infligent 30 % de scission à la cible pendant le reste du combat. Cet effet n'est pas cumulable.\n\nScission : réduit l'armure",
+    "effects": {
+      "AD": 0.45,
+      "AttackSpeed": 0.4,
+      "CritChance": 40
+    },
+    "icon": "/set18/item-webp/DA_LastWhisperRadiant.webp?v=4",
+    "id": "DA_LastWhisperRadiant",
+    "name": "Dernier souffle de la lumière"
+  },
+  "DA_Morellonomicon": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Les attaques et les compétences du porteur appliquent 1 % de brûlure et 33 % d'hémorragie sur les ennemis pendant 10 sec.\n\nBrûlure : inflige chaque seconde des dégâts bruts équivalents à un pourcentage des PV max de la cible.\nHémorragie : réduit les soins reçus.",
+    "effects": {
+      "AP": 20,
+      "Health": 150,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Morellonomicon.webp?v=4",
+    "id": "DA_Morellonomicon",
+    "name": "Morellonomicon"
+  },
+  "DA_MorellonomiconRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les attaques et les compétences du porteur appliquent 2 % de brûlure et 33 % d'hémorragie sur les ennemis pendant 10 sec.\n\nBrûlure : inflige chaque seconde des dégâts bruts équivalents à un pourcentage des PV max de la cible.\nHémorragie : réduit les soins reçus.",
+    "effects": {
+      "AP": 35,
+      "Health": 300,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_MorellonomiconRadiant.webp?v=4",
+    "id": "DA_MorellonomiconRadiant",
+    "name": "Morellonomicon de la lumière"
+  },
+  "DA_NashorsTooth": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Les attaques du porteur lui octroient 2 de mana bonus, ou 4 de mana bonus en cas de coup critique.",
+    "effects": {
+      "AP": 15,
+      "AttackSpeed": 0.1,
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_NashorsTooth.webp?v=4",
+    "id": "DA_NashorsTooth",
+    "name": "Dent de Nashor"
+  },
+  "DA_NashorsToothRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les attaques du porteur lui octroient 4 de mana bonus, ou 6 de mana bonus en cas de coup critique.",
+    "effects": {
+      "AP": 30,
+      "AttackSpeed": 0.2,
+      "CritChance": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_NashorsToothRadiant.webp?v=4",
+    "id": "DA_NashorsToothRadiant",
+    "name": "Dent de Nashor de la lumière"
+  },
+  "DA_ProtectorsVow": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Début du combat : le porteur gagne 20 pts de mana.\n\nQuand le porteur tombe à 40% de PV, il gagne 15 pts de mana et un bouclier de 20% de ses PV max.",
+    "effects": {
+      "Armor": 25,
+      "MagicResist": 25,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_ProtectorsVow.webp?v=4",
+    "id": "DA_ProtectorsVow",
+    "name": "Vœu du protecteur"
+  },
+  "DA_ProtectorsVowRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Début du combat : le porteur gagne 40 pts de mana.\n\nQuand le porteur tombe à 40% de PV, il gagne 30 pts de mana et un bouclier de 50% de ses PV max.",
+    "effects": {
+      "Armor": 50,
+      "MagicResist": 50,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_ProtectorsVowRadiant.webp?v=4",
+    "id": "DA_ProtectorsVowRadiant",
+    "name": "Vœu du protecteur de la lumière"
+  },
+  "DA_Quicksilver": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NegatronCloak",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Début du combat : l'unité devient inarrêtable pendant 18 sec.\n\nLe porteur gagne 3% de vitesse d'attaque cumulable toutes les secondes.",
+    "effects": {
+      "AttackSpeed": 0.15,
+      "CritChance": 20,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Quicksilver.webp?v=4",
+    "id": "DA_Quicksilver",
+    "name": "Mercure"
+  },
+  "DA_QuicksilverRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Début du combat : l'unité devient inarrêtable pendant 45 sec.\n\nLe porteur gagne 6% de vitesse d'attaque cumulable toutes les secondes.",
+    "effects": {
+      "AttackSpeed": 0.4,
+      "CritChance": 40,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_QuicksilverRadiant.webp?v=4",
+    "id": "DA_QuicksilverRadiant",
+    "name": "Mercure de la lumière"
+  },
+  "DA_RabadonsDeathcap": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Ce modeste chapeau peut vous aider à façonner ou à détruire le monde.",
+    "effects": {
+      "AP": 55
+    },
+    "icon": "/set18/item-webp/DA_RabadonsDeathcap.webp?v=4",
+    "id": "DA_RabadonsDeathcap",
+    "name": "Coiffe de Rabadon"
+  },
+  "DA_RabadonsDeathcap_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Elle a été témoin, et responsable, d'autant de miracles que de désastres.",
+    "effects": {
+      "AP": 100
+    },
+    "icon": "/set18/item-webp/DA_RabadonsDeathcap_Radiant.webp?v=4",
+    "id": "DA_RabadonsDeathcap_Radiant",
+    "name": "Coiffe de Rabadon de la lumière"
+  },
+  "DA_RedBuff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_RecurveBow"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Les attaques et les compétences du porteur appliquent 1 % de brûlure et 33 % d'hémorragie sur les ennemis pendant 5 sec.\n\nBrûlure : inflige chaque seconde des dégâts bruts équivalents à un pourcentage des PV max de la cible.\nHémorragie : réduit les soins reçus.",
+    "effects": {
+      "AttackSpeed": 0.45
+    },
+    "icon": "/set18/item-webp/DA_RedBuff.webp?v=4",
+    "id": "DA_RedBuff",
+    "name": "Buff rouge"
+  },
+  "DA_RedBuffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les attaques et les compétences du porteur appliquent 2 % de brûlure et 33 % d'hémorragie sur les ennemis pendant 5 sec.\n\nBrûlure : inflige chaque seconde des dégâts bruts équivalents à un pourcentage des PV max de la cible.\nHémorragie : réduit les soins reçus.",
+    "effects": {
+      "AttackSpeed": 0.8
+    },
+    "icon": "/set18/item-webp/DA_RedBuffRadiant.webp?v=4",
+    "id": "DA_RedBuffRadiant",
+    "name": "Buff rouge de la lumière"
+  },
+  "DA_SpearOfShojin": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Les attaques du champion lui rendent 5 pts de mana bonus.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_SpearOfShojin.webp?v=4",
+    "id": "DA_SpearOfShojin",
+    "name": "Lance de Shojin"
+  },
+  "DA_SpearOfShojinRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les attaques du champion lui rendent 10 pts de mana bonus.",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_SpearOfShojinRadiant.webp?v=4",
+    "id": "DA_SpearOfShojinRadiant",
+    "name": "Lance de Shojin de la lumière"
+  },
+  "DA_SpiritVisage": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur récupère 2 % de ses PV manquants chaque seconde.",
+    "effects": {
+      "Health": 300,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_SpiritVisage.webp?v=4",
+    "id": "DA_SpiritVisage",
+    "name": "Visage spirituel"
+  },
+  "DA_SpiritVisage_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur récupère 4 % de ses PV manquants chaque seconde.",
+    "effects": {
+      "Health": 700,
+      "ManaRegen": 4
+    },
+    "icon": "/set18/item-webp/DA_SpiritVisage_Radiant.webp?v=4",
+    "id": "DA_SpiritVisage_Radiant",
+    "name": "Visage spirituel de la lumière"
+  },
+  "DA_SteadfastHeart": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne 5 % de durabilité. Quand le porteur a plus de 50% PV, il gagne à la place 15 % de durabilité.",
+    "effects": {
+      "Armor": 20,
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_SteadfastHeart.webp?v=4",
+    "id": "DA_SteadfastHeart",
+    "name": "Cœur intrépide"
+  },
+  "DA_SteadfastHeartRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 10 % de durabilité. Quand le porteur a plus de 50% PV, il gagne à la place 30 % de durabilité.",
+    "effects": {
+      "Armor": 40,
+      "CritChance": 40
+    },
+    "icon": "/set18/item-webp/DA_SteadfastHeartRadiant.webp?v=4",
+    "id": "DA_SteadfastHeartRadiant",
+    "name": "Cœur intrépide de la lumière"
+  },
+  "DA_SteraksGage": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Lorsqu'il tombe sous 60% de ses PV, le porteur gagne un bouclier de 40% de ses PV max. Ce bouclier se désagrège rapidement en 4 sec.",
+    "effects": {
+      "AD": 0.45,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_SteraksGage.webp?v=4",
+    "id": "DA_SteraksGage",
+    "name": "Gage de Sterak"
+  },
+  "DA_SteraksGageRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Lorsqu'il tombe sous 60% de ses PV, le porteur gagne un bouclier de 80% de ses PV max. Ce bouclier se désagrège rapidement en 6 sec.",
+    "effects": {
+      "AD": 0.9,
+      "Health": 600
+    },
+    "icon": "/set18/item-webp/DA_SteraksGageRadiant.webp?v=4",
+    "id": "DA_SteraksGageRadiant",
+    "name": "Gage de Sterak de la lumière"
+  },
+  "DA_StrikersFlail": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Les coups critiques octroient 5% d'amplification des dégâts pendant 5 sec, cumulable 4 fois.",
+    "effects": {
+      "AttackSpeed": 0.1,
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_StrikersFlail.webp?v=4",
+    "id": "DA_StrikersFlail",
+    "name": "Fléau vengeur"
+  },
+  "DA_StrikersFlailRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les coups critiques octroient 10% d'amplification des dégâts pendant 5 sec, cumulable 4 fois.",
+    "effects": {
+      "AttackSpeed": 0.2,
+      "CritChance": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_StrikersFlailRadiant.webp?v=4",
+    "id": "DA_StrikersFlailRadiant",
+    "name": "Fléau vengeur de la lumière"
+  },
+  "DA_SunfireCape": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Le porteur gagne 16% PV max.\n\nToutes les 2 sec, le porteur inflige applique 2 % de brûlure et 33 % d'hémorragie pendant 10 sec sur un ennemi dans un rayon de 2 hexagones.\n\nBrûlure : inflige chaque seconde des dégâts bruts équivalents à un pourcentage des PV max de la cible.\nHémorragie : réduit les soins reçus.",
+    "effects": {
+      "Armor": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_SunfireCape.webp?v=4",
+    "id": "DA_SunfireCape",
+    "name": "Cape solaire"
+  },
+  "DA_SunfireCape_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Le porteur gagne 16% PV max.\n\nToutes les 2 sec, le porteur inflige applique 2 % de brûlure et 33 % d'hémorragie pendant 10 sec sur un ennemi dans un rayon de 2 hexagones.\n\nBrûlure : inflige chaque seconde des dégâts bruts équivalents à un pourcentage des PV max de la cible.\nHémorragie : réduit les soins reçus.",
+    "effects": {
+      "Armor": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_SunfireCape_Radiant.webp?v=4",
+    "id": "DA_SunfireCape_Radiant",
+    "name": "Cape solaire de la lumière"
+  },
+  "DA_TacticiansCape": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_FryingPan"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "La taille maximale de votre équipe augmente de 1.\n\n10% de chances de générer 1 PO après 10 sec en combat.\n\n... et une pointe de chance.",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_TacticiansCape.webp?v=4",
+    "id": "DA_TacticiansCape",
+    "name": "Cape du Tacticien"
+  },
+  "DA_TacticiansCrown": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_Spatula"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "La taille maximale de votre équipe augmente de 1.\n\n10% de chances de générer 1 PO quand vous gagnez un combat.\n\n... le cœur d'un héros...",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_TacticiansCrown.webp?v=4",
+    "id": "DA_TacticiansCrown",
+    "name": "Tactician's Crown"
+  },
+  "DA_TacticiansShield": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_FryingPan"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "La taille maximale de votre équipe augmente de 1.\n\n10% de chances de générer 1 PO quand le porteur meurt.\n\nRenferme la sagesse d'un philosophe...",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_TacticiansShield.webp?v=4",
+    "id": "DA_TacticiansShield",
+    "name": "Bouclier du Tacticien"
+  },
+  "DA_ThiefsGloves": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_SparringGloves",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "À chaque manche : le porteur s'équipe de 2 objets aléatoires.\n\n[Nécessite 3 emplacements d'objet.]",
+    "effects": {
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_ThiefsGloves.webp?v=4",
+    "id": "DA_ThiefsGloves",
+    "name": "Gants de voleur"
+  },
+  "DA_ThiefsGlovesRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "À chaque manche : le porteur s'équipe de 2 objets de la lumière aléatoires.\n\n[Nécessite 3 emplacements d'objet.]",
+    "effects": {
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_ThiefsGlovesRadiant.webp?v=4",
+    "id": "DA_ThiefsGlovesRadiant",
+    "name": "Gants de voleur de la lumière"
+  },
+  "DA_TitansResolve": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Quand le porteur attaque ou subit des dégâts, il gagne 2% de dégâts d'attaque et de puissance (cumulable jusqu'à 25 fois).\n\nAu maximum d'effets cumulés, il gagne 10 % d'amplification des dégâts et devient inarrêtable.",
+    "effects": {
+      "Armor": 20,
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_TitansResolve.webp?v=4",
+    "id": "DA_TitansResolve",
+    "name": "Détermination du titan"
+  },
+  "DA_TitansResolve_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Quand le porteur attaque ou subit des dégâts, il gagne 4% de dégâts d'attaque et 4% de puissance (cumulable jusqu'à 25 fois).\n\nAu maximum d'effets cumulés, il gagne 20 % d'amplification des dégâts et une immunité aux contrôles de foule.",
+    "effects": {
+      "Armor": 40,
+      "AttackSpeed": 0.2
+    },
+    "icon": "/set18/item-webp/DA_TitansResolve_Radiant.webp?v=4",
+    "id": "DA_TitansResolve_Radiant",
+    "name": "Détermination du titan de la lumière"
+  },
+  "DA_VoidStaff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Les attaques et les compétences infligent 30 % de scission magique à la cible pendant 5 sec. Cet effet n'est pas cumulable.\n\nScission magique : réduit la résistance magique",
+    "effects": {
+      "AP": 35,
+      "AttackSpeed": 0.15,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_VoidStaff.webp?v=4",
+    "id": "DA_VoidStaff",
+    "name": "Bâton du vide"
+  },
+  "DA_VoidStaffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Les dégâts des attaques et des compétences infligent 30 % de scission magique à la cible pendant le reste du combat. Cet effet n'est pas cumulable.\n\nScission magique : réduit la résistance magique",
+    "effects": {
+      "AP": 75,
+      "AttackSpeed": 0.3,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_VoidStaffRadiant.webp?v=4",
+    "id": "DA_VoidStaffRadiant",
+    "name": "Bâton du vide de la lumière"
+  },
+  "DA_WarmogsArmor": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Ce champion gagne 18% de PV max.",
+    "effects": {
+      "Health": 500
+    },
+    "icon": "/set18/item-webp/DA_WarmogsArmor.webp?v=4",
+    "id": "DA_WarmogsArmor",
+    "name": "Armure de Warmog"
+  },
+  "DA_WarmogsArmorRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Ce champion gagne 36% de PV max.",
+    "effects": {
+      "Health": 1200
+    },
+    "icon": "/set18/item-webp/DA_WarmogsArmorRadiant.webp?v=4",
+    "id": "DA_WarmogsArmorRadiant",
+    "name": "Armure de Warmog de la lumière"
+  }
+}

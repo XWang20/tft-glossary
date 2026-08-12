@@ -1,0 +1,2592 @@
+{
+  "DA_18_EmblemBlackthorn": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【黑荆棘】羁绊。",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemBlackthorn.webp?v=4",
+    "id": "DA_18_EmblemBlackthorn",
+    "name": "黑荆棘纹章"
+  },
+  "DA_18_EmblemBlossom": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带着获得【灵魂莲华】羁绊。",
+    "effects": {
+      "AD": 0.1,
+      "AP": 10,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemBlossom.webp?v=4",
+    "id": "DA_18_EmblemBlossom",
+    "name": "灵魂莲华纹章"
+  },
+  "DA_18_EmblemBrawler": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【斗士】羁绊。\n\n攻击造成携带者2.5%最大生命值的魔法伤害。",
+    "effects": {
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemBrawler.webp?v=4",
+    "id": "DA_18_EmblemBrawler",
+    "name": "斗士纹章"
+  },
+  "DA_18_EmblemCoven": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "携带者获得【魔女】羁绊。",
+    "effects": {
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemCoven.webp?v=4",
+    "id": "DA_18_EmblemCoven",
+    "name": "魔女纹章"
+  },
+  "DA_18_EmblemDefender": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "携带者获得【护卫】羁绊。\n\n战斗开始时：每有1名友军在开战时位于前排，获得6%攻击速度。",
+    "effects": {
+      "Armor": 30,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemDefender.webp?v=4",
+    "id": "DA_18_EmblemDefender",
+    "name": "护卫纹章"
+  },
+  "DA_18_EmblemElderwood": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【永恒之森】羁绊。",
+    "effects": {
+      "Armor": 35,
+      "AttackSpeed": 0.25,
+      "MagicResist": 35
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemElderwood.webp?v=4",
+    "id": "DA_18_EmblemElderwood",
+    "name": "永恒之森纹章"
+  },
+  "DA_18_EmblemExecutioner": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【裁决使】羁绊。\n\n伤害会处决最大生命值低于12%的敌人。",
+    "effects": {
+      "CritChance": 20,
+      "CritDamage": 10
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemExecutioner.webp?v=4",
+    "id": "DA_18_EmblemExecutioner",
+    "name": "裁决使纹章"
+  },
+  "DA_18_EmblemFae": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【花仙子】羁绊。",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemFae.webp?v=4",
+    "id": "DA_18_EmblemFae",
+    "name": "花仙子纹章"
+  },
+  "DA_18_EmblemFloraFatalis": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "携带者获得【绝命花妖】羁绊。",
+    "effects": {
+      "Health": 250,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemFloraFatalis.webp?v=4",
+    "id": "DA_18_EmblemFloraFatalis",
+    "name": "绝命花妖纹章"
+  },
+  "DA_18_EmblemFloraFatalisAugment": {
+    "category": "emblem",
+    "description": "",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_18_EmblemFloraFatalisAugment.webp?v=4",
+    "id": "DA_18_EmblemFloraFatalisAugment",
+    "name": "致命丽花"
+  },
+  "DA_18_EmblemHunter": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【猎手】羁绊。\n\n参与击杀提供18%物理加成。",
+    "effects": {
+      "AD": 0.3
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemHunter.webp?v=4",
+    "id": "DA_18_EmblemHunter",
+    "name": "猎手纹章"
+  },
+  "DA_18_EmblemInferno": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_RecurveBow"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【地狱火】羁绊。",
+    "effects": {
+      "AttackSpeed": 0.4
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemInferno.webp?v=4",
+    "id": "DA_18_EmblemInferno",
+    "name": "地狱火纹章"
+  },
+  "DA_18_EmblemInvoker": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【神谕】羁绊。\n\n施放技能时，获得相当于10%消耗法力值的法术加成。",
+    "effects": {
+      "ManaRegen": 3
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemInvoker.webp?v=4",
+    "id": "DA_18_EmblemInvoker",
+    "name": "神谕纹章"
+  },
+  "DA_18_EmblemJuggernaut": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "携带者获得【主宰】羁绊。\n\n每当1个【主宰】阵亡，获得15法力值。",
+    "effects": {
+      "Health": 400
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemJuggernaut.webp?v=4",
+    "id": "DA_18_EmblemJuggernaut",
+    "name": "主宰纹章"
+  },
+  "DA_18_EmblemLunar": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【月蚀骑士】羁绊。",
+    "effects": {
+      "AttackSpeed": 0.2,
+      "ManaRegen": 3
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemLunar.webp?v=4",
+    "id": "DA_18_EmblemLunar",
+    "name": "月蚀骑士纹章"
+  },
+  "DA_18_EmblemPrimal": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【野兽之灵】羁绊。",
+    "effects": {
+      "AttackSpeed": 0.25,
+      "CritChance": 20,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemPrimal.webp?v=4",
+    "id": "DA_18_EmblemPrimal",
+    "name": "野兽之灵纹章"
+  },
+  "DA_18_EmblemRapidfire": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_RecurveBow"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【迅捷射手】羁绊。\n\n攻击造成目标1%最大生命值的真实伤害",
+    "effects": {
+      "AttackSpeed": 0.2
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemRapidfire.webp?v=4",
+    "id": "DA_18_EmblemRapidfire",
+    "name": "迅捷射手纹章"
+  },
+  "DA_18_EmblemSlayer": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【狂战士】羁绊。\n\n每回复300生命值，获得3%伤害增幅。",
+    "effects": {
+      "AD": 0.2,
+      "AP": 20,
+      "Armor": 20,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemSlayer.webp?v=4",
+    "id": "DA_18_EmblemSlayer",
+    "name": "狂战士纹章"
+  },
+  "DA_18_EmblemSpellweaver": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【法师】羁绊。\n\n每当1名友军施放其技能时，获得2法力值。",
+    "effects": {
+      "AP": 25
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemSpellweaver.webp?v=4",
+    "id": "DA_18_EmblemSpellweaver",
+    "name": "法师纹章"
+  },
+  "DA_18_EmblemSprykin": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【约德尔人...】羁绊。\n\n如果携带者骑乘着【毛茸茸大朋友】，获得额外\n30%{{icon:scaleAS}}20{{icon:scaleArmor}}20{{icon:scaleMR}}",
+    "effects": {
+      "Armor": 20,
+      "AttackSpeed": 0.1,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemSprykin.webp?v=4",
+    "id": "DA_18_EmblemSprykin",
+    "name": "迅灵纹章"
+  },
+  "DA_18_EmblemVanguard": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "携带者获得【重装战士】羁绊。\n\n如果携带者在玩家对战回合中，战斗开始后存活20秒及以上，获得1玩家生命值。",
+    "effects": {
+      "Armor": 30,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemVanguard.webp?v=4",
+    "id": "DA_18_EmblemVanguard",
+    "name": "重装战士纹章"
+  },
+  "DA_AdaptiveHelm": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "从所有来源中获得额外的15%法力值。携带者获得基于其角色定位的一个额外加成：\n\n坦克和战士：获得30护甲和魔抗。\n\n其它角色定位：获得10%物理加成和法术加成。",
+    "effects": {
+      "MagicResist": 20,
+      "ManaRegen": 3
+    },
+    "icon": "/set18/item-webp/DA_AdaptiveHelm.webp?v=4",
+    "id": "DA_AdaptiveHelm",
+    "name": "适应性头盔"
+  },
+  "DA_AdaptiveHelm_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "从所有来源中获得额外的30%法力值。携带者获得基于其角色定位的一个额外加成：\n\n坦克和战士：获得80护甲和魔抗。\n\n其它角色定位：获得40%物理加成和法术加成。",
+    "effects": {
+      "MagicResist": 40,
+      "ManaRegen": 7
+    },
+    "icon": "/set18/item-webp/DA_AdaptiveHelm_Radiant.webp?v=4",
+    "id": "DA_AdaptiveHelm_Radiant",
+    "name": "光明版适应性头盔"
+  },
+  "DA_ArchangelsStaff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "战斗开始：在战斗期间，每5秒获得20法术加成。",
+    "effects": {
+      "AP": 30,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_ArchangelsStaff.webp?v=4",
+    "id": "DA_ArchangelsStaff",
+    "name": "大天使之杖"
+  },
+  "DA_ArchangelsStaffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "战斗开始：在战斗期间，每5秒获得40%法术加成。",
+    "effects": {
+      "AP": 60,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_ArchangelsStaffRadiant.webp?v=4",
+    "id": "DA_ArchangelsStaffRadiant",
+    "name": "光明版大天使之杖"
+  },
+  "DA_Artifact_AegisOfDawn": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每2.5秒，从1格内的敌人处偷取3护甲，并治疗相当于携带者护甲值的生命值。\n\n如果还携带了【黄昏圣盾】，则转而每1.25秒触发这件装备的效果。\n\n治疗效果基于阶段提升。",
+    "effects": {
+      "Armor": 50,
+      "Health": 400
+    },
+    "icon": "/set18/item-webp/DA_Artifact_AegisOfDawn.webp?v=4",
+    "id": "DA_Artifact_AegisOfDawn",
+    "name": "黎明圣盾"
+  },
+  "DA_Artifact_AegisOfDusk": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每2.5秒，从1格内的敌人处偷取3魔抗，并造成相当于携带者15%魔抗值的魔法伤害。\n\n如果还携带了【黎明圣盾】，则转而每1.25秒触发这件装备的效果。\n\n造成的伤害基于阶段提升。",
+    "effects": {
+      "Health": 400,
+      "MagicResist": 70
+    },
+    "icon": "/set18/item-webp/DA_Artifact_AegisOfDusk.webp?v=4",
+    "id": "DA_Artifact_AegisOfDusk",
+    "name": "黄昏圣盾"
+  },
+  "DA_Artifact_BlightingJewel": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "造成魔法伤害时会将目标的魔抗削减4。如果目标的魔抗是0，则转而为携带者提供4法力值。\n\n技能伤害每0.5秒仅能在每个敌人身上触发一次此效果。",
+    "effects": {
+      "AP": 30,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_BlightingJewel.webp?v=4",
+    "id": "DA_Artifact_BlightingJewel",
+    "name": "枯萎珠宝"
+  },
+  "DA_Artifact_CappaJuice": {
+    "category": "artifact",
+    "description": "",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_Artifact_CappaJuice.webp?v=4",
+    "id": "DA_Artifact_CappaJuice",
+    "name": "Cappa Juice"
+  },
+  "DA_Artifact_Dawncore": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "携带者的最大法力值缩减10。后续的技能施放会使最大法力值缩减4%，直至最小值10。",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Dawncore.webp?v=4",
+    "id": "DA_Artifact_Dawncore",
+    "name": "黎明核心"
+  },
+  "DA_Artifact_DeathsDefiance": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "携带者受到伤害的50%会转而在4秒内逐渐承受。\n\n唯一 - 每个弈子仅可装备1件",
+    "effects": {
+      "AD": 0.25,
+      "Armor": 40,
+      "AttackSpeed": 0.15
+    },
+    "icon": "/set18/item-webp/DA_Artifact_DeathsDefiance.webp?v=4",
+    "id": "DA_Artifact_DeathsDefiance",
+    "name": "死亡蔑视"
+  },
+  "DA_Artifact_EternalPact": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "战斗开始时：与生命值最高的那个友方弈子形成一个契约，如果其阵亡，则获得10法力回复和40%法术强度。\n\n当该友军使用其技能时，获得15法力值。每6秒，为该友军提供护盾值，数额相当于携带者的200%法术强度。",
+    "effects": {
+      "AP": 40,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Artifact_EternalPact.webp?v=4",
+    "id": "DA_Artifact_EternalPact",
+    "name": "永恒契约"
+  },
+  "DA_Artifact_Fishbones": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得+2攻击距离，且其每次攻击都会以随机敌人为目标。",
+    "effects": {
+      "AD": 0.3,
+      "AttackSpeed": 0.3
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Fishbones.webp?v=4",
+    "id": "DA_Artifact_Fishbones",
+    "name": "鱼骨头"
+  },
+  "DA_Artifact_ForbiddenIdol": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "护盾效果会将其35%的护盾值转化为最大生命值作为替代。",
+    "effects": {
+      "Health": 350,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_ForbiddenIdol.webp?v=4",
+    "id": "DA_Artifact_ForbiddenIdol",
+    "name": "禁忌雕像"
+  },
+  "DA_Artifact_GamblersBlade": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得1%x你金币存款的额外攻击速度（在30金币时达到最大值）。\n\n每次攻击有6%几率掉落1金币。\n\n本局游戏已生成金币：\n\n唯一 - 每位英雄仅可装备1件",
+    "effects": {
+      "AttackSpeed": 0.55
+    },
+    "icon": "/set18/item-webp/DA_Artifact_GamblersBlade.webp?v=4",
+    "id": "DA_Artifact_GamblersBlade",
+    "name": "投机者之刃"
+  },
+  "DA_Artifact_GoldCollector": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "攻击和技能会处决生命值低于最大生命值12%的目标。处决有33%几率掉落1金币。\n\n唯一 - 每个弈子仅可装备1件",
+    "effects": {
+      "AD": 0.4,
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_Artifact_GoldCollector.webp?v=4",
+    "id": "DA_Artifact_GoldCollector",
+    "name": "金币收集者"
+  },
+  "DA_Artifact_HellfireHatchet": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "攻击造成相当于携带者最大生命值3%的额外物理伤害。每损失1%生命值，获得1.5%攻击速度。",
+    "effects": {
+      "Health": 400
+    },
+    "icon": "/set18/item-webp/DA_Artifact_HellfireHatchet.webp?v=4",
+    "id": "DA_Artifact_HellfireHatchet",
+    "name": "恶火小斧"
+  },
+  "DA_Artifact_HorizonFocus": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "将一名敌人眩晕时会引发闪电对其进行打击，造成相当于其30%最大生命值的魔法伤害。",
+    "effects": {
+      "Armor": 20,
+      "Health": 250,
+      "MagicResist": 20,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_HorizonFocus.webp?v=4",
+    "id": "DA_Artifact_HorizonFocus",
+    "name": "视界专注"
+  },
+  "DA_Artifact_Hullcrusher": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "战斗开始时：如果邻格内没有友军，获得400生命值、10%物理加成和10%法术加成。",
+    "effects": {
+      "Armor": 60,
+      "MagicResist": 60
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Hullcrusher.webp?v=4",
+    "id": "DA_Artifact_Hullcrusher",
+    "name": "碎舰者"
+  },
+  "DA_Artifact_InfinityForce": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "成吨的一切！",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "Armor": 30,
+      "AttackSpeed": 0.3,
+      "Health": 300,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_Artifact_InfinityForce.webp?v=4",
+    "id": "DA_Artifact_InfinityForce",
+    "name": "三相之力"
+  },
+  "DA_Artifact_LichBane": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "携带者在每次技能施放后的第一次攻击造成额外魔法伤害。\n\n这个伤害基于阶段而提升。",
+    "effects": {
+      "AP": 55,
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_Artifact_LichBane.webp?v=4",
+    "id": "DA_Artifact_LichBane",
+    "name": "巫妖之祸"
+  },
+  "DA_Artifact_LightshieldCrest": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每3秒，为生命值百分比最低的那个友军提供护盾，护盾值相当于携带者70%的护甲与魔抗总和，持续5秒。\n\n阵亡时，将这个护盾效果提供给所有友军。",
+    "effects": {
+      "Armor": 55,
+      "MagicResist": 55
+    },
+    "icon": "/set18/item-webp/DA_Artifact_LightshieldCrest.webp?v=4",
+    "id": "DA_Artifact_LightshieldCrest",
+    "name": "光盾徽章"
+  },
+  "DA_Artifact_LudensTempest": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "在击杀目标时，会对与目标相距最近的两个敌人造成魔法伤害，伤害值为过量伤害的100%外加100。",
+    "effects": {
+      "AD": 0.55,
+      "AP": 55
+    },
+    "icon": "/set18/item-webp/DA_Artifact_LudensTempest.webp?v=4",
+    "id": "DA_Artifact_LudensTempest",
+    "name": "卢登的激荡"
+  },
+  "DA_Artifact_Manazane": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "在战斗中首次施放技能后，在100秒内持续回复共5法力值。\n\n唯一 - 每个弈子仅可装备1件",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Manazane.webp?v=4",
+    "id": "DA_Artifact_Manazane",
+    "name": "魔蕴"
+  },
+  "DA_Artifact_Mittens": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "将携带者缩小，为其提供移动速度提升并免疫缓速、灼烧、以及重伤。\n\n缓速：降低攻击速度。\n灼烧：每秒造成目标一部分最大生命值的真实伤害。\n重伤：降低受到的治疗效果。",
+    "effects": {
+      "AttackSpeed": 0.65
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Mittens.webp?v=4",
+    "id": "DA_Artifact_Mittens",
+    "name": "连指手套"
+  },
+  "DA_Artifact_MogulsMail": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "在承受伤害时提供1护甲、1魔抗和5生命值，这个效果至多叠加至35次。\n\n在满层时，提供1金币并且每11秒继续提供1金币。\n\n这局游戏已生成的金币：\n\n唯一 - 每位弈子仅可装备1件",
+    "effects": {
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_Artifact_MogulsMail.webp?v=4",
+    "id": "DA_Artifact_MogulsMail",
+    "name": "大亨之铠"
+  },
+  "DA_Artifact_NavoriFlickerblade": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "攻击提供5%可叠加的攻击速度。每3次攻击还会提供2%物理加成和2%法术加成。",
+    "effects": {
+      "AP": 10,
+      "AttackSpeed": 0.2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_NavoriFlickerblade.webp?v=4",
+    "id": "DA_Artifact_NavoriFlickerblade",
+    "name": "纳沃利烁刃"
+  },
+  "DA_Artifact_RapidFireCannon": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得+1攻击距离，并且这个距离会在携带者每击败一个敌人时提升1。",
+    "effects": {
+      "AttackSpeed": 0.65
+    },
+    "icon": "/set18/item-webp/DA_Artifact_RapidFireCannon.webp?v=4",
+    "id": "DA_Artifact_RapidFireCannon",
+    "name": "疾射火炮"
+  },
+  "DA_Artifact_SeekersArmguard": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "参与击杀后会使携带者的护甲、魔抗和法术加成提升20。",
+    "effects": {
+      "AP": 25,
+      "Armor": 10,
+      "MagicResist": 10
+    },
+    "icon": "/set18/item-webp/DA_Artifact_SeekersArmguard.webp?v=4",
+    "id": "DA_Artifact_SeekersArmguard",
+    "name": "探索者的护臂"
+  },
+  "DA_Artifact_SilvermereDawn": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "为携带者提供免疫晕眩，并且携带者的攻击可以使目标晕眩0.8秒。\n\n携带者的攻击速度被锁定在0.5。",
+    "effects": {
+      "AD": 1.25,
+      "Armor": 30,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_Artifact_SilvermereDawn.webp?v=4",
+    "id": "DA_Artifact_SilvermereDawn",
+    "name": "密银黎明"
+  },
+  "DA_Artifact_StatikkShiv": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每第3次攻击对15名敌人造成35%+携带者6法术加成的额外魔法伤害。",
+    "effects": {
+      "AP": 15,
+      "AttackSpeed": 0.4
+    },
+    "icon": "/set18/item-webp/DA_Artifact_StatikkShiv.webp?v=4",
+    "id": "DA_Artifact_StatikkShiv",
+    "name": "斯塔缇克电刃"
+  },
+  "DA_Artifact_TheIndomitable": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "携带者的移动速度大幅降低。\n\n获得15%最大生命值、不可阻挡效果，并将当前目标拉到近战距离。",
+    "effects": {
+      "Health": 500,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Artifact_TheIndomitable.webp?v=4",
+    "id": "DA_Artifact_TheIndomitable",
+    "name": "顽强不屈"
+  },
+  "DA_Artifact_TitanicHydra": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "攻击对目标和邻格敌人造成相当于携带者最大生命值4%外加4%物理加成的额外物理伤害。",
+    "effects": {
+      "AD": 0.2,
+      "AttackSpeed": 0.2,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_Artifact_TitanicHydra.webp?v=4",
+    "id": "DA_Artifact_TitanicHydra",
+    "name": "巨型九头蛇"
+  },
+  "DA_Artifact_VoidGauntlet": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "战斗开始时：储存30%最大生命值并且每秒储存额外的2.5%。阵亡时，释放相当于生命值储量的魔法伤害，分摊给4格内的敌人们。\n\n唯一 - 每个弈子仅可装备1件",
+    "effects": {
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_Artifact_VoidGauntlet.webp?v=4",
+    "id": "DA_Artifact_VoidGauntlet",
+    "name": "虚空护手"
+  },
+  "DA_Artifact_WitsEnd": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "攻击造成额外魔法伤害。\n治疗携带者，数额为造成所有魔法伤害的25%。\n\n此伤害基于阶段提升。",
+    "effects": {
+      "Armor": 20,
+      "AttackSpeed": 0.25,
+      "Health": 400,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Artifact_WitsEnd.webp?v=4",
+    "id": "DA_Artifact_WitsEnd",
+    "name": "智慧末刃"
+  },
+  "DA_Artifact_ZhonyasParadox": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每场战斗仅触发一次：当携带者降至40%生命值时，进入持续3秒的免疫伤害状态和不可被选取状态。\n\n唯一 - 每个弈子仅可装备1件",
+    "effects": {
+      "AP": 25,
+      "Armor": 25,
+      "MagicResist": 25
+    },
+    "icon": "/set18/item-webp/DA_Artifact_ZhonyasParadox.webp?v=4",
+    "id": "DA_Artifact_ZhonyasParadox",
+    "name": "中娅悖论"
+  },
+  "DA_Bloodthirster": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "每场战斗仅触发一次：在40%生命值时，获得一个护盾，护盾值相当于携带者25%的最大生命值，至多持续5秒。",
+    "effects": {
+      "AD": 15,
+      "AP": 15,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Bloodthirster.webp?v=4",
+    "id": "DA_Bloodthirster",
+    "name": "饮血剑"
+  },
+  "DA_BloodthirsterRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每场战斗仅触发1次：在40%生命值时，获得一个护盾，护盾值相当于携带者50%的最大生命值，至多持续5秒。",
+    "effects": {
+      "AD": 30,
+      "AP": 30,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_BloodthirsterRadiant.webp?v=4",
+    "id": "DA_BloodthirsterRadiant",
+    "name": "光明版饮血剑"
+  },
+  "DA_BlueBuff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "从所有来源中获得10%额外物理加成和法术加成。",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 5
+    },
+    "icon": "/set18/item-webp/DA_BlueBuff.webp?v=4",
+    "id": "DA_BlueBuff",
+    "name": "蓝霸符"
+  },
+  "DA_BlueBuffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "从所有来源获得20%额外物理加成和法术加成。",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "ManaRegen": 10
+    },
+    "icon": "/set18/item-webp/DA_BlueBuffRadiant.webp?v=4",
+    "id": "DA_BlueBuffRadiant",
+    "name": "光明版蓝霸符"
+  },
+  "DA_BrambleVest": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "获得6%最大生命值。\n\n减免来自攻击的5%伤害。在被任一攻击命中时，对邻格所有敌人造成100魔法伤害。\n\n冷却时间：2秒",
+    "effects": {
+      "Armor": 50
+    },
+    "icon": "/set18/item-webp/DA_BrambleVest.webp?v=4",
+    "id": "DA_BrambleVest",
+    "name": "棘刺背心"
+  },
+  "DA_BrambleVestRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得12%最大生命值。\n\n使来自攻击的伤害降低10%。在被任一攻击命中时，对邻格所有敌人造成200魔法伤害。\n\n冷却时间：2秒",
+    "effects": {
+      "Armor": 100
+    },
+    "icon": "/set18/item-webp/DA_BrambleVestRadiant.webp?v=4",
+    "id": "DA_BrambleVestRadiant",
+    "name": "光明版棘刺背心"
+  },
+  "DA_Component_BFSword": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleAD}} +10%物理加成",
+    "effects": {
+      "AD": 0.1
+    },
+    "icon": "/set18/item-webp/DA_Component_BFSword.webp?v=4",
+    "id": "DA_Component_BFSword",
+    "name": "暴风大剑"
+  },
+  "DA_Component_ChainVest": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleArmor}} +20护甲",
+    "effects": {
+      "Armor": 20
+    },
+    "icon": "/set18/item-webp/DA_Component_ChainVest.webp?v=4",
+    "id": "DA_Component_ChainVest",
+    "name": "锁子甲"
+  },
+  "DA_Component_FryingPan": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": ".……不然它怎么会在这里？",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_Component_FryingPan.webp?v=4",
+    "id": "DA_Component_FryingPan",
+    "name": "金锅锅"
+  },
+  "DA_Component_GiantsBelt": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleHealth}} +150生命值",
+    "effects": {
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_Component_GiantsBelt.webp?v=4",
+    "id": "DA_Component_GiantsBelt",
+    "name": "巨人腰带"
+  },
+  "DA_Component_NeedlesslyLargeRod": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleAP}} +10%法术加成",
+    "effects": {
+      "AP": 10
+    },
+    "icon": "/set18/item-webp/DA_Component_NeedlesslyLargeRod.webp?v=4",
+    "id": "DA_Component_NeedlesslyLargeRod",
+    "name": "无用大棒"
+  },
+  "DA_Component_NegatronCloak": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleMR}} +20魔抗",
+    "effects": {
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Component_NegatronCloak.webp?v=4",
+    "id": "DA_Component_NegatronCloak",
+    "name": "负极斗篷"
+  },
+  "DA_Component_RecurveBow": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleAS}}+10%攻击速度",
+    "effects": {
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_Component_RecurveBow.webp?v=4",
+    "id": "DA_Component_RecurveBow",
+    "name": "反曲之弓"
+  },
+  "DA_Component_SparringGloves": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleCrit}}+20%暴击几率",
+    "effects": {
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_Component_SparringGloves.webp?v=4",
+    "id": "DA_Component_SparringGloves",
+    "name": "拳套"
+  },
+  "DA_Component_Spatula": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "它必须做点什么...",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_Component_Spatula.webp?v=4",
+    "id": "DA_Component_Spatula",
+    "name": "金铲铲"
+  },
+  "DA_Component_TearOfTheGoddess": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:TFTManaRegen}} +1法力回复",
+    "effects": {
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Component_TearOfTheGoddess.webp?v=4",
+    "id": "DA_Component_TearOfTheGoddess",
+    "name": "女神之泪"
+  },
+  "DA_Crownguard": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "战斗开始时：获得持续25秒的相当于8%最大生命值的护盾值。\n在护盾到期时，获得25%法术加成。",
+    "effects": {
+      "AP": 20,
+      "Armor": 20,
+      "Health": 100
+    },
+    "icon": "/set18/item-webp/DA_Crownguard.webp?v=4",
+    "id": "DA_Crownguard",
+    "name": "冕卫"
+  },
+  "DA_CrownguardRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "战斗开始时：获得持续8秒的相当于50%最大生命值的护盾值。\n在护盾到期时，获得50%法术加成。",
+    "effects": {
+      "AP": 40,
+      "Armor": 40,
+      "Health": 200
+    },
+    "icon": "/set18/item-webp/DA_CrownguardRadiant.webp?v=4",
+    "id": "DA_CrownguardRadiant",
+    "name": "光明版冕卫"
+  },
+  "DA_Deathblade": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "将完美的安宁和平静带给携带者——和所有面对它的人。",
+    "effects": {
+      "AD": 0.55
+    },
+    "icon": "/set18/item-webp/DA_Deathblade.webp?v=4",
+    "id": "DA_Deathblade",
+    "name": "死亡之刃"
+  },
+  "DA_DeathbladeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "它在敌人面前发光。或在朋友面前。或在任何活着的东西面前，真的。",
+    "effects": {
+      "AD": 1
+    },
+    "icon": "/set18/item-webp/DA_DeathbladeRadiant.webp?v=4",
+    "id": "DA_DeathbladeRadiant",
+    "name": "光明版死亡之刃"
+  },
+  "DA_DragonsClaw": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NegatronCloak",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "获得6%最大生命值。每2秒，回复2.5%最大生命值。",
+    "effects": {
+      "MagicResist": 60
+    },
+    "icon": "/set18/item-webp/DA_DragonsClaw.webp?v=4",
+    "id": "DA_DragonsClaw",
+    "name": "巨龙之爪"
+  },
+  "DA_DragonsClawRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得28%最大生命值。\n\n每2秒，回复5%最大生命值。",
+    "effects": {
+      "MagicResist": 120
+    },
+    "icon": "/set18/item-webp/DA_DragonsClawRadiant.webp?v=4",
+    "id": "DA_DragonsClawRadiant",
+    "name": "光明版巨龙之爪"
+  },
+  "DA_EdgeOfNight": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "在60%生命值时，短暂变为不可被选取状态、摆脱负面效果并回复20%已损失生命值。",
+    "effects": {
+      "AD": 0.1,
+      "AP": 10,
+      "Armor": 20,
+      "AttackSpeed": 0.15
+    },
+    "icon": "/set18/item-webp/DA_EdgeOfNight.webp?v=4",
+    "id": "DA_EdgeOfNight",
+    "name": "夜之锋刃"
+  },
+  "DA_EdgeOfNightRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "在60%生命值时，短暂变为不可被选取状态、摆脱负面效果并治疗所有已损失生命值。",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "Armor": 40,
+      "AttackSpeed": 0.3
+    },
+    "icon": "/set18/item-webp/DA_EdgeOfNightRadiant.webp?v=4",
+    "id": "DA_EdgeOfNightRadiant",
+    "name": "光明版夜之锋刃"
+  },
+  "DA_Evenshroud": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NegatronCloak",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "2格内的敌人们会被施加30%护甲击碎。在战斗的最初15秒获得15护甲和魔抗。\n\n护甲击碎：降低护甲值",
+    "effects": {
+      "Health": 250,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Evenshroud.webp?v=4",
+    "id": "DA_Evenshroud",
+    "name": "薄暮法袍"
+  },
+  "DA_EvenshroudRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "3格内的敌人们会被施加30%护甲击碎。在战斗的最初20秒获得50护甲和魔抗。\n\n护甲击碎：降低护甲值",
+    "effects": {
+      "Health": 500,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_EvenshroudRadiant.webp?v=4",
+    "id": "DA_EvenshroudRadiant",
+    "name": "光明版薄暮法袍"
+  },
+  "DA_GargoyleStoneplate": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "每有一个敌人以携带者为目标，携带者就会获得10护甲和10魔抗。",
+    "effects": {
+      "Armor": 25,
+      "Health": 100,
+      "MagicResist": 25
+    },
+    "icon": "/set18/item-webp/DA_GargoyleStoneplate.webp?v=4",
+    "id": "DA_GargoyleStoneplate",
+    "name": "石像鬼石板甲"
+  },
+  "DA_GargoyleStoneplate_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每有一个敌人以携带者为目标，携带者就会获得20护甲和20魔抗。",
+    "effects": {
+      "Armor": 50,
+      "Health": 300,
+      "MagicResist": 50
+    },
+    "icon": "/set18/item-webp/DA_GargoyleStoneplate_Radiant.webp?v=4",
+    "id": "DA_GargoyleStoneplate_Radiant",
+    "name": "光明版石像鬼石板甲"
+  },
+  "DA_GiantSlayer": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "对抗坦克时获得15%额外伤害增幅。",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "AttackSpeed": 0.15
+    },
+    "icon": "/set18/item-webp/DA_GiantSlayer.webp?v=4",
+    "id": "DA_GiantSlayer",
+    "name": "巨人杀手"
+  },
+  "DA_GiantSlayer_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "对抗坦克时获得30%额外伤害增幅。",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "AttackSpeed": 0.3
+    },
+    "icon": "/set18/item-webp/DA_GiantSlayer_Radiant.webp?v=4",
+    "id": "DA_GiantSlayer_Radiant",
+    "name": "光明版巨人杀手"
+  },
+  "DA_GuinsoosRageblade": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "每秒获得7%可叠加的攻击速度。",
+    "effects": {
+      "AP": 10,
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_GuinsoosRageblade.webp?v=4",
+    "id": "DA_GuinsoosRageblade",
+    "name": "鬼索的狂暴之刃"
+  },
+  "DA_GuinsoosRagebladeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每秒获得16%可叠加的攻击速度。",
+    "effects": {
+      "AP": 20,
+      "AttackSpeed": 0.25
+    },
+    "icon": "/set18/item-webp/DA_GuinsoosRagebladeRadiant.webp?v=4",
+    "id": "DA_GuinsoosRagebladeRadiant",
+    "name": "光明版鬼索的狂暴之刃"
+  },
+  "DA_HandOfJustice": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "获得2个效果：\n• 15%物理加成和15%法术加成。\n• 12%全能吸血。\n\n生命值高于50%时，物理加成和法术加成翻倍。生命值低于50%时，全能吸血翻倍。",
+    "effects": {
+      "CritChance": 20,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_HandOfJustice.webp?v=4",
+    "id": "DA_HandOfJustice",
+    "name": "正义之手"
+  },
+  "DA_HandOfJusticeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得2个效果：\n• 30%物理加成和30%法术加成。\n• 24%全能吸血。\n\n生命值高于50%时，物理加成和法术加成翻倍。生命值低于50%时，全能吸血翻倍。",
+    "effects": {
+      "CritChance": 40,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_HandOfJusticeRadiant.webp?v=4",
+    "id": "DA_HandOfJusticeRadiant",
+    "name": "光明版正义之手"
+  },
+  "DA_HextechGunblade": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "为生命值百分比最低的友军提供相当于造成伤害值20%的治疗。\n\n友军治疗：",
+    "effects": {
+      "AD": 0.2,
+      "AP": 20,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_HextechGunblade.webp?v=4",
+    "id": "DA_HextechGunblade",
+    "name": "海克斯科技枪刃"
+  },
+  "DA_HextechGunbladeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "为生命值百分比最低的友军提供相当于造成伤害40%的治疗。\n\n友军治疗：",
+    "effects": {
+      "AD": 0.4,
+      "AP": 40,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_HextechGunbladeRadiant.webp?v=4",
+    "id": "DA_HextechGunbladeRadiant",
+    "name": "光明版海克斯科技枪刃"
+  },
+  "DA_InfinityEdge": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "获得精准。\n\n技能暴击：技能伤害可以造成暴击。额外的【技能暴击】提供10%暴击伤害。",
+    "effects": {
+      "AD": 0.35,
+      "CritChance": 35
+    },
+    "icon": "/set18/item-webp/DA_InfinityEdge.webp?v=4",
+    "id": "DA_InfinityEdge",
+    "name": "无尽之刃"
+  },
+  "DA_InfinityEdgeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得技能暴击。\n\n技能暴击：技能伤害可以造成暴击。额外的【技能暴击】提供10%暴击伤害。",
+    "effects": {
+      "AD": 0.75,
+      "CritChance": 75
+    },
+    "icon": "/set18/item-webp/DA_InfinityEdgeRadiant.webp?v=4",
+    "id": "DA_InfinityEdgeRadiant",
+    "name": "光明版无尽之刃"
+  },
+  "DA_IonicSpark": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "对2格内的敌人们施加30%魔抗击碎。在敌人施放一次技能时，对该敌人造成相当于其150%法力值消耗的魔法伤害。\n\n魔抗击碎：降低魔法抗性",
+    "effects": {
+      "AP": 15,
+      "Health": 250,
+      "MagicResist": 35
+    },
+    "icon": "/set18/item-webp/DA_IonicSpark.webp?v=4",
+    "id": "DA_IonicSpark",
+    "name": "离子火花"
+  },
+  "DA_IonicSparkRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "对2格内的敌人们施加30%魔抗击碎。在敌人施放一次技能时，对该敌人造成相当于其300%法力值消耗的魔法伤害。\n\n魔抗击碎：降低魔法抗性",
+    "effects": {
+      "AP": 30,
+      "Health": 500,
+      "MagicResist": 70
+    },
+    "icon": "/set18/item-webp/DA_IonicSparkRadiant.webp?v=4",
+    "id": "DA_IonicSparkRadiant",
+    "name": "光明版离子火花"
+  },
+  "DA_Item_Artifact_TalismanOfAscension": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "在22秒后，获得100%最大生命值、8法力回复和120%伤害增幅，持续到战斗环节结束。",
+    "effects": {
+      "AD": 0.2,
+      "AP": 20,
+      "Health": 450
+    },
+    "icon": "/set18/item-webp/DA_Item_Artifact_TalismanOfAscension.webp?v=4",
+    "id": "DA_Item_Artifact_TalismanOfAscension",
+    "name": "飞升护符"
+  },
+  "DA_JeweledGauntlet": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_SparringGloves",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "获得技能暴击。\n\n技能暴击：技能伤害可以造成暴击。额外的【技能暴击】提供10%暴击伤害。",
+    "effects": {
+      "AP": 35,
+      "CritChance": 35
+    },
+    "icon": "/set18/item-webp/DA_JeweledGauntlet.webp?v=4",
+    "id": "DA_JeweledGauntlet",
+    "name": "珠光护手"
+  },
+  "DA_JeweledGauntletRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得技能暴击。\n\n技能暴击：技能伤害可以造成暴击。额外的【技能暴击】提供10%暴击伤害。",
+    "effects": {
+      "AP": 75,
+      "CritChance": 75
+    },
+    "icon": "/set18/item-webp/DA_JeweledGauntletRadiant.webp?v=4",
+    "id": "DA_JeweledGauntletRadiant",
+    "name": "光明版珠光护手"
+  },
+  "DA_KrakensFury": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "每次攻击提供3.5%可叠加物理加成，最多叠加15次。攻击15次后，获得15%攻击速度。",
+    "effects": {
+      "AD": 0.1,
+      "AttackSpeed": 0.1,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_KrakensFury.webp?v=4",
+    "id": "DA_KrakensFury",
+    "name": "海妖之怒"
+  },
+  "DA_KrakensFury_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每次普攻提供7%可叠加物理加成，最多叠加15次。攻击15次后，获得30%攻击速度。",
+    "effects": {
+      "AD": 0.2,
+      "AttackSpeed": 0.2,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_KrakensFury_Radiant.webp?v=4",
+    "id": "DA_KrakensFury_Radiant",
+    "name": "光明版海妖之怒"
+  },
+  "DA_LastWhisper": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "普攻和技能伤害都会对目标施加持续3秒的30%护甲击碎。这个效果不会叠加。\n\n护甲击碎：降低护甲值",
+    "effects": {
+      "AD": 0.15,
+      "AttackSpeed": 0.2,
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_LastWhisper.webp?v=4",
+    "id": "DA_LastWhisper",
+    "name": "最后的轻语"
+  },
+  "DA_LastWhisperRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "攻击和技能伤害都会对目标施加持续至战斗环节结束的30%护甲击碎。这个效果不会叠加。\n\n护甲击碎：降低护甲值",
+    "effects": {
+      "AD": 0.45,
+      "AttackSpeed": 0.4,
+      "CritChance": 40
+    },
+    "icon": "/set18/item-webp/DA_LastWhisperRadiant.webp?v=4",
+    "id": "DA_LastWhisperRadiant",
+    "name": "光明版最后的轻语"
+  },
+  "DA_Morellonomicon": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "攻击和技能的伤害对敌人们造成持续10秒的1%灼烧效果和33%重伤效果。\n\n灼烧：每秒造成目标一部分最大生命值的真实伤害\n重伤：降低受到的治疗效果",
+    "effects": {
+      "AP": 20,
+      "Health": 150,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Morellonomicon.webp?v=4",
+    "id": "DA_Morellonomicon",
+    "name": "莫雷洛秘典"
+  },
+  "DA_MorellonomiconRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "攻击和技能的伤害对敌人们造成持续10秒的2%灼烧效果和33%重伤效果。\n\n灼烧：每秒造成目标一部分最大生命值的真实伤害\n重伤：降低受到的治疗效果",
+    "effects": {
+      "AP": 35,
+      "Health": 300,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_MorellonomiconRadiant.webp?v=4",
+    "id": "DA_MorellonomiconRadiant",
+    "name": "光明版莫雷洛秘典"
+  },
+  "DA_NashorsTooth": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "每次普攻提供2额外法力值，如果暴击则提升至4额外法力值。",
+    "effects": {
+      "AP": 15,
+      "AttackSpeed": 0.1,
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_NashorsTooth.webp?v=4",
+    "id": "DA_NashorsTooth",
+    "name": "纳什之牙"
+  },
+  "DA_NashorsToothRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每次普攻提供4额外法力值，如果暴击则提升至6额外法力值。",
+    "effects": {
+      "AP": 30,
+      "AttackSpeed": 0.2,
+      "CritChance": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_NashorsToothRadiant.webp?v=4",
+    "id": "DA_NashorsToothRadiant",
+    "name": "光明版纳什之牙"
+  },
+  "DA_ProtectorsVow": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "战斗开始时：获得20法力值。\n\n生命值达到40%时，获得15法力值和相当于20%最大生命值的护盾值。",
+    "effects": {
+      "Armor": 25,
+      "MagicResist": 25,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_ProtectorsVow.webp?v=4",
+    "id": "DA_ProtectorsVow",
+    "name": "圣盾使的誓约"
+  },
+  "DA_ProtectorsVowRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "战斗开始时：获得40法力值。\n\n生命值达到40%时，获得30法力值和相当于最大生命值50%的护盾值。",
+    "effects": {
+      "Armor": 50,
+      "MagicResist": 50,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_ProtectorsVowRadiant.webp?v=4",
+    "id": "DA_ProtectorsVowRadiant",
+    "name": "光明版圣盾使的誓约"
+  },
+  "DA_Quicksilver": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NegatronCloak",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "战斗开始时：获得持续18秒的控制免疫效果。\n\n每秒获得3%可叠加的攻击速度。",
+    "effects": {
+      "AttackSpeed": 0.15,
+      "CritChance": 20,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Quicksilver.webp?v=4",
+    "id": "DA_Quicksilver",
+    "name": "水银"
+  },
+  "DA_QuicksilverRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "战斗开始时：获得持续45秒的控制免疫效果。\n\n每秒获得6%可叠加的攻击速度。",
+    "effects": {
+      "AttackSpeed": 0.4,
+      "CritChance": 40,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_QuicksilverRadiant.webp?v=4",
+    "id": "DA_QuicksilverRadiant",
+    "name": "光明版水银"
+  },
+  "DA_RabadonsDeathcap": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "这顶不起眼的帽子可以帮助你创造，或毁灭，这个世界本身。",
+    "effects": {
+      "AP": 55
+    },
+    "icon": "/set18/item-webp/DA_RabadonsDeathcap.webp?v=4",
+    "id": "DA_RabadonsDeathcap",
+    "name": "灭世者的死亡之帽"
+  },
+  "DA_RabadonsDeathcap_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "它见证过——并释放过——奇迹和灾难。",
+    "effects": {
+      "AP": 100
+    },
+    "icon": "/set18/item-webp/DA_RabadonsDeathcap_Radiant.webp?v=4",
+    "id": "DA_RabadonsDeathcap_Radiant",
+    "name": "光明版灭世者的死亡之帽"
+  },
+  "DA_RedBuff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_RecurveBow"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "攻击和技能的伤害对敌人们造成持续5秒的1%灼烧效果和33%重伤效果。\n\n灼烧：每秒造成目标一部分最大生命值的真实伤害\n重伤：降低受到的治疗效果",
+    "effects": {
+      "AttackSpeed": 0.45
+    },
+    "icon": "/set18/item-webp/DA_RedBuff.webp?v=4",
+    "id": "DA_RedBuff",
+    "name": "红霸符"
+  },
+  "DA_RedBuffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "攻击和技能的伤害对敌人们造成持续5秒的2%灼烧效果和33%重伤效果。\n\n灼烧：每秒造成目标一部分最大生命值的真实伤害\n重伤：降低受到的治疗效果",
+    "effects": {
+      "AttackSpeed": 0.8
+    },
+    "icon": "/set18/item-webp/DA_RedBuffRadiant.webp?v=4",
+    "id": "DA_RedBuffRadiant",
+    "name": "光明版红霸符"
+  },
+  "DA_SpearOfShojin": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "每次普攻提供5额外法力值。",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_SpearOfShojin.webp?v=4",
+    "id": "DA_SpearOfShojin",
+    "name": "朔极之矛"
+  },
+  "DA_SpearOfShojinRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每次攻击提供10 额外法力值。",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_SpearOfShojinRadiant.webp?v=4",
+    "id": "DA_SpearOfShojinRadiant",
+    "name": "光明版朔极之矛"
+  },
+  "DA_SpiritVisage": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "每秒回复2%已损失生命值。",
+    "effects": {
+      "Health": 300,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_SpiritVisage.webp?v=4",
+    "id": "DA_SpiritVisage",
+    "name": "振奋盔甲"
+  },
+  "DA_SpiritVisage_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每秒回复4%已损失生命值。",
+    "effects": {
+      "Health": 700,
+      "ManaRegen": 4
+    },
+    "icon": "/set18/item-webp/DA_SpiritVisage_Radiant.webp?v=4",
+    "id": "DA_SpiritVisage_Radiant",
+    "name": "光明版振奋盔甲"
+  },
+  "DA_SteadfastHeart": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "获得5%伤害减免。在高于50%生命值时，转而获得15%伤害减免。",
+    "effects": {
+      "Armor": 20,
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_SteadfastHeart.webp?v=4",
+    "id": "DA_SteadfastHeart",
+    "name": "坚定之心"
+  },
+  "DA_SteadfastHeartRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得10%伤害减免。在高于50%生命值时，转而获得30%伤害减免。",
+    "effects": {
+      "Armor": 40,
+      "CritChance": 40
+    },
+    "icon": "/set18/item-webp/DA_SteadfastHeartRadiant.webp?v=4",
+    "id": "DA_SteadfastHeartRadiant",
+    "name": "光明版坚定之心"
+  },
+  "DA_SteraksGage": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "在60%生命值时，获得相当于携带者40%最大生命值的护盾值，在4秒内快速衰减。",
+    "effects": {
+      "AD": 0.45,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_SteraksGage.webp?v=4",
+    "id": "DA_SteraksGage",
+    "name": "斯特拉克的挑战护手"
+  },
+  "DA_SteraksGageRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "在60%生命值时，获得相当于携带者80%最大生命值的护盾值，在6秒内快速衰减。",
+    "effects": {
+      "AD": 0.9,
+      "Health": 600
+    },
+    "icon": "/set18/item-webp/DA_SteraksGageRadiant.webp?v=4",
+    "id": "DA_SteraksGageRadiant",
+    "name": "光明版斯特拉克的挑战护手"
+  },
+  "DA_StrikersFlail": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "暴击提供持续5秒的5%伤害增幅，可叠加至多4次。",
+    "effects": {
+      "AttackSpeed": 0.1,
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_StrikersFlail.webp?v=4",
+    "id": "DA_StrikersFlail",
+    "name": "强袭者的链枷"
+  },
+  "DA_StrikersFlailRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "暴击提供持续5秒的10%伤害增幅，可叠加至多4次。",
+    "effects": {
+      "AttackSpeed": 0.2,
+      "CritChance": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_StrikersFlailRadiant.webp?v=4",
+    "id": "DA_StrikersFlailRadiant",
+    "name": "光明版强袭者的链枷"
+  },
+  "DA_SunfireCape": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "获得16%最大生命值。\n\n每过2秒，对2格内的一名敌人施加持续10秒的2%灼烧效果和33%重伤效果。\n\n灼烧：每秒造成目标一部分最大生命值的真实伤害\n重伤：降低受到的治疗效果",
+    "effects": {
+      "Armor": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_SunfireCape.webp?v=4",
+    "id": "DA_SunfireCape",
+    "name": "日炎斗篷"
+  },
+  "DA_SunfireCape_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得16%最大生命值。\n\n每过2秒，对2格内的一名敌人施加持续10秒的2%灼烧效果和33%重伤效果。\n\n灼烧：每秒造成目标一部分最大生命值的真实伤害\n重伤：降低受到的治疗效果。",
+    "effects": {
+      "Armor": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_SunfireCape_Radiant.webp?v=4",
+    "id": "DA_SunfireCape_Radiant",
+    "name": "光明版日炎斗篷"
+  },
+  "DA_TacticiansCape": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_FryingPan"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "你的队伍获得最大队伍规模+1。\n\n在战斗10秒后，有10%几率掉落1金币。\n\n……外加几分运气。",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_TacticiansCape.webp?v=4",
+    "id": "DA_TacticiansCape",
+    "name": "金锅铲冠冕"
+  },
+  "DA_TacticiansCrown": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_Spatula"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "你的队伍获得+1最大队伍规模。\n在你赢下战斗时，有10%几率掉落1金币。\n\n“……英雄的心……”",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_TacticiansCrown.webp?v=4",
+    "id": "DA_TacticiansCrown",
+    "name": "金铲铲冠冕"
+  },
+  "DA_TacticiansShield": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_FryingPan"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "你的队伍获得+1最大队伍规模。\n\n在携带者阵亡时，有10%几率掉落1金币。\n\n充满了某位哲学家的智慧……",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_TacticiansShield.webp?v=4",
+    "id": "DA_TacticiansShield",
+    "name": "金锅锅冠冕"
+  },
+  "DA_ThiefsGloves": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_SparringGloves",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "每回合：装备2件随机装备\n\n[Consumes 3 item slots.]",
+    "effects": {
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_ThiefsGloves.webp?v=4",
+    "id": "DA_ThiefsGloves",
+    "name": "窃贼手套"
+  },
+  "DA_ThiefsGlovesRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "每回合：装备2件随机光明版装备\n\n[Consumes 3 item slots.]",
+    "effects": {
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_ThiefsGlovesRadiant.webp?v=4",
+    "id": "DA_ThiefsGlovesRadiant",
+    "name": "光明版窃贼手套"
+  },
+  "DA_TitansResolve": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "在攻击或承受伤害时获得2%物理加成和法术加成，至多可叠加25次。\n\n在叠满层数后，获得10%伤害增幅，并获得控制免疫效果。",
+    "effects": {
+      "Armor": 20,
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_TitansResolve.webp?v=4",
+    "id": "DA_TitansResolve",
+    "name": "泰坦的坚决"
+  },
+  "DA_TitansResolve_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "在攻击或承受伤害时获得4%物理加成和4%法术加成，至多可叠加25次。\n\n在叠满层数后，获得20%伤害增幅，并获得控制免疫效果。",
+    "effects": {
+      "Armor": 40,
+      "AttackSpeed": 0.2
+    },
+    "icon": "/set18/item-webp/DA_TitansResolve_Radiant.webp?v=4",
+    "id": "DA_TitansResolve_Radiant",
+    "name": "光明版泰坦的坚决"
+  },
+  "DA_VoidStaff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "攻击和技能伤害都会对目标施加持续5秒的30%魔抗击碎。这个效果不会叠加。\n\n魔抗击碎：降低魔法抗性",
+    "effects": {
+      "AP": 35,
+      "AttackSpeed": 0.15,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_VoidStaff.webp?v=4",
+    "id": "DA_VoidStaff",
+    "name": "虚空之杖"
+  },
+  "DA_VoidStaffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "攻击和技能伤害都会对目标施加持续至战斗环节结束的30%魔抗击碎。这个效果不会叠加。\n\n魔抗击碎：降低魔法抗性",
+    "effects": {
+      "AP": 75,
+      "AttackSpeed": 0.3,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_VoidStaffRadiant.webp?v=4",
+    "id": "DA_VoidStaffRadiant",
+    "name": "光明版虚空之杖"
+  },
+  "DA_WarmogsArmor": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "获得18%最大生命值。",
+    "effects": {
+      "Health": 500
+    },
+    "icon": "/set18/item-webp/DA_WarmogsArmor.webp?v=4",
+    "id": "DA_WarmogsArmor",
+    "name": "狂徒铠甲"
+  },
+  "DA_WarmogsArmorRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "获得36%最大生命值。",
+    "effects": {
+      "Health": 1200
+    },
+    "icon": "/set18/item-webp/DA_WarmogsArmorRadiant.webp?v=4",
+    "id": "DA_WarmogsArmorRadiant",
+    "name": "光明版狂徒铠甲"
+  }
+}

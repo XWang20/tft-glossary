@@ -1,0 +1,4524 @@
+{
+  "DA_18_Ahri": {
+    "ability": {
+      "description": "对4格内被最多敌人环绕的那个区域发射一颗灵魄炸弹。它对半径3格内的敌人造成{{fval:0}}485/735/3500{{icon:scaleAP}}{{/fval}}魔法伤害，与中心的距离每增加1格，该伤害就会衰减20%。",
+      "formulas": [
+        {
+          "displayValue": "485/735/3500",
+          "formula": "[485/735/3500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "485",
+            "735",
+            "3500"
+          ]
+        }
+      ],
+      "name": "灵魄炸弹",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Ahri.webp?v=5",
+    "id": "DA_18_Ahri",
+    "name": "阿狸",
+    "role": "APCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 20,
+      "magicResist": 40,
+      "mana": 100,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_18_Akali_AD": {
+    "ability": {
+      "description": "【魔战士】{{icon:scaleAD}}：对目标发射一连串苦无，造成{{fval:0}}155/235/370/630{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害。如果目标处于灼烧状态，则额外造成{{fval:1}}35/52/80/135{{icon:scaleAD}}{{/fval}}伤害。\n\n【魔战士】{{icon:scaleAP}}：若该技能完成击杀，则再次施放它。\n【魔战士】{{icon:scaleAP}}：对目标发射一连串苦无，造成{{fval:2}}155/235/385/650{{icon:scaleAP}}{{/fval}}魔法伤害，如果目标是【坦克】，该伤害还会增加50%。如果目标阵亡，则以70%效能再次施放。\n\n【魔战士】{{icon:scaleAD}}：对处于【灼烧】状态的敌人造成额外伤害。",
+      "formulas": [
+        {
+          "displayValue": "155/235/370/630",
+          "formula": "[145/220/345/590]{{icon:scaleAD}} + [10/15/25/40]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "155",
+            "235",
+            "370",
+            "630"
+          ]
+        },
+        {
+          "displayValue": "35/52/80/135",
+          "formula": "[35/52/80/135]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "35",
+            "52",
+            "80",
+            "135"
+          ]
+        },
+        {
+          "displayValue": "155/235/385/650",
+          "formula": "[155/235/385/650]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "155",
+            "235",
+            "385",
+            "650"
+          ]
+        }
+      ],
+      "name": "苦无打击",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Akali_AD.webp?v=5",
+    "id": "DA_18_Akali_AD",
+    "name": "阿卡丽",
+    "role": "APFighter",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 0,
+      "magicResist": 35,
+      "mana": 25,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Inferno",
+      "DA_18_Adaptor",
+      "DA_18_Slayer"
+    ]
+  },
+  "DA_18_Alistar": {
+    "ability": {
+      "description": "怒吼，回复{{fval:0}}276/397/566/823{{icon:scaleAP}}{{icon:scaleHealth}}{{/fval}}生命值，净化限制效果，并为生命值最低的两名友军回复{{fval:1}}80/105/130/155{{icon:scaleAP}}{{/fval}}生命值。然后猛击当前目标，造成{{fval:2}}100/150/225/385{{icon:scaleAP}}{{/fval}}魔法伤害和1.5秒晕眩。",
+      "formulas": [
+        {
+          "displayValue": "276/397/566/823",
+          "formula": "[200/260/320/380]{{icon:scaleAP}} + 8%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAP",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "276",
+            "397",
+            "566",
+            "823"
+          ]
+        },
+        {
+          "displayValue": "80/105/130/155",
+          "formula": "[80/105/130/155]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "80",
+            "105",
+            "130",
+            "155"
+          ]
+        },
+        {
+          "displayValue": "100/150/225/385",
+          "formula": "[100/150/225/385]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "225",
+            "385"
+          ]
+        }
+      ],
+      "name": "凯旋怒吼",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Alistar.webp?v=5",
+    "id": "DA_18_Alistar",
+    "name": "阿利斯塔",
+    "role": "APTank",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 950,
+      "hpStars": [
+        950,
+        1710,
+        3078
+      ],
+      "initialMana": 30,
+      "magicResist": 45,
+      "mana": 90,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_18_Alune": {
+    "ability": {
+      "description": "向3个最近的敌人降下9枚月光碎片，每枚造成{{fval:0}}50/75/500{{icon:scaleAP}}{{/fval}}魔法伤害。\n\n满月时，月曜降临，造成由所有敌人分摊的{{fval:1}}2200/3400/7500{{icon:scaleAP}}{{/fval}}魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "50/75/500",
+          "formula": "[50/75/500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "50",
+            "75",
+            "500"
+          ]
+        },
+        {
+          "displayValue": "2200/3400/7500",
+          "formula": "[2200/3400/7500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "2200",
+            "3400",
+            "7500"
+          ]
+        }
+      ],
+      "name": "月华倾落",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_Alune.webp?v=5",
+    "id": "DA_18_Alune",
+    "name": "拉露恩",
+    "role": "APCaster",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 0,
+      "magicResist": 45,
+      "mana": 35,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_AluneUniqueTrait18",
+      "DA_18_Lunar",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_18_Aphelios": {
+    "ability": {
+      "description": "装备断魄，并在2秒内对目标连续挥击{{fval:0}}6{{icon:scaleAS}}{{/fval}}次，每次造成{{fval:1}}70/105/850{{icon:scaleAD}}{{/fval}}物理伤害。\n\n攻势结束后，发射一道月光，造成{{fval:2}}490/735/5225{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害，由半径2格内的所有敌人分摊。",
+      "formulas": [
+        {
+          "displayValue": "6",
+          "formula": "[6] + 1 per bonus [35%] {{icon:scaleAS}}",
+          "icons": [
+            "scaleAS"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "6",
+            "6",
+            "6"
+          ]
+        },
+        {
+          "displayValue": "70/105/850",
+          "formula": "[70/105/850]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "70",
+            "105",
+            "850"
+          ]
+        },
+        {
+          "displayValue": "490/735/5225",
+          "formula": "[450/675/5000]{{icon:scaleAD}} + [40/60/225]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "490",
+            "735",
+            "5225"
+          ]
+        }
+      ],
+      "name": "月光对影",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Aphelios.webp?v=5",
+    "id": "DA_18_Aphelios",
+    "name": "厄斐琉斯",
+    "role": "ADCarry",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 60,
+      "damageStars": [
+        60,
+        90,
+        135
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 20,
+      "magicResist": 40,
+      "mana": 70,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Lunar",
+      "DA_18_Rapidfire"
+    ]
+  },
+  "DA_18_Ashe": {
+    "ability": {
+      "description": "沿敌人们组成的最长的那条直线发射一支箭矢，造成{{fval:0}}440/660/1000{{icon:scaleAD}}{{/fval}}物理伤害，这个伤害每命中一个敌人就会衰减80/80/40%(最低为20%)。\n\n这支箭矢会留下一道持续4/4/20秒的痕迹，对其中的敌人每秒造成{{fval:1}}7/11/220{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}+2/3/10%最大生命值物理伤害，并施加20%缓速效果。\n\n缓速：降低攻击速度",
+      "formulas": [
+        {
+          "displayValue": "440/660/1000",
+          "formula": "[440/660/1000]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "440",
+            "660",
+            "1000"
+          ]
+        },
+        {
+          "displayValue": "7/11/220",
+          "formula": "[5/8/200]{{icon:scaleAD}} + [2/3/20]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "7",
+            "11",
+            "220"
+          ]
+        }
+      ],
+      "name": "灵魂裂隙",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_Ashe.webp?v=5",
+    "id": "DA_18_Ashe",
+    "name": "艾希",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 75,
+      "damageStars": [
+        75,
+        113,
+        169
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 20,
+      "magicResist": 45,
+      "mana": 80,
+      "range": 5
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Hunter"
+    ]
+  },
+  "DA_18_Azir": {
+    "ability": {
+      "description": "接下来的6次攻击获得150%攻击速度并召唤2个士兵。这些攻击会被替换为指令，来命令每个士兵进行攻击，每次攻击造成{{fval:0}}50/75/120{{icon:scaleAP}}{{/fval}} 魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "50/75/120",
+          "formula": "[50/75/120]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "50",
+            "75",
+            "120"
+          ]
+        }
+      ],
+      "name": "沙兵现身",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Azir.webp?v=5",
+    "id": "DA_18_Azir",
+    "name": "阿兹尔",
+    "role": "APCarry",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 0,
+      "magicResist": 35,
+      "mana": 35,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Blackthorn",
+      "DA_18_Executioner",
+      "DA_18_Summoner"
+    ]
+  },
+  "DA_18_Caitlyn": {
+    "ability": {
+      "description": "被动：每第三次攻击会被替换为一次爆头，造成{{fval:0}}220/330/545/925{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害。",
+      "formulas": [
+        {
+          "displayValue": "220/330/545/925",
+          "formula": "[200/300/500/850]{{icon:scaleAD}} + [20/30/45/75]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "220",
+            "330",
+            "545",
+            "925"
+          ]
+        }
+      ],
+      "name": "爆头",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Caitlyn.webp?v=5",
+    "id": "DA_18_Caitlyn",
+    "name": "凯特琳",
+    "role": "ADSpecialist",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "initialMana": 0,
+      "magicResist": 30,
+      "mana": 3,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Coven",
+      "DA_18_Hunter"
+    ]
+  },
+  "DA_18_Camille": {
+    "ability": {
+      "description": "切割目标，造成{{fval:0}}170/255/435/740{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害，并获得持续2秒的60/85/160/235护盾值。",
+      "formulas": [
+        {
+          "displayValue": "170/255/435/740",
+          "formula": "[160/240/410/700]{{icon:scaleAD}} + [10/15/25/40]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "170",
+            "255",
+            "435",
+            "740"
+          ]
+        }
+      ],
+      "name": "防御横扫",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Camille.webp?v=5",
+    "id": "DA_18_Camille",
+    "name": "卡蜜尔",
+    "role": "ADFighter",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 25,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Coven",
+      "DA_18_Slayer"
+    ]
+  },
+  "DA_18_Cassiopeia": {
+    "ability": {
+      "description": "向目标和相距最近的未中毒敌人投毒，从而在15秒内持续造成{{fval:0}}425/640/1020{{icon:scaleAP}}{{/fval}}魔法伤害。中毒可以叠加。",
+      "formulas": [
+        {
+          "displayValue": "425/640/1020",
+          "formula": "[425/640/1020]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "425",
+            "640",
+            "1020"
+          ]
+        }
+      ],
+      "name": "瘟毒爆炸",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Cassiopeia.webp?v=5",
+    "id": "DA_18_Cassiopeia",
+    "name": "卡西奥佩娅",
+    "role": "APCaster",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 0,
+      "magicResist": 35,
+      "mana": 30,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Coven",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_18_Diana": {
+    "ability": {
+      "description": "获得150/225/300护盾值，持续2秒，并放出6颗月光法球，由2格内的所有敌人分摊，每颗造成{{fval:0}}65/100/155{{icon:scaleAP}}{{/fval}}魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "65/100/155",
+          "formula": "[65/100/155]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "65",
+            "100",
+            "155"
+          ]
+        }
+      ],
+      "name": "苍白屏障",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Diana.webp?v=5",
+    "id": "DA_18_Diana",
+    "name": "黛安娜",
+    "role": "APFighter",
+    "stats": {
+      "armor": 50,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 50,
+      "mana": 40,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Lunar",
+      "DA_18_Slayer",
+      "DA_18_Vanguard"
+    ]
+  },
+  "DA_18_ElderDragon": {
+    "ability": {
+      "description": "被动：普攻对目标邻格的敌人们造成75/75/100%伤害。\n\n主动：变成不可被选取状态并飞到空中，从而获得15/15/100%全能吸血。在返程时，对所有敌人造成1.25/1.25/99秒晕眩和持续3/3/99秒的【引燃】。然后将后续施放替换为【烈焰吐息】，并且立刻将其施放。被【引燃】的敌人每秒受到2/2/20%最大生命值物理伤害。\n\n烈焰吐息：向贯穿目标的一条敌人最多的直线喷吐火焰，从而造成{{fval:0}}270/405/7200{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} 物理伤害和持续3/3/99秒的【引燃】\n\n远古巨龙霸符：对低于12%生命值的敌人造成伤害时会将其处决。",
+      "formulas": [
+        {
+          "displayValue": "270/405/7200",
+          "formula": "[250/375/7000]{{icon:scaleAD}} + [20/30/200]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "270",
+            "405",
+            "7200"
+          ]
+        }
+      ],
+      "name": "绝伦火热",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_ElderDragon.webp?v=5",
+    "id": "DA_18_ElderDragon",
+    "name": "远古巨龙",
+    "role": "ADFighter",
+    "stats": {
+      "armor": 70,
+      "attackSpeed": 0.5,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 110,
+      "damageStars": [
+        110,
+        165,
+        248
+      ],
+      "hp": 1800,
+      "hpStars": [
+        1800,
+        3240,
+        5832
+      ],
+      "initialMana": 20,
+      "magicResist": 70,
+      "mana": 60,
+      "range": 2
+    },
+    "traitIds": [
+      "DA_18_ApexPredator",
+      "DA_Riftbeast18"
+    ]
+  },
+  "DA_18_Elise": {
+    "ability": {
+      "description": "变身为蜘蛛，并获得375/475/725/975最大生命值。处于蜘蛛形态时的攻击造成{{fval:0}}35/50/80/110{{icon:scaleAP}}{{/fval}}额外魔法伤害，并治疗自身{{fval:1}}55/85/160/235{{icon:scaleAP}}{{/fval}}生命值。后续施放提供在4秒内持续衰减的175%攻击速度。",
+      "formulas": [
+        {
+          "displayValue": "35/50/80/110",
+          "formula": "[35/50/80/110]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "35",
+            "50",
+            "80",
+            "110"
+          ]
+        },
+        {
+          "displayValue": "55/85/160/235",
+          "formula": "[55/85/160/235]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "55",
+            "85",
+            "160",
+            "235"
+          ]
+        }
+      ],
+      "name": "蜘蛛女皇",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Elise.webp?v=5",
+    "id": "DA_18_Elise",
+    "name": "伊莉丝",
+    "role": "APTank",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 20,
+      "damageStars": [
+        20,
+        30,
+        45
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 20,
+      "magicResist": 45,
+      "mana": 70,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Coven",
+      "DA_18_Vanguard"
+    ]
+  },
+  "DA_18_Ezreal": {
+    "ability": {
+      "description": "闪烁远离当前目标，对其造成{{fval:0}}225/340/1200{{icon:scaleAD}}{{/fval}}物理伤害，并获得{{fval:1}}25%/25%/100%{{icon:scaleAP}}{{/fval}}攻击速度。\n\n每第四次施放时，会消耗来自【自然之怒】的攻击速度，并释放一道贯穿最大的敌群的震波来造成{{fval:2}}385/580/2500{{icon:scaleAD}}{{/fval}}物理伤害，它每穿过一个敌人就会降低25%伤害(最低为50%)。",
+      "formulas": [
+        {
+          "displayValue": "225/340/1200",
+          "formula": "[225/340/1200]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "225",
+            "340",
+            "1200"
+          ]
+        },
+        {
+          "displayValue": "25%/25%/100%",
+          "formula": "[25%/25%/100%]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "25%",
+            "25%",
+            "100%"
+          ]
+        },
+        {
+          "displayValue": "385/580/2500",
+          "formula": "[385/580/2500]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "385",
+            "580",
+            "2500"
+          ]
+        }
+      ],
+      "name": "Forest's Flurry",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Ezreal.webp?v=5",
+    "id": "DA_18_Ezreal",
+    "name": "伊泽瑞尔",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 45,
+      "damageStars": [
+        45,
+        68,
+        101
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 30,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Executioner"
+    ]
+  },
+  "DA_18_GnarSmall": {
+    "ability": {
+      "description": "被动：每秒获得5/5/50怒气并且每次攻击提供5怒气。\n\n主动：变形为【巨型纳尔】并跃至3格内最大的敌群。然后，对2/2/10格内的敌人们造成{{fval:0}}100/150/2000{{icon:scaleAD}}{{/fval}}物理伤害，将其护甲和魔抗降低{{fval:1}}15/20/100{{icon:scaleAP}}{{/fval}}，并令其晕眩1/1/15秒。【巨型纳尔】获得400/600/10000生命值，并将其技能替换为“抓投”。\n\n抓投：抓住目标并将其投向相距最远的那个敌人，对主要目标造成{{fval:2}}380/570/9000{{icon:scaleAD}}{{/fval}}物理伤害，并对途经的敌人造成{{fval:3}}135/205/4500{{icon:scaleAD}}{{/fval}}物理伤害。如果目标是最后存活的1名敌人，则转而将其抛出战场。",
+      "formulas": [
+        {
+          "displayValue": "100/150/2000",
+          "formula": "[100/150/2000]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "2000"
+          ]
+        },
+        {
+          "displayValue": "15/20/100",
+          "formula": "[15/20/100]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "15",
+            "20",
+            "100"
+          ]
+        },
+        {
+          "displayValue": "380/570/9000",
+          "formula": "[380/570/9000]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "380",
+            "570",
+            "9000"
+          ]
+        },
+        {
+          "displayValue": "135/205/4500",
+          "formula": "[135/205/4500]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "135",
+            "205",
+            "4500"
+          ]
+        }
+      ],
+      "name": "狂怒基因",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_GnarSmall.webp?v=5",
+    "id": "DA_18_GnarSmall",
+    "name": "纳尔",
+    "role": "ADSpecialist",
+    "stats": {
+      "armor": 55,
+      "attackSpeed": 0.9,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 100,
+      "damageStars": [
+        100,
+        150,
+        225
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 0,
+      "magicResist": 55,
+      "mana": 70,
+      "range": 2
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Sprykin",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_18_Hecarim": {
+    "ability": {
+      "description": "获得持续3秒的50护甲与魔抗，并在此期间持续回复{{fval:0}}375/475/685{{icon:scaleAP}}{{/fval}}生命值。向相距最近的3名敌人派出幽魂骑兵，从而对其造成{{fval:1}}80/120/195{{icon:scaleAP}}{{/fval}}魔法伤害和1.5/1.5/1.75秒晕眩。",
+      "formulas": [
+        {
+          "displayValue": "375/475/685",
+          "formula": "[375/475/685]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "375",
+            "475",
+            "685"
+          ]
+        },
+        {
+          "displayValue": "80/120/195",
+          "formula": "[80/120/195]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "80",
+            "120",
+            "195"
+          ]
+        }
+      ],
+      "name": "恐惧之灵",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Hecarim.webp?v=5",
+    "id": "DA_18_Hecarim",
+    "name": "赫卡里姆",
+    "role": "APTank",
+    "stats": {
+      "armor": 50,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 30,
+      "magicResist": 50,
+      "mana": 110,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Vanguard"
+    ]
+  },
+  "DA_18_Ivern": {
+    "ability": {
+      "description": "被动：来自这个技能的护盾值可以通过技能暴击来产生暴击。\n\n主动：为2/2/10名友军提供{{fval:0}}165/300/3000{{icon:scaleAP}}{{icon:scaleDA}}{{/fval}}护盾和10/15/100%伤害增幅，持续6秒。随后对其邻格的敌人造成{{fval:1}}140/210/2000{{icon:scaleAP}}{{/fval}}魔法伤害。施放6次后，该技能还会为目标提供100%可叠加的攻击速度。",
+      "formulas": [
+        {
+          "displayValue": "165/300/3000",
+          "formula": "[165/300/3000]{{icon:scaleAP}} × {{icon:scaleDA}}",
+          "icons": [
+            "scaleAP",
+            "scaleDA"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "165",
+            "300",
+            "3000"
+          ]
+        },
+        {
+          "displayValue": "140/210/2000",
+          "formula": "[140/210/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "140",
+            "210",
+            "2000"
+          ]
+        }
+      ],
+      "name": "种豆得瓜",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_Ivern.webp?v=5",
+    "id": "DA_18_Ivern",
+    "name": "艾翁",
+    "role": "APCaster",
+    "stats": {
+      "armor": 55,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 60,
+      "damageStars": [
+        60,
+        90,
+        135
+      ],
+      "hpStars": [
+        0,
+        0,
+        0
+      ],
+      "initialMana": 50,
+      "magicResist": 55,
+      "mana": 80,
+      "range": 3
+    },
+    "traitIds": [
+      "DA_18_Greenfather"
+    ]
+  },
+  "DA_18_Kayle": {
+    "ability": {
+      "description": "被动：【凯尔】基于其星级获得飞升，并获得可叠加的增益。\n\n第1次飞升： 普攻造成{{fval:0}}56/84/98/112{{icon:scaleAP}}{{/fval}}额外魔法伤害。\n第2次飞升： 普攻对命中的敌人施加持续2秒的20%魔抗击碎。\n第3次飞升： 普攻发射冲击波，对命中的所有其他弈子造成{{fval:1}}40/40/40/50{{icon:scaleAP}}{{/fval}}魔法伤害。\n第4次飞升： 获得无限距离。每飞升3次，焰浪变得更大。\n\n魔抗击碎：降低魔法抗性",
+      "formulas": [
+        {
+          "displayValue": "56/84/98/112",
+          "formula": "[56/84/98/112]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "56",
+            "84",
+            "98",
+            "112"
+          ]
+        },
+        {
+          "displayValue": "40/40/40/50",
+          "formula": "[40/40/40/50]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "40",
+            "40",
+            "40",
+            "50"
+          ]
+        }
+      ],
+      "name": "太阳裁决",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Kayle.webp?v=5",
+    "id": "DA_18_Kayle",
+    "name": "凯尔",
+    "role": "APSpecialist",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 10,
+      "damageStars": [
+        10,
+        15,
+        23
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "magicResist": 30,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Solar",
+      "DA_18_Rapidfire"
+    ]
+  },
+  "DA_18_Kennen": {
+    "ability": {
+      "description": "蓄力，每有一名被灼烧的敌人便获得15%法术加成。随后，获得持续2.5秒的{{fval:0}}250/350/3000{{icon:scaleAP}}{{/fval}}护盾值，然后冲刺穿过附近的一群敌人，对每个敌人造成{{fval:1}}80/120/1500{{icon:scaleAP}}{{/fval}}魔法伤害。\n\n冲刺后，释放一场半径2格的火焰风暴，在2秒内持续造成共计{{fval:2}}450/675/5000{{icon:scaleAP}}{{/fval}}魔法伤害，由所有被命中的敌人均摊。",
+      "formulas": [
+        {
+          "displayValue": "250/350/3000",
+          "formula": "[250/350/3000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "250",
+            "350",
+            "3000"
+          ]
+        },
+        {
+          "displayValue": "80/120/1500",
+          "formula": "[80/120/1500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "80",
+            "120",
+            "1500"
+          ]
+        },
+        {
+          "displayValue": "450/675/5000",
+          "formula": "[450/675/5000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "450",
+            "675",
+            "5000"
+          ]
+        }
+      ],
+      "name": "火焰风暴",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_Kennen.webp?v=5",
+    "id": "DA_18_Kennen",
+    "name": "凯南",
+    "role": "APReaper",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.85,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 1200,
+      "hpStars": [
+        1200,
+        2160,
+        3888
+      ],
+      "initialMana": 0,
+      "magicResist": 60,
+      "mana": 40,
+      "range": 2
+    },
+    "traitIds": [
+      "DA_18_Inferno",
+      "DA_18_Executioner"
+    ]
+  },
+  "DA_18_KhaZix": {
+    "ability": {
+      "description": "Leap to the farthest enemy within 3 Hexes, dealing {{fval:0}}240/360/540{{icon:scaleAP}}{{/fval}} magic damage. If they have no adjacent allies, deal {{fval:1}}290/435/650{{icon:scaleAP}}{{/fval}} magic damage instead and gain 10 mana.",
+      "formulas": [
+        {
+          "displayValue": "240/360/540",
+          "formula": "[240/360/540]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "240",
+            "360",
+            "540"
+          ]
+        },
+        {
+          "displayValue": "290/435/650",
+          "formula": "[290/435/650]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "290",
+            "435",
+            "650"
+          ]
+        }
+      ],
+      "name": "品尝恐惧",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_KhaZix.webp?v=5",
+    "id": "DA_18_KhaZix",
+    "name": "卡兹克",
+    "role": "APReaper",
+    "stats": {
+      "armor": 55,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 55,
+      "mana": 25,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Rival"
+    ]
+  },
+  "DA_18_Kobuko": {
+    "ability": {
+      "description": "在2秒内持续回复{{fval:0}}314/403/589/831{{icon:scaleAP}}{{icon:scaleHealth}}{{/fval}}生命值。下一次攻击被替换为猛击，造成{{fval:1}}140/231/377/408{{icon:scaleHealth}}{{icon:scaleAP}}{{/fval}}魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "314/403/589/831",
+          "formula": "[265/315/430/545]{{icon:scaleAP}} + 7%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAP",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "314",
+            "403",
+            "589",
+            "831"
+          ]
+        },
+        {
+          "displayValue": "140/231/377/408",
+          "formula": "10%{{icon:scaleHealth}} + [70/105/150/0]{{icon:scaleAP}}",
+          "icons": [
+            "scaleHealth",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "140",
+            "231",
+            "377",
+            "408"
+          ]
+        }
+      ],
+      "name": "生命之舞",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Kobuko.webp?v=5",
+    "id": "DA_18_Kobuko",
+    "name": "可酷伯",
+    "role": "APTank",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 55,
+      "damageStars": [
+        55,
+        83,
+        124
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 30,
+      "magicResist": 40,
+      "mana": 90,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Sprykin",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_18_LeBlanc": {
+    "ability": {
+      "description": "被动：在玩家对战结束后，你最强的那个【乐芙兰】有10/15/40/100%的几率生成你场上一个友军的1星复制品，每次参与击杀后提升4%。\n\n主动：向当前目标发射一个镜像，从而造成{{fval:0}}250/375/565/955{{icon:scaleAP}}{{/fval}}魔法伤害，并对邻格的敌人们造成{{fval:1}}85/130/190/325{{icon:scaleAP}}{{/fval}}魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "250/375/565/955",
+          "formula": "[250/375/565/955]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "250",
+            "375",
+            "565",
+            "955"
+          ]
+        },
+        {
+          "displayValue": "85/130/190/325",
+          "formula": "[85/130/190/325]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "85",
+            "130",
+            "190",
+            "325"
+          ]
+        }
+      ],
+      "name": "镜花水月",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_LeBlanc.webp?v=5",
+    "id": "DA_18_LeBlanc",
+    "name": "乐芙兰",
+    "role": "APCaster",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "initialMana": 0,
+      "magicResist": 30,
+      "mana": 40,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_18_Leona": {
+    "ability": {
+      "description": "被动：在战斗开始时获得{{fval:0}}60/70/80/100{{icon:scaleAP}}{{/fval}}额外护甲和魔抗，在12秒内持续衰减。\n\n主动：猛击当前目标，造成{{fval:1}}60/108/162/320{{icon:scaleArmor}}{{/fval}}魔法伤害和1.5秒晕眩。",
+      "formulas": [
+        {
+          "displayValue": "60/70/80/100",
+          "formula": "[60/70/80/100]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60",
+            "70",
+            "80",
+            "100"
+          ]
+        },
+        {
+          "displayValue": "60/108/162/320",
+          "formula": "[150%/270%/405%/800%]{{icon:scaleArmor}}",
+          "icons": [
+            "scaleArmor"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60",
+            "108",
+            "162",
+            "320"
+          ]
+        }
+      ],
+      "name": "护盾猛击",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Leona.webp?v=5",
+    "id": "DA_18_Leona",
+    "name": "蕾欧娜",
+    "role": "APTank",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 40,
+      "magicResist": 40,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Solar",
+      "DA_18_Defender"
+    ]
+  },
+  "DA_18_Lillia": {
+    "ability": {
+      "description": "回复{{fval:0}}280/360/800{{icon:scaleAP}}{{/fval}}生命值，并向附近的敌人们放出4只蝴蝶。在命中敌人时造成{{fval:1}}90/135/2000{{icon:scaleAP}}{{/fval}}魔法伤害并施加1.5/1.75/8秒昏睡。如果目标受到的伤害达到1000，则会醒来并额外受到10%最大生命值魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "280/360/800",
+          "formula": "[280/360/800]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "280",
+            "360",
+            "800"
+          ]
+        },
+        {
+          "displayValue": "90/135/2000",
+          "formula": "[90/135/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "90",
+            "135",
+            "2000"
+          ]
+        }
+      ],
+      "name": "夜阑谣",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Lillia.webp?v=5",
+    "id": "DA_18_Lillia",
+    "name": "莉莉娅",
+    "role": "APTank",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 1300,
+      "hpStars": [
+        1300,
+        2340,
+        4212
+      ],
+      "initialMana": 40,
+      "magicResist": 60,
+      "mana": 140,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Fae",
+      "DA_18_Defender"
+    ]
+  },
+  "DA_18_Malphite": {
+    "ability": {
+      "description": "获得持续4秒的{{fval:0}}700/850/2000{{icon:scaleAP}}{{/fval}}护盾值，并进入石化状态。护盾被打破时，释放一道黑暗能量波，对2/2/3格内的敌人们造成{{fval:1}}82/123/3399{{icon:scaleMR}}{{icon:scaleArmor}}{{icon:scaleAP}}{{/fval}}魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "700/850/2000",
+          "formula": "[700/850/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "700",
+            "850",
+            "2000"
+          ]
+        },
+        {
+          "displayValue": "82/123/3399",
+          "formula": "[30%/45%/999%]{{icon:scaleMR}} + [30%/45%/999%]{{icon:scaleArmor}} + [40/60/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleMR",
+            "scaleArmor",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "82",
+            "123",
+            "3399"
+          ]
+        }
+      ],
+      "name": "石化树皮",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Malphite.webp?v=5",
+    "id": "DA_18_Malphite",
+    "name": "墨菲特",
+    "role": "APTank",
+    "stats": {
+      "armor": 70,
+      "attackSpeed": 0.55,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 70,
+      "damageStars": [
+        70,
+        105,
+        158
+      ],
+      "hp": 1300,
+      "hpStars": [
+        1300,
+        2340,
+        4212
+      ],
+      "initialMana": 30,
+      "magicResist": 70,
+      "mana": 80,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blackthorn",
+      "DA_18_Battlemage"
+    ]
+  },
+  "DA_18_Maokai": {
+    "ability": {
+      "description": "被动：每格挡650/650/300伤害后，一株树苗会跳向附近的一名敌人并造成{{fval:0}}77/139/2673{{icon:scaleHealth}}{{/fval}}魔法伤害。阵亡时，3/5/10株树苗会跳出。\n\n主动：对目标造成{{fval:1}}66/119/3564{{icon:scaleHealth}}{{/fval}}魔法伤害并回复{{fval:2}}330/400/2000{{icon:scaleAP}}{{/fval}}+10/10/100%已损失生命值。",
+      "formulas": [
+        {
+          "displayValue": "77/139/2673",
+          "formula": "[7%/7%/75%]{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "77",
+            "139",
+            "2673"
+          ]
+        },
+        {
+          "displayValue": "66/119/3564",
+          "formula": "[6%/6%/100%]{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "66",
+            "119",
+            "3564"
+          ]
+        },
+        {
+          "displayValue": "330/400/2000",
+          "formula": "[330/400/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "330",
+            "400",
+            "2000"
+          ]
+        }
+      ],
+      "name": "播种",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_Maokai.webp?v=5",
+    "id": "DA_18_Maokai",
+    "name": "茂凯",
+    "role": "APTank",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 80,
+      "damageStars": [
+        80,
+        120,
+        180
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 40,
+      "magicResist": 60,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Maokai_UniqueTrait",
+      "DA_Juggernaut18"
+    ]
+  },
+  "DA_18_MasterYi_AD": {
+    "ability": {
+      "description": "被动：每第3次攻击为双重打击。参与击杀时，获得爆发性的移动速度。\n\n【魔战士】{{icon:scaleAD}}：双重打击提供{{fval:0}}15%{{icon:scaleAP}}{{/fval}}可叠加的攻击速度。\n\n【魔战士】{{icon:scaleAP}}：双重打击会造成额外伤害并提供治疗。\n被动：每第3次攻击为双重打击。参与击杀时，获得爆发性的移动速度。\n\n【魔战士】{{icon:scaleAP}}：双重打击造成{{fval:1}}145/220/350{{icon:scaleAP}}{{/fval}}额外魔法伤害。回复相当于35%额外造成伤害的生命值。\n\n【魔战士】{{icon:scaleAD}}：双重打击提供可叠加的攻击速度。",
+      "formulas": [
+        {
+          "displayValue": "15%",
+          "formula": "12% + 3%{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "15%",
+            "15%",
+            "15%"
+          ]
+        },
+        {
+          "displayValue": "145/220/350",
+          "formula": "[145/220/350]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "145",
+            "220",
+            "350"
+          ]
+        }
+      ],
+      "name": "无极剑道",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_MasterYi_AD.webp?v=5",
+    "id": "DA_18_MasterYi_AD",
+    "name": "易",
+    "role": "APSpecialist",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.85,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 70,
+      "damageStars": [
+        70,
+        105,
+        158
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 60,
+      "mana": 3,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Adaptor"
+    ]
+  },
+  "DA_18_Morgana": {
+    "ability": {
+      "description": "被动：获得25%全能吸血。\n\n主动：向附近3个敌人发射一道黑暗震波，造成{{fval:0}}60/90/500{{icon:scaleAP}}{{/fval}}魔法伤害并诅咒他们4秒。然后，生成一个半径2格的枯萎地带，持续相同时长并且每秒造成{{fval:1}}33/50/500{{icon:scaleAP}}{{/fval}}魔法伤害。被诅咒的敌人们受到{{fval:2}}22/33/240{{icon:scaleAP}}{{/fval}}×诅咒数的额外伤害。",
+      "formulas": [
+        {
+          "displayValue": "60/90/500",
+          "formula": "[60/90/500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60",
+            "90",
+            "500"
+          ]
+        },
+        {
+          "displayValue": "33/50/500",
+          "formula": "[33/50/500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "33",
+            "50",
+            "500"
+          ]
+        },
+        {
+          "displayValue": "22/33/240",
+          "formula": "[22/33/240]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "22",
+            "33",
+            "240"
+          ]
+        }
+      ],
+      "name": "枯萎诅咒",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Morgana.webp?v=5",
+    "id": "DA_18_Morgana",
+    "name": "莫甘娜",
+    "role": "APFighter",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 45,
+      "damageStars": [
+        45,
+        68,
+        101
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 0,
+      "magicResist": 60,
+      "mana": 60,
+      "range": 2
+    },
+    "traitIds": [
+      "DA_18_Coven",
+      "DA_18_Invoker"
+    ]
+  },
+  "DA_18_Ornn": {
+    "ability": {
+      "description": "主动：获得持续4秒的{{fval:0}}400/460/550/640{{icon:scaleAP}}{{/fval}}护盾值，并对一个锥形范围内的敌人造成{{fval:1}}200/300/450/765{{icon:scaleAP}}{{/fval}}魔法伤害。\n\n任务：每场玩家对战，【奥恩】将已格挡的伤害储存为【锻炉能量】，在3星时翻倍。他每次获得【锻炉能量】时，获得1个【神器锻造器】。",
+      "formulas": [
+        {
+          "displayValue": "400/460/550/640",
+          "formula": "[400/460/550/640]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "400",
+            "460",
+            "550",
+            "640"
+          ]
+        },
+        {
+          "displayValue": "200/300/450/765",
+          "formula": "[200/300/450/765]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "200",
+            "300",
+            "450",
+            "765"
+          ]
+        }
+      ],
+      "name": "风箱炎息",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Ornn.webp?v=5",
+    "id": "DA_18_Ornn",
+    "name": "奥恩",
+    "role": "APTank",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 40,
+      "magicResist": 40,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Defender"
+    ]
+  },
+  "DA_18_Rakan": {
+    "ability": {
+      "description": "获得持续4秒的{{fval:0}}250/300/375/450{{icon:scaleAP}}{{/fval}}护盾值。然后为本回合造成伤害最高的友军提供在4秒内持续衰减的{{fval:1}}90%/100%/130%/160%{{icon:scaleAP}}{{/fval}}攻击速度。",
+      "formulas": [
+        {
+          "displayValue": "250/300/375/450",
+          "formula": "[250/300/375/450]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "250",
+            "300",
+            "375",
+            "450"
+          ]
+        },
+        {
+          "displayValue": "90%/100%/130%/160%",
+          "formula": "[90%/100%/130%/160%]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "90%",
+            "100%",
+            "130%",
+            "160%"
+          ]
+        }
+      ],
+      "name": "登场之舞",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Rakan.webp?v=5",
+    "id": "DA_18_Rakan",
+    "name": "洛",
+    "role": "APTank",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damageStars": [
+        0,
+        0,
+        0
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 20,
+      "magicResist": 35,
+      "mana": 90,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Fae",
+      "DA_Juggernaut18",
+      "DA_18_Vanguard"
+    ]
+  },
+  "DA_18_Rammus": {
+    "ability": {
+      "description": "嘲讽，从而强迫附近的敌人们攻击该弈子。获得持续4秒的{{fval:0}}350/450/550{{icon:scaleAP}}{{/fval}}护盾值和60护甲与魔抗。\n\n护盾被打破时，对2格内的敌人造成{{fval:1}}50/75/120{{icon:scaleArmor}}{{icon:scaleMR}}{{/fval}}物理伤害。",
+      "formulas": [
+        {
+          "displayValue": "350/450/550",
+          "formula": "[350/450/550]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "350",
+            "450",
+            "550"
+          ]
+        },
+        {
+          "displayValue": "50/75/120",
+          "formula": "[50%/75%/120%]{{icon:scaleArmor}} + [50%/75%/120%]{{icon:scaleMR}}",
+          "icons": [
+            "scaleArmor",
+            "scaleMR"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "50",
+            "75",
+            "120"
+          ]
+        }
+      ],
+      "name": "尖刺防御",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Rammus.webp?v=5",
+    "id": "DA_18_Rammus",
+    "name": "拉莫斯",
+    "role": "ADTank",
+    "stats": {
+      "armor": 50,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 30,
+      "magicResist": 50,
+      "mana": 80,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Sprykin",
+      "DA_18_Defender"
+    ]
+  },
+  "DA_18_RekSai": {
+    "ability": {
+      "description": "被动：每秒回复{{fval:0}}17/27/43/67{{icon:scaleHealth}}{{/fval}}生命值，施放技能后的3秒内该效果变为3倍。\n\n主动：冲出地面，使邻格的敌人晕眩1秒并对其造成{{fval:1}}70/105/160/270{{icon:scaleAP}}{{/fval}}魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "17/27/43/67",
+          "formula": "1%{{icon:scaleHealth}} + [10/14/20/26]",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "17",
+            "27",
+            "43",
+            "67"
+          ]
+        },
+        {
+          "displayValue": "70/105/160/270",
+          "formula": "[70/105/160/270]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "70",
+            "105",
+            "160",
+            "270"
+          ]
+        }
+      ],
+      "name": "连根拔起",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_RekSai.webp?v=5",
+    "id": "DA_18_RekSai",
+    "name": "雷克塞",
+    "role": "APTank",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.55,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 40,
+      "magicResist": 40,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blackthorn",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_18_Rengar": {
+    "ability": {
+      "description": "跳向3格内生命值百分比最低的那个敌人并刺击，从而造成{{fval:0}}255/385/615{{icon:scaleAD}}{{/fval}}物理伤害。然后治疗{{fval:1}}70/100/130{{icon:scaleAP}}{{/fval}} 生命值，治疗量基于已损失的生命值至多到 {{fval:2}}150/220/300{{icon:scaleAP}}{{/fval}}。",
+      "formulas": [
+        {
+          "displayValue": "255/385/615",
+          "formula": "[255/385/615]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "255",
+            "385",
+            "615"
+          ]
+        },
+        {
+          "displayValue": "70/100/130",
+          "formula": "[70/100/130]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "70",
+            "100",
+            "130"
+          ]
+        },
+        {
+          "displayValue": "150/220/300",
+          "formula": "[150/220/300]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "150",
+            "220",
+            "300"
+          ]
+        }
+      ],
+      "name": "无情",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Rengar.webp?v=5",
+    "id": "DA_18_Rengar",
+    "name": "雷恩加尔",
+    "role": "ADFighter",
+    "stats": {
+      "armor": 55,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 60,
+      "damageStars": [
+        60,
+        90,
+        135
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 10,
+      "magicResist": 55,
+      "mana": 50,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Rival"
+    ]
+  },
+  "DA_18_Sejuani": {
+    "ability": {
+      "description": "获得持续4秒的{{fval:0}}315/412/567/825{{icon:scaleAP}}{{icon:scaleHealth}}{{/fval}}护盾值。然后，在一个锥形范围内进行顺劈以造成{{fval:1}}90/135/205/345{{icon:scaleAP}}{{/fval}}魔法伤害，并沿直线进行打击，对被命中的敌人们造成{{fval:2}}120/180/270/460{{icon:scaleAP}}{{/fval}}魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "315/412/567/825",
+          "formula": "[225/250/275/300]{{icon:scaleAP}} + 10%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAP",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "315",
+            "412",
+            "567",
+            "825"
+          ]
+        },
+        {
+          "displayValue": "90/135/205/345",
+          "formula": "[90/135/205/345]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "90",
+            "135",
+            "205",
+            "345"
+          ]
+        },
+        {
+          "displayValue": "120/180/270/460",
+          "formula": "[120/180/270/460]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "120",
+            "180",
+            "270",
+            "460"
+          ]
+        }
+      ],
+      "name": "烈阳之怒",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Sejuani.webp?v=5",
+    "id": "DA_18_Sejuani",
+    "name": "瑟庄妮",
+    "role": "APTank",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 40,
+      "magicResist": 45,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Solar",
+      "DA_Juggernaut18"
+    ]
+  },
+  "DA_18_Sentry": {
+    "ability": {
+      "description": "开始每秒消耗35%最大法力值，并对目标引导一道激光。引导期间，每秒对其造成{{fval:0}}160/240/360/610{{icon:scaleAP}}{{/fval}}魔法伤害，并使其魔法抗性降低3。\n\n青霸符：每引导4秒，就会获得2法力回复。",
+      "formulas": [
+        {
+          "displayValue": "160/240/360/610",
+          "formula": "[160/240/360/610]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "160",
+            "240",
+            "360",
+            "610"
+          ]
+        }
+      ],
+      "name": "蔚蓝激光",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Sentry.webp?v=5",
+    "id": "DA_18_Sentry",
+    "name": "苍蓝哨戒",
+    "role": "APCaster",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 500,
+      "hpStars": [
+        500,
+        900,
+        1620
+      ],
+      "initialMana": 25,
+      "magicResist": 25,
+      "mana": 65,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Invoker"
+    ]
+  },
+  "DA_18_Sett": {
+    "ability": {
+      "description": "被动：每场战斗中首次跌至40%最大生命值以下时，获得100法力值。\n\n主动：蓄力打出一记重拳，从而快速回复{{fval:0}}369/534/2467{{icon:scaleHealth}}{{icon:scaleAP}}{{/fval}}生命值，随后在一个大型锥形范围内造成{{fval:1}}222/355/5233{{icon:scaleAD}}{{icon:scaleHealth}}{{/fval}}物理伤害。",
+      "formulas": [
+        {
+          "displayValue": "369/534/2467",
+          "formula": "12%{{icon:scaleHealth}} + [225/275/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleHealth",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "369",
+            "534",
+            "2467"
+          ]
+        },
+        {
+          "displayValue": "222/355/5233",
+          "formula": "[150/225/5000]{{icon:scaleAD}} + 6%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAD",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "222",
+            "355",
+            "5233"
+          ]
+        }
+      ],
+      "name": "蓄意轰拳",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Sett.webp?v=5",
+    "id": "DA_18_Sett",
+    "name": "瑟提",
+    "role": "ADTank",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 80,
+      "damageStars": [
+        80,
+        120,
+        180
+      ],
+      "hp": 1200,
+      "hpStars": [
+        1200,
+        2160,
+        3888
+      ],
+      "initialMana": 60,
+      "magicResist": 60,
+      "mana": 135,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_18_Shen": {
+    "ability": {
+      "description": "为【慎】提供{{fval:0}}325/400/500/600{{icon:scaleAP}}{{/fval}} 护盾值，以及为其附近1个受到伤害的友军提供 {{fval:1}}200/275/375/0{{icon:scaleAP}}{{/fval}}护盾值，均持续4秒。两者接下来的3次攻击获得40%攻击速度并造成{{fval:2}}35/55/80/135{{icon:scaleAP}}{{/fval}}额外魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "325/400/500/600",
+          "formula": "[325/400/500/600]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "325",
+            "400",
+            "500",
+            "600"
+          ]
+        },
+        {
+          "displayValue": "200/275/375/0",
+          "formula": "[200/275/375/0]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "200",
+            "275",
+            "375",
+            "0"
+          ]
+        },
+        {
+          "displayValue": "35/55/80/135",
+          "formula": "[35/55/80/135]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "35",
+            "55",
+            "80",
+            "135"
+          ]
+        }
+      ],
+      "name": "忍法！气合盾",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Shen.webp?v=5",
+    "id": "DA_18_Shen",
+    "name": "慎",
+    "role": "APTank",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 30,
+      "magicResist": 45,
+      "mana": 90,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Inferno",
+      "DA_18_Defender"
+    ]
+  },
+  "DA_18_Sivir": {
+    "ability": {
+      "description": "投掷一把巨大的十字刃，它会对当前敌人造成{{fval:0}}195/290/1150{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害，并在附近敌人之间弹跳8次，每次弹跳造成{{fval:1}}39/58/460{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害。当这个技能击杀了一个敌人，它会额外弹跳3/3/6次。",
+      "formulas": [
+        {
+          "displayValue": "195/290/1150",
+          "formula": "[180/270/1050]{{icon:scaleAD}} + [15/20/100]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "195",
+            "290",
+            "1150"
+          ]
+        },
+        {
+          "displayValue": "39/58/460",
+          "formula": "[36/54/420]{{icon:scaleAD}} + [3/4/40]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "39",
+            "58",
+            "460"
+          ]
+        }
+      ],
+      "name": "回旋之刃",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Sivir.webp?v=5",
+    "id": "DA_18_Sivir",
+    "name": "希维尔",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 40,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_Primal18",
+      "DA_18_Hunter"
+    ]
+  },
+  "DA_18_Soraka": {
+    "ability": {
+      "description": "召唤一颗星星落在当前目标身上，从而造成{{fval:0}}190/285/1000{{icon:scaleAP}}{{/fval}}魔法伤害。如果此前曾有一颗星星落至其上，则额外召唤3颗星星，每颗造成{{fval:1}}100/150/1000{{icon:scaleAP}}{{/fval}}魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "190/285/1000",
+          "formula": "[190/285/1000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "190",
+            "285",
+            "1000"
+          ]
+        },
+        {
+          "displayValue": "100/150/1000",
+          "formula": "[100/150/1000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "1000"
+          ]
+        }
+      ],
+      "name": "唤星",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Soraka.webp?v=5",
+    "id": "DA_18_Soraka",
+    "name": "索拉卡",
+    "role": "APCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 30,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_FloraFatalis18",
+      "DA_18_Executioner"
+    ]
+  },
+  "DA_18_Teemo": {
+    "ability": {
+      "description": "投掷2簇蘑菇，对相距最近的3个敌人造成{{fval:0}}60/90/135/230{{icon:scaleAP}}{{/fval}}魔法伤害。然后猛摔出一个巨型蘑菇，对目标造成{{fval:1}}150/225/350/600{{icon:scaleAP}}{{/fval}}魔法伤害。\n\n每次施放有10/12/15/20%几率搜寻到一个额外的蘑菇，可供收集以获得额外效果。\n\n红蘑菇： 1次刷新\n绿蘑菇： 1小小英雄生命值\n黄蘑菇： 2经验值",
+      "formulas": [
+        {
+          "displayValue": "60/90/135/230",
+          "formula": "[60/90/135/230]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60",
+            "90",
+            "135",
+            "230"
+          ]
+        },
+        {
+          "displayValue": "150/225/350/600",
+          "formula": "[150/225/350/600]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "150",
+            "225",
+            "350",
+            "600"
+          ]
+        }
+      ],
+      "name": "内有真菌",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Teemo.webp?v=5",
+    "id": "DA_18_Teemo",
+    "name": "提莫",
+    "role": "APCaster",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 35,
+      "damageStars": [
+        35,
+        53,
+        79
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "initialMana": 0,
+      "magicResist": 30,
+      "mana": 50,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Sprykin",
+      "DA_18_Invoker"
+    ]
+  },
+  "DA_18_Tristana": {
+    "ability": {
+      "description": "将一个爆炸火花吸附到目标上，持续4秒。生效期间，获得无限射程和{{fval:0}}60%{{icon:scaleAP}}{{/fval}}攻击速度。持续时间结束后，爆炸火花会爆炸并造成由2格内的所有敌人间分摊的伤害，伤害值为{{fval:1}}200/300/480{{icon:scaleAD}}{{/fval}}物理伤害+施放期间每次攻击提供额外{{fval:2}}10/15/25{{icon:scaleAD}}{{/fval}}物理伤害。\n\n如果携带爆炸火花的敌人阵亡，那么爆炸火花会吸附至【崔丝塔娜】的新目标。",
+      "formulas": [
+        {
+          "displayValue": "60%",
+          "formula": "40% + 20%{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60%",
+            "60%",
+            "60%"
+          ]
+        },
+        {
+          "displayValue": "200/300/480",
+          "formula": "[200/300/480]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "200",
+            "300",
+            "480"
+          ]
+        },
+        {
+          "displayValue": "10/15/25",
+          "formula": "[10/15/25]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "10",
+            "15",
+            "25"
+          ]
+        }
+      ],
+      "name": "爆炸火花",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Tristana.webp?v=5",
+    "id": "DA_18_Tristana",
+    "name": "崔丝塔娜",
+    "role": "ADCarry",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 55,
+      "damageStars": [
+        55,
+        83,
+        124
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 0,
+      "magicResist": 35,
+      "mana": 60,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Fae",
+      "DA_18_Sprykin",
+      "DA_18_Hunter"
+    ]
+  },
+  "DA_18_Varus": {
+    "ability": {
+      "description": "蓄力，然后向目标所在且敌人最多的一条直线射出箭矢。它对命中的敌人造成{{fval:0}}380/570/860/1455{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害，每穿过一个敌人，该伤害降低40%(最低为40%)。",
+      "formulas": [
+        {
+          "displayValue": "380/570/860/1455",
+          "formula": "[350/525/790/1340]{{icon:scaleAD}} + [30/45/70/115]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "380",
+            "570",
+            "860",
+            "1455"
+          ]
+        }
+      ],
+      "name": "穿刺之箭",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Varus.webp?v=5",
+    "id": "DA_18_Varus",
+    "name": "韦鲁斯",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 500,
+      "hpStars": [
+        500,
+        900,
+        1620
+      ],
+      "initialMana": 30,
+      "magicResist": 25,
+      "mana": 120,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Inferno",
+      "DA_18_Rapidfire"
+    ]
+  },
+  "DA_18_Veigar": {
+    "ability": {
+      "description": "向目标发射一记巨大震波，造成{{fval:0}}175/265/395/670{{icon:scaleAP}}{{/fval}}魔法伤害，若其生命值低于30%最大生命值，则提升至{{fval:1}}265/400/595/1015{{icon:scaleAP}}{{/fval}}。\n\n若目标阵亡，则永久获得1.5%法术加成。",
+      "formulas": [
+        {
+          "displayValue": "175/265/395/670",
+          "formula": "[175/265/395/670]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "175",
+            "265",
+            "395",
+            "670"
+          ]
+        },
+        {
+          "displayValue": "265/400/595/1015",
+          "formula": "[265/400/595/1015]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "265",
+            "400",
+            "595",
+            "1015"
+          ]
+        }
+      ],
+      "name": "能量爆裂",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Veigar.webp?v=5",
+    "id": "DA_18_Veigar",
+    "name": "维迦",
+    "role": "APCaster",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 25,
+      "damageStars": [
+        25,
+        38,
+        56
+      ],
+      "hp": 500,
+      "hpStars": [
+        500,
+        900,
+        1620
+      ],
+      "initialMana": 0,
+      "magicResist": 25,
+      "mana": 30,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Blackthorn",
+      "DA_18_Sprykin",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_18_Warwick": {
+    "ability": {
+      "description": "撕咬当前目标，造成{{fval:0}}200/300/450/765{{icon:scaleAD}}{{/fval}}物理伤害，并治疗自身{{fval:1}}20%{{icon:scaleAP}}{{/fval}}造成伤害的生命值。获得持续到战斗结束的20%攻击速度。",
+      "formulas": [
+        {
+          "displayValue": "200/300/450/765",
+          "formula": "[200/300/450/765]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "200",
+            "300",
+            "450",
+            "765"
+          ]
+        },
+        {
+          "displayValue": "20%",
+          "formula": "20%{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "20%",
+            "20%",
+            "20%",
+            "20%"
+          ]
+        }
+      ],
+      "name": "野兽之口",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Warwick.webp?v=5",
+    "id": "DA_18_Warwick",
+    "name": "沃里克",
+    "role": "ADFighter",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 750,
+      "hpStars": [
+        750,
+        1350,
+        2430
+      ],
+      "initialMana": 0,
+      "magicResist": 45,
+      "mana": 40,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blackthorn",
+      "DA_18_Slayer"
+    ]
+  },
+  "DA_18_Xayah": {
+    "ability": {
+      "description": "下5次攻击获得50%攻击速度。这些攻击会被替换为羽刃，造成{{fval:0}}72/108/165/280{{icon:scaleAD}}{{/fval}}物理伤害和{{fval:1}}2{{icon:scaleAP}}{{/fval}}护甲削减。",
+      "formulas": [
+        {
+          "displayValue": "72/108/165/280",
+          "formula": "[72/108/165/280]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "72",
+            "108",
+            "165",
+            "280"
+          ]
+        },
+        {
+          "displayValue": "2",
+          "formula": "2{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "2",
+            "2",
+            "2",
+            "2"
+          ]
+        }
+      ],
+      "name": "致死羽衣",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Xayah.webp?v=5",
+    "id": "DA_18_Xayah",
+    "name": "霞",
+    "role": "ADCarry",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 45,
+      "damageStars": [
+        45,
+        68,
+        101
+      ],
+      "hp": 450,
+      "hpStars": [
+        450,
+        810,
+        1458
+      ],
+      "initialMana": 0,
+      "magicResist": 25,
+      "mana": 50,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Fae",
+      "DA_18_Rapidfire"
+    ]
+  },
+  "DA_18_Yorick": {
+    "ability": {
+      "description": "被动：阵亡时，生成一个拥有{{fval:0}}330/634/1171/1858{{icon:scaleHealth}}{{/fval}}最大生命值的【兽灵行者】，并且它会立即进行嘲讽从而迫使敌人们对其进行攻击。\n\n主动：回复{{fval:1}}280/325/435/545{{icon:scaleAP}}{{/fval}}生命值并打击目标，造成{{fval:2}}150/225/340/575{{icon:scaleAP}}{{/fval}}物理伤害。",
+      "formulas": [
+        {
+          "displayValue": "330/634/1171/1858",
+          "formula": "[200/400/750/1100] + 20%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "330",
+            "634",
+            "1171",
+            "1858"
+          ]
+        },
+        {
+          "displayValue": "280/325/435/545",
+          "formula": "[280/325/435/545]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "280",
+            "325",
+            "435",
+            "545"
+          ]
+        },
+        {
+          "displayValue": "150/225/340/575",
+          "formula": "[150/225/340/575]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "150",
+            "225",
+            "340",
+            "575"
+          ]
+        }
+      ],
+      "name": "临终仪式",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Yorick.webp?v=5",
+    "id": "DA_18_Yorick",
+    "name": "约里克",
+    "role": "ADTank",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 50,
+      "magicResist": 35,
+      "mana": 110,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_Juggernaut18",
+      "DA_18_Summoner"
+    ]
+  },
+  "DA_18_Yunara": {
+    "ability": {
+      "description": "冲刺并向当前目标发射一颗法球，造成{{fval:0}}180/270/440/745{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害并分裂，对附近的2名敌人造成{{fval:1}}63/95/154/261{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害。",
+      "formulas": [
+        {
+          "displayValue": "180/270/440/745",
+          "formula": "[170/255/415/705]{{icon:scaleAD}} + [10/15/25/40]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "180",
+            "270",
+            "440",
+            "745"
+          ]
+        },
+        {
+          "displayValue": "63/95/154/261",
+          "formula": "[59.5/89.25/145.25/246.75]{{icon:scaleAD}} + [3.5/5.25/8.75/14]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "63",
+            "95",
+            "154",
+            "261"
+          ]
+        }
+      ],
+      "name": "灵蕴拳",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Yunara.webp?v=5",
+    "id": "DA_18_Yunara",
+    "name": "芸阿娜",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 42,
+      "damageStars": [
+        42,
+        63,
+        95
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "initialMana": 0,
+      "magicResist": 30,
+      "mana": 35,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Executioner"
+    ]
+  },
+  "DA_18_Zyra": {
+    "ability": {
+      "description": "在战场周围生成2/2/4株植物，它们会攻击相距最近的敌人10次。每次攻击造成{{fval:0}}35/52/225{{icon:scaleAP}}{{/fval}}魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "35/52/225",
+          "formula": "[35/52/225]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "35",
+            "52",
+            "225"
+          ]
+        }
+      ],
+      "name": "狂野生长",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Zyra.webp?v=5",
+    "id": "DA_18_Zyra",
+    "name": "婕拉",
+    "role": "APCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 45,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_ZyraUniqueTrait",
+      "DA_18_Summoner"
+    ]
+  },
+  "DA_Amumu18": {
+    "ability": {
+      "description": "被动：每秒回复{{fval:0}}49/76/268{{icon:scaleAP}}{{icon:scaleHealth}}{{/fval}}生命值并对1格内的敌人们造成{{fval:1}}12/18/150{{icon:scaleAP}}{{/fval}}魔法伤害。\n\n主动：对2格内的敌人造成{{fval:2}}100/150/2000{{icon:scaleAP}}{{/fval}}魔法伤害和1/1/6秒晕眩，如果目标处于灼烧状态则延长至1.0/1.0/6.0秒。\n\n灼烧：每秒造成目标一部分最大生命值的真实伤害。",
+      "formulas": [
+        {
+          "displayValue": "49/76/268",
+          "formula": "[20/25/100]{{icon:scaleAP}} + [2.2%/2.2%/4%]{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAP",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "49",
+            "76",
+            "268"
+          ]
+        },
+        {
+          "displayValue": "12/18/150",
+          "formula": "[12/18/150]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "12",
+            "18",
+            "150"
+          ]
+        },
+        {
+          "displayValue": "100/150/2000",
+          "formula": "[100/150/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "2000"
+          ]
+        }
+      ],
+      "name": "阿木木的愤怒",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_Amumu18.webp?v=5",
+    "id": "DA_Amumu18",
+    "name": "阿木木",
+    "role": "APTank",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 70,
+      "damageStars": [
+        70,
+        105,
+        158
+      ],
+      "hp": 1300,
+      "hpStars": [
+        1300,
+        2340,
+        4212
+      ],
+      "initialMana": 30,
+      "magicResist": 60,
+      "mana": 140,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Inferno",
+      "DA_Juggernaut18"
+    ]
+  },
+  "DA_Brambleback18": {
+    "ability": {
+      "description": "被动：当目标阵亡时，跃至下个目标，从而造成{{fval:0}}170/255/600{{icon:scaleAD}}{{/fval}} 物理伤害。\n\n主动：获得持续8秒的80/80/280%物理加成。在此期间，无视{{fval:1}}40%/40%/60%{{icon:scaleAP}}{{/fval}} 护甲。\n\n红霸符：攻击1%灼烧敌人并治疗【绯红印记树怪】4%最大生命值。",
+      "formulas": [
+        {
+          "displayValue": "170/255/600",
+          "formula": "[170/255/600]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "170",
+            "255",
+            "600"
+          ]
+        },
+        {
+          "displayValue": "40%/40%/60%",
+          "formula": "[30%/30%/50%]{{icon:scaleAP}} + 10%",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "40%",
+            "40%",
+            "60%"
+          ]
+        }
+      ],
+      "name": "猩红之怒",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_Brambleback18.webp?v=5",
+    "id": "DA_Brambleback18",
+    "name": "绯红印记树怪",
+    "role": "ADFighter",
+    "stats": {
+      "armor": 65,
+      "attackSpeed": 0.55,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 110,
+      "damageStars": [
+        110,
+        165,
+        248
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 0,
+      "magicResist": 65,
+      "mana": 40,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Slayer"
+    ]
+  },
+  "DA_Cinderling18": {
+    "ability": {
+      "description": "召唤五片锋利如剃刀的叶子，朝当前目标聚拢，造成总计{{fval:0}}370/555/835/1415{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害，并施加持续4秒的20%重伤效果和1%灼烧效果。\n\n绯红霸符：【绯红树怪】每次技能施放获得22%物理加成。\n\n重伤：降低受到的治疗效果。\n灼烧：每秒造成目标一部分最大生命值的真实伤害。",
+      "formulas": [
+        {
+          "displayValue": "370/555/835/1415",
+          "formula": "[340/510/765/1300]{{icon:scaleAD}} + [30/45/70/115]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "370",
+            "555",
+            "835",
+            "1415"
+          ]
+        }
+      ],
+      "name": "刃叶",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_Cinderling18.webp?v=5",
+    "id": "DA_Cinderling18",
+    "name": "绯红树怪",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 500,
+      "hpStars": [
+        500,
+        900,
+        1620
+      ],
+      "initialMana": 0,
+      "magicResist": 25,
+      "mana": 50,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Hunter"
+    ]
+  },
+  "DA_CrimsonRaptor18": {
+    "ability": {
+      "description": "在附近召唤4只不可被选取的【小锋喙鸟】，持续{{fval:0}}5{{icon:scaleAP}}{{/fval}}秒。每次【深红锋喙鸟】攻击时，【小锋喙鸟】也会攻击同一敌人，造成{{fval:1}}25/38/60{{icon:scaleAD}}{{/fval}}物理伤害。\n\n橙霸符：造成物理伤害时会使敌人的护甲降低2。",
+      "formulas": [
+        {
+          "displayValue": "5",
+          "formula": "5{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "5",
+            "5",
+            "5"
+          ]
+        },
+        {
+          "displayValue": "25/38/60",
+          "formula": "[25/38/60]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "25",
+            "38",
+            "60"
+          ]
+        }
+      ],
+      "name": "鸟群之家",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_CrimsonRaptor18.webp?v=5",
+    "id": "DA_CrimsonRaptor18",
+    "name": "深红锋喙鸟",
+    "role": "ADCarry",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 60,
+      "damageStars": [
+        60,
+        90,
+        135
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 30,
+      "magicResist": 35,
+      "mana": 70,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Summoner",
+      "DA_18_Rapidfire"
+    ]
+  },
+  "DA_Draven18": {
+    "ability": {
+      "description": "被动：对距离内的随机敌人进行攻击并对其施加一层流血效果，在12秒里持续造成共{{fval:0}}140/210/3000{{icon:scaleAD}}{{/fval}}物理伤害。每次攻击还有{{fval:1}}12%{{icon:scaleAP}}{{/fval}}几率造成50/50/900%额外物理伤害并转而施加2层流血效果。\n\n主动：朝流血层数最多的敌人投掷两把巨斧。对所有被命中的敌人造成{{fval:2}}130/200/500{{icon:scaleAD}}{{/fval}}物理伤害并消耗他们的流血效果，即刻造成剩余伤害。",
+      "formulas": [
+        {
+          "displayValue": "140/210/3000",
+          "formula": "[140/210/3000]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "140",
+            "210",
+            "3000"
+          ]
+        },
+        {
+          "displayValue": "12%",
+          "formula": "12%{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "12%",
+            "12%",
+            "12%"
+          ]
+        },
+        {
+          "displayValue": "130/200/500",
+          "formula": "[130/200/500]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "130",
+            "200",
+            "500"
+          ]
+        }
+      ],
+      "name": "冷血追命",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_Draven18.webp?v=5",
+    "id": "DA_Draven18",
+    "name": "德莱文",
+    "role": "ADCarry",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 48,
+      "damageStars": [
+        48,
+        72,
+        108
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 0,
+      "magicResist": 45,
+      "mana": 120,
+      "range": 5
+    },
+    "traitIds": [
+      "DA_DravenUniqueTrait18"
+    ]
+  },
+  "DA_Fiddlesticks18": {
+    "ability": {
+      "description": "使3个相距最近的敌人的魔抗降低10。然后在2秒里持续从它们身上汲取生命力，从而治疗自身{{fval:0}}395/470/790{{icon:scaleAP}}{{/fval}}生命值并在此期间持续对每个敌人造成共{{fval:1}}70/105/170{{icon:scaleAP}}{{/fval}}魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "395/470/790",
+          "formula": "[395/470/790]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "395",
+            "470",
+            "790"
+          ]
+        },
+        {
+          "displayValue": "70/105/170",
+          "formula": "[70/105/170]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "70",
+            "105",
+            "170"
+          ]
+        }
+      ],
+      "name": "收获",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_Fiddlesticks18.webp?v=5",
+    "id": "DA_Fiddlesticks18",
+    "name": "费德提克",
+    "role": "APTank",
+    "stats": {
+      "armor": 55,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hpStars": [
+        0,
+        0,
+        0
+      ],
+      "initialMana": 30,
+      "magicResist": 55,
+      "mana": 90,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_FloraFatalis18",
+      "DA_18_Defender",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_Gromp18_AP": {
+    "ability": {
+      "description": "【魔战士】{{icon:scaleAD}}：向当前目标吐出一大团泡泡，在命中第一名敌人时爆炸，造成{{fval:0}}335/505/795/1350{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害和持续3秒的30% 缓速。半径1格内的敌人受到{{fval:1}}100/150/240/410{{icon:scaleAD}}{{/fval}}物理伤害。\n\n【魔战士】{{icon:scaleAP}}：使命中的敌人中毒，造成持续伤害。\n\n紫霸符：每5秒，【魔沼蛙】获得30%物理加成。\n【魔战士】{{icon:scaleAP}}：向当前目标吐出一团毒泡泡，在命中第一名敌人时爆炸，造成{{fval:2}}225/340/535/910{{icon:scaleAP}}{{/fval}}魔法伤害。半径1格内的敌人将在3秒里持续受到{{fval:3}}145/220/345/585{{icon:scaleAP}}{{/fval}}魔法伤害。\n\n【魔战士】{{icon:scaleAD}}：大幅缓速目标。\n\n紫霸符：每5秒，【魔沼蛙】获得30%法术加成。",
+      "formulas": [
+        {
+          "displayValue": "335/505/795/1350",
+          "formula": "[305/460/725/1235]{{icon:scaleAD}} + [30/45/70/115]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "335",
+            "505",
+            "795",
+            "1350"
+          ]
+        },
+        {
+          "displayValue": "100/150/240/410",
+          "formula": "[100/150/240/410]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "240",
+            "410"
+          ]
+        },
+        {
+          "displayValue": "225/340/535/910",
+          "formula": "[225/340/535/910]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "225",
+            "340",
+            "535",
+            "910"
+          ]
+        },
+        {
+          "displayValue": "145/220/345/585",
+          "formula": "[145/220/345/585]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "145",
+            "220",
+            "345",
+            "585"
+          ]
+        }
+      ],
+      "name": "打嗝泡泡",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_Gromp18_AP.webp?v=5",
+    "id": "DA_Gromp18_AP",
+    "name": "魔沼蛙",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 45,
+      "damageStars": [
+        45,
+        68,
+        101
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "initialMana": 20,
+      "magicResist": 30,
+      "mana": 80,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Adaptor"
+    ]
+  },
+  "DA_Karma18": {
+    "ability": {
+      "description": "系住当前目标，在1.5秒里持续造成{{fval:0}}260/390/585/995{{icon:scaleAP}}{{/fval}}魔法伤害。随后在其周围释放一道能量爆裂，对半径1格内的所有敌人造成{{fval:1}}110/165/250/420{{icon:scaleAP}}{{/fval}}魔法伤害，并施加持续2秒的30%的缓速效果。\n\n缓速：降低攻击速度",
+      "formulas": [
+        {
+          "displayValue": "260/390/585/995",
+          "formula": "[260/390/585/995]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "260",
+            "390",
+            "585",
+            "995"
+          ]
+        },
+        {
+          "displayValue": "110/165/250/420",
+          "formula": "[110/165/250/420]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "110",
+            "165",
+            "250",
+            "420"
+          ]
+        }
+      ],
+      "name": "宿业羁绊",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_Karma18.webp?v=5",
+    "id": "DA_Karma18",
+    "name": "卡尔玛",
+    "role": "APCaster",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 25,
+      "damageStars": [
+        25,
+        38,
+        56
+      ],
+      "hp": 500,
+      "hpStars": [
+        500,
+        900,
+        1620
+      ],
+      "initialMana": 0,
+      "magicResist": 25,
+      "mana": 40,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_KogMaw18_AD": {
+    "ability": {
+      "description": "【魔战士】{{icon:scaleAD}}：向目标和相距最近的那个敌人喷射酸液，造成{{fval:0}}165/250/425{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害。低于50%最大生命值的敌人转而受到{{fval:1}}231/350/595{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害。\n\n【魔战士】{{icon:scaleAP}}：对敌人持续造成伤害。\n【魔战士】{{icon:scaleAP}}：向目标和相距最近的那个敌人喷射酸液，造成{{fval:2}}160/240/415{{icon:scaleAP}}{{/fval}}魔法伤害，并使他们在3秒内承受{{fval:3}}48/72/115{{icon:scaleAP}}{{/fval}}额外魔法伤害。\n\n【魔战士】{{icon:scaleAD}}：对低生命值的敌人造成额外伤害。",
+      "formulas": [
+        {
+          "displayValue": "165/250/425",
+          "formula": "[145/220/375]{{icon:scaleAD}} + [20/30/50]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "165",
+            "250",
+            "425"
+          ]
+        },
+        {
+          "displayValue": "231/350/595",
+          "formula": "[203/308/525]{{icon:scaleAD}} + [28/42/70]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "231",
+            "350",
+            "595"
+          ]
+        },
+        {
+          "displayValue": "160/240/415",
+          "formula": "[160/240/415]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "160",
+            "240",
+            "415"
+          ]
+        },
+        {
+          "displayValue": "48/72/115",
+          "formula": "[48/72/115]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "48",
+            "72",
+            "115"
+          ]
+        }
+      ],
+      "name": "天降重炮",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_KogMaw18_AD.webp?v=5",
+    "id": "DA_KogMaw18_AD",
+    "name": "克格莫",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 15,
+      "magicResist": 35,
+      "mana": 55,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Caustic",
+      "DA_18_Adaptor",
+      "DA_18_Invoker"
+    ]
+  },
+  "DA_Krug18": {
+    "ability": {
+      "description": "被动：阵亡时，分裂成两个【小型石甲虫】，每个拥有{{fval:0}}182/338/608{{icon:scaleHealth}}{{/fval}}生命值，并且它们会立即进行嘲讽从而迫使敌人们对其进行攻击。\n\n主动：获得{{fval:1}}175/225/325{{icon:scaleAP}}{{/fval}}最大生命值，然后滚向目标，从而造成 {{fval:2}}223/358/620{{icon:scaleAD}}{{icon:scaleHealth}}{{/fval}}伤害。\n\n蓝灰霸符：阵亡时，【远古石甲虫】和【小型石甲虫】为友军提供8%最大生命值护盾。",
+      "formulas": [
+        {
+          "displayValue": "182/338/608",
+          "formula": "[50/100/180] + 12%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "182",
+            "338",
+            "608"
+          ]
+        },
+        {
+          "displayValue": "175/225/325",
+          "formula": "[175/225/325]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "175",
+            "225",
+            "325"
+          ]
+        },
+        {
+          "displayValue": "223/358/620",
+          "formula": "[135/200/335]{{icon:scaleAD}} + 8%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAD",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "223",
+            "358",
+            "620"
+          ]
+        }
+      ],
+      "name": "岩之摇滚",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_Krug18.webp?v=5",
+    "id": "DA_Krug18",
+    "name": "远古石甲虫",
+    "role": "ADTank",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 55,
+      "damageStars": [
+        55,
+        83,
+        124
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 80,
+      "magicResist": 40,
+      "mana": 135,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_Lux18_Base": {
+    "ability": {
+      "description": "被动：施放时，所有与【拉克丝】拥有同一羁绊的己方弈子获得{{fval:0}}3/3/100{{icon:scaleAP}}{{/fval}}法力值。\n\n主动：向最大的敌群发射一道激光，造成{{fval:1}}330/520/5000{{icon:scaleAP}}{{/fval}}魔法伤害，每命中一个敌人，该伤害衰减25/25/10%(最低为40%)。\n\n【月蚀骑士】加成：对命中的敌人们施加持续4秒的10%易损。\n\n易损：提升受到的伤害",
+      "formulas": [
+        {
+          "displayValue": "3/3/100",
+          "formula": "[3/3/100]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "3",
+            "3",
+            "100"
+          ]
+        },
+        {
+          "displayValue": "330/520/5000",
+          "formula": "[330/520/5000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "330",
+            "520",
+            "5000"
+          ]
+        }
+      ],
+      "name": "终极闪光",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_Lux18_Base.webp?v=5",
+    "id": "DA_Lux18_Base",
+    "name": "拉克丝",
+    "role": "APCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 20,
+      "magicResist": 40,
+      "mana": 70,
+      "range": 5
+    },
+    "traitIds": [
+      "DA_18_LuxUniqueTrait"
+    ]
+  },
+  "DA_Murkwolf18": {
+    "ability": {
+      "description": "跃向3格内生命值最低的敌人，造成{{fval:0}}120/180/270/455{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}}物理伤害。接下来的2次攻击获得175%攻击速度并造成{{fval:1}}60/90/135/230{{icon:scaleAD}}{{/fval}}额外物理伤害。\n\n灰霸符：获得【技能暴击】和25%暴击几率，基于已损失生命值至多提升至75%。",
+      "formulas": [
+        {
+          "displayValue": "120/180/270/455",
+          "formula": "[100/150/225/380]{{icon:scaleAD}} + [20/30/45/75]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "120",
+            "180",
+            "270",
+            "455"
+          ]
+        },
+        {
+          "displayValue": "60/90/135/230",
+          "formula": "[60/90/135/230]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60",
+            "90",
+            "135",
+            "230"
+          ]
+        }
+      ],
+      "name": "撕裂之爪",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_Murkwolf18.webp?v=5",
+    "id": "DA_Murkwolf18",
+    "name": "暗影狼",
+    "role": "ADReaper",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 40,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Slayer"
+    ]
+  },
+  "DA_Nidalee18_AP": {
+    "ability": {
+      "description": "【魔战士】{{icon:scaleAD}}被动：在切换目标时，跃向格内携带最少装备的敌人，优先选择相距更远的敌人。\n\n【魔战士】{{icon:scaleAD}}：挥击目标，造成无视护甲的{{icon:scaleAD}}物理伤害。每第三次施放回复{{icon:scaleAP}}生命值，并基于目标已损失生命值造成至多额外伤害。\n\n【魔战士】{{icon:scaleAP}}：变形为一名远程人类射手，攻击会投掷标枪。\n【魔战士】{{icon:scaleAP}}：下3次攻击获得150%攻击速度。这些攻击被替换为标枪，造成{{fval:0}}170/255/2000{{icon:scaleAP}}{{/fval}}魔法伤害。第3次攻击转而瞄准相距最远且携带最少装备的那个敌人，并造成{{fval:1}}320/480/3000{{icon:scaleAP}}{{/fval}}魔法伤害。\n\n【魔战士】{{icon:scaleAD}}：变形为一只近战美洲豹刺客来挥击敌人们。",
+      "formulas": [
+        {
+          "displayValue": "170/255/2000",
+          "formula": "[170/255/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "170",
+            "255",
+            "2000"
+          ]
+        },
+        {
+          "displayValue": "320/480/3000",
+          "formula": "[320/480/3000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "320",
+            "480",
+            "3000"
+          ]
+        }
+      ],
+      "name": "标枪投掷",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_Nidalee18_AP.webp?v=5",
+    "id": "DA_Nidalee18_AP",
+    "name": "奈德丽",
+    "role": "APCarry",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 35,
+      "damageStars": [
+        35,
+        53,
+        79
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 30,
+      "mana": 40,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Primal18",
+      "DA_18_Adaptor"
+    ]
+  },
+  "DA_Scuttlecrab18": {
+    "ability": {
+      "description": "被动：攻击被替换为一次舞蹈，对邻格的所有敌人造成{{fval:0}}50/75/112.5/168.75{{icon:scaleAD}}{{/fval}}物理伤害。\n\n主动：钻入地下，获得15%伤害减免，持续3秒，并在此期间持续回复{{fval:1}}300/375/625/775{{icon:scaleAP}}{{/fval}}生命值。\n\n绿霸符：当友军跌下50%生命值时，其回复15%最大生命值。",
+      "formulas": [
+        {
+          "displayValue": "50/75/112.5/168.75",
+          "formula": "[50/75/112.5/168.75]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "50",
+            "75",
+            "112.5",
+            "168.75"
+          ]
+        },
+        {
+          "displayValue": "300/375/625/775",
+          "formula": "[300/375/625/775]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "300",
+            "375",
+            "625",
+            "775"
+          ]
+        }
+      ],
+      "name": "这种快乐你懂吗？",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_Scuttlecrab18.webp?v=5",
+    "id": "DA_Scuttlecrab18",
+    "name": "峡谷迅捷蟹",
+    "role": "ADTank",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 950,
+      "hpStars": [
+        950,
+        1710,
+        3078
+      ],
+      "initialMana": 40,
+      "magicResist": 45,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_Juggernaut18"
+    ]
+  },
+  "DA_Sentinel18": {
+    "ability": {
+      "description": "获得持续4秒的{{fval:0}}530/734/2421{{icon:scaleAP}}{{icon:scaleHealth}}{{/fval}}护盾值。猛击地面，向敌人最密集的方向发出一道裂隙。被命中的敌人会被短暂击飞，受到{{fval:1}}100/150/3500{{icon:scaleAP}}{{/fval}}魔法伤害和持续15秒的破法。\n\n蓝霸符：【苍蓝雕纹魔像】每次施放技能时，友军们就会获得2法力回复。\n\n破法：提升下一次技能施放的法力消耗。",
+      "formulas": [
+        {
+          "displayValue": "530/734/2421",
+          "formula": "[400/500/2000]{{icon:scaleAP}} + 10%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAP",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "530",
+            "734",
+            "2421"
+          ]
+        },
+        {
+          "displayValue": "100/150/3500",
+          "formula": "[100/150/3500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "3500"
+          ]
+        }
+      ],
+      "name": "蔚蓝冲击波",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_Sentinel18.webp?v=5",
+    "id": "DA_Sentinel18",
+    "name": "苍蓝雕纹魔像",
+    "role": "APTank",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 75,
+      "damageStars": [
+        75,
+        113,
+        169
+      ],
+      "hp": 1300,
+      "hpStars": [
+        1300,
+        2340,
+        4212
+      ],
+      "initialMana": 60,
+      "magicResist": 60,
+      "mana": 150,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Vanguard",
+      "DA_18_Invoker"
+    ]
+  },
+  "DA_Taric18": {
+    "ability": {
+      "description": "被动：【塔里克】或其绑定的友军首次跌到50%生命值以下时，两人身上会释放翡翠能量，为3格内的友军提供持续3/3/99秒的{{fval:0}}305/584/14212{{icon:scaleHealth}}{{/fval}}护盾值。\n\n主动：回复{{fval:1}}200/300/3000{{icon:scaleAP}}{{/fval}}生命值。【塔里克】和其绑定的友军的下2次攻击造成{{fval:2}}100/150/1000{{icon:scaleAP}}{{/fval}}额外魔法伤害。",
+      "formulas": [
+        {
+          "displayValue": "305/584/14212",
+          "formula": "[175/350/10000] + [10%/10%/100%]{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "305",
+            "584",
+            "14212"
+          ]
+        },
+        {
+          "displayValue": "200/300/3000",
+          "formula": "[200/300/3000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "200",
+            "300",
+            "3000"
+          ]
+        },
+        {
+          "displayValue": "100/150/1000",
+          "formula": "[100/150/1000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "1000"
+          ]
+        }
+      ],
+      "name": "翡翠辉耀",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_Taric18.webp?v=5",
+    "id": "DA_Taric18",
+    "name": "塔里克",
+    "role": "APTank",
+    "stats": {
+      "armor": 65,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 55,
+      "damageStars": [
+        55,
+        83,
+        124
+      ],
+      "hp": 1300,
+      "hpStars": [
+        1300,
+        2340,
+        4212
+      ],
+      "initialMana": 0,
+      "magicResist": 65,
+      "mana": 65,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Emerald18",
+      "DA_18_Vanguard"
+    ]
+  },
+  "DA_Vi18": {
+    "ability": {
+      "description": "被动：攻击时，回复{{fval:0}}22/40/71{{icon:scaleHealth}}{{/fval}} 生命值。\n\n主动：发出一声原始怒吼，从而回复 {{fval:1}}225/300/400{{icon:scaleAP}}{{/fval}} 生命值。然后获得85/100/125%攻击速度、15%伤害减免和控制免疫效果，持续3秒。",
+      "formulas": [
+        {
+          "displayValue": "22/40/71",
+          "formula": "2%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "22",
+            "40",
+            "71"
+          ]
+        },
+        {
+          "displayValue": "225/300/400",
+          "formula": "[225/300/400]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "225",
+            "300",
+            "400"
+          ]
+        }
+      ],
+      "name": "狂怒之拳",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_Vi18.webp?v=5",
+    "id": "DA_Vi18",
+    "name": "蔚",
+    "role": "ADTank",
+    "stats": {
+      "armor": 50,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 45,
+      "damageStars": [
+        45,
+        68,
+        101
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 0,
+      "magicResist": 50,
+      "mana": 60,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Primal18",
+      "DA_Juggernaut18"
+    ]
+  }
+}

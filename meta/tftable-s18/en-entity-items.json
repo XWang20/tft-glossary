@@ -1,0 +1,2592 @@
+{
+  "DA_18_EmblemBlackthorn": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Blackthorn trait.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemBlackthorn.webp?v=4",
+    "id": "DA_18_EmblemBlackthorn",
+    "name": "Blackthorn Emblem"
+  },
+  "DA_18_EmblemBlossom": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Blossom trait.",
+    "effects": {
+      "AD": 0.1,
+      "AP": 10,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemBlossom.webp?v=4",
+    "id": "DA_18_EmblemBlossom",
+    "name": "Blossom Emblem"
+  },
+  "DA_18_EmblemBrawler": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Brawler trait.\n\nAttacks deal 2.5% of the holder's max Health as magic damage.",
+    "effects": {
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemBrawler.webp?v=4",
+    "id": "DA_18_EmblemBrawler",
+    "name": "Brawler Emblem"
+  },
+  "DA_18_EmblemCoven": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "The holder gains the Coven trait.",
+    "effects": {
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemCoven.webp?v=4",
+    "id": "DA_18_EmblemCoven",
+    "name": "Coven Emblem"
+  },
+  "DA_18_EmblemDefender": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "The holder gains the Defender trait.\n\nCombat Start: Gain 6% Attack Speed for every ally that starts in the front row.",
+    "effects": {
+      "Armor": 30,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemDefender.webp?v=4",
+    "id": "DA_18_EmblemDefender",
+    "name": "Defender Emblem"
+  },
+  "DA_18_EmblemElderwood": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Elderwood trait.",
+    "effects": {
+      "Armor": 35,
+      "AttackSpeed": 0.25,
+      "MagicResist": 35
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemElderwood.webp?v=4",
+    "id": "DA_18_EmblemElderwood",
+    "name": "Elderwood Emblem"
+  },
+  "DA_18_EmblemExecutioner": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Executioner trait.\n\nDamage executes enemies below 12% of their max Health.",
+    "effects": {
+      "CritChance": 20,
+      "CritDamage": 10
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemExecutioner.webp?v=4",
+    "id": "DA_18_EmblemExecutioner",
+    "name": "Executioner Emblem"
+  },
+  "DA_18_EmblemFae": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Fae trait.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemFae.webp?v=4",
+    "id": "DA_18_EmblemFae",
+    "name": "Fae Emblem"
+  },
+  "DA_18_EmblemFloraFatalis": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "The holder gains the Flora Fatalis trait.",
+    "effects": {
+      "Health": 250,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemFloraFatalis.webp?v=4",
+    "id": "DA_18_EmblemFloraFatalis",
+    "name": "Flora Fatalis Emblem"
+  },
+  "DA_18_EmblemFloraFatalisAugment": {
+    "category": "emblem",
+    "description": "",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_18_EmblemFloraFatalisAugment.webp?v=4",
+    "id": "DA_18_EmblemFloraFatalisAugment",
+    "name": "Consuming Flora"
+  },
+  "DA_18_EmblemHunter": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Hunter trait.\n\nTakedowns grant 18% Attack Damage.",
+    "effects": {
+      "AD": 0.3
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemHunter.webp?v=4",
+    "id": "DA_18_EmblemHunter",
+    "name": "Hunter Emblem"
+  },
+  "DA_18_EmblemInferno": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_RecurveBow"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Inferno trait.",
+    "effects": {
+      "AttackSpeed": 0.4
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemInferno.webp?v=4",
+    "id": "DA_18_EmblemInferno",
+    "name": "Inferno Emblem"
+  },
+  "DA_18_EmblemInvoker": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Invoker trait.\n\nOn cast, gain Ability Power equal to 10% of Mana spent.",
+    "effects": {
+      "ManaRegen": 3
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemInvoker.webp?v=4",
+    "id": "DA_18_EmblemInvoker",
+    "name": "Invoker Emblem"
+  },
+  "DA_18_EmblemJuggernaut": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "The holder gains the Juggernaut trait.\n\nGain 15 mana whenever a Juggernaut dies.",
+    "effects": {
+      "Health": 400
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemJuggernaut.webp?v=4",
+    "id": "DA_18_EmblemJuggernaut",
+    "name": "Juggernaut Emblem"
+  },
+  "DA_18_EmblemLunar": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Lunar trait.",
+    "effects": {
+      "AttackSpeed": 0.2,
+      "ManaRegen": 3
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemLunar.webp?v=4",
+    "id": "DA_18_EmblemLunar",
+    "name": "Lunar Emblem"
+  },
+  "DA_18_EmblemPrimal": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Primal trait.",
+    "effects": {
+      "AttackSpeed": 0.25,
+      "CritChance": 20,
+      "Health": 250
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemPrimal.webp?v=4",
+    "id": "DA_18_EmblemPrimal",
+    "name": "Primal Emblem"
+  },
+  "DA_18_EmblemRapidfire": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_RecurveBow"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Rapidfire trait.\n\nAttacks deal 1% of the target's max Health as true damage.",
+    "effects": {
+      "AttackSpeed": 0.2
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemRapidfire.webp?v=4",
+    "id": "DA_18_EmblemRapidfire",
+    "name": "Rapidfire Emblem"
+  },
+  "DA_18_EmblemSlayer": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Ravager trait.\n\nGain 3% Damage Amp per 300 Health restored.",
+    "effects": {
+      "AD": 0.2,
+      "AP": 20,
+      "Armor": 20,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemSlayer.webp?v=4",
+    "id": "DA_18_EmblemSlayer",
+    "name": "Ravager Emblem"
+  },
+  "DA_18_EmblemSpellweaver": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Spellweaver trait.\n\nGain 2 Mana whenever an ally casts their Ability.",
+    "effects": {
+      "AP": 25
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemSpellweaver.webp?v=4",
+    "id": "DA_18_EmblemSpellweaver",
+    "name": "Spellweaver Emblem"
+  },
+  "DA_18_EmblemSprykin": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Sprykin trait.\n\nIf the holder is riding the BFF, gain an additional\n30%{{icon:scaleAS}} 20{{icon:scaleArmor}} 20{{icon:scaleMR}}",
+    "effects": {
+      "Armor": 20,
+      "AttackSpeed": 0.1,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemSprykin.webp?v=4",
+    "id": "DA_18_EmblemSprykin",
+    "name": "Sprykin Emblem"
+  },
+  "DA_18_EmblemVanguard": {
+    "category": "emblem",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "The holder gains the Vanguard trait.\n\nIf the holder survives 20 seconds in player combat, gain 1 player health.",
+    "effects": {
+      "Armor": 30,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_18_EmblemVanguard.webp?v=4",
+    "id": "DA_18_EmblemVanguard",
+    "name": "Vanguard Emblem"
+  },
+  "DA_AdaptiveHelm": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain an additional 15% Mana from all sources. The wearer gains an additional bonus based on their Role:\n\nTanks and Fighters: Gain 30 Armor and Magic Resistance.\n\nOther Roles: Gain 10% Attack Damage and Ability Power.",
+    "effects": {
+      "MagicResist": 20,
+      "ManaRegen": 3
+    },
+    "icon": "/set18/item-webp/DA_AdaptiveHelm.webp?v=4",
+    "id": "DA_AdaptiveHelm",
+    "name": "Adaptive Helm"
+  },
+  "DA_AdaptiveHelm_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain an additional 30% Mana from all sources. The wearer gains an additional bonus based on their Role:\n\nTanks and Fighters: Gain 80 Armor and Magic Resistance.\n\nOther Roles: Gain 40% Attack Damage and Ability Power.",
+    "effects": {
+      "MagicResist": 40,
+      "ManaRegen": 7
+    },
+    "icon": "/set18/item-webp/DA_AdaptiveHelm_Radiant.webp?v=4",
+    "id": "DA_AdaptiveHelm_Radiant",
+    "name": "Radiant Adaptive Helm"
+  },
+  "DA_ArchangelsStaff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Combat start: Gain 20% Ability Power every 5 seconds in combat.",
+    "effects": {
+      "AP": 30,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_ArchangelsStaff.webp?v=4",
+    "id": "DA_ArchangelsStaff",
+    "name": "Archangel's Staff"
+  },
+  "DA_ArchangelsStaffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Combat start: Gain 40% Ability Power every 5 seconds in combat.",
+    "effects": {
+      "AP": 60,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_ArchangelsStaffRadiant.webp?v=4",
+    "id": "DA_ArchangelsStaffRadiant",
+    "name": "Radiant Archangel's Staff"
+  },
+  "DA_Artifact_AegisOfDawn": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Every 2.5 seconds, steal 3 Armor from enemies within 1-hex and heal of the holder's Armor.\n\nIf Aegis of Dusk is also equipped, trigger this item's effect every 1.25 seconds instead.\n\nHealing increases based on Stage.",
+    "effects": {
+      "Armor": 50,
+      "Health": 400
+    },
+    "icon": "/set18/item-webp/DA_Artifact_AegisOfDawn.webp?v=4",
+    "id": "DA_Artifact_AegisOfDawn",
+    "name": "Aegis of Dawn"
+  },
+  "DA_Artifact_AegisOfDusk": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Every 2.5 seconds, steal 3 Magic Resist from enemies within 1-hex and deal 15% of the holder's Magic Resist as magic damage.\n\nIf Aegis of Dawn is also equipped, trigger this item's effect every 1.25 seconds instead.\n\nDamage increases based on Stage.",
+    "effects": {
+      "Health": 400,
+      "MagicResist": 70
+    },
+    "icon": "/set18/item-webp/DA_Artifact_AegisOfDusk.webp?v=4",
+    "id": "DA_Artifact_AegisOfDusk",
+    "name": "Aegis of Dusk"
+  },
+  "DA_Artifact_BlightingJewel": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Dealing magic damage reduces the target’s Magic Resist by 4. If their Magic Resist is 0, grant the holder 4 Mana instead.\n\nAbility damage can only trigger on each enemy once every 0.5 seconds.",
+    "effects": {
+      "AP": 30,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_BlightingJewel.webp?v=4",
+    "id": "DA_Artifact_BlightingJewel",
+    "name": "Blighting Jewel"
+  },
+  "DA_Artifact_CappaJuice": {
+    "category": "artifact",
+    "description": "",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_Artifact_CappaJuice.webp?v=4",
+    "id": "DA_Artifact_CappaJuice",
+    "name": "Cappa Juice"
+  },
+  "DA_Artifact_Dawncore": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Reduce the holder's max Mana by 10. Subsequent spellcasts reduce max Mana by 4%, to a minimum of 10.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Dawncore.webp?v=4",
+    "id": "DA_Artifact_Dawncore",
+    "name": "Dawncore"
+  },
+  "DA_Artifact_DeathsDefiance": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "50% of the damage the holder receives is instead dealt over 4 seconds as non-lethal damage.\n\nUnique - only 1 per champion",
+    "effects": {
+      "AD": 0.25,
+      "Armor": 40,
+      "AttackSpeed": 0.15
+    },
+    "icon": "/set18/item-webp/DA_Artifact_DeathsDefiance.webp?v=4",
+    "id": "DA_Artifact_DeathsDefiance",
+    "name": "Death's Defiance"
+  },
+  "DA_Artifact_EternalPact": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Combat start: Form a pact with the highest Health allied champion, If they die, gain 10 Mana regen and 40% Ability Power.\n\nWhen the ally uses their ability, gain 15 Mana. Every 6 seconds, shield your ally for 200% of the holder's Ability Power.",
+    "effects": {
+      "AP": 40,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Artifact_EternalPact.webp?v=4",
+    "id": "DA_Artifact_EternalPact",
+    "name": "Eternal Pact"
+  },
+  "DA_Artifact_Fishbones": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain +2 attack range, and causes each of their attacks to target a random enemy.",
+    "effects": {
+      "AD": 0.3,
+      "AttackSpeed": 0.3
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Fishbones.webp?v=4",
+    "id": "DA_Artifact_Fishbones",
+    "name": "Fishbones"
+  },
+  "DA_Artifact_ForbiddenIdol": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Shields have 35% of their value converted to max Health instead.",
+    "effects": {
+      "Health": 350,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_ForbiddenIdol.webp?v=4",
+    "id": "DA_Artifact_ForbiddenIdol",
+    "name": "Forbidden Idol"
+  },
+  "DA_Artifact_GamblersBlade": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Grant 1% bonus Attack Speed per gold in your bank (up to 30 gold).\n\nEach attack has a 6% chance to drop 1 gold.\n\nGold generated this game:\n\nUnique - only 1 per champion",
+    "effects": {
+      "AttackSpeed": 0.55
+    },
+    "icon": "/set18/item-webp/DA_Artifact_GamblersBlade.webp?v=4",
+    "id": "DA_Artifact_GamblersBlade",
+    "name": "Gambler's Blade"
+  },
+  "DA_Artifact_GoldCollector": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks and Abilities execute enemies below 12% of their maximum Health. Executions on champions have a 33% chance to drop 1 gold.\n\nGold collected:\n\nUnique - only 1 per champion",
+    "effects": {
+      "AD": 0.4,
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_Artifact_GoldCollector.webp?v=4",
+    "id": "DA_Artifact_GoldCollector",
+    "name": "Gold Collector"
+  },
+  "DA_Artifact_HellfireHatchet": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks deal 3% of the holder's max Health as bonus physical damage. For every 1% missing Health, gain 1.5% Attack Speed.",
+    "effects": {
+      "Health": 400
+    },
+    "icon": "/set18/item-webp/DA_Artifact_HellfireHatchet.webp?v=4",
+    "id": "DA_Artifact_HellfireHatchet",
+    "name": "Hellfire Hatchet"
+  },
+  "DA_Artifact_HorizonFocus": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Stunning an enemy causes lightning to strike them, dealing 30% of their max Health as magic damage.",
+    "effects": {
+      "Armor": 20,
+      "Health": 250,
+      "MagicResist": 20,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_HorizonFocus.webp?v=4",
+    "id": "DA_Artifact_HorizonFocus",
+    "name": "Horizon Focus"
+  },
+  "DA_Artifact_Hullcrusher": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Combat Start: If there are no adjacent allies, gain 400 Health, 10% Attack Damage, and 10% Ability Power.",
+    "effects": {
+      "Armor": 60,
+      "MagicResist": 60
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Hullcrusher.webp?v=4",
+    "id": "DA_Artifact_Hullcrusher",
+    "name": "Hullcrusher"
+  },
+  "DA_Artifact_InfinityForce": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Tons of EVERYTHING!",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "Armor": 30,
+      "AttackSpeed": 0.3,
+      "Health": 300,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_Artifact_InfinityForce.webp?v=4",
+    "id": "DA_Artifact_InfinityForce",
+    "name": "Infinity Force"
+  },
+  "DA_Artifact_LichBane": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "The holder’s first attack after each Ability cast deals bonus magic damage.\n\nDamage increases based on Stage.",
+    "effects": {
+      "AP": 55,
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_Artifact_LichBane.webp?v=4",
+    "id": "DA_Artifact_LichBane",
+    "name": "Lich Bane"
+  },
+  "DA_Artifact_LightshieldCrest": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Every 3 seconds, Shields the lowest percent Health ally for 70% of the holder’s combined Armor and Magic Resist for 5 seconds.\n\nOn death grants this shield to all allies.",
+    "effects": {
+      "Armor": 55,
+      "MagicResist": 55
+    },
+    "icon": "/set18/item-webp/DA_Artifact_LightshieldCrest.webp?v=4",
+    "id": "DA_Artifact_LightshieldCrest",
+    "name": "Lightshield Crest"
+  },
+  "DA_Artifact_LudensTempest": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "100% of overkill damage plus 100 is dealt as magic damage to the two enemies nearest the target.",
+    "effects": {
+      "AD": 0.55,
+      "AP": 55
+    },
+    "icon": "/set18/item-webp/DA_Artifact_LudensTempest.webp?v=4",
+    "id": "DA_Artifact_LudensTempest",
+    "name": "Luden's Tempest"
+  },
+  "DA_Artifact_Manazane": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "After casting the first time in combat, gain 100 Mana over 5 seconds.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Manazane.webp?v=4",
+    "id": "DA_Artifact_Manazane",
+    "name": "Manazane"
+  },
+  "DA_Artifact_Mittens": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Shrinks the holder, granting them increased movement speed and immunity to Slow, Burn, and Wound.\n\nSlow: Reduces Attack Speed.\nBurn: Deals a percent of the target’s max Health as true damage every second.\nWound: Reduces healing received.",
+    "effects": {
+      "AttackSpeed": 0.65
+    },
+    "icon": "/set18/item-webp/DA_Artifact_Mittens.webp?v=4",
+    "id": "DA_Artifact_Mittens",
+    "name": "Mittens"
+  },
+  "DA_Artifact_MogulsMail": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Grants 1 Armor, 1 Magic Resist, and 5 Health when taking damage, stacking up to 35 times.\n\nAt full stacks, grant 1 gold and continue gaining 1 gold every 11 seconds.\n\nGold generated this game:\n\nUnique - only 1 per champion",
+    "effects": {
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_Artifact_MogulsMail.webp?v=4",
+    "id": "DA_Artifact_MogulsMail",
+    "name": "Mogul'sMail"
+  },
+  "DA_Artifact_NavoriFlickerblade": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks grant 5% stacking Attack Speed. Every 3 attacks also grant 2% Attack Damage and 2% Ability Power.",
+    "effects": {
+      "AP": 10,
+      "AttackSpeed": 0.2
+    },
+    "icon": "/set18/item-webp/DA_Artifact_NavoriFlickerblade.webp?v=4",
+    "id": "DA_Artifact_NavoriFlickerblade",
+    "name": "Flickerblades"
+  },
+  "DA_Artifact_RapidFireCannon": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain +1 Attack Range, increased by 1 whenever the holder kills an enemy.",
+    "effects": {
+      "AttackSpeed": 0.65
+    },
+    "icon": "/set18/item-webp/DA_Artifact_RapidFireCannon.webp?v=4",
+    "id": "DA_Artifact_RapidFireCannon",
+    "name": "Rapid Firecannon"
+  },
+  "DA_Artifact_SeekersArmguard": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Takedowns increase the holder’s Armor, Magic Resist, and Ability Power by 20.",
+    "effects": {
+      "AP": 25,
+      "Armor": 10,
+      "MagicResist": 10
+    },
+    "icon": "/set18/item-webp/DA_Artifact_SeekersArmguard.webp?v=4",
+    "id": "DA_Artifact_SeekersArmguard",
+    "name": "Seeker's Armguard"
+  },
+  "DA_Artifact_SilvermereDawn": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Grants immunity to Stuns and the holder's attacks Stun the target for 0.8 seconds.\n\nThe holder’s Attack Speed is locked at 0.5.",
+    "effects": {
+      "AD": 1.25,
+      "Armor": 30,
+      "MagicResist": 30
+    },
+    "icon": "/set18/item-webp/DA_Artifact_SilvermereDawn.webp?v=4",
+    "id": "DA_Artifact_SilvermereDawn",
+    "name": "Silvermere Dawn"
+  },
+  "DA_Artifact_StatikkShiv": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Every 3rd attack deals 15 + 35% of the holder's Ability Power as additional magic damage to 6 enemies.",
+    "effects": {
+      "AP": 15,
+      "AttackSpeed": 0.4
+    },
+    "icon": "/set18/item-webp/DA_Artifact_StatikkShiv.webp?v=4",
+    "id": "DA_Artifact_StatikkShiv",
+    "name": "Statikk Shiv"
+  },
+  "DA_Artifact_TheIndomitable": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "The holder's Move Speed is drastically reduced.\n\nGain 15% max Health, Unstoppable, and pull the current target into melee range.",
+    "effects": {
+      "Health": 500,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Artifact_TheIndomitable.webp?v=4",
+    "id": "DA_Artifact_TheIndomitable",
+    "name": "The Indomitable"
+  },
+  "DA_Artifact_TitanicHydra": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks deal 4% of the holder's max Health plus 4% of their Attack Damage as bonus physical damage to the target and adjacent enemies.",
+    "effects": {
+      "AD": 0.2,
+      "AttackSpeed": 0.2,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_Artifact_TitanicHydra.webp?v=4",
+    "id": "DA_Artifact_TitanicHydra",
+    "name": "Titanic Hydra"
+  },
+  "DA_Artifact_VoidGauntlet": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Combat Start: Store 30% max Health and 2.5% more every second. On death, unleash the stored Health as magic damage split between enemies within 4 hexes.\n\nUnique - only 1 per champion",
+    "effects": {
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_Artifact_VoidGauntlet.webp?v=4",
+    "id": "DA_Artifact_VoidGauntlet",
+    "name": "Void Gauntlet"
+  },
+  "DA_Artifact_WitsEnd": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks deal bonus magic damage.\nHeals the holder for 25% of all magic damage dealt.\n\nDamage increases based on Stage.",
+    "effects": {
+      "Armor": 20,
+      "AttackSpeed": 0.25,
+      "Health": 400,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Artifact_WitsEnd.webp?v=4",
+    "id": "DA_Artifact_WitsEnd",
+    "name": "Wit's End"
+  },
+  "DA_Artifact_ZhonyasParadox": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Once per combat at 40% Health, become invulnerable and untargetable for 3 seconds.\n\nUnique - only 1 per champion",
+    "effects": {
+      "AP": 25,
+      "Armor": 25,
+      "MagicResist": 25
+    },
+    "icon": "/set18/item-webp/DA_Artifact_ZhonyasParadox.webp?v=4",
+    "id": "DA_Artifact_ZhonyasParadox",
+    "name": "Zhonya's Paradox"
+  },
+  "DA_Bloodthirster": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Once per combat at 40% Health, gain a 25% max Health Shield that lasts up to 5 seconds.",
+    "effects": {
+      "AD": 15,
+      "AP": 15,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Bloodthirster.webp?v=4",
+    "id": "DA_Bloodthirster",
+    "name": "Bloodthirster"
+  },
+  "DA_BloodthirsterRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Once per combat at 40% Health, gain a 50% max Health Shield that lasts up to 5 seconds.",
+    "effects": {
+      "AD": 30,
+      "AP": 30,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_BloodthirsterRadiant.webp?v=4",
+    "id": "DA_BloodthirsterRadiant",
+    "name": "Radiant Bloodthirster"
+  },
+  "DA_BlueBuff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 10% additional Attack Damage and Ability Power from all sources.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 5
+    },
+    "icon": "/set18/item-webp/DA_BlueBuff.webp?v=4",
+    "id": "DA_BlueBuff",
+    "name": "Blue Buff"
+  },
+  "DA_BlueBuffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 20% additional Attack Damage and Ability Power from all sources.",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "ManaRegen": 10
+    },
+    "icon": "/set18/item-webp/DA_BlueBuffRadiant.webp?v=4",
+    "id": "DA_BlueBuffRadiant",
+    "name": "Radiant Blue Buff"
+  },
+  "DA_BrambleVest": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 6% max Health.\n\nTake 5% reduced damage from attacks. When struck by any attack, deal 100 magic damage to all adjacent enemies.\n\nCooldown: 2 seconds",
+    "effects": {
+      "Armor": 50
+    },
+    "icon": "/set18/item-webp/DA_BrambleVest.webp?v=4",
+    "id": "DA_BrambleVest",
+    "name": "Bramble Vest"
+  },
+  "DA_BrambleVestRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 12% max Health.\n\nTake 10% reduced damage from attacks. When struck by any attack, deal 200 magic damage to all adjacent enemies.\n\nCooldown: 2 seconds",
+    "effects": {
+      "Armor": 100
+    },
+    "icon": "/set18/item-webp/DA_BrambleVestRadiant.webp?v=4",
+    "id": "DA_BrambleVestRadiant",
+    "name": "Radiant Bramble Vest"
+  },
+  "DA_Component_BFSword": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleAD}} +10% Attack Damage",
+    "effects": {
+      "AD": 0.1
+    },
+    "icon": "/set18/item-webp/DA_Component_BFSword.webp?v=4",
+    "id": "DA_Component_BFSword",
+    "name": "B.F. Sword"
+  },
+  "DA_Component_ChainVest": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleArmor}} +20 Armor",
+    "effects": {
+      "Armor": 20
+    },
+    "icon": "/set18/item-webp/DA_Component_ChainVest.webp?v=4",
+    "id": "DA_Component_ChainVest",
+    "name": "Chain Vest"
+  },
+  "DA_Component_FryingPan": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "...why else would it be here?",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_Component_FryingPan.webp?v=4",
+    "id": "DA_Component_FryingPan",
+    "name": "Frying Pan"
+  },
+  "DA_Component_GiantsBelt": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleHealth}} +150 Health",
+    "effects": {
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_Component_GiantsBelt.webp?v=4",
+    "id": "DA_Component_GiantsBelt",
+    "name": "Giant's Belt"
+  },
+  "DA_Component_NeedlesslyLargeRod": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleAP}} +10% Ability Power",
+    "effects": {
+      "AP": 10
+    },
+    "icon": "/set18/item-webp/DA_Component_NeedlesslyLargeRod.webp?v=4",
+    "id": "DA_Component_NeedlesslyLargeRod",
+    "name": "Needlessly Large Rod"
+  },
+  "DA_Component_NegatronCloak": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleMR}} +20 Magic Resist",
+    "effects": {
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Component_NegatronCloak.webp?v=4",
+    "id": "DA_Component_NegatronCloak",
+    "name": "Negatron Cloak"
+  },
+  "DA_Component_RecurveBow": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleAS}} +10% Attack Speed",
+    "effects": {
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_Component_RecurveBow.webp?v=4",
+    "id": "DA_Component_RecurveBow",
+    "name": "Recurve Bow"
+  },
+  "DA_Component_SparringGloves": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:scaleCrit}} +20% Critical Strike Chance",
+    "effects": {
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_Component_SparringGloves.webp?v=4",
+    "id": "DA_Component_SparringGloves",
+    "name": "Sparring Gloves"
+  },
+  "DA_Component_Spatula": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "It must do something...",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_Component_Spatula.webp?v=4",
+    "id": "DA_Component_Spatula",
+    "name": "Spatula"
+  },
+  "DA_Component_TearOfTheGoddess": {
+    "category": "component",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "{{icon:TFTManaRegen}} +1 Mana Regeneration",
+    "effects": {
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Component_TearOfTheGoddess.webp?v=4",
+    "id": "DA_Component_TearOfTheGoddess",
+    "name": "Tear Of The Goddess"
+  },
+  "DA_Crownguard": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Combat start: Gain a 25% max Health Shield for 8 seconds.\nWhen the shield expires, gain 25% Ability Power.",
+    "effects": {
+      "AP": 20,
+      "Armor": 20,
+      "Health": 100
+    },
+    "icon": "/set18/item-webp/DA_Crownguard.webp?v=4",
+    "id": "DA_Crownguard",
+    "name": "Crownguard"
+  },
+  "DA_CrownguardRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Combat start: Gain a 50% max Health Shield for 8 seconds.\nWhen the shield expires, gain 50% Ability Power.",
+    "effects": {
+      "AP": 40,
+      "Armor": 40,
+      "Health": 200
+    },
+    "icon": "/set18/item-webp/DA_CrownguardRadiant.webp?v=4",
+    "id": "DA_CrownguardRadiant",
+    "name": "Radiant Crownguard"
+  },
+  "DA_Deathblade": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Perfect peace and calm for the holder - and all who face it.",
+    "effects": {
+      "AD": 0.55
+    },
+    "icon": "/set18/item-webp/DA_Deathblade.webp?v=4",
+    "id": "DA_Deathblade",
+    "name": "Deathblade"
+  },
+  "DA_DeathbladeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "It glows in the presence of enemies. Or friends. Or anything alive, really.",
+    "effects": {
+      "AD": 1
+    },
+    "icon": "/set18/item-webp/DA_DeathbladeRadiant.webp?v=4",
+    "id": "DA_DeathbladeRadiant",
+    "name": "Radiant Deathblade"
+  },
+  "DA_DragonsClaw": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NegatronCloak",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 6% max Health. Every 2 seconds, heal 2.5% max Health.",
+    "effects": {
+      "MagicResist": 60
+    },
+    "icon": "/set18/item-webp/DA_DragonsClaw.webp?v=4",
+    "id": "DA_DragonsClaw",
+    "name": "Dragon's Claw"
+  },
+  "DA_DragonsClawRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 28% max Health.\n\nEvery 2 seconds, heal 5% max Health.",
+    "effects": {
+      "MagicResist": 120
+    },
+    "icon": "/set18/item-webp/DA_DragonsClawRadiant.webp?v=4",
+    "id": "DA_DragonsClawRadiant",
+    "name": "Radiant Dragon's Claw"
+  },
+  "DA_EdgeOfNight": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "At 60% Health, briefly become untargetable, shed negative effects, and heal 20% missing health.",
+    "effects": {
+      "AD": 0.1,
+      "AP": 10,
+      "Armor": 20,
+      "AttackSpeed": 0.15
+    },
+    "icon": "/set18/item-webp/DA_EdgeOfNight.webp?v=4",
+    "id": "DA_EdgeOfNight",
+    "name": "Edge of Night"
+  },
+  "DA_EdgeOfNightRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "At 60% Health, briefly become untargetable, shed negative effects, and heal all missing health.",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "Armor": 40,
+      "AttackSpeed": 0.3
+    },
+    "icon": "/set18/item-webp/DA_EdgeOfNightRadiant.webp?v=4",
+    "id": "DA_EdgeOfNightRadiant",
+    "name": "Radiant Edge of Night"
+  },
+  "DA_Evenshroud": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NegatronCloak",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "30% Sunder enemies within 2 hexes. Gain 15 Armor and Magic Resist for the first 15 seconds of combat.\n\nSunder: Reduce Armor",
+    "effects": {
+      "Health": 250,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Evenshroud.webp?v=4",
+    "id": "DA_Evenshroud",
+    "name": "Evenshroud"
+  },
+  "DA_EvenshroudRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "30% Sunder enemies within 3 hexes. Gain 50 Armor and Magic Resist for the first 20 seconds of combat.\n\nSunder: Reduce Armor",
+    "effects": {
+      "Health": 500,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_EvenshroudRadiant.webp?v=4",
+    "id": "DA_EvenshroudRadiant",
+    "name": "Radiant Evenshroud"
+  },
+  "DA_GargoyleStoneplate": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 10 Armor and 10 Magic Resist for each enemy targeting the holder.",
+    "effects": {
+      "Armor": 25,
+      "Health": 100,
+      "MagicResist": 25
+    },
+    "icon": "/set18/item-webp/DA_GargoyleStoneplate.webp?v=4",
+    "id": "DA_GargoyleStoneplate",
+    "name": "Gargoyle Stoneplate"
+  },
+  "DA_GargoyleStoneplate_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 20 Armor and 20 Magic Resist for each enemy targeting the holder.",
+    "effects": {
+      "Armor": 50,
+      "Health": 300,
+      "MagicResist": 50
+    },
+    "icon": "/set18/item-webp/DA_GargoyleStoneplate_Radiant.webp?v=4",
+    "id": "DA_GargoyleStoneplate_Radiant",
+    "name": "Radiant Gargoyle Stoneplate"
+  },
+  "DA_GiantSlayer": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 15% additional Damage Amp against Tanks.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "AttackSpeed": 0.15
+    },
+    "icon": "/set18/item-webp/DA_GiantSlayer.webp?v=4",
+    "id": "DA_GiantSlayer",
+    "name": "Giant Slayer"
+  },
+  "DA_GiantSlayer_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 30% additional Damage Amp against Tanks.",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "AttackSpeed": 0.3
+    },
+    "icon": "/set18/item-webp/DA_GiantSlayer_Radiant.webp?v=4",
+    "id": "DA_GiantSlayer_Radiant",
+    "name": "Radiant Giant Slayer"
+  },
+  "DA_GuinsoosRageblade": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 7% stacking Attack Speed every second.",
+    "effects": {
+      "AP": 10,
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_GuinsoosRageblade.webp?v=4",
+    "id": "DA_GuinsoosRageblade",
+    "name": "Guinsoo's Rageblade"
+  },
+  "DA_GuinsoosRagebladeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 16% stacking Attack Speed every second.",
+    "effects": {
+      "AP": 20,
+      "AttackSpeed": 0.25
+    },
+    "icon": "/set18/item-webp/DA_GuinsoosRagebladeRadiant.webp?v=4",
+    "id": "DA_GuinsoosRagebladeRadiant",
+    "name": "Radiant Guinsoo's Rageblade"
+  },
+  "DA_HandOfJustice": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 2 effects:\n• 15% Attack Damage and 15% Ability Power.\n• 12% Omnivamp.\n\nWhile above 50% health, double the Attack Damage and Ability Power. While below 50% Health, double the Omnivamp.",
+    "effects": {
+      "CritChance": 20,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_HandOfJustice.webp?v=4",
+    "id": "DA_HandOfJustice",
+    "name": "Hand Of Justice"
+  },
+  "DA_HandOfJusticeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 2 effects:\n• 30% Attack Damage and 30% Ability Power.\n• 24% Omnivamp.\n\nWhile above 50% health, double the Attack Damage and Ability Power. While below 50% Health, double the Omnivamp.",
+    "effects": {
+      "CritChance": 40,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_HandOfJusticeRadiant.webp?v=4",
+    "id": "DA_HandOfJusticeRadiant",
+    "name": "Radiant Hand of Justice"
+  },
+  "DA_HextechGunblade": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Heal the lowest percent Health ally for 20% of damage dealt.\n\nAlly Healing:",
+    "effects": {
+      "AD": 0.2,
+      "AP": 20,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_HextechGunblade.webp?v=4",
+    "id": "DA_HextechGunblade",
+    "name": "Hextech Gunblade"
+  },
+  "DA_HextechGunbladeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Heal the lowest percent Health ally for 40% of damage dealt.\n\nAlly Healing:",
+    "effects": {
+      "AD": 0.4,
+      "AP": 40,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_HextechGunbladeRadiant.webp?v=4",
+    "id": "DA_HextechGunbladeRadiant",
+    "name": "Radiant Hextech Gunblade"
+  },
+  "DA_InfinityEdge": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain Precision.\n\nPrecision: Ability damage can critically strike. Extra Precision grants 10% Critical Strike Damage.",
+    "effects": {
+      "AD": 0.35,
+      "CritChance": 35
+    },
+    "icon": "/set18/item-webp/DA_InfinityEdge.webp?v=4",
+    "id": "DA_InfinityEdge",
+    "name": "Infinity Edge"
+  },
+  "DA_InfinityEdgeRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain Precision.\n\nPrecision: Ability damage can critically strike. Extra Precision grants 10% Critical Strike Damage.",
+    "effects": {
+      "AD": 0.75,
+      "CritChance": 75
+    },
+    "icon": "/set18/item-webp/DA_InfinityEdgeRadiant.webp?v=4",
+    "id": "DA_InfinityEdgeRadiant",
+    "name": "Radiant Infinity Edge"
+  },
+  "DA_IonicSpark": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 150% of the Mana spent.\n\nShred: Reduce Magic Resist",
+    "effects": {
+      "AP": 15,
+      "Health": 250,
+      "MagicResist": 35
+    },
+    "icon": "/set18/item-webp/DA_IonicSpark.webp?v=4",
+    "id": "DA_IonicSpark",
+    "name": "Ionic Spark"
+  },
+  "DA_IonicSparkRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "30% Shred enemies within 2 hexes. When enemies cast an Ability, deal magic damage equal to 300% of the Mana spent.\n\nShred: Reduce Magic Resist",
+    "effects": {
+      "AP": 30,
+      "Health": 500,
+      "MagicResist": 70
+    },
+    "icon": "/set18/item-webp/DA_IonicSparkRadiant.webp?v=4",
+    "id": "DA_IonicSparkRadiant",
+    "name": "Radiant Ionic Spark"
+  },
+  "DA_Item_Artifact_TalismanOfAscension": {
+    "category": "artifact",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "After 22 seconds gain 100% max Health, 8 Mana Regen, and 120% Damage Amp for the rest of combat.",
+    "effects": {
+      "AD": 0.2,
+      "AP": 20,
+      "Health": 450
+    },
+    "icon": "/set18/item-webp/DA_Item_Artifact_TalismanOfAscension.webp?v=4",
+    "id": "DA_Item_Artifact_TalismanOfAscension",
+    "name": "Talisman of Ascension"
+  },
+  "DA_JeweledGauntlet": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_SparringGloves",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain Precision.\n\nPrecision: Ability damage can critically strike. Extra Precision grants 10% Critical Strike Damage.",
+    "effects": {
+      "AP": 35,
+      "CritChance": 35
+    },
+    "icon": "/set18/item-webp/DA_JeweledGauntlet.webp?v=4",
+    "id": "DA_JeweledGauntlet",
+    "name": "Jeweled Gauntlet"
+  },
+  "DA_JeweledGauntletRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain Precision.\n\nPrecision: Ability damage can critically strike. Extra Precision grants 10% Critical Strike Damage.",
+    "effects": {
+      "AP": 75,
+      "CritChance": 75
+    },
+    "icon": "/set18/item-webp/DA_JeweledGauntletRadiant.webp?v=4",
+    "id": "DA_JeweledGauntletRadiant",
+    "name": "Radiant Jeweled Gauntlet"
+  },
+  "DA_KrakensFury": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_NegatronCloak"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Attacks grant 3.5% stacking Attack Damage, up to 15 attacks. After 15 attacks, gain 15% Attack Speed.",
+    "effects": {
+      "AD": 0.1,
+      "AttackSpeed": 0.1,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_KrakensFury.webp?v=4",
+    "id": "DA_KrakensFury",
+    "name": "Kraken's Fury"
+  },
+  "DA_KrakensFury_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks grant 7% stacking Attack Damage, up to 15 attacks. After 15 attacks, gain 30% Attack Speed.",
+    "effects": {
+      "AD": 0.2,
+      "AttackSpeed": 0.2,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_KrakensFury_Radiant.webp?v=4",
+    "id": "DA_KrakensFury_Radiant",
+    "name": "Radiant Kraken's Fury"
+  },
+  "DA_LastWhisper": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Attacks and Ability damage 30% Sunders the target for 3 seconds. This effect does not stack.\n\nSunder: Reduce Armor",
+    "effects": {
+      "AD": 0.15,
+      "AttackSpeed": 0.2,
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_LastWhisper.webp?v=4",
+    "id": "DA_LastWhisper",
+    "name": "Last Whisper"
+  },
+  "DA_LastWhisperRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks and Ability damage 30% Sunders the target for the rest of combat. This effect does not stack.\n\nSunder: Reduce Armor",
+    "effects": {
+      "AD": 0.45,
+      "AttackSpeed": 0.4,
+      "CritChance": 40
+    },
+    "icon": "/set18/item-webp/DA_LastWhisperRadiant.webp?v=4",
+    "id": "DA_LastWhisperRadiant",
+    "name": "Radiant Last Whisper"
+  },
+  "DA_Morellonomicon": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Attacks and Abilities deal 1% Burn and 33% Wound to enemies for 10 seconds.\n\nBurn: Deals a percent of the target’s max Health as true damage every second.\nWound: Reduces healing received.",
+    "effects": {
+      "AP": 20,
+      "Health": 150,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_Morellonomicon.webp?v=4",
+    "id": "DA_Morellonomicon",
+    "name": "Morellonomicon"
+  },
+  "DA_MorellonomiconRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks and Abilities deal 2% Burn and 33% Wound to enemies for 10 seconds.\n\nBurn: Deals a percent of the target’s max Health as true damage every second.\nWound: Reduces healing received.",
+    "effects": {
+      "AP": 35,
+      "Health": 300,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_MorellonomiconRadiant.webp?v=4",
+    "id": "DA_MorellonomiconRadiant",
+    "name": "Radiant Morellonomicon"
+  },
+  "DA_NashorsTooth": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Attacks grant 2 bonus Mana, increased to 4 if they critically strike.",
+    "effects": {
+      "AP": 15,
+      "AttackSpeed": 0.1,
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_NashorsTooth.webp?v=4",
+    "id": "DA_NashorsTooth",
+    "name": "Nashor's Tooth"
+  },
+  "DA_NashorsToothRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks grant 4 bonus Mana, increased to 6 if they critically strike.",
+    "effects": {
+      "AP": 30,
+      "AttackSpeed": 0.2,
+      "CritChance": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_NashorsToothRadiant.webp?v=4",
+    "id": "DA_NashorsToothRadiant",
+    "name": "Radiant Nashor's Tooth"
+  },
+  "DA_ProtectorsVow": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Combat Start: Gain 20 Mana.\n\nAt 40% Health, gain 15 Mana and a Shield equal to 20% max Health.",
+    "effects": {
+      "Armor": 25,
+      "MagicResist": 25,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_ProtectorsVow.webp?v=4",
+    "id": "DA_ProtectorsVow",
+    "name": "Protector's Vow"
+  },
+  "DA_ProtectorsVowRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Combat Start: Gain 40 Mana.\n\nAt 40% Health, gain 30 Mana and a Shield equal to 50% max Health",
+    "effects": {
+      "Armor": 50,
+      "MagicResist": 50,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_ProtectorsVowRadiant.webp?v=4",
+    "id": "DA_ProtectorsVowRadiant",
+    "name": "Radiant Protector's Vow"
+  },
+  "DA_Quicksilver": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NegatronCloak",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Combat Start: Unstoppable for 18 seconds.\n\nGain 3% stacking Attack Speed every second.",
+    "effects": {
+      "AttackSpeed": 0.15,
+      "CritChance": 20,
+      "MagicResist": 20
+    },
+    "icon": "/set18/item-webp/DA_Quicksilver.webp?v=4",
+    "id": "DA_Quicksilver",
+    "name": "Quicksilver"
+  },
+  "DA_QuicksilverRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Combat Start: Unstoppable for 45 seconds.\n\nGain 6% stacking Attack Speed every second.",
+    "effects": {
+      "AttackSpeed": 0.4,
+      "CritChance": 40,
+      "MagicResist": 40
+    },
+    "icon": "/set18/item-webp/DA_QuicksilverRadiant.webp?v=4",
+    "id": "DA_QuicksilverRadiant",
+    "name": "Radiant Quicksilver"
+  },
+  "DA_RabadonsDeathcap": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_NeedlesslyLargeRod",
+            "TFT_Item_NeedlesslyLargeRod"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "This humble hat can help you make, or unmake, the world itself.",
+    "effects": {
+      "AP": 55
+    },
+    "icon": "/set18/item-webp/DA_RabadonsDeathcap.webp?v=4",
+    "id": "DA_RabadonsDeathcap",
+    "name": "Rabadon's Deathcap"
+  },
+  "DA_RabadonsDeathcap_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "It's witnessed - and unleashed - miracles and calamities both.",
+    "effects": {
+      "AP": 100
+    },
+    "icon": "/set18/item-webp/DA_RabadonsDeathcap_Radiant.webp?v=4",
+    "id": "DA_RabadonsDeathcap_Radiant",
+    "name": "Radiant Rabadon's Deathcap"
+  },
+  "DA_RedBuff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_RecurveBow"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Attacks and Abilities 1% Burn and 33% Wound enemies for 5 seconds.\n\nBurn: Deals a percent of the target’s max Health as true damage every second.\nWound: Reduces healing received.",
+    "effects": {
+      "AttackSpeed": 0.45
+    },
+    "icon": "/set18/item-webp/DA_RedBuff.webp?v=4",
+    "id": "DA_RedBuff",
+    "name": "Red Buff"
+  },
+  "DA_RedBuffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks and Abilities 2% Burn and 33% Wound enemies for 5 seconds.\n\nBurn: Deals a percent of the target’s max Health as true damage every second.\nWound: Reduces healing received.",
+    "effects": {
+      "AttackSpeed": 0.8
+    },
+    "icon": "/set18/item-webp/DA_RedBuffRadiant.webp?v=4",
+    "id": "DA_RedBuffRadiant",
+    "name": "Radiant Red Buff"
+  },
+  "DA_SpearOfShojin": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_TearOfTheGoddess",
+            "TFT_Item_BFSword"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Attacks grant 5 bonus Mana.",
+    "effects": {
+      "AD": 0.15,
+      "AP": 15,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_SpearOfShojin.webp?v=4",
+    "id": "DA_SpearOfShojin",
+    "name": "Spear of Shojin"
+  },
+  "DA_SpearOfShojinRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks grant 10 bonus Mana.",
+    "effects": {
+      "AD": 0.3,
+      "AP": 30,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_SpearOfShojinRadiant.webp?v=4",
+    "id": "DA_SpearOfShojinRadiant",
+    "name": "Radiant Spear of Shojin"
+  },
+  "DA_SpiritVisage": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Regenerate 2% of missing Health each second.",
+    "effects": {
+      "Health": 300,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_SpiritVisage.webp?v=4",
+    "id": "DA_SpiritVisage",
+    "name": "Spirit Visage"
+  },
+  "DA_SpiritVisage_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Regenerate 4% of missing Health each second.",
+    "effects": {
+      "Health": 700,
+      "ManaRegen": 4
+    },
+    "icon": "/set18/item-webp/DA_SpiritVisage_Radiant.webp?v=4",
+    "id": "DA_SpiritVisage_Radiant",
+    "name": "Radiant Spirit Visage"
+  },
+  "DA_SteadfastHeart": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 5% Durability. While above 50% Health, instead gain 15% Durability.",
+    "effects": {
+      "Armor": 20,
+      "CritChance": 20
+    },
+    "icon": "/set18/item-webp/DA_SteadfastHeart.webp?v=4",
+    "id": "DA_SteadfastHeart",
+    "name": "Steadfast Heart"
+  },
+  "DA_SteadfastHeartRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 10% Durability. While above 50% Health, instead gain 30% Durability.",
+    "effects": {
+      "Armor": 40,
+      "CritChance": 40
+    },
+    "icon": "/set18/item-webp/DA_SteadfastHeartRadiant.webp?v=4",
+    "id": "DA_SteadfastHeartRadiant",
+    "name": "Radiant Steadfast Heart"
+  },
+  "DA_SteraksGage": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_BFSword",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "At 60% Health, gain a Shield equal to 40% of the wearer's maximum Health that rapidly decays over 4 seconds.",
+    "effects": {
+      "AD": 0.45,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_SteraksGage.webp?v=4",
+    "id": "DA_SteraksGage",
+    "name": "Sterak's Gage"
+  },
+  "DA_SteraksGageRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "At 60% Health, gain a Shield equal to 80% of the wearer's maximum Health that rapidly decays over 6 seconds.",
+    "effects": {
+      "AD": 0.9,
+      "Health": 600
+    },
+    "icon": "/set18/item-webp/DA_SteraksGageRadiant.webp?v=4",
+    "id": "DA_SteraksGageRadiant",
+    "name": "Radiant Sterak's Gage"
+  },
+  "DA_StrikersFlail": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Critical Strikes grant 5% Damage Amp for 5 seconds, stacking up to 4 times.",
+    "effects": {
+      "AttackSpeed": 0.1,
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_StrikersFlail.webp?v=4",
+    "id": "DA_StrikersFlail",
+    "name": "Striker's Flail"
+  },
+  "DA_StrikersFlailRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Critical Strikes grant 10% Damage Amp for 5 seconds, stacking up to 4 times.",
+    "effects": {
+      "AttackSpeed": 0.2,
+      "CritChance": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_StrikersFlailRadiant.webp?v=4",
+    "id": "DA_StrikersFlailRadiant",
+    "name": "Radiant Striker's Flail"
+  },
+  "DA_SunfireCape": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_ChainVest",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 16% max Health.\n\nEvery 2 seconds, deal 2% Burn and 33% Wound to an enemy within 2 hexes for 10 seconds.\n\nBurn: Deals a percent of the target’s max Health as true damage every second.\nWound: Reduces healing received.",
+    "effects": {
+      "Armor": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_SunfireCape.webp?v=4",
+    "id": "DA_SunfireCape",
+    "name": "Sunfire Cape"
+  },
+  "DA_SunfireCape_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 16% max Health.\n\nEvery 2 seconds, deal 2% Burn and 33% Wound to an enemy within 2 hexes for 10 seconds.\n\nBurn: Deals a percent of the target’s max Health as true damage every second.\nWound: Reduces healing received.",
+    "effects": {
+      "Armor": 40,
+      "Health": 300
+    },
+    "icon": "/set18/item-webp/DA_SunfireCape_Radiant.webp?v=4",
+    "id": "DA_SunfireCape_Radiant",
+    "name": "Radiant Sunfire Cape"
+  },
+  "DA_TacticiansCape": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_FryingPan"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Your team gains +1 maximum team size.\n\n10% chance to drop 1 gold after 10 seconds of combat.\n\n...and a bit of Luck.",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_TacticiansCape.webp?v=4",
+    "id": "DA_TacticiansCape",
+    "name": "Tactician's Cape"
+  },
+  "DA_TacticiansCrown": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_Spatula",
+            "TFT_Item_Spatula"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Your team gains +1 maximum team size.\n\n10% chance to drop 1 gold when you win combat.\n\n...the Heart of a hero...",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_TacticiansCrown.webp?v=4",
+    "id": "DA_TacticiansCrown",
+    "name": "Tacticians Crown"
+  },
+  "DA_TacticiansShield": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_FryingPan",
+            "TFT_Item_FryingPan"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Your team gains +1 maximum team size.\n\n10% chance to drop 1 gold when the holder dies.\n\nImbued with a Philosopher's wisdom...",
+    "effects": {},
+    "icon": "/set18/item-webp/DA_TacticiansShield.webp?v=4",
+    "id": "DA_TacticiansShield",
+    "name": "Tacticians Shield"
+  },
+  "DA_ThiefsGloves": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_SparringGloves",
+            "TFT_Item_SparringGloves"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Each round: Equip 2 random items\n\n[Consumes 3 item slots.]",
+    "effects": {
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_ThiefsGloves.webp?v=4",
+    "id": "DA_ThiefsGloves",
+    "name": "Thief's Gloves"
+  },
+  "DA_ThiefsGlovesRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Each round: Equip 2 random Radiant items\n\n[Consumes 3 item slots.]",
+    "effects": {
+      "CritChance": 20,
+      "Health": 150
+    },
+    "icon": "/set18/item-webp/DA_ThiefsGlovesRadiant.webp?v=4",
+    "id": "DA_ThiefsGlovesRadiant",
+    "name": "Radiant Thief's Gloves"
+  },
+  "DA_TitansResolve": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_ChainVest"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 2% Attack Damage and Ability Power when attacking or taking damage, stacking up to 25 times.\n\nAt full stacks, gain 10% Damage Amp and become Unstoppable.",
+    "effects": {
+      "Armor": 20,
+      "AttackSpeed": 0.1
+    },
+    "icon": "/set18/item-webp/DA_TitansResolve.webp?v=4",
+    "id": "DA_TitansResolve",
+    "name": "Titan's Resolve"
+  },
+  "DA_TitansResolve_Radiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 4% Attack Damage and 4% Ability Power when attacking or taking damage, stacking up to 25 times.\n\nAt full stacks, gain 20% Damage Amp and Unstoppable.",
+    "effects": {
+      "Armor": 40,
+      "AttackSpeed": 0.2
+    },
+    "icon": "/set18/item-webp/DA_TitansResolve_Radiant.webp?v=4",
+    "id": "DA_TitansResolve_Radiant",
+    "name": "Radiant Titan's Resolve"
+  },
+  "DA_VoidStaff": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_RecurveBow",
+            "TFT_Item_TearOfTheGoddess"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Attacks and Ability damage 30% Shred the target for 5 seconds. This effect does not stack.\n\nShred: Reduce Magic Resist",
+    "effects": {
+      "AP": 35,
+      "AttackSpeed": 0.15,
+      "ManaRegen": 1
+    },
+    "icon": "/set18/item-webp/DA_VoidStaff.webp?v=4",
+    "id": "DA_VoidStaff",
+    "name": "Void Staff"
+  },
+  "DA_VoidStaffRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Attacks and Ability damage 30% Shred the target for the rest of combat. This effect does not stack.\n\nShred: Reduce Magic Resist",
+    "effects": {
+      "AP": 75,
+      "AttackSpeed": 0.3,
+      "ManaRegen": 2
+    },
+    "icon": "/set18/item-webp/DA_VoidStaffRadiant.webp?v=4",
+    "id": "DA_VoidStaffRadiant",
+    "name": "Radiant Void Staff"
+  },
+  "DA_WarmogsArmor": {
+    "category": "completed",
+    "crafting": {
+      "recipes": [
+        {
+          "components": [
+            "TFT_Item_GiantsBelt",
+            "TFT_Item_GiantsBelt"
+          ]
+        }
+      ],
+      "source": "pak",
+      "status": "craftable"
+    },
+    "description": "Gain 18% max Health.",
+    "effects": {
+      "Health": 500
+    },
+    "icon": "/set18/item-webp/DA_WarmogsArmor.webp?v=4",
+    "id": "DA_WarmogsArmor",
+    "name": "Warmogs Armor"
+  },
+  "DA_WarmogsArmorRadiant": {
+    "category": "radiant",
+    "crafting": {
+      "recipes": [],
+      "source": "pak",
+      "status": "uncraftable"
+    },
+    "description": "Gain 36% max Health.",
+    "effects": {
+      "Health": 1200
+    },
+    "icon": "/set18/item-webp/DA_WarmogsArmorRadiant.webp?v=4",
+    "id": "DA_WarmogsArmorRadiant",
+    "name": "Radiant Warmog's Armor"
+  }
+}

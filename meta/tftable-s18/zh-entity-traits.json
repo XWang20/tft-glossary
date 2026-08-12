@@ -1,0 +1,1315 @@
+{
+  "DA_18_Adaptor": {
+    "description": "固有能力：【魔战士】的技能将根据其物理加成和法术加成中较高的属性转换形态。\n\n【魔战士】们获得法术加成或物理加成，取决于两种加成中哪一者更高。",
+    "icon": "/set18/trait-svg/DA_18_Adaptor.svg?v=1",
+    "id": "DA_18_Adaptor",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Akali_AD"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Gromp18_AP"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_MasterYi_AD"
+      },
+      {
+        "cost": 3,
+        "id": "DA_KogMaw18_AD"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Nidalee18_AP"
+      }
+    ],
+    "name": "魔战士",
+    "tiers": [
+      {
+        "effect": "25% {{icon:scaleAD}} 或 {{icon:scaleAP}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "35% {{icon:scaleAD}} 或 {{icon:scaleAP}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "55% {{icon:scaleAD}} 或 {{icon:scaleAP}}",
+        "minUnits": 4
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_ApexPredator": {
+    "description": "【远古巨龙】占用2个弈子栏位，并提供+2【峡谷野怪】羁绊。",
+    "icon": "/set18/trait-svg/DA_18_ApexPredator.svg?v=1",
+    "id": "DA_18_ApexPredator",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_ElderDragon"
+      }
+    ],
+    "name": "顶级掠食者",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Battlemage": {
+    "description": "每成为1名敌人的目标，【魔岩巨兽】获得10护甲和魔法抗性。",
+    "icon": "/set18/trait-svg/DA_18_Battlemage.svg?v=1",
+    "id": "DA_18_Battlemage",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 4,
+        "id": "DA_18_Malphite"
+      }
+    ],
+    "name": "魔岩巨兽",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Blackthorn": {
+    "description": "战斗开始前，位于【黑荆棘格】内的友军被献祭，为你的弈子们提供生命值。\n\n【黑荆棘】弈子们基于【祭品】的定位、星级和费用，获得额外属性，",
+    "icon": "/set18/trait-svg/DA_18_Blackthorn.svg?v=1",
+    "id": "DA_18_Blackthorn",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_RekSai"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Veigar"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Warwick"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Azir"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Malphite"
+      }
+    ],
+    "name": "黑荆棘",
+    "tiers": [
+      {
+        "effect": "175{{icon:scaleHealth}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "300{{icon:scaleHealth}}；属性加成提升25%",
+        "minUnits": 4
+      },
+      {
+        "effect": "350{{icon:scaleHealth}}；【祭品】不会阵亡。并且其获得：15%{{icon:scaleAD}}{{icon:scaleAP}}，\n15%{{icon:scaleAS}}，10{{icon:scaleArmor}}{{icon:scaleMR}}，150{{icon:scaleHealth}}，10%{{icon:scaleSV}}",
+        "minUnits": 6
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Blossom": {
+    "description": "在对战后，你的【自然仙灵】将得到强化。\n\n【灵魂莲华】弈子们获得物理加成、法术加成和10%最大生命值。",
+    "icon": "/set18/trait-svg/DA_18_Blossom.svg?v=1",
+    "id": "DA_18_Blossom",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Yorick"
+      },
+      {
+        "cost": 1,
+        "id": "DA_Karma18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Yunara"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_MasterYi_AD"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ahri"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sett"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Ashe"
+      }
+    ],
+    "name": "灵魂莲华",
+    "tiers": [
+      {
+        "effect": "【自然仙灵】得到升级，12%{{icon:scaleAD}}{{icon:scaleAP}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "商店每次都会刷新出【自然仙灵】，30%{{icon:scaleAD}}{{icon:scaleAP}}",
+        "minUnits": 5
+      },
+      {
+        "effect": "在购买1个【自然仙灵】后，获得4金币，40%{{icon:scaleAD}}{{icon:scaleAP}}",
+        "minUnits": 7
+      },
+      {
+        "effect": "每回合你可以购买2个【自然仙灵】，45%{{icon:scaleAD}}{{icon:scaleAP}}",
+        "minUnits": 9
+      },
+      {
+        "effect": "自然之力！！！【自然仙灵】的力量满溢而出，100%{{icon:scaleAD}}{{icon:scaleAP}}",
+        "minUnits": 11
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Brawler": {
+    "description": "你的队伍获得120最大生命值。【斗士】获得更多最大生命值。",
+    "icon": "/set18/trait-svg/DA_18_Brawler.svg?v=1",
+    "id": "DA_18_Brawler",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Kobuko"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_RekSai"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Alistar"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Krug18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sett"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_GnarSmall"
+      }
+    ],
+    "name": "斗士",
+    "tiers": [
+      {
+        "effect": "25%{{icon:scaleHealth}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "40%{{icon:scaleHealth}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "65%{{icon:scaleHealth}}",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Caustic": {
+    "description": "【帝王斑蝶】的伤害会对敌人施加30%魔抗击碎与护甲击碎，持续4秒。",
+    "icon": "/set18/trait-svg/DA_18_Caustic.svg?v=1",
+    "id": "DA_18_Caustic",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_KogMaw18_AD"
+      }
+    ],
+    "name": "帝王斑蝶",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Coven": {
+    "description": "通过击杀弈子们收集【魔女精粹】，输掉玩家对战回合时还会增加更多。\n\n初始值为40【魔女精粹】，选择将【魔女精粹】兑换为奖励或是继续收集【魔女精粹】。每阈值奖励所需的【魔女精粹】数量都会进一步增加。",
+    "icon": "/set18/trait-svg/DA_18_Coven.svg?v=1",
+    "id": "DA_18_Coven",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Camille"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Caitlyn"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Elise"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Cassiopeia"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Morgana"
+      }
+    ],
+    "name": "魔女",
+    "tiers": [
+      {
+        "effect": "每次击杀+1【魔女精粹】，每次失败+20【魔女精粹】",
+        "minUnits": 3
+      },
+      {
+        "effect": "每次击杀+2【魔女精粹】，每次失败+25【魔女精粹】",
+        "minUnits": 4
+      },
+      {
+        "effect": "每次击杀+3【魔女精粹】，每次失败+30【魔女精粹】",
+        "minUnits": 5
+      },
+      {
+        "effect": "每次击杀+10【魔女精粹】，每次失败+80【魔女精粹】",
+        "minUnits": 7
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Defender": {
+    "description": "你的队伍获得12护甲和魔法抗性。【护卫】获得更多双抗。",
+    "icon": "/set18/trait-svg/DA_18_Defender.svg?v=1",
+    "id": "DA_18_Defender",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Leona"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Ornn"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Shen"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Rammus"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Fiddlesticks18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Lillia"
+      }
+    ],
+    "name": "护卫",
+    "tiers": [
+      {
+        "effect": "25 {{icon:scaleArmor}}{{icon:scaleMR}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "55 {{icon:scaleArmor}}{{icon:scaleMR}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "115 {{icon:scaleArmor}}{{icon:scaleMR}}",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Elderwood": {
+    "description": "获得可放置的【永恒之森】植物。",
+    "icon": "/set18/trait-svg/DA_18_Elderwood.svg?v=1",
+    "id": "DA_18_Elderwood",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Ornn"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Xayah"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Alistar"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_LeBlanc"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Hecarim"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ezreal"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_GnarSmall"
+      }
+    ],
+    "name": "永恒之森",
+    "tiers": [
+      {
+        "effect": "获得一棵【石皮树】和一株【生命花】",
+        "minUnits": 3
+      },
+      {
+        "effect": "第二棵【石皮树】，并且【石皮树】获得150生命值",
+        "minUnits": 5
+      },
+      {
+        "effect": "以及【深林守卫】",
+        "minUnits": 7
+      },
+      {
+        "effect": "植物升至2星",
+        "minUnits": 9
+      },
+      {
+        "effect": "自然之力！！！植物升至3星，森林拥有了它自己的生命",
+        "minUnits": 11
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Executioner": {
+    "description": "【技能暴击】：技能伤害可暴击。额外的【技能暴击】提供10%暴击伤害。",
+    "icon": "/set18/trait-svg/DA_18_Executioner.svg?v=1",
+    "id": "DA_18_Executioner",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 2,
+        "id": "DA_18_Yunara"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Azir"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ezreal"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Soraka"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Kennen"
+      }
+    ],
+    "name": "裁决使",
+    "tiers": [
+      {
+        "effect": "【裁决使】获得【技能暴击】和15%暴击几率。",
+        "minUnits": 2
+      },
+      {
+        "effect": "此外，会使敌人流血，在3秒内造成30%额外真实伤害。",
+        "minUnits": 3
+      },
+      {
+        "effect": "流血伤害提升至50%。",
+        "minUnits": 4
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Fae": {
+    "description": "你的队伍的伤害、治疗强度和护盾强度会吸引【皮克斯仙灵】。\n\n每个【皮克斯仙灵】为【花仙子】弈子们提供物理加成和法术加成，在其生命值降至50%时，他们基于【皮克斯仙灵】数量治疗生命值。",
+    "icon": "/set18/trait-svg/DA_18_Fae.svg?v=1",
+    "id": "DA_18_Fae",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Rakan"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Xayah"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Tristana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Lillia"
+      }
+    ],
+    "name": "花仙子",
+    "tiers": [
+      {
+        "effect": "5% {{icon:scaleAD}}{{icon:scaleAP}}和2%治疗强度。",
+        "minUnits": 2
+      },
+      {
+        "effect": "8% {{icon:scaleAD}}{{icon:scaleAP}}和4%治疗强度。在吸引了7个【皮克斯仙灵】后，转而开始吸引可提供金币的【黄金皮克斯仙灵】。",
+        "minUnits": 4
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Greenfather": {
+    "description": "你最强大的那个【艾翁】在施放技能时获得1颗种子，且每场对战额外获得3颗。【艾翁】可消耗5颗种子在你的棋盘上培育1个格子，为格内的住民提供加成。",
+    "icon": "/set18/trait-svg/DA_18_Greenfather.svg?v=1",
+    "id": "DA_18_Greenfather",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_Ivern"
+      }
+    ],
+    "name": "翠神",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Hunter": {
+    "description": "【猎手】获得物理加成。如果1个【猎手】在4秒内没有切换过目标，他们获得10%伤害增幅。",
+    "icon": "/set18/trait-svg/DA_18_Hunter.svg?v=1",
+    "id": "DA_18_Hunter",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_Cinderling18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Caitlyn"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Tristana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sivir"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Ashe"
+      }
+    ],
+    "name": "猎手",
+    "tiers": [
+      {
+        "effect": "20%{{icon:scaleAD}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "30%{{icon:scaleAD}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "45%{{icon:scaleAD}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "65%{{icon:scaleAD}}",
+        "minUnits": 5
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Inferno": {
+    "description": "【地狱火】的伤害会对敌人施加持续4秒的灼烧和33%重伤效果。【地狱火】的灼烧效果可以和其它灼烧效果叠加。",
+    "icon": "/set18/trait-svg/DA_18_Inferno.svg?v=1",
+    "id": "DA_18_Inferno",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Akali_AD"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Varus"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Shen"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Amumu18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Kennen"
+      }
+    ],
+    "name": "地狱火",
+    "tiers": [
+      {
+        "effect": "1%灼烧效果",
+        "minUnits": 2
+      },
+      {
+        "effect": "在对战后，你的1个不包含【地狱火】弈子的商店栏位会被引燃，刷新出高一阶的弈子。",
+        "minUnits": 3
+      },
+      {
+        "effect": "引燃2个商店栏位，施加2%灼烧效果",
+        "minUnits": 5
+      },
+      {
+        "effect": "引燃4个商店栏位，施加3%灼烧效果",
+        "minUnits": 7
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Invoker": {
+    "description": "你的队伍获得法力回复，此效果对【神谕】还会提升。",
+    "icon": "/set18/trait-svg/DA_18_Invoker.svg?v=1",
+    "id": "DA_18_Invoker",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Sentry"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Teemo"
+      },
+      {
+        "cost": 3,
+        "id": "DA_KogMaw18_AD"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Morgana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Sentinel18"
+      }
+    ],
+    "name": "神谕",
+    "tiers": [
+      {
+        "effect": "1{{icon:TFTManaRegen}} | 2{{icon:TFTManaRegen}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "1{{icon:TFTManaRegen}} | 3{{icon:TFTManaRegen}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "2{{icon:TFTManaRegen}} | 5{{icon:TFTManaRegen}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "2{{icon:TFTManaRegen}} | 8{{icon:TFTManaRegen}}",
+        "minUnits": 5
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Lunar": {
+    "description": "【月蚀骑士】弈子们和邻格友军获得攻击速度和法术加成。【月蚀骑士】弈子还会再额外获得100%。",
+    "icon": "/set18/trait-svg/DA_18_Lunar.svg?v=1",
+    "id": "DA_18_Lunar",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_18_Diana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Aphelios"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Alune"
+      }
+    ],
+    "name": "月蚀骑士",
+    "tiers": [
+      {
+        "effect": "7%{{icon:scaleAS}}，7%{{icon:scaleAP}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "10%{{icon:scaleAS}}，10%{{icon:scaleAP}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "14%{{icon:scaleAS}}，14%{{icon:scaleAP}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "18%{{icon:scaleAS}}，18%{{icon:scaleAP}}",
+        "minUnits": 5
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_LuxUniqueTrait": {
+    "description": "在备战席或棋盘上拥有1个【大元素使】时，会将你商店中所有其他【大元素使】转换为和这个【大元素使】相同的羁绊。\n\n自然之力！！！【大元素使】为选定的羁绊提供+2计数。",
+    "icon": "/set18/trait-svg/DA_18_LuxUniqueTrait.svg?v=1",
+    "id": "DA_18_LuxUniqueTrait",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_Lux18_Base"
+      }
+    ],
+    "name": "自然之力！！！大元素使",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Maokai_UniqueTrait": {
+    "description": "每当3格内的一名敌人阵亡时，获得30永久最大生命值。",
+    "icon": "/set18/trait-svg/DA_18_Maokai_UniqueTrait.svg?v=1",
+    "id": "DA_18_Maokai_UniqueTrait",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_Maokai"
+      }
+    ],
+    "name": "远古树精",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Rapidfire": {
+    "description": "你的队伍获得10%攻击速度。【迅捷射手】弈子们在每次攻击时获得更多攻击速度，至多叠加10层。",
+    "icon": "/set18/trait-svg/DA_18_Rapidfire.svg?v=1",
+    "id": "DA_18_Rapidfire",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Varus"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Xayah"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Kayle"
+      },
+      {
+        "cost": 3,
+        "id": "DA_CrimsonRaptor18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Aphelios"
+      }
+    ],
+    "name": "迅捷射手",
+    "tiers": [
+      {
+        "effect": "每次攻击+3%{{icon:scaleAS}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "每次攻击+5%{{icon:scaleAS}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "每次攻击+9%{{icon:scaleAS}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "每次攻击+15%{{icon:scaleAS}}",
+        "minUnits": 5
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Rival": {
+    "description": "只对你最强的那个【宿敌】生效。",
+    "icon": "/set18/trait-svg/DA_18_Rival.svg?v=1",
+    "id": "DA_18_Rival",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_18_KhaZix"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Rengar"
+      }
+    ],
+    "name": "宿敌",
+    "tiers": [
+      {
+        "effect": "仅在登场了1个【宿敌】时激活。\n\n【宿敌】收集参与击杀数，如果参与了对另一名【宿敌】的击杀，获得+3参与击杀数。",
+        "minUnits": 1
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Slayer": {
+    "description": "【狂战士】获得10%全能吸血。此外，【狂战士】造成额外伤害，对低于50%生命值的单位们翻倍。",
+    "icon": "/set18/trait-svg/DA_18_Slayer.svg?v=1",
+    "id": "DA_18_Slayer",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Akali_AD"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Camille"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Warwick"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Murkwolf18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Diana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Brambleback18"
+      }
+    ],
+    "name": "狂战士",
+    "tiers": [
+      {
+        "effect": "12%额外伤害",
+        "minUnits": 2
+      },
+      {
+        "effect": "25%额外伤害",
+        "minUnits": 4
+      },
+      {
+        "effect": "40%额外伤害",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Solar": {
+    "description": "",
+    "icon": "/set18/trait-svg/DA_18_Solar.svg?v=1",
+    "id": "DA_18_Solar",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Leona"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Kayle"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Sejuani"
+      }
+    ],
+    "name": "日蚀骑士",
+    "tiers": [
+      {
+        "effect": "你的弈子们获得5%最大生命值护盾，并造成7%额外魔法伤害。每有1个不同的3星弈子，获得额外加成：\n\n1 3★：每有1个3星弈子，提升1.5%护盾强度和魔法伤害。\n3 3★：18%{{icon:scaleAS}}和15{{icon:scaleArmor}}{{icon:scaleMR}}\n5 3★：将50%额外魔法伤害转换为真实伤害。\n83★：在战斗期间内每过4秒，1个3星弈子飞升至4星。",
+        "minUnits": 3
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Spellweaver": {
+    "description": "你的队伍获得10%法术加成。【法师】获得更多法术加成，每当1个【法师】施放技能时还会额外提升法术加成。",
+    "icon": "/set18/trait-svg/DA_18_Spellweaver.svg?v=1",
+    "id": "DA_18_Spellweaver",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Veigar"
+      },
+      {
+        "cost": 1,
+        "id": "DA_Karma18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_LeBlanc"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Cassiopeia"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Fiddlesticks18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ahri"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Alune"
+      }
+    ],
+    "name": "法师",
+    "tiers": [
+      {
+        "effect": "+10%{{icon:scaleAP}}，每次施放+1%{{icon:scaleAP}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "+30%{{icon:scaleAP}}，每次施放+1%{{icon:scaleAP}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "+55%{{icon:scaleAP}}，每次施放+2%{{icon:scaleAP}}",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Sprykin": {
+    "description": "获得【毛茸茸大朋友】。将1个【迅灵】放置在【毛茸茸大朋友】身上以选择其【骑乘者】。",
+    "icon": "/set18/trait-svg/DA_18_Sprykin.svg?v=1",
+    "id": "DA_18_Sprykin",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Kobuko"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Veigar"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Teemo"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Rammus"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Tristana"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_GnarSmall"
+      }
+    ],
+    "name": "约德尔人和他们的毛茸茸大朋友",
+    "tiers": [
+      {
+        "effect": "【骑乘者】获得\n15%{{icon:scaleHealth}}和15%{{icon:scaleAS}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "30%{{icon:scaleHealth}} 30%{{icon:scaleAS}}，和50%【毛茸茸大朋友】的技能加成会作用于你的【约德尔人...】弈子们。",
+        "minUnits": 5
+      },
+      {
+        "effect": "45%{{icon:scaleHealth}} 45%{{icon:scaleAS}}，和100%【毛茸茸大朋友】的技能加成会作用于你的【约德尔人...】弈子们。",
+        "minUnits": 7
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Summoner": {
+    "description": "【召唤师】们会以不同的方式强化其召唤物。\n\n【约里克】：+30%生命值\n【阿兹尔】：+45%伤害\n【深红锋喙鸟】：+45%伤害\n【婕拉】：+4植物攻击次数",
+    "icon": "/set18/trait-svg/DA_18_Summoner.svg?v=1",
+    "id": "DA_18_Summoner",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Yorick"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Azir"
+      },
+      {
+        "cost": 3,
+        "id": "DA_CrimsonRaptor18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Zyra"
+      }
+    ],
+    "name": "召唤师",
+    "tiers": [
+      {
+        "effect": "强化召唤物",
+        "minUnits": 2
+      },
+      {
+        "effect": "每种效果加成提升50%",
+        "minUnits": 3
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Vanguard": {
+    "description": "战斗开始时及降至50%生命值时，【重装战士】们获得持续10秒的最大生命值护盾。",
+    "icon": "/set18/trait-svg/DA_18_Vanguard.svg?v=1",
+    "id": "DA_18_Vanguard",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Rakan"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Elise"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Diana"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Hecarim"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Sentinel18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_Taric18"
+      }
+    ],
+    "name": "重装战士",
+    "tiers": [
+      {
+        "effect": "18%最大生命值",
+        "minUnits": 2
+      },
+      {
+        "effect": "32%最大生命值",
+        "minUnits": 4
+      },
+      {
+        "effect": "42%最大生命值。当拥有护盾时，获得5%伤害减免。",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_ZyraUniqueTrait": {
+    "description": "你的队伍获得5%伤害减免，在6或以上株【婕拉】的植物存活时，该数值提升至10%。",
+    "icon": "/set18/trait-svg/DA_18_ZyraUniqueTrait.svg?v=1",
+    "id": "DA_18_ZyraUniqueTrait",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 4,
+        "id": "DA_18_Zyra"
+      }
+    ],
+    "name": "荆棘之兴",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_AluneUniqueTrait18": {
+    "description": "你最强大的那个【拉露恩】在每一次施放技能后，推进一次【月相】。当【月相】在弦月或以下时，你的队伍获得7%伤害减免。在弦月之上时，你的队伍获得7%伤害增幅。",
+    "icon": "/set18/trait-svg/DA_AluneUniqueTrait18.svg?v=1",
+    "id": "DA_AluneUniqueTrait18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_Alune"
+      }
+    ],
+    "name": "月华神女",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_DravenUniqueTrait18": {
+    "description": "选择1个【悬赏令】。你最强大的那个【德莱文】可以推进【悬赏令】进度以获取其奖励。在完成1个【悬赏令】后，可以选择另一个。",
+    "icon": "/set18/trait-svg/DA_DravenUniqueTrait18.svg?v=1",
+    "id": "DA_DravenUniqueTrait18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_Draven18"
+      }
+    ],
+    "name": "赏金猎人",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_Emerald18": {
+    "description": "将1名友军拖至你最强大的那个【塔里克】身上即可将他们进行配对，通过【塔里克】的技能为友军提供强大的加成。",
+    "icon": "/set18/trait-svg/DA_Emerald18.svg?v=1",
+    "id": "DA_Emerald18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_Taric18"
+      }
+    ],
+    "name": "宝石骑士",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_FloraFatalis18": {
+    "description": "【绝命花妖】弈子们在参与击杀时收割敌人，获得：",
+    "icon": "/set18/trait-svg/DA_FloraFatalis18.svg?v=1",
+    "id": "DA_FloraFatalis18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_Fiddlesticks18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Soraka"
+      }
+    ],
+    "name": "绝命花妖",
+    "tiers": [
+      {
+        "effect": "10法力值",
+        "minUnits": 1
+      },
+      {
+        "effect": "并治疗生命值最低的友军8%最大生命值。",
+        "minUnits": 2
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_Juggernaut18": {
+    "description": "你的队伍获得伤害减免。【主宰】获得更多伤害减免。",
+    "icon": "/set18/trait-svg/DA_Juggernaut18.svg?v=1",
+    "id": "DA_Juggernaut18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Rakan"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Yorick"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Sejuani"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Scuttlecrab18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Vi18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Amumu18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Maokai"
+      }
+    ],
+    "name": "主宰",
+    "tiers": [
+      {
+        "effect": "4% 或 20%",
+        "minUnits": 2
+      },
+      {
+        "effect": "6% 或 30%",
+        "minUnits": 4
+      },
+      {
+        "effect": "8% 或 40%",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_Primal18": {
+    "description": "在四种【兽灵赐福】中选择一项获取。",
+    "icon": "/set18/trait-svg/DA_Primal18.svg?v=1",
+    "id": "DA_Primal18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_Vi18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sivir"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Nidalee18_AP"
+      }
+    ],
+    "name": "野兽之灵",
+    "tiers": [
+      {
+        "effect": "选择一个【兽灵赐福】。",
+        "minUnits": 2
+      },
+      {
+        "effect": "选择第二个【兽灵赐福】。",
+        "minUnits": 4
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_Riftbeast18": {
+    "description": "",
+    "icon": "/set18/trait-svg/DA_Riftbeast18.svg?v=1",
+    "id": "DA_Riftbeast18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Sentry"
+      },
+      {
+        "cost": 1,
+        "id": "DA_Cinderling18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Gromp18_AP"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Murkwolf18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Scuttlecrab18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_CrimsonRaptor18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Krug18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Brambleback18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Sentinel18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_ElderDragon"
+      }
+    ],
+    "name": "峡谷野怪",
+    "tiers": [
+      {
+        "effect": "使用【阿尔法印记】为1个【峡谷野怪】提供它独特的霸符。",
+        "minUnits": 3
+      },
+      {
+        "effect": "每过3场对战，你的下一次商店会被【峡谷野怪】占领。",
+        "minUnits": 5
+      },
+      {
+        "effect": "战斗开始时及之后每5秒，【峡谷野怪】成长并获得\n5%{{icon:scaleAD}} 5%{{icon:scaleAP}} 5%{{icon:scaleAS}}\n+5{{icon:scaleArmor}} +5{{icon:scaleMR}} +50{{icon:scaleHealth}} +1{{icon:TFTManaRegen}}",
+        "minUnits": 7
+      },
+      {
+        "effect": "自然之力！！！+2最大队伍规模",
+        "minUnits": 10
+      }
+    ],
+    "type": "origin"
+  }
+}

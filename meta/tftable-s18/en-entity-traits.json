@@ -1,0 +1,1315 @@
+{
+  "DA_18_Adaptor": {
+    "description": "Innate: Adaptor abilities change depending on if their Attack Damage or Ability Power is higher.\n\nAdaptors gain Ability Power or Attack Damage, depending on which is higher.",
+    "icon": "/set18/trait-svg/DA_18_Adaptor.svg?v=1",
+    "id": "DA_18_Adaptor",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Akali_AD"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Gromp18_AP"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_MasterYi_AD"
+      },
+      {
+        "cost": 3,
+        "id": "DA_KogMaw18_AD"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Nidalee18_AP"
+      }
+    ],
+    "name": "Adaptor",
+    "tiers": [
+      {
+        "effect": "25% {{icon:scaleAD}} OR {{icon:scaleAP}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "35% {{icon:scaleAD}} OR {{icon:scaleAP}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "55% {{icon:scaleAD}} OR {{icon:scaleAP}}",
+        "minUnits": 4
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_ApexPredator": {
+    "description": "Elder Dragon takes up 2 team slots and grants +2 to the Riftbeast trait.",
+    "icon": "/set18/trait-svg/DA_18_ApexPredator.svg?v=1",
+    "id": "DA_18_ApexPredator",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_ElderDragon"
+      }
+    ],
+    "name": "Apex Predator",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Battlemage": {
+    "description": "Monoliths gain 10 Armor and Magic Resist for each enemy targeting them.",
+    "icon": "/set18/trait-svg/DA_18_Battlemage.svg?v=1",
+    "id": "DA_18_Battlemage",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 4,
+        "id": "DA_18_Malphite"
+      }
+    ],
+    "name": "Monolith",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Blackthorn": {
+    "description": "The ally on the Blackthorn hex is sacrificed before combat, granting your champions Health.\n\nBlackthorn champions gain additional stats based on the sacrifice's Role, Star Level, and Cost.",
+    "icon": "/set18/trait-svg/DA_18_Blackthorn.svg?v=1",
+    "id": "DA_18_Blackthorn",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_RekSai"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Veigar"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Warwick"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Azir"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Malphite"
+      }
+    ],
+    "name": "Blackthorn",
+    "tiers": [
+      {
+        "effect": "175{{icon:scaleHealth}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "300{{icon:scaleHealth}}; Bonus is 25% stronger",
+        "minUnits": 4
+      },
+      {
+        "effect": "350{{icon:scaleHealth}}; The sacrifice doesn't die. It also gains: 15%{{icon:scaleAD}}{{icon:scaleAP}},\n15%{{icon:scaleAS}}, 10{{icon:scaleArmor}}{{icon:scaleMR}}, 150{{icon:scaleHealth}}, 10%{{icon:scaleSV}}",
+        "minUnits": 6
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Blossom": {
+    "description": "After combat, your Wisps are empowered.\n\nBlossom champions gain Attack Damage, Ability Power, and 10% max Health.",
+    "icon": "/set18/trait-svg/DA_18_Blossom.svg?v=1",
+    "id": "DA_18_Blossom",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Yorick"
+      },
+      {
+        "cost": 1,
+        "id": "DA_Karma18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Yunara"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_MasterYi_AD"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ahri"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sett"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Ashe"
+      }
+    ],
+    "name": "Blossom",
+    "tiers": [
+      {
+        "effect": "Wisps are upgraded, 12%{{icon:scaleAD}}{{icon:scaleAP}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "Wisps are in every shop, 30%{{icon:scaleAD}}{{icon:scaleAP}}",
+        "minUnits": 5
+      },
+      {
+        "effect": "Gain 4 gold after buying a Wisp, 40%{{icon:scaleAD}}{{icon:scaleAP}}",
+        "minUnits": 7
+      },
+      {
+        "effect": "You can buy 2 Wisps per round, 45%{{icon:scaleAD}}{{icon:scaleAP}}",
+        "minUnits": 9
+      },
+      {
+        "effect": "Wisps overflow with power, 100%{{icon:scaleAD}}{{icon:scaleAP}}",
+        "minUnits": 11
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Brawler": {
+    "description": "Your team gains 120 max Health. Brawlers gain more.",
+    "icon": "/set18/trait-svg/DA_18_Brawler.svg?v=1",
+    "id": "DA_18_Brawler",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Kobuko"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_RekSai"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Alistar"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Krug18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sett"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_GnarSmall"
+      }
+    ],
+    "name": "Brawler",
+    "tiers": [
+      {
+        "effect": "25%{{icon:scaleHealth}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "40%{{icon:scaleHealth}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "65%{{icon:scaleHealth}}",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Caustic": {
+    "description": "Caustic damage 30% Shreds and Sunders enemies for 4 seconds.\n\nShred: Reduce Magic Resist\nSunder: Reduce Armor",
+    "icon": "/set18/trait-svg/DA_18_Caustic.svg?v=1",
+    "id": "DA_18_Caustic",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_KogMaw18_AD"
+      }
+    ],
+    "name": "Caustic",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Coven": {
+    "description": "Gather Essence by killing champions, plus more by losing player combat.\n\nBeginning at 40 Essence, choose to convert Essence to rewards or continue gathering Essence. Each reward requires increasing amounts of Essence.",
+    "icon": "/set18/trait-svg/DA_18_Coven.svg?v=1",
+    "id": "DA_18_Coven",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Camille"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Caitlyn"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Elise"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Cassiopeia"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Morgana"
+      }
+    ],
+    "name": "Coven",
+    "tiers": [
+      {
+        "effect": "1 Essence per kill, 20 Essence per loss",
+        "minUnits": 3
+      },
+      {
+        "effect": "2 per kill, 25 per loss",
+        "minUnits": 4
+      },
+      {
+        "effect": "3 per kill, 30 per loss",
+        "minUnits": 5
+      },
+      {
+        "effect": "10 per kill, 80 per loss",
+        "minUnits": 7
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Defender": {
+    "description": "Your team gains 12 Armor and Magic Resist. Defenders gain more.",
+    "icon": "/set18/trait-svg/DA_18_Defender.svg?v=1",
+    "id": "DA_18_Defender",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Leona"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Ornn"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Shen"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Rammus"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Fiddlesticks18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Lillia"
+      }
+    ],
+    "name": "Defender",
+    "tiers": [
+      {
+        "effect": "25 {{icon:scaleArmor}}{{icon:scaleMR}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "55 {{icon:scaleArmor}}{{icon:scaleMR}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "115 {{icon:scaleArmor}}{{icon:scaleMR}}",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Elderwood": {
+    "description": "Gain placeable Elderwood plants.",
+    "icon": "/set18/trait-svg/DA_18_Elderwood.svg?v=1",
+    "id": "DA_18_Elderwood",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Ornn"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Xayah"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Alistar"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_LeBlanc"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Hecarim"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ezreal"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_GnarSmall"
+      }
+    ],
+    "name": "Elderwood",
+    "tiers": [
+      {
+        "effect": "A Stonebark Tree and a Lifebloom",
+        "minUnits": 3
+      },
+      {
+        "effect": "A second Stonebark Tree and Stonebark Trees gain 150 Health",
+        "minUnits": 5
+      },
+      {
+        "effect": "and the Deepwood Protector",
+        "minUnits": 7
+      },
+      {
+        "effect": "Plants star up to 2-star",
+        "minUnits": 9
+      },
+      {
+        "effect": "Plants star up to 3-star and the forest comes to life",
+        "minUnits": 11
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Executioner": {
+    "description": "Precision: Ability damage can critically strike. Extra Precision grants 10% Critical Strike Damage.",
+    "icon": "/set18/trait-svg/DA_18_Executioner.svg?v=1",
+    "id": "DA_18_Executioner",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 2,
+        "id": "DA_18_Yunara"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Azir"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ezreal"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Soraka"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Kennen"
+      }
+    ],
+    "name": "Executioner",
+    "tiers": [
+      {
+        "effect": "Executioners gain Precision and 15% Critical Strike Chance.",
+        "minUnits": 2
+      },
+      {
+        "effect": "Additionally, enemies bleed for 30% bonus true damage over 3 seconds.",
+        "minUnits": 3
+      },
+      {
+        "effect": "Bleed damage increased to 50%.",
+        "minUnits": 4
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Fae": {
+    "description": "Your team's damage, healing, and shielding attracts Pixies.\n\nEach Pixie grants Fae champions Attack Damage and Ability Power, and after they fall below 50% Health, they heal for each Pixie.",
+    "icon": "/set18/trait-svg/DA_18_Fae.svg?v=1",
+    "id": "DA_18_Fae",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Rakan"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Xayah"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Tristana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Lillia"
+      }
+    ],
+    "name": "Fae",
+    "tiers": [
+      {
+        "effect": "5% {{icon:scaleAD}}{{icon:scaleAP}} and 2% Heal.",
+        "minUnits": 2
+      },
+      {
+        "effect": "8% {{icon:scaleAD}}{{icon:scaleAP}} and 4% Heal. After attracting 7 Pixies, start attracting Golden Pixies instead which grant gold.",
+        "minUnits": 4
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Greenfather": {
+    "description": "Gain 1 seed when your strongest Ivern casts, plus 3 every combat. Ivern uses 5 seeds to grow a hex on your board that grants a bonus to its occupant.",
+    "icon": "/set18/trait-svg/DA_18_Greenfather.svg?v=1",
+    "id": "DA_18_Greenfather",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_Ivern"
+      }
+    ],
+    "name": "Greenfather",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Hunter": {
+    "description": "Hunters gain Attack Damage. If a Hunter hasn't swapped targets for 4 seconds, they gain 10% Damage Amp.",
+    "icon": "/set18/trait-svg/DA_18_Hunter.svg?v=1",
+    "id": "DA_18_Hunter",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_Cinderling18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Caitlyn"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Tristana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sivir"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Ashe"
+      }
+    ],
+    "name": "Hunter",
+    "tiers": [
+      {
+        "effect": "20%{{icon:scaleAD}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "30%{{icon:scaleAD}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "45%{{icon:scaleAD}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "65%{{icon:scaleAD}}",
+        "minUnits": 5
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Inferno": {
+    "description": "Inferno damage Burns and Wounds enemies for 4 seconds. Inferno Burns stack with other Burns.",
+    "icon": "/set18/trait-svg/DA_18_Inferno.svg?v=1",
+    "id": "DA_18_Inferno",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Akali_AD"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Varus"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Shen"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Amumu18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Kennen"
+      }
+    ],
+    "name": "Inferno",
+    "tiers": [
+      {
+        "effect": "1% Burn, 33% Wound",
+        "minUnits": 2
+      },
+      {
+        "effect": "After combat, 1 of your shop slots without an Inferno champion ignites, rolling a champion one tier higher",
+        "minUnits": 3
+      },
+      {
+        "effect": "Ignite 2 shop slots, 2% Burn",
+        "minUnits": 5
+      },
+      {
+        "effect": "Ignite 4 shop slots, 3% Burn",
+        "minUnits": 7
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Invoker": {
+    "description": "Your team gains Mana Regen, increased for Invokers.",
+    "icon": "/set18/trait-svg/DA_18_Invoker.svg?v=1",
+    "id": "DA_18_Invoker",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Sentry"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Teemo"
+      },
+      {
+        "cost": 3,
+        "id": "DA_KogMaw18_AD"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Morgana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Sentinel18"
+      }
+    ],
+    "name": "Invoker",
+    "tiers": [
+      {
+        "effect": "1{{icon:TFTManaRegen}} | 2{{icon:TFTManaRegen}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "1{{icon:TFTManaRegen}} | 3{{icon:TFTManaRegen}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "2{{icon:TFTManaRegen}} | 5{{icon:TFTManaRegen}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "2{{icon:TFTManaRegen}} | 8{{icon:TFTManaRegen}}",
+        "minUnits": 5
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Lunar": {
+    "description": "Lunar champions and adjacent allies gain Attack Speed and Ability Power. Lunar champions gain 100% more.",
+    "icon": "/set18/trait-svg/DA_18_Lunar.svg?v=1",
+    "id": "DA_18_Lunar",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_18_Diana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Aphelios"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Alune"
+      }
+    ],
+    "name": "Lunar",
+    "tiers": [
+      {
+        "effect": "7%{{icon:scaleAS}}, 7%{{icon:scaleAP}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "10%{{icon:scaleAS}}, 10%{{icon:scaleAP}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "14%{{icon:scaleAS}}, 14%{{icon:scaleAP}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "18%{{icon:scaleAS}}, 18%{{icon:scaleAP}}",
+        "minUnits": 5
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_LuxUniqueTrait": {
+    "description": "Having an Avatar on your bench or board transforms all other Avatars in your shop to the Trait of that Avatar.\n\nAn Avatar's chosen Trait is counted twice for Trait bonuses.",
+    "icon": "/set18/trait-svg/DA_18_LuxUniqueTrait.svg?v=1",
+    "id": "DA_18_LuxUniqueTrait",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_Lux18_Base"
+      }
+    ],
+    "name": "Avatar",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Maokai_UniqueTrait": {
+    "description": "Whenever an enemy within 3 hexes dies, your strongest Old Growth champion gains 30 permanent max Health.",
+    "icon": "/set18/trait-svg/DA_18_Maokai_UniqueTrait.svg?v=1",
+    "id": "DA_18_Maokai_UniqueTrait",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_Maokai"
+      }
+    ],
+    "name": "Old Growth",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Rapidfire": {
+    "description": "Your team gains 10% Attack Speed. Rapidfire champions gain more on every attack, up to 10 stacks.",
+    "icon": "/set18/trait-svg/DA_18_Rapidfire.svg?v=1",
+    "id": "DA_18_Rapidfire",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Varus"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Xayah"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Kayle"
+      },
+      {
+        "cost": 3,
+        "id": "DA_CrimsonRaptor18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Aphelios"
+      }
+    ],
+    "name": "Rapidfire",
+    "tiers": [
+      {
+        "effect": "+3%{{icon:scaleAS}} per Attack",
+        "minUnits": 2
+      },
+      {
+        "effect": "+5%{{icon:scaleAS}} per Attack",
+        "minUnits": 3
+      },
+      {
+        "effect": "+9%{{icon:scaleAS}} per Attack",
+        "minUnits": 4
+      },
+      {
+        "effect": "+15%{{icon:scaleAS}} per Attack",
+        "minUnits": 5
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Rival": {
+    "description": "Only applies to your strongest Rival.",
+    "icon": "/set18/trait-svg/DA_18_Rival.svg?v=1",
+    "id": "DA_18_Rival",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_18_KhaZix"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Rengar"
+      }
+    ],
+    "name": "Rival",
+    "tiers": [
+      {
+        "effect": "Only active while fielding 1 Rival.\n\nRivals collect takedowns, gaining 3 if they takedown another Rival.",
+        "minUnits": 1
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Slayer": {
+    "description": "Ravagers gain 10% Omnivamp. Additionally, Ravagers deal bonus damage, doubled against units below 50% Health.",
+    "icon": "/set18/trait-svg/DA_18_Slayer.svg?v=1",
+    "id": "DA_18_Slayer",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Akali_AD"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Camille"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Warwick"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Murkwolf18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Diana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Brambleback18"
+      }
+    ],
+    "name": "Ravager",
+    "tiers": [
+      {
+        "effect": "12% Bonus Damage",
+        "minUnits": 2
+      },
+      {
+        "effect": "25% Bonus Damage",
+        "minUnits": 4
+      },
+      {
+        "effect": "40% Bonus Damage",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Solar": {
+    "description": "",
+    "icon": "/set18/trait-svg/DA_18_Solar.svg?v=1",
+    "id": "DA_18_Solar",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Leona"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Kayle"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Sejuani"
+      }
+    ],
+    "name": "Solar",
+    "tiers": [
+      {
+        "effect": "Your champions gain a 5% max Health shield and deal 7% bonus magic damage. Gain additional bonuses for each unique 3-star 3★ champion:\n\n1 3★: Increase shield and magic damage by 1.5% for each 3-star.\n3 3★: 18%{{icon:scaleAS}} and 15{{icon:scaleArmor}}{{icon:scaleMR}}\n5 3★: Convert 50% of the bonus magic damage to true damage.\n8 3★: Every 4 seconds of combat, a 3-star champion ascends to 4-star.",
+        "minUnits": 3
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Spellweaver": {
+    "description": "Your team gains 10% Ability Power. Spellweavers gain more, plus extra Ability Power whenever a Spellweaver casts an Ability.",
+    "icon": "/set18/trait-svg/DA_18_Spellweaver.svg?v=1",
+    "id": "DA_18_Spellweaver",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Veigar"
+      },
+      {
+        "cost": 1,
+        "id": "DA_Karma18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_LeBlanc"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Cassiopeia"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Fiddlesticks18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ahri"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Alune"
+      }
+    ],
+    "name": "Spellweaver",
+    "tiers": [
+      {
+        "effect": "10%{{icon:scaleAP}}, +1%{{icon:scaleAP}} per cast",
+        "minUnits": 2
+      },
+      {
+        "effect": "30%{{icon:scaleAP}}, +1%{{icon:scaleAP}} per cast",
+        "minUnits": 4
+      },
+      {
+        "effect": "55%{{icon:scaleAP}}, +2%{{icon:scaleAP}} per cast",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Sprykin": {
+    "description": "Gain the Big Furry Friend. Drop a Sprykin on the BFF to pick its Rider.",
+    "icon": "/set18/trait-svg/DA_18_Sprykin.svg?v=1",
+    "id": "DA_18_Sprykin",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Kobuko"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Veigar"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Teemo"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Rammus"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Tristana"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_GnarSmall"
+      }
+    ],
+    "name": "Sprykin",
+    "tiers": [
+      {
+        "effect": "The Rider gains\n15%{{icon:scaleHealth}} and 15%{{icon:scaleAS}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "30%{{icon:scaleHealth}} 30%{{icon:scaleAS}}, and 50% of the BFF's Ability applies to your Sprykin champions.",
+        "minUnits": 5
+      },
+      {
+        "effect": "45%{{icon:scaleHealth}} 45%{{icon:scaleAS}}, and 100% of the BFF's Ability applies to your Sprykin champions.",
+        "minUnits": 7
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Summoner": {
+    "description": "Summoners empower their summons in different ways.\n\nYorick: +30% Health\nAzir: +45% Damage\nMama Beak: +45% Damage\nZyra: +4 Plant Attacks",
+    "icon": "/set18/trait-svg/DA_18_Summoner.svg?v=1",
+    "id": "DA_18_Summoner",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Yorick"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Azir"
+      },
+      {
+        "cost": 3,
+        "id": "DA_CrimsonRaptor18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Zyra"
+      }
+    ],
+    "name": "Summoner",
+    "tiers": [
+      {
+        "effect": "Empower Summons",
+        "minUnits": 2
+      },
+      {
+        "effect": "Improve each effect by 50%",
+        "minUnits": 3
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Vanguard": {
+    "description": "At Combat Start and after dropping below 50% Health, Vanguards gain a max Health Shield for 10 seconds.",
+    "icon": "/set18/trait-svg/DA_18_Vanguard.svg?v=1",
+    "id": "DA_18_Vanguard",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Rakan"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Elise"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Diana"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Hecarim"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Sentinel18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_Taric18"
+      }
+    ],
+    "name": "Vanguard",
+    "tiers": [
+      {
+        "effect": "18% max Health",
+        "minUnits": 2
+      },
+      {
+        "effect": "32% max Health",
+        "minUnits": 4
+      },
+      {
+        "effect": "42% max Health. Gain 5% Durability while Shielded.",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_ZyraUniqueTrait": {
+    "description": "Your team gains 5% Durability, increased to 10% if 6 or more Zyra plants are alive.",
+    "icon": "/set18/trait-svg/DA_18_ZyraUniqueTrait.svg?v=1",
+    "id": "DA_18_ZyraUniqueTrait",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 4,
+        "id": "DA_18_Zyra"
+      }
+    ],
+    "name": "Thornmaiden",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_AluneUniqueTrait18": {
+    "description": "Your strongest Alune cycles to a new phase of the moon after each cast. While the moon is at or below half full, your team gains 7% Durabilty. While above, your team gains 7% Damage Amp.",
+    "icon": "/set18/trait-svg/DA_AluneUniqueTrait18.svg?v=1",
+    "id": "DA_AluneUniqueTrait18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_Alune"
+      }
+    ],
+    "name": "Attuned",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_DravenUniqueTrait18": {
+    "description": "Choose a bounty. Your strongest Draven can progress on the bounty to earn its reward. Upon completing a bounty, choose another.",
+    "icon": "/set18/trait-svg/DA_DravenUniqueTrait18.svg?v=1",
+    "id": "DA_DravenUniqueTrait18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_Draven18"
+      }
+    ],
+    "name": "Bounty Seeker",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_Emerald18": {
+    "description": "Drag an ally onto your strongest Taric to pair them, granting the ally powerful bonuses from Taric's Ability.",
+    "icon": "/set18/trait-svg/DA_Emerald18.svg?v=1",
+    "id": "DA_Emerald18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_Taric18"
+      }
+    ],
+    "name": "Emerald Aspect",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_FloraFatalis18": {
+    "description": "Flora Fatalis champions harvest enemies on takedown, gaining:",
+    "icon": "/set18/trait-svg/DA_FloraFatalis18.svg?v=1",
+    "id": "DA_FloraFatalis18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_Fiddlesticks18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Soraka"
+      }
+    ],
+    "name": "Flora Fatalis",
+    "tiers": [
+      {
+        "effect": "10 Mana",
+        "minUnits": 1
+      },
+      {
+        "effect": "and grant a 8% max Health heal to the lowest Health ally.",
+        "minUnits": 2
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_Juggernaut18": {
+    "description": "Your team gains Durability. Juggernauts gain more.",
+    "icon": "/set18/trait-svg/DA_Juggernaut18.svg?v=1",
+    "id": "DA_Juggernaut18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Rakan"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Yorick"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Sejuani"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Scuttlecrab18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Vi18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Amumu18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Maokai"
+      }
+    ],
+    "name": "Juggernaut",
+    "tiers": [
+      {
+        "effect": "4% or 20%",
+        "minUnits": 2
+      },
+      {
+        "effect": "6% or 30%",
+        "minUnits": 4
+      },
+      {
+        "effect": "8% or 40%",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_Primal18": {
+    "description": "Choose one of four Primal Blessings.",
+    "icon": "/set18/trait-svg/DA_Primal18.svg?v=1",
+    "id": "DA_Primal18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_Vi18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sivir"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Nidalee18_AP"
+      }
+    ],
+    "name": "Primal",
+    "tiers": [
+      {
+        "effect": "Choose a blessing.",
+        "minUnits": 2
+      },
+      {
+        "effect": "Choose a second blessing.",
+        "minUnits": 4
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_Riftbeast18": {
+    "description": "",
+    "icon": "/set18/trait-svg/DA_Riftbeast18.svg?v=1",
+    "id": "DA_Riftbeast18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Sentry"
+      },
+      {
+        "cost": 1,
+        "id": "DA_Cinderling18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Gromp18_AP"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Murkwolf18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Scuttlecrab18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_CrimsonRaptor18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Krug18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Brambleback18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Sentinel18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_ElderDragon"
+      }
+    ],
+    "name": "Riftbeast",
+    "tiers": [
+      {
+        "effect": "Use the Alpha Mark to grant a Riftbeast their unique Buff",
+        "minUnits": 3
+      },
+      {
+        "effect": "Every 3 combats, your next shop is overrun with Riftbeasts.",
+        "minUnits": 5
+      },
+      {
+        "effect": "On combat start and every 5 seconds Riftbeasts grow gaining\n5%{{icon:scaleAD}} 5%{{icon:scaleAP}} 5%{{icon:scaleAS}}\n+5{{icon:scaleArmor}} +5{{icon:scaleMR}} +50{{icon:scaleHealth}} +1{{icon:TFTManaRegen}}",
+        "minUnits": 7
+      },
+      {
+        "effect": "+2 maximum team size",
+        "minUnits": 10
+      }
+    ],
+    "type": "origin"
+  }
+}

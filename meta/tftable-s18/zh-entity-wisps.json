@@ -1,0 +1,980 @@
+{
+  "DA_18_AfterShock": {
+    "category": "combat",
+    "description": "在8秒后，晕眩所有敌人1.5秒。",
+    "id": "DA_18_AfterShock",
+    "name": "余震"
+  },
+  "DA_18_AllFives": {
+    "category": "shop",
+    "description": "刷新你的商店，使其充满5费弈子。",
+    "id": "DA_18_AllFives",
+    "name": "全5费商店"
+  },
+  "DA_18_AllFours": {
+    "category": "shop",
+    "description": "刷新你的商店，使其充满4费弈子。",
+    "id": "DA_18_AllFours",
+    "name": "全4费商店"
+  },
+  "DA_18_AllOnes": {
+    "category": "shop",
+    "description": "刷新你的商店，使其充满1费弈子。",
+    "id": "DA_18_AllOnes",
+    "name": "全1费商店"
+  },
+  "DA_18_AllThrees": {
+    "category": "shop",
+    "description": "刷新你的商店，使其充满3费弈子。",
+    "id": "DA_18_AllThrees",
+    "name": "全3费商店"
+  },
+  "DA_18_AllTwos": {
+    "category": "shop",
+    "description": "刷新你的商店，使其充满2费弈子。",
+    "id": "DA_18_AllTwos",
+    "name": "全2费商店"
+  },
+  "DA_18_BackrowStar": {
+    "category": "combat",
+    "description": "1个随机后排弈子获得75%攻击速度，持续7秒。",
+    "id": "DA_18_BackrowStar",
+    "name": "后排之星"
+  },
+  "DA_18_BarkArmor": {
+    "category": "combat",
+    "description": "你的弈子们获得150护盾值，持续10秒。",
+    "id": "DA_18_BarkArmor",
+    "name": "树皮护甲"
+  },
+  "DA_18_BloodMoney": {
+    "category": "goldxp",
+    "description": "每击杀1个弈子，获得1金币。",
+    "id": "DA_18_BloodMoney",
+    "name": "染血之币"
+  },
+  "DA_18_BronzeSpoon": {
+    "category": "goldxp",
+    "description": "获得4经验值。",
+    "id": "DA_18_BronzeSpoon",
+    "name": "铜汤匙"
+  },
+  "DA_18_CircleofElders": {
+    "category": "champion",
+    "description": "获得每个5费弈子各1个。",
+    "id": "DA_18_CircleofElders",
+    "name": "长者之环"
+  },
+  "DA_18_Counterspell": {
+    "category": "combat",
+    "description": "使所有敌人的最大法力值提高15，直至敌人下一次施放技能。",
+    "id": "DA_18_Counterspell",
+    "name": "法术反制"
+  },
+  "DA_18_EarlyFix": {
+    "category": "misc",
+    "description": "获得1个【装备重铸器】",
+    "id": "DA_18_EarlyFix",
+    "name": "防微杜渐"
+  },
+  "DA_18_Experienced": {
+    "category": "goldxp",
+    "description": "获得2经验值。",
+    "id": "DA_18_Experienced",
+    "name": "老练"
+  },
+  "DA_18_Fellowship": {
+    "category": "combat",
+    "description": "每有1名相邻的友军，弈子们就会获得4%最大生命值护盾和4%伤害增幅。",
+    "id": "DA_18_Fellowship",
+    "name": "贴贴"
+  },
+  "DA_18_Fertilize": {
+    "category": "risky",
+    "description": "每有1名阵亡的敌人，获得1经验值。",
+    "id": "DA_18_Fertilize",
+    "name": "肥料"
+  },
+  "DA_18_FieldofMice": {
+    "category": "champion",
+    "description": "上回合每登场1个不同的1费弈子，获得1个【微型英雄复制器】。",
+    "id": "DA_18_FieldofMice",
+    "name": "小人国"
+  },
+  "DA_18_ForestMage": {
+    "category": "misc",
+    "description": "用【自然仙灵】填满你的商店。但你只能购买1个。",
+    "id": "DA_18_ForestMage",
+    "name": "森林魔法师"
+  },
+  "DA_18_Freeroller": {
+    "category": "shop",
+    "description": "获得2次刷新。",
+    "id": "DA_18_Freeroller",
+    "name": "免费刷新术"
+  },
+  "DA_18_GiantGrowth": {
+    "category": "combat",
+    "description": "你生命值最高的那个单位成长，获得600生命值。",
+    "id": "DA_18_GiantGrowth",
+    "name": "巨型增长"
+  },
+  "DA_18_HeatedRivalry": {
+    "category": "champion",
+    "description": "获得1个【雷恩加尔】或1个【卡兹克】。其获得+3参与击杀数。",
+    "id": "DA_18_HeatedRivalry",
+    "name": "鏖战不休"
+  },
+  "DA_18_HeroicSacrifice": {
+    "category": "combat",
+    "description": "你最强大的3个弈子获得史！诗！级！强！化！，但其他友军将会牺牲。",
+    "id": "DA_18_HeroicSacrifice",
+    "name": "英勇就义"
+  },
+  "DA_18_Hummingbird": {
+    "category": "combat",
+    "description": "你攻击速度最高的那个单位变小，获得20%攻击速度。",
+    "id": "DA_18_Hummingbird",
+    "name": "蜂鸟"
+  },
+  "DA_18_Infliction": {
+    "category": "combat",
+    "description": "对所有敌人施加持续8秒的缓速、灼烧、魔抗击碎与护甲击碎效果。",
+    "id": "DA_18_Infliction",
+    "name": "折磨"
+  },
+  "DA_18_KillingFrenzy": {
+    "category": "combat",
+    "description": "【战士】会处决生命值低于12%的目标。他们在完成击杀时获得15%攻击速度。",
+    "id": "DA_18_KillingFrenzy",
+    "name": "屠戮狂暴"
+  },
+  "DA_18_LifeDebt": {
+    "category": "goldxp",
+    "description": "每失去12玩家生命值，获得1金币。",
+    "id": "DA_18_LifeDebt",
+    "name": "以命为注"
+  },
+  "DA_18_LightningStorm": {
+    "category": "combat",
+    "description": "每过1秒，对1名敌人造成5%最大生命值真实伤害。",
+    "id": "DA_18_LightningStorm",
+    "name": "闪电风暴"
+  },
+  "DA_18_LightningStrike": {
+    "category": "combat",
+    "description": "对所有敌人造成10%最大生命值真实伤害。",
+    "id": "DA_18_LightningStrike",
+    "name": "闪电打击"
+  },
+  "DA_18_LostTravelers": {
+    "category": "champion",
+    "description": "获得总价值3金币的随机弈子。",
+    "id": "DA_18_LostTravelers",
+    "name": "迷路的游客"
+  },
+  "DA_18_MajorPolymorph": {
+    "category": "risky",
+    "description": "你拥有的1个随机4费弈子会永久变形为1个5费弈子。",
+    "id": "DA_18_MajorPolymorph",
+    "name": "高阶变形术"
+  },
+  "DA_18_MercenaryForce": {
+    "category": "combat",
+    "description": "每拥有10金币，获得3%伤害增幅。",
+    "id": "DA_18_MercenaryForce",
+    "name": "金钱之力"
+  },
+  "DA_18_MinorPolymorph": {
+    "category": "risky",
+    "description": "你拥有的1个随机1费弈子永久变形为1个2费弈子。",
+    "id": "DA_18_MinorPolymorph",
+    "name": "低阶变形术"
+  },
+  "DA_18_Mitosis": {
+    "category": "champion",
+    "description": "获得1个【微型英雄复制器】。",
+    "id": "DA_18_Mitosis",
+    "name": "有丝分裂"
+  },
+  "DA_18_Moonrise": {
+    "category": "combat",
+    "description": "在8秒后，提升100%【月蚀骑士】羁绊效果。",
+    "id": "DA_18_Moonrise",
+    "name": "皓月当空"
+  },
+  "DA_18_Payday": {
+    "category": "risky",
+    "description": "每有1个己方弈子在战斗中存活，获得2金币。",
+    "id": "DA_18_Payday",
+    "name": "庆功宴"
+  },
+  "DA_18_PocketChange": {
+    "category": "goldxp",
+    "description": "你的1星弈子们在阵亡时掉落1金币。",
+    "id": "DA_18_PocketChange",
+    "name": "零花钱"
+  },
+  "DA_18_Polymorph": {
+    "category": "risky",
+    "description": "你拥有的1个随机2费弈子永久变形为1个3费弈子。",
+    "id": "DA_18_Polymorph",
+    "name": "变形术"
+  },
+  "DA_18_Preppers": {
+    "category": "combat",
+    "description": "你的叠层型装备在下次战斗开始时，拥有部分初始层数。",
+    "id": "DA_18_Preppers",
+    "name": "未雨绸缪"
+  },
+  "DA_18_ProlificPower": {
+    "category": "combat",
+    "description": "你的弈子们获得8%物理加成和法术加成。",
+    "id": "DA_18_ProlificPower",
+    "name": "元气满满"
+  },
+  "DA_18_Propagate": {
+    "category": "champion",
+    "description": "获得第1名阵亡的友军的1个复制体。",
+    "id": "DA_18_Propagate",
+    "name": "繁殖"
+  },
+  "DA_18_Radiantize": {
+    "category": "combat",
+    "description": "在10秒后，1件被携带着的随机装备暂时变为光明版。",
+    "id": "DA_18_Radiantize",
+    "name": "光明化"
+  },
+  "DA_18_Resistant": {
+    "category": "combat",
+    "description": "【坦克】使即将到来的每段伤害减少10。",
+    "id": "DA_18_Resistant",
+    "name": "抵抗"
+  },
+  "DA_18_Starfall": {
+    "category": "shop",
+    "description": "这回合你前6次刷新商店时，会使费用最低的那个弈子会变为2星。",
+    "id": "DA_18_Starfall",
+    "name": "星落"
+  },
+  "DA_18_SunfireSorcery": {
+    "category": "combat",
+    "description": "对敌人施加持续10秒的灼烧和重伤效果。",
+    "id": "DA_18_SunfireSorcery",
+    "name": "日炎巫术"
+  },
+  "DA_18_Supercritical": {
+    "category": "combat",
+    "description": "拥有【技能暴击】的友军获得25%暴击伤害。",
+    "id": "DA_18_Supercritical",
+    "name": "超级暴击"
+  },
+  "DA_18_TatteredArmor": {
+    "category": "combat",
+    "description": "对敌人施加30%魔抗击碎与护甲击碎，持续10秒。",
+    "id": "DA_18_TatteredArmor",
+    "name": "衣衫褴褛"
+  },
+  "DA_18_Tremors": {
+    "category": "combat",
+    "description": "每8秒，晕眩敌人1秒。",
+    "id": "DA_18_Tremors",
+    "name": "地动山摇"
+  },
+  "DA_18_UltraAscension": {
+    "category": "combat",
+    "description": "在25秒后，友军获得300%伤害增幅。",
+    "id": "DA_18_UltraAscension",
+    "name": "终极飞升"
+  },
+  "DA_18_VerdantVitality": {
+    "category": "combat",
+    "description": "你的弈子们获得100生命值。",
+    "id": "DA_18_VerdantVitality",
+    "name": "绿意盎然"
+  },
+  "DA_18_YordleSpirit": {
+    "category": "combat",
+    "description": "友军有99%几率闪避攻击，持续4秒。",
+    "id": "DA_18_YordleSpirit",
+    "name": "约德尔之灵"
+  },
+  "DA_AbandonShip18": {
+    "category": "risky",
+    "description": "出售你棋盘上和备战席的所有弈子，获得6金币和10次刷新。",
+    "id": "DA_AbandonShip18",
+    "name": "弃船"
+  },
+  "DA_AnimateShop18": {
+    "category": "shop",
+    "description": "在18秒的持续时间内，你的商店每2秒免费刷新1次。",
+    "id": "DA_AnimateShop18",
+    "name": "活体商店"
+  },
+  "DA_Apprentice18": {
+    "category": "champion",
+    "description": "获得1个随机2星1费弈子。",
+    "id": "DA_Apprentice18",
+    "name": "学徒"
+  },
+  "DA_Artifactinate18": {
+    "category": "item",
+    "description": "失去3个基础装备，包括已合成为成装的基础装备。获得1个【神器锻造器】。",
+    "id": "DA_Artifactinate18",
+    "name": "神器化"
+  },
+  "DA_Barrier18": {
+    "category": "combat",
+    "description": "友军获得1200护盾值，在5秒内持续衰减。",
+    "id": "DA_Barrier18",
+    "name": "屏障"
+  },
+  "DA_Barter18": {
+    "category": "goldxp",
+    "description": "在本回合内，你下次出售的弈子将以200%金币卖出。",
+    "id": "DA_Barter18",
+    "name": "以物易物"
+  },
+  "DA_BearsVisit18": {
+    "category": "combat",
+    "description": "本场对战获得【野兽之灵】的【蛮熊】增益。",
+    "id": "DA_BearsVisit18",
+    "name": "蛮熊降临"
+  },
+  "DA_BeggarsWisp18": {
+    "category": "goldxp",
+    "description": "The wilds couldn't find a wisp for you this roll. Gain 4 gold.",
+    "id": "DA_BeggarsWisp18",
+    "name": "Beggar's Wisp"
+  },
+  "DA_BigBoom18": {
+    "category": "combat",
+    "description": "第一名阵亡的友军会产生爆炸，造成25%最大生命值魔法伤害。",
+    "id": "DA_BigBoom18",
+    "name": "大爆炸"
+  },
+  "DA_BigGuns18": {
+    "category": "champion",
+    "description": "获得2个随机1星4费弈子。",
+    "id": "DA_BigGuns18",
+    "name": "大腕"
+  },
+  "DA_BlastPotion18_Charm": {
+    "category": "misc",
+    "description": "获得1个临时的、可装备的【爆炸药水】。",
+    "id": "DA_BlastPotion18_Charm",
+    "name": "爆炸药水"
+  },
+  "DA_Blaze18": {
+    "category": "combat",
+    "description": "火焰席卷整个棋盘，对敌人造成持续递增的真实伤害。",
+    "id": "DA_Blaze18",
+    "name": "炽焰"
+  },
+  "DA_BloodAndIron18": {
+    "category": "item",
+    "description": "在20个弈子阵亡后，获得1个【基础装备锻造器】。",
+    "id": "DA_BloodAndIron18",
+    "name": "鲜血与铁"
+  },
+  "DA_BoosterShot18": {
+    "category": "combat",
+    "description": "至多2个1星弈子会在战斗期间暂时升星。",
+    "id": "DA_BoosterShot18",
+    "name": "强化激素"
+  },
+  "DA_BorderVillage18": {
+    "category": "shop",
+    "description": "刷新你的商店，使其充满2星2费弈子。",
+    "id": "DA_BorderVillage18",
+    "name": "边境村庄"
+  },
+  "DA_BorrowedGear18": {
+    "category": "combat",
+    "description": "1个弈子获得1件临时推荐装备。",
+    "id": "DA_BorrowedGear18",
+    "name": "借来的装备"
+  },
+  "DA_Bulwark18": {
+    "category": "combat",
+    "description": "你的【坦克】在生命值降至50%时，会获得20%最大生命值护盾。",
+    "id": "DA_Bulwark18",
+    "name": "壁垒"
+  },
+  "DA_BunchOBelts18": {
+    "category": "combat",
+    "description": "你的友军获得7个无法移除的临时【巨人腰带】。",
+    "id": "DA_BunchOBelts18",
+    "name": "腰带批发"
+  },
+  "DA_CloneCompanion18": {
+    "category": "combat",
+    "description": "复制你伤害最高的弈子。复制体造成20%伤害。",
+    "id": "DA_CloneCompanion18",
+    "name": "克隆弈子"
+  },
+  "DA_CoinFlip18": {
+    "category": "goldxp",
+    "description": "抛掷1枚硬币，如果硬币正面朝上，获得1金币。",
+    "id": "DA_CoinFlip18",
+    "name": "抛硬币"
+  },
+  "DA_Combust18": {
+    "category": "combat",
+    "description": "你的弈子们在阵亡时产生爆炸，造成15%最大生命值魔法伤害。",
+    "id": "DA_Combust18",
+    "name": "易燃物"
+  },
+  "DA_CurioCart18": {
+    "category": "item",
+    "description": "开启1个装备商店。装备的费用在0到22金币之间。",
+    "id": "DA_CurioCart18",
+    "name": "珍品摆摊车"
+  },
+  "DA_Cutpurse18": {
+    "category": "risky",
+    "description": "每过5秒，你的弈子们就有15%几率掉落1金币。",
+    "id": "DA_Cutpurse18",
+    "name": "梁上君子"
+  },
+  "DA_DieRoll18": {
+    "category": "goldxp",
+    "description": "投掷1个6面体骰子。获得相当于结果点数的金币。",
+    "id": "DA_DieRoll18",
+    "name": "掷骰子"
+  },
+  "DA_Diversified18": {
+    "category": "combat",
+    "description": "每有1个已激活的非唯一羁绊，你的队伍获得30生命值。",
+    "id": "DA_Diversified18",
+    "name": "多样化"
+  },
+  "DA_DoodadBag18": {
+    "category": "misc",
+    "description": "获得2个消耗品，其能提供永久的护甲与魔抗或生命值。",
+    "id": "DA_DoodadBag18",
+    "name": "小玩具包"
+  },
+  "DA_DoodadJar18": {
+    "category": "misc",
+    "description": "获得1个消耗品，其能提供永久的护甲与魔抗或生命值。",
+    "id": "DA_DoodadJar18",
+    "name": "小玩具罐"
+  },
+  "DA_DoodadSack18": {
+    "category": "misc",
+    "description": "获得3个消耗品，其能提供永久的护甲与魔抗或生命值。",
+    "id": "DA_DoodadSack18",
+    "name": "小玩具袋"
+  },
+  "DA_Downpour18": {
+    "category": "combat",
+    "description": "你的队伍获得2法力回复。",
+    "id": "DA_Downpour18",
+    "name": "倾盆大雨"
+  },
+  "DA_EssenceTheft18": {
+    "category": "risky",
+    "description": "本场对战额外获得50%【女巫精粹】。",
+    "id": "DA_EssenceTheft18",
+    "name": "摄魂夺魄"
+  },
+  "DA_FlashFire18": {
+    "category": "shop",
+    "description": "刷新你的商店。【地狱火】引燃2个商店栏位，将其升级。",
+    "id": "DA_FlashFire18",
+    "name": "爆燃"
+  },
+  "DA_FlipFrenzy18": {
+    "category": "risky",
+    "description": "抛掷1枚硬币，如果硬币正面朝上，获得1金币。重复抛掷，直至你抛掷的硬币反面朝上。",
+    "id": "DA_FlipFrenzy18",
+    "name": "疯狂掷币人"
+  },
+  "DA_Flow18": {
+    "category": "combat",
+    "description": "你的弈子们获得持续10秒的不可阻挡效果和15%攻击速度。",
+    "id": "DA_Flow18",
+    "name": "行云流水"
+  },
+  "DA_ForestGuide18": {
+    "category": "champion",
+    "description": "获得1个随机4费弈子。",
+    "id": "DA_ForestGuide18",
+    "name": "森林向导"
+  },
+  "DA_ForestTwins18": {
+    "category": "champion",
+    "description": "获得2个相同的弈子，他们是你尚未拥有的2费弈子的其中一个的复制体。",
+    "id": "DA_ForestTwins18",
+    "name": "森林多胞胎"
+  },
+  "DA_FoundFriend18": {
+    "category": "combat",
+    "description": "获得1个携带着1个【巨人腰带】的【训练假人】。",
+    "id": "DA_FoundFriend18",
+    "name": "找个朋友"
+  },
+  "DA_GiantsAura18": {
+    "category": "combat",
+    "description": "你生命值最高的那名友军，每秒在一片区域内造成2%最大生命值伤害。",
+    "id": "DA_GiantsAura18",
+    "name": "巨人光环"
+  },
+  "DA_GoldenGoose18": {
+    "category": "goldxp",
+    "description": "你造成伤害最高的那个弈子，每造成1700伤害，获得1金币。",
+    "id": "DA_GoldenGoose18",
+    "name": "招财猫"
+  },
+  "DA_Grandmaster18": {
+    "category": "champion",
+    "description": "获得1个随机2星5费弈子。",
+    "id": "DA_Grandmaster18",
+    "name": "奇境宗师"
+  },
+  "DA_GreaterChaos18": {
+    "category": "misc",
+    "description": "随机施放2个【自然仙灵】。",
+    "id": "DA_GreaterChaos18",
+    "name": "拼一把大的！"
+  },
+  "DA_GrowUp18": {
+    "category": "goldxp",
+    "description": "获得10经验值。",
+    "id": "DA_GrowUp18",
+    "name": "长大"
+  },
+  "DA_HandOfBaron18": {
+    "category": "combat",
+    "description": "你的队伍获得【纳什男爵】增益，提升他们的属性。",
+    "id": "DA_HandOfBaron18",
+    "name": "男爵之手"
+  },
+  "DA_HealthPotion18_Charm": {
+    "category": "misc",
+    "description": "获得1个临时的、可装备的【生命药水】。",
+    "id": "DA_HealthPotion18_Charm",
+    "name": "生命药水"
+  },
+  "DA_HeroOfProphecy18": {
+    "category": "champion",
+    "description": "获得1个5费弈子。每回合都会再获得1个该弈子(永远！直至游戏结束)。",
+    "id": "DA_HeroOfProphecy18",
+    "name": "预言之子"
+  },
+  "DA_HerosEntrance18": {
+    "category": "combat",
+    "description": "在8秒后，备战席最左侧的弈子加入战斗，并获得2件推荐装备。",
+    "id": "DA_HerosEntrance18",
+    "name": "英雄登场"
+  },
+  "DA_Hireling18": {
+    "category": "combat",
+    "description": "1个携带着1件推荐装备的临时5星1费弈子加入你的队伍。",
+    "id": "DA_Hireling18",
+    "name": "雇佣兵"
+  },
+  "DA_HomingFireflies18": {
+    "category": "combat",
+    "description": "你的【术师】每消耗20法力值，召唤1只萤火虫。每只造成125魔法伤害。",
+    "id": "DA_HomingFireflies18",
+    "name": "萤火虫之家"
+  },
+  "DA_Hugify18": {
+    "category": "combat",
+    "description": "你生命值最高的那个单位成长，获得350生命值。",
+    "id": "DA_Hugify18",
+    "name": "巨大化"
+  },
+  "DA_IdleCraftsman18": {
+    "category": "item",
+    "description": "将你备战席的1件基础装备转化为它可合成的1件成装。",
+    "id": "DA_IdleCraftsman18",
+    "name": "闲散工匠"
+  },
+  "DA_ImprovedReach18": {
+    "category": "combat",
+    "description": "你的【战士】获得+1攻击距离。",
+    "id": "DA_ImprovedReach18",
+    "name": "瞄准镜"
+  },
+  "DA_IronCore18": {
+    "category": "combat",
+    "description": "每有1个位于前排的单位，你前排中心的那个弈子就会获得4%最大生命值。",
+    "id": "DA_IronCore18",
+    "name": "钢铁核心"
+  },
+  "DA_Ironwood18": {
+    "category": "combat",
+    "description": "敌人攻击你生命值最高的那个弈子时，造成的伤害降低10%。",
+    "id": "DA_Ironwood18",
+    "name": "坚硬木材"
+  },
+  "DA_Journeyman18": {
+    "category": "champion",
+    "description": "获得1个随机2星2费弈子。",
+    "id": "DA_Journeyman18",
+    "name": "旅行者"
+  },
+  "DA_Jungling18": {
+    "category": "shop",
+    "description": "让【峡谷野怪】占据你的商店。",
+    "id": "DA_Jungling18",
+    "name": "野区"
+  },
+  "DA_KillersRegret18": {
+    "category": "combat",
+    "description": "你最先阵亡的3个弈子会将其击杀者晕眩1.25秒。",
+    "id": "DA_KillersRegret18",
+    "name": "侩子手的悔恨"
+  },
+  "DA_KnickKnackBag18": {
+    "category": "misc",
+    "description": "获得2个消耗品，其能提供永久的物理加成或攻击速度。",
+    "id": "DA_KnickKnackBag18",
+    "name": "小饰品包"
+  },
+  "DA_KnickKnackJar18": {
+    "category": "misc",
+    "description": "获得1个消耗品，其能提供永久的物理加成或攻击速度。",
+    "id": "DA_KnickKnackJar18",
+    "name": "小饰品罐"
+  },
+  "DA_KnickKnackSack18": {
+    "category": "misc",
+    "description": "获得3个消耗品，其能提供永久的物理加成或攻击速度。",
+    "id": "DA_KnickKnackSack18",
+    "name": "小饰品袋"
+  },
+  "DA_LateBloomer18": {
+    "category": "combat",
+    "description": "一个临时的3星1费弈子加入你的队伍。",
+    "id": "DA_LateBloomer18",
+    "name": "大器晚成"
+  },
+  "DA_LesserChaos18": {
+    "category": "misc",
+    "description": "随机施放1个【自然仙灵】。",
+    "id": "DA_LesserChaos18",
+    "name": "拼一把小的！"
+  },
+  "DA_LivingSoil18": {
+    "category": "combat",
+    "description": "每过4秒，根须会晕眩1名敌人1秒。",
+    "id": "DA_LivingSoil18",
+    "name": "活体土壤"
+  },
+  "DA_Lucky718": {
+    "category": "shop",
+    "description": "获得7次商店刷新。",
+    "id": "DA_Lucky718",
+    "name": "幸运7"
+  },
+  "DA_ManaPotion18_Charm": {
+    "category": "misc",
+    "description": "获得1个临时的、可装备的【法力药水】。",
+    "id": "DA_ManaPotion18_Charm",
+    "name": "法力药水"
+  },
+  "DA_ManaRichSoil18": {
+    "category": "combat",
+    "description": "你的【术师】最大法力值减少15%。",
+    "id": "DA_ManaRichSoil18",
+    "name": "富魔之壤"
+  },
+  "DA_MarksmensGale18": {
+    "category": "combat",
+    "description": "你【射手】的攻击提供3%可叠加的攻击速度。",
+    "id": "DA_MarksmensGale18",
+    "name": "射手狂风"
+  },
+  "DA_MarksmensMarks18": {
+    "category": "combat",
+    "description": "你的【射手】有30%几率双重攻击。",
+    "id": "DA_MarksmensMarks18",
+    "name": "射手标记"
+  },
+  "DA_MemorialDummy18": {
+    "category": "combat",
+    "description": "你最先阵亡的携带着装备的那个坦克，在阵亡时会召唤1个携带着其装备的【训练假人】。",
+    "id": "DA_MemorialDummy18",
+    "name": "衣冠冢"
+  },
+  "DA_MiddlePath18": {
+    "category": "shop",
+    "description": "刷新你的商店，使其充满2星3费弈子。",
+    "id": "DA_MiddlePath18",
+    "name": "中央大道"
+  },
+  "DA_MoonlightRitual18": {
+    "category": "combat",
+    "description": "在战斗期间，你最低星级的那个1费或2费弈子将会升星。",
+    "id": "DA_MoonlightRitual18",
+    "name": "月光仪式"
+  },
+  "DA_NaturesAlly18": {
+    "category": "combat",
+    "description": "每有3名友军阵亡，召唤1个随机【峡谷野怪】。",
+    "id": "DA_NaturesAlly18",
+    "name": "自然之友"
+  },
+  "DA_NaturesWrath18": {
+    "category": "combat",
+    "description": "在10秒后，将所有未携带装备的单位击杀。",
+    "id": "DA_NaturesWrath18",
+    "name": "自然之怒"
+  },
+  "DA_Peddler18": {
+    "category": "item",
+    "description": "开启1个随机装备商店。随机装备的费用在0到14金币之间。",
+    "id": "DA_Peddler18",
+    "name": "小贩"
+  },
+  "DA_PetrifiedDummy18": {
+    "category": "combat",
+    "description": "你第1个阵亡的弈子在阵亡时，会转化为1个拥有其防御属性和900生命值的【训练假人】。",
+    "id": "DA_PetrifiedDummy18",
+    "name": "石化术"
+  },
+  "DA_PetrifyShields18": {
+    "category": "combat",
+    "description": "使敌人缓速10%，并将其护盾值削减20%，持续10秒。",
+    "id": "DA_PetrifyShields18",
+    "name": "破盾秘法"
+  },
+  "DA_PhantomArmor18": {
+    "category": "combat",
+    "description": "获得1个临时的【狂徒铠甲】。",
+    "id": "DA_PhantomArmor18",
+    "name": "幻影护甲"
+  },
+  "DA_PhantomEmblem18": {
+    "category": "combat",
+    "description": "获得1个你层级最高羁绊的临时的纹章。",
+    "id": "DA_PhantomEmblem18",
+    "name": "幻影纹章"
+  },
+  "DA_PhantomGloves18": {
+    "category": "combat",
+    "description": "获得1个临时的【窃贼手套】。",
+    "id": "DA_PhantomGloves18",
+    "name": "幻影手套"
+  },
+  "DA_PhantomSplash18": {
+    "category": "combat",
+    "description": "战斗开始时：至多有2个未激活的羁绊会以最低层级激活。",
+    "id": "DA_PhantomSplash18",
+    "name": "幻影浪花"
+  },
+  "DA_PhantomVest18": {
+    "category": "combat",
+    "description": "获得1个临时的【棘刺背心】。",
+    "id": "DA_PhantomVest18",
+    "name": "幻影背心"
+  },
+  "DA_PlatedShields18": {
+    "category": "combat",
+    "description": "护盾强度提升15%。友军获得持续10秒的150护盾值。",
+    "id": "DA_PlatedShields18",
+    "name": "镀板护盾"
+  },
+  "DA_Potioncraft18": {
+    "category": "misc",
+    "description": "获得3个临时的、可装备的【药水】。",
+    "id": "DA_Potioncraft18",
+    "name": "药学博士"
+  },
+  "DA_PottedLifebloom18": {
+    "category": "combat",
+    "description": "获得1株临时的【生命花】。",
+    "id": "DA_PottedLifebloom18",
+    "name": "盆栽生命花"
+  },
+  "DA_PottedStonebark18": {
+    "category": "combat",
+    "description": "获得1颗临时的【石皮树】。",
+    "id": "DA_PottedStonebark18",
+    "name": "盆栽石皮树"
+  },
+  "DA_Quicken18": {
+    "category": "combat",
+    "description": "施放技能时，你的弈子们获得30%攻击速度，持续3秒。",
+    "id": "DA_Quicken18",
+    "name": "加速"
+  },
+  "DA_Rain18": {
+    "category": "combat",
+    "description": "你的队伍获得1法力回复。",
+    "id": "DA_Rain18",
+    "name": "泪雨"
+  },
+  "DA_RefreshingLight18": {
+    "category": "shop",
+    "description": "你的【日蚀骑士】弈子每有1星级(相同弈子不重复计数)，获得1次免费重随。",
+    "id": "DA_RefreshingLight18",
+    "name": "焕新之光"
+  },
+  "DA_Regeneration18": {
+    "category": "combat",
+    "description": "你的队伍每秒治疗1%最大生命值。",
+    "id": "DA_Regeneration18",
+    "name": "回复"
+  },
+  "DA_Revenge18": {
+    "category": "combat",
+    "description": "每当1名友军阵亡时，你的弈子们获得4%可叠加的伤害增幅。",
+    "id": "DA_Revenge18",
+    "name": "复仇"
+  },
+  "DA_RideTheWave18": {
+    "category": "shop",
+    "description": "在本回合内，在上场对战中登场的2+个弈子会出现在你的下2次刷新的商店中。",
+    "id": "DA_RideTheWave18",
+    "name": "顺流而下"
+  },
+  "DA_RollingBones18": {
+    "category": "shop",
+    "description": "每获得1次击杀，你都有50%几率获得1次免费刷新。",
+    "id": "DA_RollingBones18",
+    "name": "骨头滚滚"
+  },
+  "DA_RolyPolys18": {
+    "category": "shop",
+    "description": "在18秒时，每有1名存活的友军，获得1次刷新。",
+    "id": "DA_RolyPolys18",
+    "name": "不倒翁"
+  },
+  "DA_Salvager18": {
+    "category": "misc",
+    "description": "你备战席的任何弈子都会被移除装备，且这些装备会被拆解。",
+    "id": "DA_Salvager18",
+    "name": "打捞术"
+  },
+  "DA_Scrappy18": {
+    "category": "combat",
+    "description": "战斗开始时：未携带任何装备的2个弈子会获得1件临时的推荐装备。",
+    "id": "DA_Scrappy18",
+    "name": "零碎"
+  },
+  "DA_SearchParty18": {
+    "category": "shop",
+    "description": "在本回合内，你每次刷新商店都会出现1个4费弈子，直到你购买其中一名为止。",
+    "id": "DA_SearchParty18",
+    "name": "搜查队"
+  },
+  "DA_SlowStudy18": {
+    "category": "goldxp",
+    "description": "在15秒时，每有1名存活的友军，获得2经验值。",
+    "id": "DA_SlowStudy18",
+    "name": "慢速学习"
+  },
+  "DA_Smurfing18": {
+    "category": "champion",
+    "description": "获得1个随机5费弈子。",
+    "id": "DA_Smurfing18",
+    "name": "炸鱼行为"
+  },
+  "DA_Snacktime18": {
+    "category": "combat",
+    "description": "【毛茸茸大朋友】会吃掉最大生命值低于15%且受过其伤害的敌人。",
+    "id": "DA_Snacktime18",
+    "name": "点心时间到！"
+  },
+  "DA_SolarGift18": {
+    "category": "champion",
+    "description": "获得1个【蕾欧娜】、1个【瑟庄妮】和1个【凯尔】。",
+    "id": "DA_SolarGift18",
+    "name": "日蚀之礼"
+  },
+  "DA_SolitudesCloak18": {
+    "category": "combat",
+    "description": "邻格无友军的弈子们获得10%最大生命值和10%伤害增幅。",
+    "id": "DA_SolitudesCloak18",
+    "name": "独行斗篷"
+  },
+  "DA_StandAlone18": {
+    "category": "combat",
+    "description": "独自处于所在排的弈子们获得15%生命值和15%伤害增幅。",
+    "id": "DA_StandAlone18",
+    "name": "孤身站场"
+  },
+  "DA_StartingTown18": {
+    "category": "shop",
+    "description": "刷新你的商店，使其充满2星1费弈子。",
+    "id": "DA_StartingTown18",
+    "name": "新手村"
+  },
+  "DA_Stealthy18": {
+    "category": "combat",
+    "description": "你最强大的2个【战士】或【刺客】获得持续6秒的不可被选取效果。",
+    "id": "DA_Stealthy18",
+    "name": "鬼鬼祟祟"
+  },
+  "DA_Terraforming18": {
+    "category": "misc",
+    "description": "战斗开始时，获得5颗种子。",
+    "id": "DA_Terraforming18",
+    "name": "生态改造"
+  },
+  "DA_ThingamajigBag18": {
+    "category": "misc",
+    "description": "获得2个消耗品，其能提供永久的法术加成或法力回复。",
+    "id": "DA_ThingamajigBag18",
+    "name": "小装置包"
+  },
+  "DA_ThingamajigJar18": {
+    "category": "misc",
+    "description": "获得1个消耗品，其能提供永久的法术加成或法力回复。",
+    "id": "DA_ThingamajigJar18",
+    "name": "小装置罐"
+  },
+  "DA_ThingamajigSack18": {
+    "category": "misc",
+    "description": "获得3个消耗品，其能提供永久的法术加成或法力回复。",
+    "id": "DA_ThingamajigSack18",
+    "name": "小装置袋"
+  },
+  "DA_ThreeMe18": {
+    "category": "champion",
+    "description": "获得1个随机2星3费弈子。",
+    "id": "DA_ThreeMe18",
+    "name": "对影成三"
+  },
+  "DA_TigersVisit18_Wisp": {
+    "category": "combat",
+    "description": "本场对战获得【野兽之灵】的【猛虎】增益。",
+    "id": "DA_TigersVisit18_Wisp",
+    "name": "猛虎降临"
+  },
+  "DA_TrainingYard18": {
+    "category": "combat",
+    "description": "获得2个携带着1件随机坦克装备的【训练假人】。",
+    "id": "DA_TrainingYard18",
+    "name": "训练场"
+  },
+  "DA_TreetopArchers": {
+    "category": "combat",
+    "description": "弓箭手自林间放箭，每3秒造成500物理伤害。",
+    "id": "DA_TreetopArchers",
+    "name": "树顶弓箭手"
+  },
+  "DA_TrophyHunter18": {
+    "category": "risky",
+    "description": "下一场玩家对战，你的【宿敌】获得双倍参与击杀数。",
+    "id": "DA_TrophyHunter18",
+    "name": "猎手的黄金之路"
+  },
+  "DA_TurtlesVisit18": {
+    "category": "combat",
+    "description": "本场对战获得【野兽之灵】的【灵龟】增益。",
+    "id": "DA_TurtlesVisit18",
+    "name": "灵龟降临"
+  },
+  "DA_WrappedInThorns18": {
+    "category": "combat",
+    "description": "你的【坦克】每4秒将承受伤害的12%反射给邻格的敌人。",
+    "id": "DA_WrappedInThorns18",
+    "name": "荆棘环身"
+  }
+}

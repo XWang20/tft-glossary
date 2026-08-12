@@ -1,0 +1,980 @@
+{
+  "DA_18_AfterShock": {
+    "category": "combat",
+    "description": "Après 8 sec, vous étourdissez tous les ennemis pendant 1.5 sec.",
+    "id": "DA_18_AfterShock",
+    "name": "Après-coup"
+  },
+  "DA_18_AllFives": {
+    "category": "shop",
+    "description": "Vous relancez votre boutique en ne générant que des champions à 5 PO.",
+    "id": "DA_18_AllFives",
+    "name": "L'armée des 5"
+  },
+  "DA_18_AllFours": {
+    "category": "shop",
+    "description": "Vous relancez votre boutique en ne générant que des champions à 4 PO.",
+    "id": "DA_18_AllFours",
+    "name": "L'armée des 4"
+  },
+  "DA_18_AllOnes": {
+    "category": "shop",
+    "description": "Vous relancez votre boutique en ne générant que des champions à 1 PO.",
+    "id": "DA_18_AllOnes",
+    "name": "L'armée des 1"
+  },
+  "DA_18_AllThrees": {
+    "category": "shop",
+    "description": "Vous relancez votre boutique en ne générant que des champions à 3 PO.",
+    "id": "DA_18_AllThrees",
+    "name": "L'armée des 3"
+  },
+  "DA_18_AllTwos": {
+    "category": "shop",
+    "description": "Vous relancez votre boutique en ne générant que des champions à 2 PO.",
+    "id": "DA_18_AllTwos",
+    "name": "L'armée des 2"
+  },
+  "DA_18_BackrowStar": {
+    "category": "combat",
+    "description": "Un champion aléatoire sur la rangée arrière gagne 75% de vitesse d'attaque pendant 7 sec.",
+    "id": "DA_18_BackrowStar",
+    "name": "Arrière-garde"
+  },
+  "DA_18_BarkArmor": {
+    "category": "combat",
+    "description": "Vos champions gagnent un bouclier de 150 PV pendant 10 sec.",
+    "id": "DA_18_BarkArmor",
+    "name": "Armure d'écorce"
+  },
+  "DA_18_BloodMoney": {
+    "category": "goldxp",
+    "description": "Vous gagnez 1 PO pour chaque élimination de champion.",
+    "id": "DA_18_BloodMoney",
+    "name": "Prix du sang"
+  },
+  "DA_18_BronzeSpoon": {
+    "category": "goldxp",
+    "description": "Vous gagnez 4 XP.",
+    "id": "DA_18_BronzeSpoon",
+    "name": "Cuillère en bronze"
+  },
+  "DA_18_CircleofElders": {
+    "category": "champion",
+    "description": "Vous gagnez une copie de chaque champion à 5 PO.",
+    "id": "DA_18_CircleofElders",
+    "name": "Cercle des anciens"
+  },
+  "DA_18_Counterspell": {
+    "category": "combat",
+    "description": "Augmente le mana max de tous les ennemis de 15 jusqu'à leur prochain lancement de compétence.",
+    "id": "DA_18_Counterspell",
+    "name": "Verrou magique"
+  },
+  "DA_18_EarlyFix": {
+    "category": "misc",
+    "description": "Vous gagnez 1 Reforgeur.",
+    "id": "DA_18_EarlyFix",
+    "name": "Reforgage"
+  },
+  "DA_18_Experienced": {
+    "category": "goldxp",
+    "description": "Vous gagnez 2 XP.",
+    "id": "DA_18_Experienced",
+    "name": "Expérimentation"
+  },
+  "DA_18_Fellowship": {
+    "category": "combat",
+    "description": "Les champions gagnent un bouclier de 4% de leurs PV max et 4% d'amplification des dégâts par allié adjacent.",
+    "id": "DA_18_Fellowship",
+    "name": "Communauté"
+  },
+  "DA_18_Fertilize": {
+    "category": "risky",
+    "description": "Vous gagnez 1 XP pour chaque ennemi qui meurt.",
+    "id": "DA_18_Fertilize",
+    "name": "Fertilisant"
+  },
+  "DA_18_FieldofMice": {
+    "category": "champion",
+    "description": "Vous gagnez un Duplicateur de champion riquiqui pour chaque champion à 1 PO unique déployé lors de la dernière manche.",
+    "id": "DA_18_FieldofMice",
+    "name": "Riquiqui"
+  },
+  "DA_18_ForestMage": {
+    "category": "misc",
+    "description": "Votre boutique se remplit d'esprits de la forêt. Vous ne pouvez en acheter qu'un seul !",
+    "id": "DA_18_ForestMage",
+    "name": "Magie de la forêt"
+  },
+  "DA_18_Freeroller": {
+    "category": "shop",
+    "description": "Vous gagnez 2 relances.",
+    "id": "DA_18_Freeroller",
+    "name": "Relances"
+  },
+  "DA_18_GiantGrowth": {
+    "category": "combat",
+    "description": "Votre unité ayant le plus de PV grandit et gagne 600 PV.",
+    "id": "DA_18_GiantGrowth",
+    "name": "Croissance gigantesque"
+  },
+  "DA_18_HeatedRivalry": {
+    "category": "champion",
+    "description": "Vous gagnez un Rengar ou un Kha'Zix. Ils obtiennent 3 éliminations.",
+    "id": "DA_18_HeatedRivalry",
+    "name": "Rivalité"
+  },
+  "DA_18_HeroicSacrifice": {
+    "category": "combat",
+    "description": "Vos 3 champions les plus puissants gagnent de la PUISSANCE HÉROÏQUE, mais les autres alliés sont sacrifiés.",
+    "id": "DA_18_HeroicSacrifice",
+    "name": "Sacrifice héroïque"
+  },
+  "DA_18_Hummingbird": {
+    "category": "combat",
+    "description": "Votre unité avec la vitesse d'attaque la plus élevée rétrécit et gagne 20% de vitesse d'attaque.",
+    "id": "DA_18_Hummingbird",
+    "name": "Colibri"
+  },
+  "DA_18_Infliction": {
+    "category": "combat",
+    "description": "Vous appliquez ralentissement, brûlure, scission et scission magique sur les ennemis pendant 8 sec.",
+    "id": "DA_18_Infliction",
+    "name": "Infliction"
+  },
+  "DA_18_KillingFrenzy": {
+    "category": "combat",
+    "description": "Les Combattants exécutent les cibles ayant moins de 12% de PV. Ils gagnent 15% de vitesse d'attaque après une élimination.",
+    "id": "DA_18_KillingFrenzy",
+    "name": "Frénésie meurtrière"
+  },
+  "DA_18_LifeDebt": {
+    "category": "goldxp",
+    "description": "Vous gagnez 1 PO pour chaque 12 PV de Tacticien manquant.",
+    "id": "DA_18_LifeDebt",
+    "name": "Dette vitale"
+  },
+  "DA_18_LightningStorm": {
+    "category": "combat",
+    "description": "Toutes les 1 sec, inflige des dégâts bruts à un ennemi équivalents à 5% de ses PV max.",
+    "id": "DA_18_LightningStorm",
+    "name": "Orages"
+  },
+  "DA_18_LightningStrike": {
+    "category": "combat",
+    "description": "Inflige des dégâts bruts équivalents à 10% de leurs PV max à tous les ennemis.",
+    "id": "DA_18_LightningStrike",
+    "name": "Éclairs bruts"
+  },
+  "DA_18_LostTravelers": {
+    "category": "champion",
+    "description": "Vous gagnez l'équivalent de 3 PO en champions aléatoires.",
+    "id": "DA_18_LostTravelers",
+    "name": "Voyageurs perdus"
+  },
+  "DA_18_MajorPolymorph": {
+    "category": "risky",
+    "description": "Un champion à 4 PO aléatoire que vous possédez se transforme définitivement en un champion à 5 PO.",
+    "id": "DA_18_MajorPolymorph",
+    "name": "Polymorphisme+"
+  },
+  "DA_18_MercenaryForce": {
+    "category": "combat",
+    "description": "Le porteur gagne 3% d'amplification des dégâts pour chaque tranche de 10 PO que vous possédez.",
+    "id": "DA_18_MercenaryForce",
+    "name": "Mercenaires"
+  },
+  "DA_18_MinorPolymorph": {
+    "category": "risky",
+    "description": "Un champion à 1 PO aléatoire que vous possédez se transforme définitivement en un champion à 2 PO.",
+    "id": "DA_18_MinorPolymorph",
+    "name": "Polymorphisme mineur"
+  },
+  "DA_18_Mitosis": {
+    "category": "champion",
+    "description": "Vous gagnez un Duplicateur de champion riquiqui.",
+    "id": "DA_18_Mitosis",
+    "name": "Mitose"
+  },
+  "DA_18_Moonrise": {
+    "category": "combat",
+    "description": "Après 8 sec, les effets de Lunaire augmentent de 100%.",
+    "id": "DA_18_Moonrise",
+    "name": "Pleine lune"
+  },
+  "DA_18_Payday": {
+    "category": "risky",
+    "description": "Pour chaque champion allié qui survit au combat, vous gagnez 2 PO.",
+    "id": "DA_18_Payday",
+    "name": "Jour de paie"
+  },
+  "DA_18_PocketChange": {
+    "category": "goldxp",
+    "description": "Vos champions 1 étoile laissent tomber 1 PO à leur mort.",
+    "id": "DA_18_PocketChange",
+    "name": "Argent de poche"
+  },
+  "DA_18_Polymorph": {
+    "category": "risky",
+    "description": "Un champion à 2 PO aléatoire que vous possédez se transforme définitivement en un champion à 3 PO.",
+    "id": "DA_18_Polymorph",
+    "name": "Polymorphisme"
+  },
+  "DA_18_Preppers": {
+    "category": "combat",
+    "description": "Au début du prochain combat, vos objets à cumul commencent avec quelques effets cumulés.",
+    "id": "DA_18_Preppers",
+    "name": "Cumulation"
+  },
+  "DA_18_ProlificPower": {
+    "category": "combat",
+    "description": "Vos champions gagnent 8% de dégâts d'attaque et de puissance.",
+    "id": "DA_18_ProlificPower",
+    "name": "Puissance prolifique"
+  },
+  "DA_18_Propagate": {
+    "category": "champion",
+    "description": "Vous gagnez une copie du premier champion allié éliminé.",
+    "id": "DA_18_Propagate",
+    "name": "Propagation"
+  },
+  "DA_18_Radiantize": {
+    "category": "combat",
+    "description": "Après 10 sec, 1 objet équipé aléatoire prend temporairement sa forme de la lumière.",
+    "id": "DA_18_Radiantize",
+    "name": "Illumination"
+  },
+  "DA_18_Resistant": {
+    "category": "combat",
+    "description": "Les tanks réduisent les dégâts subis de 10.",
+    "id": "DA_18_Resistant",
+    "name": "Coriace"
+  },
+  "DA_18_Starfall": {
+    "category": "shop",
+    "description": "Les 6 premières fois que vous relancez la boutique pendant cette manche, votre champion coûtant le moins de PO devient un champion 2 étoiles.",
+    "id": "DA_18_Starfall",
+    "name": "Appel de l'étoile"
+  },
+  "DA_18_SunfireSorcery": {
+    "category": "combat",
+    "description": "Vous appliquez brûlure et hémorragie sur les ennemis pendant 10 sec.",
+    "id": "DA_18_SunfireSorcery",
+    "name": "Feu et sang"
+  },
+  "DA_18_Supercritical": {
+    "category": "combat",
+    "description": "Vos alliés avec Précision gagnent 25% de dégâts de coup critique.",
+    "id": "DA_18_Supercritical",
+    "name": "Supercritique"
+  },
+  "DA_18_TatteredArmor": {
+    "category": "combat",
+    "description": "30% de scission et scission magique sur les ennemis pendant 10 sec.",
+    "id": "DA_18_TatteredArmor",
+    "name": "Armure en lambeaux"
+  },
+  "DA_18_Tremors": {
+    "category": "combat",
+    "description": "Toutes les 8 sec, étourdit les ennemis pendant 1 sec.",
+    "id": "DA_18_Tremors",
+    "name": "Secousses"
+  },
+  "DA_18_UltraAscension": {
+    "category": "combat",
+    "description": "Après 25 sec, les alliés gagnent 300% d'amplification des dégâts.",
+    "id": "DA_18_UltraAscension",
+    "name": "Ultra ascension"
+  },
+  "DA_18_VerdantVitality": {
+    "category": "combat",
+    "description": "Vos champions gagnent 100 PV.",
+    "id": "DA_18_VerdantVitality",
+    "name": "Vitalité verdoyante"
+  },
+  "DA_18_YordleSpirit": {
+    "category": "combat",
+    "description": "Les alliés ont 99% de chances d'esquiver les attaques pendant 4 sec.",
+    "id": "DA_18_YordleSpirit",
+    "name": "Esprit de yordle"
+  },
+  "DA_AbandonShip18": {
+    "category": "risky",
+    "description": "Vous vendez votre plateau et votre banc, ce qui vous rapporte 6 PO et 10 relances.",
+    "id": "DA_AbandonShip18",
+    "name": "Reconversion"
+  },
+  "DA_AnimateShop18": {
+    "category": "shop",
+    "description": "Pendant 18 sec, votre boutique se relance gratuitement toutes les 2 sec.",
+    "id": "DA_AnimateShop18",
+    "name": "Boutique animée"
+  },
+  "DA_Apprentice18": {
+    "category": "champion",
+    "description": "Vous gagnez un champion 2 étoiles à 1 PO aléatoire.",
+    "id": "DA_Apprentice18",
+    "name": "Novice"
+  },
+  "DA_Artifactinate18": {
+    "category": "item",
+    "description": "Vous perdez 3 composants, y compris ceux ayant permis de créer des objets. Vous gagnez une Enclume à artefacts.",
+    "id": "DA_Artifactinate18",
+    "name": "Artefactification"
+  },
+  "DA_Barrier18": {
+    "category": "combat",
+    "description": "Les alliés gagnent un bouclier de 1200 PV qui se désagrège en 5 sec.",
+    "id": "DA_Barrier18",
+    "name": "Barrière"
+  },
+  "DA_Barter18": {
+    "category": "goldxp",
+    "description": "Le prochain champion vendu dans cette manche se vendra pour 200% des PO.",
+    "id": "DA_Barter18",
+    "name": "Troc"
+  },
+  "DA_BearsVisit18": {
+    "category": "combat",
+    "description": "Vous gagnez le buff primitif de l'ours pour ce combat.",
+    "id": "DA_BearsVisit18",
+    "name": "Visite de l'ours"
+  },
+  "DA_BeggarsWisp18": {
+    "category": "goldxp",
+    "description": "Les terres sauvages n'ont pas pu vous trouver d'esprit de la forêt cette fois. Vous gagnez 4 PO.",
+    "id": "DA_BeggarsWisp18",
+    "name": "Esprit du mendiant"
+  },
+  "DA_BigBoom18": {
+    "category": "combat",
+    "description": "Le premier champion allié qui meurt explose, infligeant des dégâts magiques équivalents à 25% de ses PV max.",
+    "id": "DA_BigBoom18",
+    "name": "Gros boum"
+  },
+  "DA_BigGuns18": {
+    "category": "champion",
+    "description": "Vous gagnez 2 champions 1 étoile à 4 PO aléatoires.",
+    "id": "DA_BigGuns18",
+    "name": "Grosses armes"
+  },
+  "DA_BlastPotion18_Charm": {
+    "category": "misc",
+    "description": "Vous gagnez une Potion explosive temporaire à équiper.",
+    "id": "DA_BlastPotion18_Charm",
+    "name": "Potion explosive"
+  },
+  "DA_Blaze18": {
+    "category": "combat",
+    "description": "Le feu se propage sur le plateau, infligeant des dégâts bruts aux ennemis.",
+    "id": "DA_Blaze18",
+    "name": "Flammes"
+  },
+  "DA_BloodAndIron18": {
+    "category": "item",
+    "description": "Lorsque 20 champions meurent, vous obtenez une Enclume à composants.",
+    "id": "DA_BloodAndIron18",
+    "name": "Sang et fer"
+  },
+  "DA_BoosterShot18": {
+    "category": "combat",
+    "description": "Jusqu'à 2 champions 1 étoile gagnent temporairement un niveau d'étoile supplémentaire pendant le combat.",
+    "id": "DA_BoosterShot18",
+    "name": "Étoiles temporaires"
+  },
+  "DA_BorderVillage18": {
+    "category": "shop",
+    "description": "Vous relancez votre boutique en ne générant que des champions 2 étoiles à 2 PO.",
+    "id": "DA_BorderVillage18",
+    "name": "Boutique de deux"
+  },
+  "DA_BorrowedGear18": {
+    "category": "combat",
+    "description": "Un champion obtient un objet recommandé temporaire.",
+    "id": "DA_BorrowedGear18",
+    "name": "Équipement emprunté"
+  },
+  "DA_Bulwark18": {
+    "category": "combat",
+    "description": "Vos tanks gagnent un bouclier de 20% de leurs PV Max lorsqu'ils passent sous 50% de PV.",
+    "id": "DA_Bulwark18",
+    "name": "Pavois"
+  },
+  "DA_BunchOBelts18": {
+    "category": "combat",
+    "description": "Vos alliés obtiennent 7 Ceintures du géant temporaires et inamovibles.",
+    "id": "DA_BunchOBelts18",
+    "name": "Ceintures"
+  },
+  "DA_CloneCompanion18": {
+    "category": "combat",
+    "description": "Vous clonez votre champion infligeant le plus de dégâts. Le clone inflige 20% de dégâts.",
+    "id": "DA_CloneCompanion18",
+    "name": "Amitié clonée"
+  },
+  "DA_CoinFlip18": {
+    "category": "goldxp",
+    "description": "Vous lancez une pièce. Si elle tombe sur face, vous gagnez 1 PO.",
+    "id": "DA_CoinFlip18",
+    "name": "Pile ou face"
+  },
+  "DA_Combust18": {
+    "category": "combat",
+    "description": "Vos champions explosent à leur mort, infligeant des dégâts magiques équivalents à 15% de leurs PV max.",
+    "id": "DA_Combust18",
+    "name": "Combustion"
+  },
+  "DA_CurioCart18": {
+    "category": "item",
+    "description": "Vous ouvrez une boutique d'objets. Les objets coûtent entre 0 et 22 PO.",
+    "id": "DA_CurioCart18",
+    "name": "Chariot de curiosités"
+  },
+  "DA_Cutpurse18": {
+    "category": "risky",
+    "description": "Toutes les 5 sec, vos champions ont 15% de chances de générer 1 PO.",
+    "id": "DA_Cutpurse18",
+    "name": "Vol à la tire"
+  },
+  "DA_DieRoll18": {
+    "category": "goldxp",
+    "description": "Vous lancez un dé à six faces. Le résultat définit le nombre de PO que vous gagnez.",
+    "id": "DA_DieRoll18",
+    "name": "Lancer de dé"
+  },
+  "DA_Diversified18": {
+    "category": "combat",
+    "description": "Votre équipe gagne 30 PV pour chaque type non unique actif.",
+    "id": "DA_Diversified18",
+    "name": "Diversification"
+  },
+  "DA_DoodadBag18": {
+    "category": "misc",
+    "description": "Vous gagnez 2 consommables qui confèrent de façon permanente de l'armure et de la résistance magique ou des PV.",
+    "id": "DA_DoodadBag18",
+    "name": "Sac à bidules"
+  },
+  "DA_DoodadJar18": {
+    "category": "misc",
+    "description": "Vous gagnez 1 consommable qui confère de façon permanente de l'armure et de la résistance magique ou des PV.",
+    "id": "DA_DoodadJar18",
+    "name": "Bocal à bidules"
+  },
+  "DA_DoodadSack18": {
+    "category": "misc",
+    "description": "Vous gagnez 3 consommables qui confèrent de façon permanente de l'armure et de la résistance magique ou des PV.",
+    "id": "DA_DoodadSack18",
+    "name": "Besace à bidules"
+  },
+  "DA_Downpour18": {
+    "category": "combat",
+    "description": "Votre équipe gagne 2 de régénération de mana.",
+    "id": "DA_Downpour18",
+    "name": "Manne de mana"
+  },
+  "DA_EssenceTheft18": {
+    "category": "risky",
+    "description": "Vous gagnez 50% d'essence d'Assemblée bonus pendant ce combat.",
+    "id": "DA_EssenceTheft18",
+    "name": "Vol essentiel"
+  },
+  "DA_FlashFire18": {
+    "category": "shop",
+    "description": "Vous relancez votre boutique. Les flammes d'Infernal enflamment 2 emplacements de la boutique, ce qui les améliore.",
+    "id": "DA_FlashFire18",
+    "name": "Feu infernal"
+  },
+  "DA_FlipFrenzy18": {
+    "category": "risky",
+    "description": "Vous lancez une pièce. Si elle tombe sur face, vous gagnez 1 PO. Vous continuez jusqu'à obtenir pile.",
+    "id": "DA_FlipFrenzy18",
+    "name": "Face à face"
+  },
+  "DA_Flow18": {
+    "category": "combat",
+    "description": "Vos champions sont inarrêtables et gagnent 15% de vitesse d'attaque pendant 10 sec.",
+    "id": "DA_Flow18",
+    "name": "Immunité"
+  },
+  "DA_ForestGuide18": {
+    "category": "champion",
+    "description": "Vous gagnez un champion à 4 PO aléatoire.",
+    "id": "DA_ForestGuide18",
+    "name": "Guide forestier"
+  },
+  "DA_ForestTwins18": {
+    "category": "champion",
+    "description": "Vous gagnez 2 copies d'un champion à 2 PO que vous ne possédez pas.",
+    "id": "DA_ForestTwins18",
+    "name": "Jumeaux de la forêt"
+  },
+  "DA_FoundFriend18": {
+    "category": "combat",
+    "description": "Vous gagnez temporairement un Mannequin d'entraînement avec une Ceinture du géant.",
+    "id": "DA_FoundFriend18",
+    "name": "Nouveau copain"
+  },
+  "DA_GiantsAura18": {
+    "category": "combat",
+    "description": "Votre allié ayant le plus de PV inflige des dégâts équivalents à 2% de ses PV max par seconde dans une zone.",
+    "id": "DA_GiantsAura18",
+    "name": "Aura du géant"
+  },
+  "DA_GoldenGoose18": {
+    "category": "goldxp",
+    "description": "Vous gagnez 1 PO tous les 1700 pts de dégâts infligés par votre champion infligeant le plus de dégâts.",
+    "id": "DA_GoldenGoose18",
+    "name": "Poule aux œufs d'or"
+  },
+  "DA_Grandmaster18": {
+    "category": "champion",
+    "description": "Vous gagnez un champion 2 étoiles à 5 PO aléatoire.",
+    "id": "DA_Grandmaster18",
+    "name": "Grand Maître"
+  },
+  "DA_GreaterChaos18": {
+    "category": "misc",
+    "description": "Vous lancez 2 esprits de la forêt aléatoires.",
+    "id": "DA_GreaterChaos18",
+    "name": "Chaos supérieur"
+  },
+  "DA_GrowUp18": {
+    "category": "goldxp",
+    "description": "Vous gagnez 10 XP.",
+    "id": "DA_GrowUp18",
+    "name": "Progression"
+  },
+  "DA_HandOfBaron18": {
+    "category": "combat",
+    "description": "Votre équipe gagne le buff du baron et les stats sont améliorées.",
+    "id": "DA_HandOfBaron18",
+    "name": "Main du baron"
+  },
+  "DA_HealthPotion18_Charm": {
+    "category": "misc",
+    "description": "Vous gagnez une Potion de soin temporaire à équiper.",
+    "id": "DA_HealthPotion18_Charm",
+    "name": "Potion de soin"
+  },
+  "DA_HeroOfProphecy18": {
+    "category": "champion",
+    "description": "Vous gagnez un champion à 5 PO. Vous en gagnez un à chaque manche jusqu'à la fin de la partie.",
+    "id": "DA_HeroOfProphecy18",
+    "name": "Héros de la prophétie"
+  },
+  "DA_HerosEntrance18": {
+    "category": "combat",
+    "description": "Après 8 sec, le champion le plus à gauche sur le banc rejoint le combat et reçoit 2 objets recommandés.",
+    "id": "DA_HerosEntrance18",
+    "name": "Entrée héroïque"
+  },
+  "DA_Hireling18": {
+    "category": "combat",
+    "description": "Une unité temporaire 1 étoile(s) à 5 PO, équipée de 1 objets recommandés, rejoint votre équipe.",
+    "id": "DA_Hireling18",
+    "name": "Intérim"
+  },
+  "DA_HomingFireflies18": {
+    "category": "combat",
+    "description": "Vos lanceurs de compétence invoquent une luciole tous les 20 pts de mana dépensé. Chaque luciole inflige (125) pts de dégâts magiques.",
+    "id": "DA_HomingFireflies18",
+    "name": "Lucioles guidées"
+  },
+  "DA_Hugify18": {
+    "category": "combat",
+    "description": "Votre unité ayant le plus de PV grandit et gagne 350 PV.",
+    "id": "DA_Hugify18",
+    "name": "Grandification"
+  },
+  "DA_IdleCraftsman18": {
+    "category": "item",
+    "description": "Un composant sur votre banc se transforme en un objet complet qu'il permet de fabriquer.",
+    "id": "DA_IdleCraftsman18",
+    "name": "Artisanat"
+  },
+  "DA_ImprovedReach18": {
+    "category": "combat",
+    "description": "Vos Combattants gagnent 1 de portée.",
+    "id": "DA_ImprovedReach18",
+    "name": "Portée améliorée"
+  },
+  "DA_IronCore18": {
+    "category": "combat",
+    "description": "Votre champion au centre de la première rangée gagne 4% PV max par unité sur la première rangée.",
+    "id": "DA_IronCore18",
+    "name": "Noyau de fer"
+  },
+  "DA_Ironwood18": {
+    "category": "combat",
+    "description": "Les ennemis qui attaquent votre champion ayant le plus de PV infligent 10% de dégâts en moins.",
+    "id": "DA_Ironwood18",
+    "name": "Écorce"
+  },
+  "DA_Journeyman18": {
+    "category": "champion",
+    "description": "Vous gagnez un champion 2 étoiles à 2 PO aléatoire.",
+    "id": "DA_Journeyman18",
+    "name": "Compagnon"
+  },
+  "DA_Jungling18": {
+    "category": "shop",
+    "description": "La boutique est remplie de monstres de la Jungle.",
+    "id": "DA_Jungling18",
+    "name": "La jungle"
+  },
+  "DA_KillersRegret18": {
+    "category": "combat",
+    "description": "Vos 3 premiers champions à mourir étourdissent le champion qui les a tués pendant 1.25 sec.",
+    "id": "DA_KillersRegret18",
+    "name": "Étourdissement mortel"
+  },
+  "DA_KnickKnackBag18": {
+    "category": "misc",
+    "description": "Vous gagnez 2 consommables qui confèrent de façon permanente des dégâts d'attaque ou de la vitesse d'attaque.",
+    "id": "DA_KnickKnackBag18",
+    "name": "Sac de bric-à-brac"
+  },
+  "DA_KnickKnackJar18": {
+    "category": "misc",
+    "description": "Vous gagnez 1 consommable qui confère de façon permanente des dégâts d'attaque ou de la vitesse d'attaque.",
+    "id": "DA_KnickKnackJar18",
+    "name": "Bocal de bric-à-brac"
+  },
+  "DA_KnickKnackSack18": {
+    "category": "misc",
+    "description": "Vous gagnez 3 consommables qui confèrent de façon permanente des dégâts d'attaque ou de la vitesse d'attaque.",
+    "id": "DA_KnickKnackSack18",
+    "name": "Sac de bric-à-brac"
+  },
+  "DA_LateBloomer18": {
+    "category": "combat",
+    "description": "Une unité temporaire 3 étoile(s) à 1 PO rejoint votre équipe.",
+    "id": "DA_LateBloomer18",
+    "name": "Atout"
+  },
+  "DA_LesserChaos18": {
+    "category": "misc",
+    "description": "Vous lancez un esprit de la forêt aléatoire.",
+    "id": "DA_LesserChaos18",
+    "name": "Esprit aléatoire"
+  },
+  "DA_LivingSoil18": {
+    "category": "combat",
+    "description": "Toutes les 4 sec, des racines étourdissent un ennemi pendant 1 sec.",
+    "id": "DA_LivingSoil18",
+    "name": "Mur vivant"
+  },
+  "DA_Lucky718": {
+    "category": "shop",
+    "description": "Vous gagnez 7 relances de la boutique.",
+    "id": "DA_Lucky718",
+    "name": "7 chanceux"
+  },
+  "DA_ManaPotion18_Charm": {
+    "category": "misc",
+    "description": "Vous gagnez une Potion de mana temporaire à équiper.",
+    "id": "DA_ManaPotion18_Charm",
+    "name": "Potion de mana"
+  },
+  "DA_ManaRichSoil18": {
+    "category": "combat",
+    "description": "Vos lanceurs de compétences ont 15% de mana max en moins.",
+    "id": "DA_ManaRichSoil18",
+    "name": "Sol riche en mana"
+  },
+  "DA_MarksmensGale18": {
+    "category": "combat",
+    "description": "Les attaques de vos tireurs leur octroient 3% de vitesse d'attaque cumulable.",
+    "id": "DA_MarksmensGale18",
+    "name": "Bourrasque des tireurs"
+  },
+  "DA_MarksmensMarks18": {
+    "category": "combat",
+    "description": "Vos tireurs ont 30% de chances de lancer deux attaques.",
+    "id": "DA_MarksmensMarks18",
+    "name": "Tireurs chanceux"
+  },
+  "DA_MemorialDummy18": {
+    "category": "combat",
+    "description": "Votre premier tank équipé qui meurt fait apparaître un mannequin avec ses objets.",
+    "id": "DA_MemorialDummy18",
+    "name": "Mannequin commémoratif"
+  },
+  "DA_MiddlePath18": {
+    "category": "shop",
+    "description": "Vous relancez votre boutique en ne générant que des champions 2 étoiles à 3 PO.",
+    "id": "DA_MiddlePath18",
+    "name": "Cheminement"
+  },
+  "DA_MoonlightRitual18": {
+    "category": "combat",
+    "description": "Votre champion à 1 ou 2 PO avec le moins d'étoiles gagne une étoile supplémentaire pendant le combat.",
+    "id": "DA_MoonlightRitual18",
+    "name": "Rituel"
+  },
+  "DA_NaturesAlly18": {
+    "category": "combat",
+    "description": "Lorsque 3 alliés meurent, vous invoquez un monstre de la Jungle aléatoire.",
+    "id": "DA_NaturesAlly18",
+    "name": "Dans la jungle"
+  },
+  "DA_NaturesWrath18": {
+    "category": "combat",
+    "description": "TOUTES les unités sans objet sont éliminées après 10 sec.",
+    "id": "DA_NaturesWrath18",
+    "name": "Courroux de la nature"
+  },
+  "DA_Peddler18": {
+    "category": "item",
+    "description": "Vous ouvrez une boutique d'objets aléatoires. Les objets aléatoires coûtent entre 0 et 14 PO.",
+    "id": "DA_Peddler18",
+    "name": "Colporteur"
+  },
+  "DA_PetrifiedDummy18": {
+    "category": "combat",
+    "description": "Votre premier champion à mourir se transforme en un mannequin avec 900 PV doté des résistances du champion.",
+    "id": "DA_PetrifiedDummy18",
+    "name": "Mannequin pétrifié"
+  },
+  "DA_PetrifyShields18": {
+    "category": "combat",
+    "description": "Les ennemis sont ralentis de 10% et leurs boucliers sont réduits de 20% pendant 10 sec.",
+    "id": "DA_PetrifyShields18",
+    "name": "Lianes"
+  },
+  "DA_PhantomArmor18": {
+    "category": "combat",
+    "description": "Vous gagnez une Armure de Warmog temporaire.",
+    "id": "DA_PhantomArmor18",
+    "name": "Warmog fantôme"
+  },
+  "DA_PhantomEmblem18": {
+    "category": "combat",
+    "description": "Vous gagnez un emblème temporaire de votre type actif dont le palier est le plus élevé.",
+    "id": "DA_PhantomEmblem18",
+    "name": "Emblème fantôme"
+  },
+  "DA_PhantomGloves18": {
+    "category": "combat",
+    "description": "Vous gagnez 1 Gants de voleur temporaire.",
+    "id": "DA_PhantomGloves18",
+    "name": "Gants fantômes"
+  },
+  "DA_PhantomSplash18": {
+    "category": "combat",
+    "description": "Début du combat : un maximum de 2 types inactifs s'activent à leur niveau le plus bas.",
+    "id": "DA_PhantomSplash18",
+    "name": "Activation fantôme"
+  },
+  "DA_PhantomVest18": {
+    "category": "combat",
+    "description": "Vous gagnez une Armure roncière temporaire.",
+    "id": "DA_PhantomVest18",
+    "name": "Armure fantôme"
+  },
+  "DA_PlatedShields18": {
+    "category": "combat",
+    "description": "Les boucliers sont 15% plus puissants. Les alliés gagnent un bouclier de 150 PV pendant 10 sec.",
+    "id": "DA_PlatedShields18",
+    "name": "Boucliers renforcés"
+  },
+  "DA_Potioncraft18": {
+    "category": "misc",
+    "description": "Vous gagnez trois potions temporaires à équiper.",
+    "id": "DA_Potioncraft18",
+    "name": "Concoction de potion"
+  },
+  "DA_PottedLifebloom18": {
+    "category": "combat",
+    "description": "Vous gagnez une Fleur de vie temporaire.",
+    "id": "DA_PottedLifebloom18",
+    "name": "Fleur de vie en pot"
+  },
+  "DA_PottedStonebark18": {
+    "category": "combat",
+    "description": "Vous obtenez un Rochécorce temporaire.",
+    "id": "DA_PottedStonebark18",
+    "name": "Rochécorce en pot"
+  },
+  "DA_Quicken18": {
+    "category": "combat",
+    "description": "Lorsqu'ils lancent leur compétence, vos champions gagnent 30% de vitesse d'attaque pendant 3 sec.",
+    "id": "DA_Quicken18",
+    "name": "Accélération"
+  },
+  "DA_Rain18": {
+    "category": "combat",
+    "description": "Votre équipe gagne 1 de régénération de mana.",
+    "id": "DA_Rain18",
+    "name": "Pluie"
+  },
+  "DA_RefreshingLight18": {
+    "category": "shop",
+    "description": "Vous gagnez une relance gratuite par niveau d'étoile pour chaque champion Solaire unique.",
+    "id": "DA_RefreshingLight18",
+    "name": "Relances solaires"
+  },
+  "DA_Regeneration18": {
+    "category": "combat",
+    "description": "Votre équipe récupère 1% PV max par seconde.",
+    "id": "DA_Regeneration18",
+    "name": "Régénération"
+  },
+  "DA_Revenge18": {
+    "category": "combat",
+    "description": "Chaque fois qu'un allié meurt, vos champions gagnent un bonus cumulable de 4% d'amplification des dégâts.",
+    "id": "DA_Revenge18",
+    "name": "Vengeance"
+  },
+  "DA_RideTheWave18": {
+    "category": "shop",
+    "description": "Vos 2 prochaines relances de cette manche auront au moins 2 unités placées sur le plateau lors du dernier combat.",
+    "id": "DA_RideTheWave18",
+    "name": "Boutiques optimisées"
+  },
+  "DA_RollingBones18": {
+    "category": "shop",
+    "description": "Vous avez 50% de chances d'obtenir une relance gratuite à chaque élimination.",
+    "id": "DA_RollingBones18",
+    "name": "RC Relance"
+  },
+  "DA_RolyPolys18": {
+    "category": "shop",
+    "description": "Vous gagnez une relance pour chaque champion allié en vie après 18 sec.",
+    "id": "DA_RolyPolys18",
+    "name": "Survie rentable"
+  },
+  "DA_Salvager18": {
+    "category": "misc",
+    "description": "Toutes les unités que vous placez sur le banc voient leurs objets retirés et désassemblés.",
+    "id": "DA_Salvager18",
+    "name": "Recyclage"
+  },
+  "DA_Scrappy18": {
+    "category": "combat",
+    "description": "Début du combat : 2 champions sans objets gagnent un objet recommandé temporaire.",
+    "id": "DA_Scrappy18",
+    "name": "Ferrailleur"
+  },
+  "DA_SearchParty18": {
+    "category": "shop",
+    "description": "Chacune de vos boutiques contient un champion à 4 PO cette manche, jusqu'à ce que vous en achetiez un.",
+    "id": "DA_SearchParty18",
+    "name": "Expédition de recherche"
+  },
+  "DA_SlowStudy18": {
+    "category": "goldxp",
+    "description": "Vous gagnez 2 XP pour chaque champion allié en vie après 15 sec.",
+    "id": "DA_SlowStudy18",
+    "name": "Expérience de survie"
+  },
+  "DA_Smurfing18": {
+    "category": "champion",
+    "description": "Vous gagnez un champion à 5 PO aléatoire.",
+    "id": "DA_Smurfing18",
+    "name": "Smurfs"
+  },
+  "DA_Snacktime18": {
+    "category": "combat",
+    "description": "L'AMI dévore les ennemis auxquels il inflige des dégâts s'ils ont moins de 15% de leurs PV max.",
+    "id": "DA_Snacktime18",
+    "name": "C'est l'heure du goûter !"
+  },
+  "DA_SolarGift18": {
+    "category": "champion",
+    "description": "Vous gagnez une Leona, une Sejuani et une Kayle",
+    "id": "DA_SolarGift18",
+    "name": "Lever de soleil"
+  },
+  "DA_SolitudesCloak18": {
+    "category": "combat",
+    "description": "Les champions sans alliés adjacents gagnent 10% PV max et 10% d'amplification des dégâts.",
+    "id": "DA_SolitudesCloak18",
+    "name": "Solitude"
+  },
+  "DA_StandAlone18": {
+    "category": "combat",
+    "description": "Les champions seuls sur leur rangée gagnent 15% PV et 15% d'amplification des dégâts.",
+    "id": "DA_StandAlone18",
+    "name": "Indépendant"
+  },
+  "DA_StartingTown18": {
+    "category": "shop",
+    "description": "Vous relancez votre boutique en ne générant que des champions 2 étoiles à 1 PO.",
+    "id": "DA_StartingTown18",
+    "name": "Nouveau départ"
+  },
+  "DA_Stealthy18": {
+    "category": "combat",
+    "description": "Vos 2 combattants ou assassins les plus forts deviennent impossible à cibler pendant 6 sec.",
+    "id": "DA_Stealthy18",
+    "name": "Furtivité"
+  },
+  "DA_Terraforming18": {
+    "category": "misc",
+    "description": "Vous gagnez 5 graines au début du combat.",
+    "id": "DA_Terraforming18",
+    "name": "Terraformation"
+  },
+  "DA_ThingamajigBag18": {
+    "category": "misc",
+    "description": "Vous gagnez 2 consommables qui confèrent de façon permanente de la puissance ou de la régénération de mana.",
+    "id": "DA_ThingamajigBag18",
+    "name": "Besace à machins"
+  },
+  "DA_ThingamajigJar18": {
+    "category": "misc",
+    "description": "Vous gagnez 1 consommable qui confère de façon permanente de la puissance ou de la régénération de mana.",
+    "id": "DA_ThingamajigJar18",
+    "name": "Bocal à machins"
+  },
+  "DA_ThingamajigSack18": {
+    "category": "misc",
+    "description": "Vous gagnez 3 consommables qui confèrent de façon permanente de la puissance ou de la régénération de mana.",
+    "id": "DA_ThingamajigSack18",
+    "name": "Sac à machins"
+  },
+  "DA_ThreeMe18": {
+    "category": "champion",
+    "description": "Vous gagnez un champion 2 étoiles à 3 PO aléatoire.",
+    "id": "DA_ThreeMe18",
+    "name": "Trois aléatoire"
+  },
+  "DA_TigersVisit18_Wisp": {
+    "category": "combat",
+    "description": "Vous gagnez le buff primitif du tigre pour ce combat.",
+    "id": "DA_TigersVisit18_Wisp",
+    "name": "Visite du tigre"
+  },
+  "DA_TrainingYard18": {
+    "category": "combat",
+    "description": "Vous gagnez 2 Mannequins d'entraînement, chacun équipé d'un objet de tank aléatoire.",
+    "id": "DA_TrainingYard18",
+    "name": "Terrain d'entraînement"
+  },
+  "DA_TreetopArchers": {
+    "category": "combat",
+    "description": "Des archers tirent depuis les arbres, infligeant 500 pts de dégâts physiques toutes les 3 sec.",
+    "id": "DA_TreetopArchers",
+    "name": "Archers"
+  },
+  "DA_TrophyHunter18": {
+    "category": "risky",
+    "description": "Lors du prochain combat contre un joueur, les éliminations de vos Rivaux comptent double.",
+    "id": "DA_TrophyHunter18",
+    "name": "Chasseur de trophées"
+  },
+  "DA_TurtlesVisit18": {
+    "category": "combat",
+    "description": "Vous gagnez le buff primitif de la tortue pour ce combat.",
+    "id": "DA_TurtlesVisit18",
+    "name": "Visite de la tortue"
+  },
+  "DA_WrappedInThorns18": {
+    "category": "combat",
+    "description": "Vos tanks renvoient 12% des dégâts subis aux ennemis adjacents toutes les 4 sec.",
+    "id": "DA_WrappedInThorns18",
+    "name": "Épines"
+  }
+}

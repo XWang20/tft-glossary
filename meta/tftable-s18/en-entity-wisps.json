@@ -1,0 +1,980 @@
+{
+  "DA_18_AfterShock": {
+    "category": "combat",
+    "description": "After 8 seconds, stun all enemies for 1.5 seconds.",
+    "id": "DA_18_AfterShock",
+    "name": "Aftershock"
+  },
+  "DA_18_AllFives": {
+    "category": "shop",
+    "description": "Reroll your shop with all 5-cost champions.",
+    "id": "DA_18_AllFives",
+    "name": "All Fives"
+  },
+  "DA_18_AllFours": {
+    "category": "shop",
+    "description": "Reroll your shop with all 4-cost champions.",
+    "id": "DA_18_AllFours",
+    "name": "All Fours"
+  },
+  "DA_18_AllOnes": {
+    "category": "shop",
+    "description": "Reroll your shop with all 1-cost champions.",
+    "id": "DA_18_AllOnes",
+    "name": "All Ones"
+  },
+  "DA_18_AllThrees": {
+    "category": "shop",
+    "description": "Reroll your shop with all 3-cost champions.",
+    "id": "DA_18_AllThrees",
+    "name": "All Threes"
+  },
+  "DA_18_AllTwos": {
+    "category": "shop",
+    "description": "Reroll your shop with all 2-cost champions.",
+    "id": "DA_18_AllTwos",
+    "name": "All Twos"
+  },
+  "DA_18_BackrowStar": {
+    "category": "combat",
+    "description": "A random back row champion gains 75% Attack Speed for 7 seconds.",
+    "id": "DA_18_BackrowStar",
+    "name": "Backrow Star"
+  },
+  "DA_18_BarkArmor": {
+    "category": "combat",
+    "description": "Your champions gain 150 shield for 10 seconds.",
+    "id": "DA_18_BarkArmor",
+    "name": "Bark Armor"
+  },
+  "DA_18_BloodMoney": {
+    "category": "goldxp",
+    "description": "Gain 1 gold for every champion you kill.",
+    "id": "DA_18_BloodMoney",
+    "name": "Blood Money"
+  },
+  "DA_18_BronzeSpoon": {
+    "category": "goldxp",
+    "description": "Gain 4 XP.",
+    "id": "DA_18_BronzeSpoon",
+    "name": "Bronze Spoon"
+  },
+  "DA_18_CircleofElders": {
+    "category": "champion",
+    "description": "Gain one of each 5-cost champion.",
+    "id": "DA_18_CircleofElders",
+    "name": "Circle of Elders"
+  },
+  "DA_18_Counterspell": {
+    "category": "combat",
+    "description": "Increase all enemies' Max Mana by 15 until their next cast.",
+    "id": "DA_18_Counterspell",
+    "name": "Counterspell"
+  },
+  "DA_18_EarlyFix": {
+    "category": "misc",
+    "description": "Gain 1 Item Reforger.",
+    "id": "DA_18_EarlyFix",
+    "name": "Early Fix"
+  },
+  "DA_18_Experienced": {
+    "category": "goldxp",
+    "description": "Gain 2 XP.",
+    "id": "DA_18_Experienced",
+    "name": "Experienced"
+  },
+  "DA_18_Fellowship": {
+    "category": "combat",
+    "description": "Champions gain 4% Max Health Shield and 4% Damage Amp per adjacent ally.",
+    "id": "DA_18_Fellowship",
+    "name": "Fellowship"
+  },
+  "DA_18_Fertilize": {
+    "category": "risky",
+    "description": "Gain 1 XP for each enemy that dies.",
+    "id": "DA_18_Fertilize",
+    "name": "Fertilize"
+  },
+  "DA_18_FieldofMice": {
+    "category": "champion",
+    "description": "Gain a Tiny Champion Duplicator for each unique one-cost fielded last round.",
+    "id": "DA_18_FieldofMice",
+    "name": "Field of Mice"
+  },
+  "DA_18_ForestMage": {
+    "category": "misc",
+    "description": "Fill your shop with Wisps. You can only buy one.",
+    "id": "DA_18_ForestMage",
+    "name": "Forest Mage"
+  },
+  "DA_18_Freeroller": {
+    "category": "shop",
+    "description": "Gain 2 rerolls.",
+    "id": "DA_18_Freeroller",
+    "name": "Freeroller"
+  },
+  "DA_18_GiantGrowth": {
+    "category": "combat",
+    "description": "Your highest Health unit grows, gaining 600 Health.",
+    "id": "DA_18_GiantGrowth",
+    "name": "Giant Growth"
+  },
+  "DA_18_HeatedRivalry": {
+    "category": "champion",
+    "description": "Gain a Rengar or a Kha'Zix. They gain 3 takedowns.",
+    "id": "DA_18_HeatedRivalry",
+    "name": "Heated Rivalry"
+  },
+  "DA_18_HeroicSacrifice": {
+    "category": "combat",
+    "description": "Your 3 strongest Champions gain HEROIC POWER, but other allies are sacrificed.",
+    "id": "DA_18_HeroicSacrifice",
+    "name": "Heroic Sacrifice"
+  },
+  "DA_18_Hummingbird": {
+    "category": "combat",
+    "description": "Your highest Attack Speed unit shrinks, gaining 20% Attack Speed.",
+    "id": "DA_18_Hummingbird",
+    "name": "Hummingbird"
+  },
+  "DA_18_Infliction": {
+    "category": "combat",
+    "description": "Slow, Burn, Shred, and Sunder enemies for 8 seconds.",
+    "id": "DA_18_Infliction",
+    "name": "Infliction"
+  },
+  "DA_18_KillingFrenzy": {
+    "category": "combat",
+    "description": "Fighters execute targets under 12% Health. They gain 15% Attack Speed on kill.",
+    "id": "DA_18_KillingFrenzy",
+    "name": "Killing Frenzy"
+  },
+  "DA_18_LifeDebt": {
+    "category": "goldxp",
+    "description": "Gain 1 gold for every 12 missing Player Health.",
+    "id": "DA_18_LifeDebt",
+    "name": "Life Debt"
+  },
+  "DA_18_LightningStorm": {
+    "category": "combat",
+    "description": "Every 1 second deal 5% Max Health true damage to an enemy.",
+    "id": "DA_18_LightningStorm",
+    "name": "Lightning Storm"
+  },
+  "DA_18_LightningStrike": {
+    "category": "combat",
+    "description": "Deal 10% Max Health true damage to all enemies.",
+    "id": "DA_18_LightningStrike",
+    "name": "Lightning Strike"
+  },
+  "DA_18_LostTravelers": {
+    "category": "champion",
+    "description": "Gain 3 gold worth of random champions.",
+    "id": "DA_18_LostTravelers",
+    "name": "Lost Travelers"
+  },
+  "DA_18_MajorPolymorph": {
+    "category": "risky",
+    "description": "A random 4-cost you own permanently transforms into a 5-cost.",
+    "id": "DA_18_MajorPolymorph",
+    "name": "Major Polymorph"
+  },
+  "DA_18_MercenaryForce": {
+    "category": "combat",
+    "description": "Gain 3% Damage Amp for every 10 gold you have.",
+    "id": "DA_18_MercenaryForce",
+    "name": "Mercenary Force"
+  },
+  "DA_18_MinorPolymorph": {
+    "category": "risky",
+    "description": "A random 1-cost you own permanently transforms into a 2-cost.",
+    "id": "DA_18_MinorPolymorph",
+    "name": "Minor Polymorph"
+  },
+  "DA_18_Mitosis": {
+    "category": "champion",
+    "description": "Gain a Tiny Champion Duplicator.",
+    "id": "DA_18_Mitosis",
+    "name": "Mitosis"
+  },
+  "DA_18_Moonrise": {
+    "category": "combat",
+    "description": "After 8 seconds, increase Lunar's effects by 100%.",
+    "id": "DA_18_Moonrise",
+    "name": "Moonrise"
+  },
+  "DA_18_Payday": {
+    "category": "risky",
+    "description": "For each ally champion that survives combat, gain 2 Gold.",
+    "id": "DA_18_Payday",
+    "name": "Payday"
+  },
+  "DA_18_PocketChange": {
+    "category": "goldxp",
+    "description": "Your one-star champions drop 1 gold on death.",
+    "id": "DA_18_PocketChange",
+    "name": "Pocket Change"
+  },
+  "DA_18_Polymorph": {
+    "category": "risky",
+    "description": "A random 2-cost you own permanently transforms into a 3-cost.",
+    "id": "DA_18_Polymorph",
+    "name": "Polymorph"
+  },
+  "DA_18_Preppers": {
+    "category": "combat",
+    "description": "Your stacking items start next combat partially stacked.",
+    "id": "DA_18_Preppers",
+    "name": "Preppers"
+  },
+  "DA_18_ProlificPower": {
+    "category": "combat",
+    "description": "Your champions gain 8% Attack Damage and Ability Power.",
+    "id": "DA_18_ProlificPower",
+    "name": "Prolific Power"
+  },
+  "DA_18_Propagate": {
+    "category": "champion",
+    "description": "Gain a copy of the first allied champion to die.",
+    "id": "DA_18_Propagate",
+    "name": "Propagate"
+  },
+  "DA_18_Radiantize": {
+    "category": "combat",
+    "description": "After 10 seconds, 1 random equipped item temporarily becomes Radiant.",
+    "id": "DA_18_Radiantize",
+    "name": "Radiantize"
+  },
+  "DA_18_Resistant": {
+    "category": "combat",
+    "description": "Tanks reduce instances of incoming damage by 10.",
+    "id": "DA_18_Resistant",
+    "name": "Resistant"
+  },
+  "DA_18_Starfall": {
+    "category": "shop",
+    "description": "The first 6 times you reroll your shop this round, the lowest cost champion becomes 2-star.",
+    "id": "DA_18_Starfall",
+    "name": "Starfall"
+  },
+  "DA_18_SunfireSorcery": {
+    "category": "combat",
+    "description": "Burn and Wound enemies for 10 seconds.",
+    "id": "DA_18_SunfireSorcery",
+    "name": "Sunfire Sorcery"
+  },
+  "DA_18_Supercritical": {
+    "category": "combat",
+    "description": "Allies with Precision gain 25% Critical Strike Damage.",
+    "id": "DA_18_Supercritical",
+    "name": "Supercritical"
+  },
+  "DA_18_TatteredArmor": {
+    "category": "combat",
+    "description": "30% Shred and Sunder enemies for 10 seconds.",
+    "id": "DA_18_TatteredArmor",
+    "name": "Tattered Armor"
+  },
+  "DA_18_Tremors": {
+    "category": "combat",
+    "description": "Every 8 seconds, Stun enemies for 1 second.",
+    "id": "DA_18_Tremors",
+    "name": "Tremors"
+  },
+  "DA_18_UltraAscension": {
+    "category": "combat",
+    "description": "After 25 seconds, allies gain 300% Damage Amp.",
+    "id": "DA_18_UltraAscension",
+    "name": "Ultra Ascension"
+  },
+  "DA_18_VerdantVitality": {
+    "category": "combat",
+    "description": "Your champions gain 100 Health.",
+    "id": "DA_18_VerdantVitality",
+    "name": "Verdant Vitality"
+  },
+  "DA_18_YordleSpirit": {
+    "category": "combat",
+    "description": "Allies have a 99% chance to dodge attacks for 4 seconds.",
+    "id": "DA_18_YordleSpirit",
+    "name": "Yordle Spirit"
+  },
+  "DA_AbandonShip18": {
+    "category": "risky",
+    "description": "Sell your board and bench, gain 6 gold and 10 rerolls.",
+    "id": "DA_AbandonShip18",
+    "name": "Abandon Ship"
+  },
+  "DA_AnimateShop18": {
+    "category": "shop",
+    "description": "For 18 seconds, your shop rerolls for free every 2 seconds.",
+    "id": "DA_AnimateShop18",
+    "name": "Animate Shop"
+  },
+  "DA_Apprentice18": {
+    "category": "champion",
+    "description": "Gain a random 2-star 1-cost champion.",
+    "id": "DA_Apprentice18",
+    "name": "Apprentice"
+  },
+  "DA_Artifactinate18": {
+    "category": "item",
+    "description": "Lose 3 components, including ones built into items. Gain an Artifact anvil.",
+    "id": "DA_Artifactinate18",
+    "name": "Artifactinate"
+  },
+  "DA_Barrier18": {
+    "category": "combat",
+    "description": "Allies gain 1200 Shield, decaying over 5 seconds.",
+    "id": "DA_Barrier18",
+    "name": "Barrier"
+  },
+  "DA_Barter18": {
+    "category": "goldxp",
+    "description": "The next champion sold this round sells for 200% gold.",
+    "id": "DA_Barter18",
+    "name": "Barter"
+  },
+  "DA_BearsVisit18": {
+    "category": "combat",
+    "description": "Gain the Bear Primal buff for this combat.",
+    "id": "DA_BearsVisit18",
+    "name": "Bear's Visit"
+  },
+  "DA_BeggarsWisp18": {
+    "category": "goldxp",
+    "description": "The wilds couldn't find a wisp for you this roll. Gain 4 gold.",
+    "id": "DA_BeggarsWisp18",
+    "name": "Beggar's Wisp"
+  },
+  "DA_BigBoom18": {
+    "category": "combat",
+    "description": "The first ally to die explodes, dealing 25% Max Health magic damage.",
+    "id": "DA_BigBoom18",
+    "name": "Big Boom"
+  },
+  "DA_BigGuns18": {
+    "category": "champion",
+    "description": "Gain 2 random 1-star 4-cost champions.",
+    "id": "DA_BigGuns18",
+    "name": "Big Guns"
+  },
+  "DA_BlastPotion18_Charm": {
+    "category": "misc",
+    "description": "Gain a temporary equippable Blast Potion.",
+    "id": "DA_BlastPotion18_Charm",
+    "name": "Blast Potion"
+  },
+  "DA_Blaze18": {
+    "category": "combat",
+    "description": "Fire spreads across the board, dealing true damage to enemies.",
+    "id": "DA_Blaze18",
+    "name": "Blaze"
+  },
+  "DA_BloodAndIron18": {
+    "category": "item",
+    "description": "After 20 champion deaths, gain a component anvil.",
+    "id": "DA_BloodAndIron18",
+    "name": "Blood and Iron"
+  },
+  "DA_BoosterShot18": {
+    "category": "combat",
+    "description": "Up to 2 1-star champions temporarily star up during combat.",
+    "id": "DA_BoosterShot18",
+    "name": "Booster Shot"
+  },
+  "DA_BorderVillage18": {
+    "category": "shop",
+    "description": "Reroll your shop with all 2-star 2-cost champions.",
+    "id": "DA_BorderVillage18",
+    "name": "Border Village"
+  },
+  "DA_BorrowedGear18": {
+    "category": "combat",
+    "description": "A champion gains a temporary recommended item.",
+    "id": "DA_BorrowedGear18",
+    "name": "Borrowed Gear"
+  },
+  "DA_Bulwark18": {
+    "category": "combat",
+    "description": "Your Tanks gain a 20% Max Health shield upon falling below 50% Health.",
+    "id": "DA_Bulwark18",
+    "name": "Bulwark"
+  },
+  "DA_BunchOBelts18": {
+    "category": "combat",
+    "description": "Your allies gain 7 temporary, non-removable Giant's Belts.",
+    "id": "DA_BunchOBelts18",
+    "name": "Bunch-o'-Belts"
+  },
+  "DA_CloneCompanion18": {
+    "category": "combat",
+    "description": "Clone your highest damage champion. The clone deals 20% damage.",
+    "id": "DA_CloneCompanion18",
+    "name": "Clone Companion"
+  },
+  "DA_CoinFlip18": {
+    "category": "goldxp",
+    "description": "Flip a coin, gain 1 gold if it's heads.",
+    "id": "DA_CoinFlip18",
+    "name": "Coin Flip"
+  },
+  "DA_Combust18": {
+    "category": "combat",
+    "description": "Your champions explode on death, dealing 15% Max Health magic damage.",
+    "id": "DA_Combust18",
+    "name": "Combust"
+  },
+  "DA_CurioCart18": {
+    "category": "item",
+    "description": "Open an item store. Items cost 0 to 22 gold.",
+    "id": "DA_CurioCart18",
+    "name": "Curio Cart"
+  },
+  "DA_Cutpurse18": {
+    "category": "risky",
+    "description": "Every 5 seconds, your champions have a 15% chance to drop 1 Gold.",
+    "id": "DA_Cutpurse18",
+    "name": "Cutpurse"
+  },
+  "DA_DieRoll18": {
+    "category": "goldxp",
+    "description": "Roll a six-sided die. Gain gold equal to the result.",
+    "id": "DA_DieRoll18",
+    "name": "Die Roll"
+  },
+  "DA_Diversified18": {
+    "category": "combat",
+    "description": "Your team gains 30 Health for each active non-unique trait.",
+    "id": "DA_Diversified18",
+    "name": "Diversified"
+  },
+  "DA_DoodadBag18": {
+    "category": "misc",
+    "description": "Gain 2 consumables that give permanent Armor and Magic Resist or Health.",
+    "id": "DA_DoodadBag18",
+    "name": "Doodad Bag"
+  },
+  "DA_DoodadJar18": {
+    "category": "misc",
+    "description": "Gain 1 consumable that gives permanent Armor and Magic Resist or Health.",
+    "id": "DA_DoodadJar18",
+    "name": "Doodad Jar"
+  },
+  "DA_DoodadSack18": {
+    "category": "misc",
+    "description": "Gain 3 consumables that give permanent Armor and Magic Resist or Health.",
+    "id": "DA_DoodadSack18",
+    "name": "Doodad Sack"
+  },
+  "DA_Downpour18": {
+    "category": "combat",
+    "description": "Your team gains 2 Mana Regen.",
+    "id": "DA_Downpour18",
+    "name": "Downpour"
+  },
+  "DA_EssenceTheft18": {
+    "category": "risky",
+    "description": "Gain 50% bonus Coven Essence this combat.",
+    "id": "DA_EssenceTheft18",
+    "name": "Essence Theft"
+  },
+  "DA_FlashFire18": {
+    "category": "shop",
+    "description": "Reroll your shop. Inferno lights 2 shop slots on fire, upgrading them.",
+    "id": "DA_FlashFire18",
+    "name": "Flash Fire"
+  },
+  "DA_FlipFrenzy18": {
+    "category": "risky",
+    "description": "Flip a coin, gain 1 gold if it's heads. Continue until you flip tails.",
+    "id": "DA_FlipFrenzy18",
+    "name": "Flip Frenzy"
+  },
+  "DA_Flow18": {
+    "category": "combat",
+    "description": "Your champions are Unstoppable and gain 15% Attack Speed for 10 seconds.",
+    "id": "DA_Flow18",
+    "name": "Flow"
+  },
+  "DA_ForestGuide18": {
+    "category": "champion",
+    "description": "Gain a random 4-cost champion.",
+    "id": "DA_ForestGuide18",
+    "name": "Forest Guide"
+  },
+  "DA_ForestTwins18": {
+    "category": "champion",
+    "description": "Gain 2 copies of a 2-cost champion you don't have.",
+    "id": "DA_ForestTwins18",
+    "name": "Forest Twins"
+  },
+  "DA_FoundFriend18": {
+    "category": "combat",
+    "description": "Gain a temporary Training Dummy with a Giant's Belt.",
+    "id": "DA_FoundFriend18",
+    "name": "Found Friend"
+  },
+  "DA_GiantsAura18": {
+    "category": "combat",
+    "description": "Your highest Health ally deals 2% max Health damage per second in an area.",
+    "id": "DA_GiantsAura18",
+    "name": "Giant's Aura"
+  },
+  "DA_GoldenGoose18": {
+    "category": "goldxp",
+    "description": "Gain 1 gold for every 1700 damage your highest damage champion deals.",
+    "id": "DA_GoldenGoose18",
+    "name": "Golden Goose"
+  },
+  "DA_Grandmaster18": {
+    "category": "champion",
+    "description": "Gain a random 2-star 5-cost champion.",
+    "id": "DA_Grandmaster18",
+    "name": "Grandmaster"
+  },
+  "DA_GreaterChaos18": {
+    "category": "misc",
+    "description": "Cast 2 random Wisps.",
+    "id": "DA_GreaterChaos18",
+    "name": "Greater Chaos"
+  },
+  "DA_GrowUp18": {
+    "category": "goldxp",
+    "description": "Gain 10 XP.",
+    "id": "DA_GrowUp18",
+    "name": "Grow Up"
+  },
+  "DA_HandOfBaron18": {
+    "category": "combat",
+    "description": "Your team gains Baron Buff, increasing their stats.",
+    "id": "DA_HandOfBaron18",
+    "name": "Hand Of Baron"
+  },
+  "DA_HealthPotion18_Charm": {
+    "category": "misc",
+    "description": "Gain a tempoary equippable Health Potion.",
+    "id": "DA_HealthPotion18_Charm",
+    "name": "Health Potion"
+  },
+  "DA_HeroOfProphecy18": {
+    "category": "champion",
+    "description": "Gain a 5-cost champion. Gain them again each round FOREVER.",
+    "id": "DA_HeroOfProphecy18",
+    "name": "Hero Of Prophecy"
+  },
+  "DA_HerosEntrance18": {
+    "category": "combat",
+    "description": "After 8 seconds, the leftmost benched champion joins combat and gains 2 recommended items.",
+    "id": "DA_HerosEntrance18",
+    "name": "Hero's Entrance"
+  },
+  "DA_Hireling18": {
+    "category": "combat",
+    "description": "A temporary 1-star 5-cost with 1 recommended items joins your team.",
+    "id": "DA_Hireling18",
+    "name": "Hireling"
+  },
+  "DA_HomingFireflies18": {
+    "category": "combat",
+    "description": "Your Casters spawn a firefly per 20 Mana spent. Each deals 125 magic damage.",
+    "id": "DA_HomingFireflies18",
+    "name": "Homing Fireflies"
+  },
+  "DA_Hugify18": {
+    "category": "combat",
+    "description": "Your highest Health unit grows, gaining 350 Health.",
+    "id": "DA_Hugify18",
+    "name": "Hugify"
+  },
+  "DA_IdleCraftsman18": {
+    "category": "item",
+    "description": "A component on your bench turns into a completed item it builds.",
+    "id": "DA_IdleCraftsman18",
+    "name": "Idle Craftsman"
+  },
+  "DA_ImprovedReach18": {
+    "category": "combat",
+    "description": "Your Fighters gain 1 range.",
+    "id": "DA_ImprovedReach18",
+    "name": "Improved Reach"
+  },
+  "DA_IronCore18": {
+    "category": "combat",
+    "description": "Your front center champion gains 4% Max Health per front-row unit.",
+    "id": "DA_IronCore18",
+    "name": "Iron Core"
+  },
+  "DA_Ironwood18": {
+    "category": "combat",
+    "description": "Enemies attacking your highest health champion deal 10% less damage.",
+    "id": "DA_Ironwood18",
+    "name": "Ironwood"
+  },
+  "DA_Journeyman18": {
+    "category": "champion",
+    "description": "Gain a random 2-star 2-cost champion.",
+    "id": "DA_Journeyman18",
+    "name": "Journeyman"
+  },
+  "DA_Jungling18": {
+    "category": "shop",
+    "description": "Overrun the shop with Riftbeasts.",
+    "id": "DA_Jungling18",
+    "name": "Jungling"
+  },
+  "DA_KillersRegret18": {
+    "category": "combat",
+    "description": "Your first 3 champions to die stun their killer for 1.25 seconds.",
+    "id": "DA_KillersRegret18",
+    "name": "Killer's Regret"
+  },
+  "DA_KnickKnackBag18": {
+    "category": "misc",
+    "description": "Gain 2 consumables that give permanent Attack Damage or Attack Speed.",
+    "id": "DA_KnickKnackBag18",
+    "name": "Knick-Knack Bag"
+  },
+  "DA_KnickKnackJar18": {
+    "category": "misc",
+    "description": "Gain 1 consumable that gives permanent Attack Damage or Attack Speed.",
+    "id": "DA_KnickKnackJar18",
+    "name": "Knick-Knack Jar"
+  },
+  "DA_KnickKnackSack18": {
+    "category": "misc",
+    "description": "Gain 3 consumables that give permanent Attack Damage or Attack Speed.",
+    "id": "DA_KnickKnackSack18",
+    "name": "Knick-Knack Sack"
+  },
+  "DA_LateBloomer18": {
+    "category": "combat",
+    "description": "A temporary 3-star 1-cost joins your team.",
+    "id": "DA_LateBloomer18",
+    "name": "Late Bloomer"
+  },
+  "DA_LesserChaos18": {
+    "category": "misc",
+    "description": "Cast a random Wisp.",
+    "id": "DA_LesserChaos18",
+    "name": "Lesser Chaos"
+  },
+  "DA_LivingSoil18": {
+    "category": "combat",
+    "description": "Every 4 seconds, roots stun an enemy for 1 second.",
+    "id": "DA_LivingSoil18",
+    "name": "Living Soil"
+  },
+  "DA_Lucky718": {
+    "category": "shop",
+    "description": "Gain 7 shop rerolls.",
+    "id": "DA_Lucky718",
+    "name": "Lucky 7"
+  },
+  "DA_ManaPotion18_Charm": {
+    "category": "misc",
+    "description": "Gain a temporary equippable Mana Potion.",
+    "id": "DA_ManaPotion18_Charm",
+    "name": "Mana Potion"
+  },
+  "DA_ManaRichSoil18": {
+    "category": "combat",
+    "description": "Your Casters have 15% reduced Max Mana.",
+    "id": "DA_ManaRichSoil18",
+    "name": "Mana-Rich Soil"
+  },
+  "DA_MarksmensGale18": {
+    "category": "combat",
+    "description": "Your Marksmen's attacks grant 3% stacking Attack Speed.",
+    "id": "DA_MarksmensGale18",
+    "name": "Marksmen's Gale"
+  },
+  "DA_MarksmensMarks18": {
+    "category": "combat",
+    "description": "Your Marksmen have a 30% chance to double attack.",
+    "id": "DA_MarksmensMarks18",
+    "name": "Marksmen's Marks"
+  },
+  "DA_MemorialDummy18": {
+    "category": "combat",
+    "description": "Your first itemized tank spawns a Dummy with their items on death.",
+    "id": "DA_MemorialDummy18",
+    "name": "Memorial Dummy"
+  },
+  "DA_MiddlePath18": {
+    "category": "shop",
+    "description": "Reroll your shop with all 2-star 3-cost champions.",
+    "id": "DA_MiddlePath18",
+    "name": "Middle Path"
+  },
+  "DA_MoonlightRitual18": {
+    "category": "combat",
+    "description": "Your lowest star 1-cost or 2-cost champion stars up in combat.",
+    "id": "DA_MoonlightRitual18",
+    "name": "Moonlight Ritual"
+  },
+  "DA_NaturesAlly18": {
+    "category": "combat",
+    "description": "Every 3 ally deaths, summon a random Riftbeast.",
+    "id": "DA_NaturesAlly18",
+    "name": "Nature's Ally"
+  },
+  "DA_NaturesWrath18": {
+    "category": "combat",
+    "description": "Kill EVERYONE without an item after 10 seconds.",
+    "id": "DA_NaturesWrath18",
+    "name": "Nature's Wrath"
+  },
+  "DA_Peddler18": {
+    "category": "item",
+    "description": "Open a random item store. Random items cost 0 to 14 gold.",
+    "id": "DA_Peddler18",
+    "name": "Peddler"
+  },
+  "DA_PetrifiedDummy18": {
+    "category": "combat",
+    "description": "Your first champion to die turns into a 900 Health dummy with their defenses.",
+    "id": "DA_PetrifiedDummy18",
+    "name": "Petrified Dummy"
+  },
+  "DA_PetrifyShields18": {
+    "category": "combat",
+    "description": "10% Slow enemies and reduce their shields by 20% for 10 seconds.",
+    "id": "DA_PetrifyShields18",
+    "name": "Petrify Shields"
+  },
+  "DA_PhantomArmor18": {
+    "category": "combat",
+    "description": "Gain a temporary Warmog's Armor.",
+    "id": "DA_PhantomArmor18",
+    "name": "Phantom Armor"
+  },
+  "DA_PhantomEmblem18": {
+    "category": "combat",
+    "description": "Gain a temporary emblem of your most active trait.",
+    "id": "DA_PhantomEmblem18",
+    "name": "Phantom Emblem"
+  },
+  "DA_PhantomGloves18": {
+    "category": "combat",
+    "description": "Gain a temporary Thief's Gloves.",
+    "id": "DA_PhantomGloves18",
+    "name": "Phantom Gloves"
+  },
+  "DA_PhantomSplash18": {
+    "category": "combat",
+    "description": "Combat start: Up to 2 inactive traits activate at the lowest level.",
+    "id": "DA_PhantomSplash18",
+    "name": "Phantom Splash"
+  },
+  "DA_PhantomVest18": {
+    "category": "combat",
+    "description": "Gain a temporary Bramble Vest.",
+    "id": "DA_PhantomVest18",
+    "name": "Phantom Vest"
+  },
+  "DA_PlatedShields18": {
+    "category": "combat",
+    "description": "Shields are 15% stronger. Allies gain 150 shield for 10 seconds.",
+    "id": "DA_PlatedShields18",
+    "name": "Plated Shields"
+  },
+  "DA_Potioncraft18": {
+    "category": "misc",
+    "description": "Gain three temporary equippable Potions.",
+    "id": "DA_Potioncraft18",
+    "name": "Potioncraft"
+  },
+  "DA_PottedLifebloom18": {
+    "category": "combat",
+    "description": "Gain a temporary Lifeblossom.",
+    "id": "DA_PottedLifebloom18",
+    "name": "Potted Lifebloom"
+  },
+  "DA_PottedStonebark18": {
+    "category": "combat",
+    "description": "Gain a temporary Stonebark Tree.",
+    "id": "DA_PottedStonebark18",
+    "name": "Potted Stonebark"
+  },
+  "DA_Quicken18": {
+    "category": "combat",
+    "description": "On cast, your champions gain 30% Attack Speed for 3 seconds.",
+    "id": "DA_Quicken18",
+    "name": "Quicken"
+  },
+  "DA_Rain18": {
+    "category": "combat",
+    "description": "Your team gains 1 Mana Regen.",
+    "id": "DA_Rain18",
+    "name": "Rain"
+  },
+  "DA_RefreshingLight18": {
+    "category": "shop",
+    "description": "Gain a free reroll per star level of each unique Solar champion.",
+    "id": "DA_RefreshingLight18",
+    "name": "Refreshing Light"
+  },
+  "DA_Regeneration18": {
+    "category": "combat",
+    "description": "Your team heals 1% max Health per second.",
+    "id": "DA_Regeneration18",
+    "name": "Regeneration"
+  },
+  "DA_Revenge18": {
+    "category": "combat",
+    "description": "Whenever an ally dies, your champions gain 4% stacking Damage Amp.",
+    "id": "DA_Revenge18",
+    "name": "Revenge"
+  },
+  "DA_RideTheWave18": {
+    "category": "shop",
+    "description": "The next 2 rerolls this round will have 2+ champions fielded last combat.",
+    "id": "DA_RideTheWave18",
+    "name": "Ride the Wave"
+  },
+  "DA_RollingBones18": {
+    "category": "shop",
+    "description": "You have a 50% chance to get a free reroll with each kill.",
+    "id": "DA_RollingBones18",
+    "name": "Rolling Bones"
+  },
+  "DA_RolyPolys18": {
+    "category": "shop",
+    "description": "For each ally champion alive after 18 seconds, gain a reroll.",
+    "id": "DA_RolyPolys18",
+    "name": "Roly-Polys"
+  },
+  "DA_Salvager18": {
+    "category": "misc",
+    "description": "Any units you bench have items removed and broken apart.",
+    "id": "DA_Salvager18",
+    "name": "Salvager"
+  },
+  "DA_Scrappy18": {
+    "category": "combat",
+    "description": "Combat start: 2 champions without items gain a temporary recommended item.",
+    "id": "DA_Scrappy18",
+    "name": "Scrappy"
+  },
+  "DA_SearchParty18": {
+    "category": "shop",
+    "description": "Each of your shops has a 4-cost in it this round until you buy one.",
+    "id": "DA_SearchParty18",
+    "name": "Search Party"
+  },
+  "DA_SlowStudy18": {
+    "category": "goldxp",
+    "description": "For each ally champion alive after 15 seconds, gain 2 XP.",
+    "id": "DA_SlowStudy18",
+    "name": "Slow Study"
+  },
+  "DA_Smurfing18": {
+    "category": "champion",
+    "description": "Gain a random 5 cost champion.",
+    "id": "DA_Smurfing18",
+    "name": "Smurfing"
+  },
+  "DA_Snacktime18": {
+    "category": "combat",
+    "description": "The BFF eats enemies he damages under 15% Max Health.",
+    "id": "DA_Snacktime18",
+    "name": "Snacktime!"
+  },
+  "DA_SolarGift18": {
+    "category": "champion",
+    "description": "Gain a Leona, Sejuani, and Kayle",
+    "id": "DA_SolarGift18",
+    "name": "Solar Gift"
+  },
+  "DA_SolitudesCloak18": {
+    "category": "combat",
+    "description": "Champions with no adjacent allies gain 10% Max Health and 10% Damage Amp.",
+    "id": "DA_SolitudesCloak18",
+    "name": "Solitude's Cloak"
+  },
+  "DA_StandAlone18": {
+    "category": "combat",
+    "description": "Champions alone in their row gain 15% Health and 15% Damage Amp.",
+    "id": "DA_StandAlone18",
+    "name": "Stand Alone"
+  },
+  "DA_StartingTown18": {
+    "category": "shop",
+    "description": "Reroll your shop with all 2-star 1-cost champions.",
+    "id": "DA_StartingTown18",
+    "name": "Starting Town"
+  },
+  "DA_Stealthy18": {
+    "category": "combat",
+    "description": "Your 2 strongest Fighters or Assassins are untargetable for 6 seconds.",
+    "id": "DA_Stealthy18",
+    "name": "Stealthy"
+  },
+  "DA_Terraforming18": {
+    "category": "misc",
+    "description": "Gain 5 seeds at start of combat.",
+    "id": "DA_Terraforming18",
+    "name": "Terraforming"
+  },
+  "DA_ThingamajigBag18": {
+    "category": "misc",
+    "description": "Gain 2 consumables that give permanent Ability Power or Mana Regen.",
+    "id": "DA_ThingamajigBag18",
+    "name": "Thingamajig Bag"
+  },
+  "DA_ThingamajigJar18": {
+    "category": "misc",
+    "description": "Gain 1 consumable that gives permanent Ability Power or Mana Regen.",
+    "id": "DA_ThingamajigJar18",
+    "name": "Thingamajig Jar"
+  },
+  "DA_ThingamajigSack18": {
+    "category": "misc",
+    "description": "Gain 3 consumables that give permanent Ability Power or Mana Regen.",
+    "id": "DA_ThingamajigSack18",
+    "name": "Thingamajig Sack"
+  },
+  "DA_ThreeMe18": {
+    "category": "champion",
+    "description": "Gain a random 2-star 3-cost champion.",
+    "id": "DA_ThreeMe18",
+    "name": "Three Me"
+  },
+  "DA_TigersVisit18_Wisp": {
+    "category": "combat",
+    "description": "Gain the Tiger Primal buff for this combat.",
+    "id": "DA_TigersVisit18_Wisp",
+    "name": "Tiger's Visit"
+  },
+  "DA_TrainingYard18": {
+    "category": "combat",
+    "description": "Gain 2 Training Dummies each with a random tank item.",
+    "id": "DA_TrainingYard18",
+    "name": "Training Yard"
+  },
+  "DA_TreetopArchers": {
+    "category": "combat",
+    "description": "Archers fire from the trees, dealing 500 physical damage every 3 seconds.",
+    "id": "DA_TreetopArchers",
+    "name": "Treetop Archers"
+  },
+  "DA_TrophyHunter18": {
+    "category": "risky",
+    "description": "Next player combat, your Rivals' takedowns count twice.",
+    "id": "DA_TrophyHunter18",
+    "name": "Trophy Hunter"
+  },
+  "DA_TurtlesVisit18": {
+    "category": "combat",
+    "description": "Gain the Turtle Primal buff for this combat.",
+    "id": "DA_TurtlesVisit18",
+    "name": "Turtle's Visit"
+  },
+  "DA_WrappedInThorns18": {
+    "category": "combat",
+    "description": "Your Tanks reflect 12% of damage taken to adjacent enemies every 4 seconds.",
+    "id": "DA_WrappedInThorns18",
+    "name": "Wrapped In Thorns"
+  }
+}

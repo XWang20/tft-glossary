@@ -1,0 +1,1526 @@
+{
+  "DA_18_BigGrabBag": {
+    "description": "Vous gagnez 3 composants aléatoires, 2 PO et 1 Reforgeur.",
+    "id": "DA_18_BigGrabBag",
+    "name": "Super sac de butin",
+    "tier": 2
+  },
+  "DA_18_BlossomTraitAugment": {
+    "description": "Lorsque vous achetez un esprit de la forêt, vous gagnez un champion Fleur spirituelle aléatoire selon le coût de l'esprit de la forêt. Vous gagnez une Yunara, un Yorick et une Karma.",
+    "id": "DA_18_BlossomTraitAugment",
+    "name": "Appel de la floraison",
+    "tier": 2
+  },
+  "DA_18_BranchingOut": {
+    "description": "Vous gagnez un emblème aléatoire.",
+    "id": "DA_18_BranchingOut",
+    "name": "Aléatoire jacta est",
+    "tier": 1
+  },
+  "DA_18_BranchingOutPlus": {
+    "description": "Vous gagnez un emblème aléatoire et un Reforgeur.",
+    "id": "DA_18_BranchingOutPlus",
+    "name": "Aléatoire jacta est+",
+    "tier": 1
+  },
+  "DA_18_CaretakersAlly": {
+    "description": "Vous gagnez immédiatement un champion à 2 PO aléatoire. Vous regagnez le même chaque fois que vous gagnez un niveau.\n\nChampion :",
+    "id": "DA_18_CaretakersAlly",
+    "name": "Don du gardien",
+    "tier": 1
+  },
+  "DA_18_CovenTraitAugment": {
+    "description": "Lorsque vous choisissez de continuer à collecter de l'essence d'Assemblée, vous récupérez 2 PV de Tacticien. Vous gagnez une Camille, une Elise et une Caitlyn.",
+    "id": "DA_18_CovenTraitAugment",
+    "name": "Acolyte de l'Assemblée",
+    "tier": 2
+  },
+  "DA_18_CovenTraitAugment_LootToAP": {
+    "description": "Convertir l'essence de l'Assemblée en récompenses confère aux champions de l'Assemblée de la puissance au lieu du butin. Vous gagnez une Camille, une Elise et une Caitlyn.",
+    "id": "DA_18_CovenTraitAugment_LootToAP",
+    "name": "Sombre rituel",
+    "tier": 2
+  },
+  "DA_18_DuoQueue": {
+    "description": "Vous gagnez 2 champions à 5 PO aléatoires et 2 copies d'un composant aléatoire.",
+    "id": "DA_18_DuoQueue",
+    "name": "Aléatoirement vôtre",
+    "tier": 2
+  },
+  "DA_18_ElderwoodTraitAugment": {
+    "description": "Les champions qui commencent le combat en étant adjacents à une plante Sylvestre gagnent 15% de vitesse d'attaque et récupèrent 2% de leurs PV max toutes les 2 sec. Vous gagnez un Alistar, un Ornn et une Xayah.",
+    "id": "DA_18_ElderwoodTraitAugment",
+    "name": "Abri naturel",
+    "tier": 2
+  },
+  "DA_18_FOURcing": {
+    "description": "Vous gagnez un champion à 4 PO aléatoire. Votre équipe gagne 95 PV pour chaque objet équipé sur ce champion.",
+    "id": "DA_18_FOURcing",
+    "name": "Quatre équipé",
+    "tier": 2
+  },
+  "DA_18_FaeTraitAugment": {
+    "description": "Les fées du type Fæ sont désormais plus grandes et octroient 50% de dégâts d'attaque et de puissance supplémentaires. Les champions du type Fæ gagnent immédiatement 10% de dégâts d'attaque et puissance. Vous gagnez une Xayah et un Rakan.",
+    "id": "DA_18_FaeTraitAugment",
+    "name": "Agrandissement",
+    "tier": 2
+  },
+  "DA_18_FloraFatalisAugment": {
+    "description": "Vous gagnez un Emblème de Flora fatalis. Le porteur bénéficie du double des effets de Flora fatalis. Vous gagnez 3 PO.",
+    "id": "DA_18_FloraFatalisAugment",
+    "name": "Flore vorace",
+    "tier": 2
+  },
+  "DA_18_FloraFatalisAugmentPlus": {
+    "description": "Vous gagnez un Emblème de Flora fatalis. Le porteur bénéficie du double des effets de Flora fatalis. Vous gagnez 3 PO.",
+    "id": "DA_18_FloraFatalisAugmentPlus",
+    "name": "Flore vorace",
+    "tier": 2
+  },
+  "DA_18_GoodForSomethingI": {
+    "description": "Les champions sans objets ont 40% de chances de générer 1 PO en mourant.",
+    "id": "DA_18_GoodForSomethingI",
+    "name": "Butin funéraire I",
+    "tier": 1
+  },
+  "DA_18_InfernoTraitAugment": {
+    "description": "Le champion Infernal qui a infligé le plus de dégâts lors du précédent combat est en feu et gagne 40% de vitesse d'attaque. Vous gagnez un Varus et une Akali.",
+    "id": "DA_18_InfernoTraitAugment",
+    "name": "Tout feu tout flamme",
+    "tier": 1
+  },
+  "DA_18_LunarTraitAugment": {
+    "description": "Vos champions Lunaires gagnent 100 PV et 8% d'amplification des dégâts pour chaque champion Solaire unique déployé. Vous gagnez une Leona, une Kayle et une Diana.",
+    "id": "DA_18_LunarTraitAugment",
+    "name": "Soleil et Lune",
+    "tier": 2
+  },
+  "DA_18_LunarTraitAugmentPlus": {
+    "description": "Vos champions Lunaires gagnent 100 PV et 8% d'amplification des dégâts pour chaque champion Solaire unique déployé. Vous gagnez une Leona, une Kayle et un Aphelios.",
+    "id": "DA_18_LunarTraitAugmentPlus",
+    "name": "Soleil et Lune+",
+    "tier": 2
+  },
+  "DA_18_LuxAugmentII": {
+    "description": "Ouvrez une armurerie et choisissez 1 type parmi 3. Vous gagnez une Lux de ce type et une Lance de Shojin.\n\nLes types actifs sur votre plateau ont davantage de chance d'apparaître dans l'armurerie. Lux octroie +2 au type choisi.",
+    "id": "DA_18_LuxAugmentII",
+    "name": "Maîtresse des origines",
+    "tier": 3
+  },
+  "DA_18_OneTwoFive": {
+    "description": "Vous obtenez 1 composant aléatoire, 2 PO et 1 champion à 5 PO aléatoire.",
+    "id": "DA_18_OneTwoFive",
+    "name": "Butin aléatoire",
+    "tier": 1
+  },
+  "DA_18_OnesTwosThree": {
+    "description": "Vous gagnez 2 champions à 1 PO, 1 champion à 2 PO et 1 champion à 3 PO.",
+    "id": "DA_18_OnesTwosThree",
+    "name": "Uns, deux, trois",
+    "tier": 1
+  },
+  "DA_18_PrimalAugmentPlus_Nidalee": {
+    "description": "Primitif octroie une bénédiction supplémentaire. Vous gagnez une Vi et une Nidalee.",
+    "id": "DA_18_PrimalAugmentPlus_Nidalee",
+    "name": "Bête intérieure+",
+    "tier": 2
+  },
+  "DA_18_PrimalAugmentPlus_Sivir": {
+    "description": "Primitif octroie une bénédiction supplémentaire. Vous gagnez une Vi et une Sivir.",
+    "id": "DA_18_PrimalAugmentPlus_Sivir",
+    "name": "Bête intérieure+",
+    "tier": 2
+  },
+  "DA_18_PrimalAugment_Nidalee": {
+    "description": "Primitif octroie une bénédiction supplémentaire. Vous gagnez une Vi immédiatement et une Nidalee après 3 manches.",
+    "id": "DA_18_PrimalAugment_Nidalee",
+    "name": "Bête intérieure",
+    "tier": 2
+  },
+  "DA_18_PrimalAugment_Sivir": {
+    "description": "Primitif octroie une bénédiction supplémentaire. Vous gagnez une Vi immédiatement et une Sivir après 3 manches.",
+    "id": "DA_18_PrimalAugment_Sivir",
+    "name": "Bête intérieure",
+    "tier": 2
+  },
+  "DA_18_ResidualMagic": {
+    "description": "Votre équipe gagne 60 PV. Chaque fois que vous achetez un esprit de la forêt, ce bonus est augmenté de 10.",
+    "id": "DA_18_ResidualMagic",
+    "name": "Magie résiduelle",
+    "tier": 1
+  },
+  "DA_18_ResidualMagicPlus": {
+    "description": "Votre équipe gagne 75 PV. Chaque fois que vous achetez un esprit de la forêt, ce bonus est augmenté de 10.",
+    "id": "DA_18_ResidualMagicPlus",
+    "name": "Magie résiduelle +",
+    "tier": 1
+  },
+  "DA_18_ResidualMagicPlusPlus": {
+    "description": "Votre équipe gagne 90 PV. Chaque fois que vous achetez un esprit de la forêt, ce bonus est augmenté de 10.",
+    "id": "DA_18_ResidualMagicPlusPlus",
+    "name": "Magie résiduelle ++",
+    "tier": 1
+  },
+  "DA_18_RiftbeastTraitAugment": {
+    "description": "Vous pouvez choisir un deuxième monstre de la Jungle alpha. Vous gagnez un Carapateur, un Rougelin et un Caillou.",
+    "id": "DA_18_RiftbeastTraitAugment",
+    "name": "Monstre de la Jungle omega",
+    "tier": 2
+  },
+  "DA_18_RivalsAugment": {
+    "description": "Vous pouvez déployer Rengar et Kha'Zix ensemble sans pénalité, et ils obtiennent des bonus lorsque l'autre lance sa compétence. Vous gagnez un Rengar et un Kha'Zix.",
+    "id": "DA_18_RivalsAugment",
+    "name": "Suprématie",
+    "tier": 2
+  },
+  "DA_18_SolarTraitAugment": {
+    "description": "Vous gagnez une Leona, une Kayle et une Sejuani. Leona gagne 60 PV max permanents à chaque manche, augmentés de 10 pour chaque champion 3 étoiles unique déployé.",
+    "id": "DA_18_SolarTraitAugment",
+    "name": "Élue du soleil",
+    "tier": 2
+  },
+  "DA_18_SprykinAugment": {
+    "description": "Lorsque Ami de la forêt est actif, vous obtenez une seconde invocation de votre AMI, mais qui n'a que 35% d'efficacité. Vous gagnez un Teemo, un Veigar et un Kobuko.",
+    "id": "DA_18_SprykinAugment",
+    "name": "Petit compagnon poilu",
+    "tier": 2
+  },
+  "DA_18_WeightTheWorth": {
+    "description": "La première fois que vous faites passer un champion à 3 étoiles, vous en gagnez une copie à chaque manche jusqu'à la fin de la partie. Vous gagnez davantage de copies lorsque vous faites passer à nouveau ce champion à 3 étoiles. Vous gagnez un Duplicateur de champion mineur et un Duplicateur de champion riquiqui.",
+    "id": "DA_18_WeightTheWorth",
+    "name": "Service 3 étoiles",
+    "tier": 2
+  },
+  "DA_18_WispRebatePlus": {
+    "description": "Lorsque vous achetez un esprit de la forêt, vous gagnez 2 PO. Vous gagnez immédiatement 4 PO.",
+    "id": "DA_18_WispRebatePlus",
+    "name": "Esprits en solde",
+    "tier": 1
+  },
+  "DA_18_WispRebatePlusPlus": {
+    "description": "Lorsque vous achetez un esprit de la forêt, vous gagnez 2 PO. Vous gagnez immédiatement 8 PO.",
+    "id": "DA_18_WispRebatePlusPlus",
+    "name": "Esprits en solde+",
+    "tier": 1
+  },
+  "DA_AdvancedLoan": {
+    "description": "Vous gagnez 20 PO. Votre prochaine optimisation sera d'un palier inférieur.",
+    "id": "DA_AdvancedLoan",
+    "name": "Prêt anticipé",
+    "tier": 2
+  },
+  "DA_AdvancedLoanPlus": {
+    "description": "Vous gagnez 33 PO. Votre prochaine optimisation sera d'un palier inférieur.",
+    "id": "DA_AdvancedLoanPlus",
+    "name": "Prêt anticipé+",
+    "tier": 2
+  },
+  "DA_ArcaneViktory": {
+    "description": "Après 8 sec de combat, l'équipe ennemie est étourdie pendant 1.5 secondes. L'effet se répète après 18 sec de combat.\n\nTFT Macao Open 2024",
+    "id": "DA_ArcaneViktory",
+    "name": "Arcaniquement Viktor-ieux",
+    "tier": 2
+  },
+  "DA_Ascension": {
+    "description": "Après 12 sec de combat, vos unités gagnent 35% d'amplification des dégâts.",
+    "id": "DA_Ascension",
+    "name": "Ascension",
+    "tier": 2
+  },
+  "DA_AugmentedPower": {
+    "description": "Votre prochaine optimisation sera d'un palier supérieur.",
+    "id": "DA_AugmentedPower",
+    "name": "Optimisation optimisée",
+    "tier": 1
+  },
+  "DA_BacklineBlueprint": {
+    "description": "Vous gagnez un champion non tank à 3 PO ainsi qu'un emblème correspondant à sa classe.",
+    "id": "DA_BacklineBlueprint",
+    "name": "Stratégie de ligne arrière",
+    "tier": 2
+  },
+  "DA_BackupBows": {
+    "description": "Vous gagnez un Arc courbe. Après que vos champions ont attaqué 1000 fois, vous en obtenez 2 de plus.",
+    "id": "DA_BackupBows",
+    "name": "Arcs à gogo",
+    "tier": 1
+  },
+  "DA_BandOfThieves": {
+    "description": "Vous gagnez 1 Gants de voleur.",
+    "id": "DA_BandOfThieves",
+    "name": "Bande de voleurs",
+    "tier": 1
+  },
+  "DA_BandOfThievesII": {
+    "description": "Vous gagnez 2 Gants de voleur. Après 6 combats contre un joueur, vous en gagnez un autre.",
+    "id": "DA_BandOfThievesII",
+    "name": "Bande de voleurs II",
+    "tier": 3
+  },
+  "DA_BandOfThievesIIPlus": {
+    "description": "Vous gagnez 2 Gants de voleur. Après 5 combats contre un joueur, vous en gagnez un autre.",
+    "id": "DA_BandOfThievesIIPlus",
+    "name": "Bande de voleurs II+",
+    "tier": 3
+  },
+  "DA_BandOfThievesIIPlusPlus": {
+    "description": "Vous gagnez 2 Gants de voleur. Après 3 combats contre un joueur, vous en gagnez un autre.",
+    "id": "DA_BandOfThievesIIPlusPlus",
+    "name": "Bande de voleurs II++",
+    "tier": 3
+  },
+  "DA_BaronsLair": {
+    "description": "Vous gagnez un objet de tank aléatoire. Après 8 sec de combat, votre équipe gagne 5% de dégâts d'attaque et de puissance bonus par seconde jusqu'à la fin du combat.\n\nTFT Paris Open 2025",
+    "id": "DA_BaronsLair",
+    "name": "Repaire du baron",
+    "tier": 3
+  },
+  "DA_BeltOverflow": {
+    "description": "Vous gagnez 4 Ceintures du géant. Vos Ceintures du géant octroient 85 PV bonus.",
+    "id": "DA_BeltOverflow",
+    "name": "Abondance de ceintures",
+    "tier": 3
+  },
+  "DA_BirthdayPresent": {
+    "description": "Vous gagnez un champion 2 étoiles et 1 PO chaque fois que vous montez de niveau. Le coût du champion correspond à votre niveau moins 4 (coût max : 5 PO).",
+    "id": "DA_BirthdayPresent",
+    "name": "Cadeau d'anniversaire",
+    "tier": 3
+  },
+  "DA_BirthdayReunion": {
+    "description": "Vous gagnez un champion aléatoire à 2 PO 2 étoile(s). Au niveau 6, vous gagnez un composant aléatoire. Au niveau 9, vous gagnez un champion 2 étoile(s) à 5 PO aléatoire.\n\nTactician's Crown de Légendes des encres, 2024",
+    "id": "DA_BirthdayReunion",
+    "name": "Réunion d'anniversaire",
+    "tier": 2
+  },
+  "DA_BlackthornTraitAugment": {
+    "description": "Les 3 premières fois que vous sacrifiez un champion dans l'hexagone Ronce-obscure, vous gagnez une copie d'un composant aléatoire qu'il possède. Vous gagnez un Veigar et une Rek'Sai.",
+    "id": "DA_BlackthornTraitAugment",
+    "name": "Extraction d'objet",
+    "tier": 2
+  },
+  "DA_BodyguardTraining": {
+    "description": "Les alliés gagnent 15 d'armure et de résistance magique, augmenté de 2 par niveau de Tacticien.\n\nChampionnat Gadgets en folie, 2022",
+    "id": "DA_BodyguardTraining",
+    "name": "Formation de Garde du corps",
+    "tier": 2
+  },
+  "DA_BonusGift": {
+    "description": "Chaque fois que vous ouvrez un orbe de butin, vous avez 25% de chances d'obtenir un orbe de butin gris. Vous gagnez 2 orbes de butin gris.",
+    "id": "DA_BonusGift",
+    "name": "Cadeau bonus",
+    "tier": 2
+  },
+  "DA_BonusGiftPlus": {
+    "description": "Chaque fois que vous ouvrez un orbe de butin, vous avez 25% de chances d'obtenir un orbe de butin gris. Vous gagnez 3 orbes de butin gris.",
+    "id": "DA_BonusGiftPlus",
+    "name": "Cadeau bonus+",
+    "tier": 2
+  },
+  "DA_BoosterPack": {
+    "description": "Vous gagnez l'équivalent de 12 PO en champions aléatoires. (Vous êtes sûr de gagner au moins un champion à 3 PO.)",
+    "id": "DA_BoosterPack",
+    "name": "Booster",
+    "tier": 2
+  },
+  "DA_BoosterPackPlus": {
+    "description": "Vous gagnez l'équivalent de 18 PO en champions aléatoires. (Vous êtes sûr de gagner au moins un champion à 4 PO.)",
+    "id": "DA_BoosterPackPlus",
+    "name": "Booster+",
+    "tier": 2
+  },
+  "DA_BoosterPackPlusPlus": {
+    "description": "Vous gagnez l'équivalent de 26 PO en champions aléatoires. (Vous êtes sûr de gagner au moins un champion à 5 PO.)",
+    "id": "DA_BoosterPackPlusPlus",
+    "name": "Booster++",
+    "tier": 2
+  },
+  "DA_BoxingLessons": {
+    "description": "Votre équipe gagne 30 PV pour chaque champion qui commence le combat sur la première rangée.",
+    "id": "DA_BoxingLessons",
+    "name": "Ligne de front",
+    "tier": 1
+  },
+  "DA_BronzeForLifeI": {
+    "description": "Votre équipe gagne 2% d'amplification des dégâts pour chaque type au palier Bronze.",
+    "id": "DA_BronzeForLifeI",
+    "name": "Bronze pour la vie I",
+    "tier": 2
+  },
+  "DA_BronzeForLifeII": {
+    "description": "Votre équipe gagne 2% d'amplification des dégâts et 4 d'armure et de résistance magique pour chaque type au palier Bronze.",
+    "id": "DA_BronzeForLifeII",
+    "name": "Bronze pour la vie II",
+    "tier": 3
+  },
+  "DA_BuriedTreasuresIII": {
+    "description": "Vous gagnez un composant aléatoire immédiatement et au début des 5 prochaines manches.",
+    "id": "DA_BuriedTreasuresIII",
+    "name": "Trésors enfouis III",
+    "tier": 3
+  },
+  "DA_CalculatedLoss": {
+    "description": "Après avoir perdu un combat, vous obtenez 2 PO et une relance gratuite de la boutique.",
+    "id": "DA_CalculatedLoss",
+    "name": "Défaite planifiée",
+    "tier": 2
+  },
+  "DA_CallToChaos": {
+    "description": "Vous gagnez une récompense puissante et aléatoire.",
+    "id": "DA_CallToChaos",
+    "name": "Appel du chaos",
+    "tier": 3
+  },
+  "DA_CalledShot": {
+    "description": "Votre série de victoires passe à +4. Vous gagnez 4 PO.",
+    "id": "DA_CalledShot",
+    "name": "Victoire annoncée",
+    "tier": 1
+  },
+  "DA_CapitalGainsI": {
+    "description": "Vous emmagasinez un montant de PO équivalent aux intérêts que vous gagnez. À la manche 3-3, vous gagnez un montant de PO égal à 100% des PO emmagasinées. Vous gagnez immédiatement 1 PO.",
+    "id": "DA_CapitalGainsI",
+    "name": "Plus-values I",
+    "tier": 1
+  },
+  "DA_CapitalGainsII": {
+    "description": "Vous emmagasinez un montant de PO équivalent aux intérêts que vous gagnez. À la manche 3-3, vous gagnez un montant de PO égal à 125% des PO emmagasinées. Vous gagnez immédiatement 1 PO.",
+    "id": "DA_CapitalGainsII",
+    "name": "Plus-values II",
+    "tier": 2
+  },
+  "DA_CaretakersFavor": {
+    "description": "Vous gagnez une Enclume à composants quand vous atteignez les niveaux 5, 6, 7 et 8.\n\nL'enclume offre 4 choix.",
+    "id": "DA_CaretakersFavor",
+    "name": "Faveur du gardien",
+    "tier": 2
+  },
+  "DA_CarveAPath": {
+    "description": "Vous gagnez un BF Glaive. Lorsque vos champions ont infligé 65000 pts de dégâts physiques, vous en gagnez 2 de plus.",
+    "id": "DA_CarveAPath",
+    "name": "Glaives à gogo",
+    "tier": 1
+  },
+  "DA_CelestialBlessingI": {
+    "description": "Votre équipe gagne 12% d'omnivampirisme. L'excédent de soins est converti en un bouclier de jusqu'à 200 PV.",
+    "id": "DA_CelestialBlessingI",
+    "name": "Bénédiction céleste I",
+    "tier": 1
+  },
+  "DA_CelestialBlessingII": {
+    "description": "Votre équipe gagne 18% d'omnivampirisme. L'excédent de soins est converti en un bouclier de jusqu'à 400 PV.",
+    "id": "DA_CelestialBlessingII",
+    "name": "Bénédiction céleste II",
+    "tier": 2
+  },
+  "DA_CelestialBlessingIII": {
+    "description": "Votre équipe gagne 25% d'omnivampirisme. L'excédent de soins est converti en un bouclier de jusqu'à 1000 PV.",
+    "id": "DA_CelestialBlessingIII",
+    "name": "Bénédiction céleste III",
+    "tier": 3
+  },
+  "DA_ChallengersGrace": {
+    "description": "Au début du combat, vos alliés gagnent 25% de vitesse d'attaque pendant 3 sec. Lorsqu'ils participent à une élimination, vos alliés se ruent vers leur prochaine cible et gagnent à nouveau ce bonus.",
+    "id": "DA_ChallengersGrace",
+    "name": "Grâce du Challenger",
+    "tier": 2
+  },
+  "DA_ChampDelivery": {
+    "description": "Vous gagnez 3 champions à 2 PO. Après 6 manches, vous en obtenez 3 de plus.",
+    "id": "DA_ChampDelivery",
+    "name": "Livraison de champion",
+    "tier": 1
+  },
+  "DA_ChampDeliveryPlus": {
+    "description": "Vous gagnez 3 champions à 3 PO. Après 6 manches, vous en obtenez 3 de plus.",
+    "id": "DA_ChampDeliveryPlus",
+    "name": "Livraison de champion+",
+    "tier": 1
+  },
+  "DA_ChampDeliveryPlusPlus": {
+    "description": "Vous gagnez 3 champions à 4 PO. Après 6 manches, vous en obtenez 3 de plus.",
+    "id": "DA_ChampDeliveryPlusPlus",
+    "name": "Livraison de champion++",
+    "tier": 1
+  },
+  "DA_ClearMind": {
+    "description": "S'il n'y a aucun champion sur votre banc à la fin d'un combat contre un joueur, vous gagnez 3 XP.",
+    "id": "DA_ClearMind",
+    "name": "Lucidité",
+    "tier": 2
+  },
+  "DA_ClockworkAccelerator": {
+    "description": "Votre équipe gagne 10% de vitesse d'attaque toutes les 3 sec de combat.",
+    "id": "DA_ClockworkAccelerator",
+    "name": "Accélérateur mécanique",
+    "tier": 2
+  },
+  "DA_ClutteredMind": {
+    "description": "Vous gagnez instantanément 4 champions à 1 PO. Si votre banc est plein à la fin d'un combat contre un joueur, vous gagnez 3 XP.",
+    "id": "DA_ClutteredMind",
+    "name": "Esprit encombré",
+    "tier": 2
+  },
+  "DA_CognitiveOverload": {
+    "description": "Vous gagnez 7 PO, 1 champion à 1 PO 2 étoile(s), 1 champion à 2 PO, 2 champions à 3 PO, 1 XP et 1 relances de boutique.",
+    "id": "DA_CognitiveOverload",
+    "name": "Surcharge cognitive",
+    "tier": 2
+  },
+  "DA_CognitiveTax": {
+    "description": "Vous gagnez 8 PO et 1 XP.",
+    "id": "DA_CognitiveTax",
+    "name": "Charge cognitive",
+    "tier": 1
+  },
+  "DA_CognitiveTaxPlus": {
+    "description": "Vous gagnez 12 PO et 3 XP.",
+    "id": "DA_CognitiveTaxPlus",
+    "name": "Charge cognitive+",
+    "tier": 1
+  },
+  "DA_ComebackStory": {
+    "description": "Votre équipe gagne 4 PV et 0.4% de vitesse d'attaque par PV de Tacticien manquant.",
+    "id": "DA_ComebackStory",
+    "name": "Tentative de comeback",
+    "tier": 3
+  },
+  "DA_CommerceCore": {
+    "description": "Vous gagnez 16 relances gratuites immédiatement et 3 à chaque manche pendant le reste de la partie.",
+    "id": "DA_CommerceCore",
+    "name": "Relances régulières",
+    "tier": 3
+  },
+  "DA_ComponentBuffet": {
+    "description": "Chaque fois que vous devriez gagner un composant, vous gagnez une Enclume à composants à la place. Vous gagnez un composant aléatoire. L'enclume offre 4 choix.",
+    "id": "DA_ComponentBuffet",
+    "name": "Buffet de composants",
+    "tier": 1
+  },
+  "DA_ComponentQuest": {
+    "description": "Vous gagnez un composant aléatoire et 1 PO. Vous gagnez un composant aléatoire différent lors de vos 7 prochaines victoires contre un joueur. Ensuite, vous gagnez 8 PO.",
+    "id": "DA_ComponentQuest",
+    "name": "Quête de composant",
+    "tier": 3
+  },
+  "DA_ConstructACompanion": {
+    "description": "Le prochain champion à 1 PO que vous achetez sera 3 étoiles. Vous gagnez 2 PO.",
+    "id": "DA_ConstructACompanion",
+    "name": "Achat 3 étoiles",
+    "tier": 2
+  },
+  "DA_CookingPot": {
+    "description": "Au début de chaque manche, tous vos alliés équipés d'un objet de Poêle à frire ou d'un objet de Spatule octroient définitivement 60 PV au champion le plus proche. Vous gagnez une Poêle à frire.",
+    "id": "DA_CookingPot",
+    "name": "Chefs cuisiniers",
+    "tier": 2
+  },
+  "DA_Coronation": {
+    "description": "Vous gagnez 1 Couronne du Tacticien. La Couronne du Tacticien, la Cape du Tacticien et le Bouclier du Tacticien octroient à leur porteur 20% de vitesse d'attaque, 25% de dégâts d'attaque et 30% de puissance.",
+    "id": "DA_Coronation",
+    "name": "Couronnement",
+    "tier": 3
+  },
+  "DA_Corrosion": {
+    "description": "Les ennemis sur les deux premières rangées perdent 4 d'armure et de résistance magique toutes les 2 sec.",
+    "id": "DA_Corrosion",
+    "name": "Corrosion",
+    "tier": 1
+  },
+  "DA_CraftedCrafting": {
+    "description": "Chaque fois que vous fabriquez un objet complet, vous gagnez 2 relances.",
+    "id": "DA_CraftedCrafting",
+    "name": "Maîtrise de l'artisanat",
+    "tier": 1
+  },
+  "DA_CryMeARiver": {
+    "description": "Vous gagnez une Larme de la déesse. Votre équipe gagne 1 de régénération du mana. Après 12 sec de combat, ce bonus augmente à 4.",
+    "id": "DA_CryMeARiver",
+    "name": "Océan de larmes",
+    "tier": 2
+  },
+  "DA_CursedCrown": {
+    "description": "La taille max de votre équipe augmente de 2 et votre équipe gagne 4% de durabilité, mais vous perdez le double de PV de Tacticien quand vous perdez un combat contre un joueur.",
+    "id": "DA_CursedCrown",
+    "name": "Couronne maudite",
+    "tier": 3
+  },
+  "DA_CyberneticImplants_Gold": {
+    "description": "Les champions équipés d'un objet gagnent 100 PV et 15% dégâts d'attaque. Vous gagnez un BF Glaive.",
+    "id": "DA_CyberneticImplants_Gold",
+    "name": "Implants cybernétiques",
+    "tier": 2
+  },
+  "DA_CyberneticUplink_Gold": {
+    "description": "Les champions équipés d'un objet gagnent 100 PV et 2 de régénération de mana. Vous gagnez une Larme de la déesse.",
+    "id": "DA_CyberneticUplink_Gold",
+    "name": "Liaison cybernétique",
+    "tier": 2
+  },
+  "DA_DeadlierBlades": {
+    "description": "Vous gagnez une Lame funeste. Les Lames funestes gagnent 1% de dégâts d'attaque de manière permanente à chaque fois que leur porteur participe à une élimination.",
+    "id": "DA_DeadlierBlades",
+    "name": "Lames tueuses",
+    "tier": 3
+  },
+  "DA_DeadlierCaps": {
+    "description": "Vous gagnez une Coiffe de Rabadon. Les Coiffes de Rabadon octroient 1 de régénération de mana et 1% de puissance de manière permanente à chaque fois que leur porteur participe à une élimination.",
+    "id": "DA_DeadlierCaps",
+    "name": "Coiffes mortelles",
+    "tier": 3
+  },
+  "DA_DoubleTrouble": {
+    "description": "Si vous avez exactement 2 exemplaires d'un champion sur le plateau, ils gagnent tous les deux 30% de dégâts d'attaque et de puissance, ainsi que 30 d'armure et de résistance magique. Quand vous faites passer une unité à 3 étoiles, vous en gagnez une copie 2 étoiles.",
+    "id": "DA_DoubleTrouble",
+    "name": "Doublure",
+    "tier": 2
+  },
+  "DA_Dummify": {
+    "description": "Vous perdez tous les champions sur votre plateau et sur votre banc. Vous gagnez un Mannequin d'entraînement doté de 60% de leurs PV combinés. Le mannequin gagne 1000 PV par phase. Vous gagnez un champion 2 étoiles à 2 PO non tank aléatoire.",
+    "id": "DA_Dummify",
+    "name": "Mannequinification",
+    "tier": 1
+  },
+  "DA_EarlyLearnings": {
+    "description": "Votre équipe gagne 5% de dégâts d'attaque et de puissance. Augmente de 1% après chaque combat contre un joueur. Le bonus est doublé sur les champions à 1 PO.",
+    "id": "DA_EarlyLearnings",
+    "name": "Leçons de combat",
+    "tier": 2
+  },
+  "DA_ElectrochargeI": {
+    "description": "À chaque fois qu'un allié subit 4 attaques, il inflige 30-90 pts points de dégâts magiques (selon la phase) aux ennemis proches (délai de récupération de 1 sec).",
+    "id": "DA_ElectrochargeI",
+    "name": "Électrocharge I",
+    "tier": 1
+  },
+  "DA_ElectrochargeII": {
+    "description": "À chaque fois qu'un allié subit 4 attaques, il inflige 50-140 pts points de dégâts magiques (selon la phase) aux ennemis proches (délai de récupération de 1 sec).",
+    "id": "DA_ElectrochargeII",
+    "name": "Électrocharge II",
+    "tier": 2
+  },
+  "DA_EpicRolldown": {
+    "description": "Lorsque vous atteignez le niveau 8, vous gagnez 20 relances de boutique.\n\nChampionnat de Runeterra reforgée, 2023",
+    "id": "DA_EpicRolldown",
+    "name": "Relances épiques",
+    "tier": 2
+  },
+  "DA_Epoch": {
+    "description": "Maintenant et au début de chaque phase, vous gagnez 4 XP et 2 relances gratuites.",
+    "id": "DA_Epoch",
+    "name": "Cycle épique",
+    "tier": 2
+  },
+  "DA_EpochPlus": {
+    "description": "Maintenant et au début de chaque phase, vous gagnez 8 XP et 2 relances gratuites.",
+    "id": "DA_EpochPlus",
+    "name": "Cycle épique+",
+    "tier": 2
+  },
+  "DA_ExclusiveCustomization": {
+    "description": "Vous gagnez un Coffre d'objets chanceux, un Suppresseur magnétique et 7 PO.",
+    "id": "DA_ExclusiveCustomization",
+    "name": "Coup de chance",
+    "tier": 2
+  },
+  "DA_Expedition": {
+    "description": "Au début de chaque manche, vous perdez le champion se trouvant le plus à droite sur votre banc. Après avoir perdu 33 PO de champion de cette manière, vous gagnez une récompense puissante. Vous gagnez immédiatement un champion à 3 PO.",
+    "id": "DA_Expedition",
+    "name": "Expédition",
+    "tier": 1
+  },
+  "DA_ExplosiveGrowth": {
+    "description": "Vous gagnez 7 XP immédiatement et au début des 3 prochaines manches.",
+    "id": "DA_ExplosiveGrowth",
+    "name": "Croissance explosive",
+    "tier": 2
+  },
+  "DA_ExplosiveGrowthPlus": {
+    "description": "Vous gagnez 10 XP immédiatement et au début des 3 prochaines manches.",
+    "id": "DA_ExplosiveGrowthPlus",
+    "name": "Croissance explosive+",
+    "tier": 2
+  },
+  "DA_ExtraBuckles": {
+    "description": "Vous gagnez une Ceinture du géant. Lorsque vos champions ont subi 75000 pts de dégâts, vous en gagnez 2 de plus.",
+    "id": "DA_ExtraBuckles",
+    "name": "Boucles supplémentaires",
+    "tier": 1
+  },
+  "DA_FeelingLucky": {
+    "description": "Vous gagnez 12 PO, puis tirez à pile ou face. Si vous tombez sur face, vous gagnez 4 PO en plus.",
+    "id": "DA_FeelingLucky",
+    "name": "Vous vous sentez en veine ?",
+    "tier": 1
+  },
+  "DA_FindYourCenter": {
+    "description": "Votre champion qui commence le combat au centre de la première rangée gagne 15% d'amplification des dégâts et 25% PV max.",
+    "id": "DA_FindYourCenter",
+    "name": "Centre d'excellence",
+    "tier": 1
+  },
+  "DA_Flexible": {
+    "description": "Vous gagnez 1 emblème aléatoire. Au début de chaque phase, vous gagnez un emblème aléatoire. Votre équipe gagne 30 PV par emblème qu'elles portent.",
+    "id": "DA_Flexible",
+    "name": "Emblématique",
+    "tier": 3
+  },
+  "DA_FlowingTears": {
+    "description": "Vous gagnez une Larme de la déesse. Lorsque vos champions ont dépensé 6500 pts de mana, vous en gagnez 2 de plus.",
+    "id": "DA_FlowingTears",
+    "name": "Larmes à gogo",
+    "tier": 1
+  },
+  "DA_FocusedFire": {
+    "description": "Votre équipe gagne 10% de dégâts d'attaque. Toutes les 5 sec, elle en gagne 5% de plus.",
+    "id": "DA_FocusedFire",
+    "name": "Feu concentré",
+    "tier": 1
+  },
+  "DA_ForgeAFriend": {
+    "description": "Le prochain champion à 1 PO que vous achetez sera 3 étoiles. Vous gagnez 5 PO.",
+    "id": "DA_ForgeAFriend",
+    "name": "Ami sur mesure",
+    "tier": 1
+  },
+  "DA_ForgedInStrength": {
+    "description": "Vous gagnez 1 artefact aléatoire. Lorsque vous tombez sous 35 PV, vous gagnez 1 autre artefact aléatoire, 1 objet complet aléatoire, et 2 composant aléatoire.\n\nChampionnat de Mega Remix, 2023",
+    "id": "DA_ForgedInStrength",
+    "name": "Artefacts à la rescousse",
+    "tier": 3
+  },
+  "DA_FrontlineFoundation": {
+    "description": "Vous gagnez un champion tank 2 étoiles à 1 PO ainsi qu'un emblème correspondant à sa classe.",
+    "id": "DA_FrontlineFoundation",
+    "name": "Fondation de première ligne",
+    "tier": 2
+  },
+  "DA_FutureFocused": {
+    "description": "Votre Tacticien perd 20 PV, mais après 5 combats contre un joueur, vous gagnez 3 champions à 4 PO et 8 PO.",
+    "id": "DA_FutureFocused",
+    "name": "Investissement pour le futur",
+    "tier": 1
+  },
+  "DA_GainGold": {
+    "description": "Vous gagnez 21 PO.",
+    "id": "DA_GainGold",
+    "name": "Gain de 21 PO",
+    "tier": 2
+  },
+  "DA_GiantAndMighty": {
+    "description": "Votre équipe devient grande, les unités gagnent 200 PV et 10% PV max.",
+    "id": "DA_GiantAndMighty",
+    "name": "Grandeur et démesure",
+    "tier": 3
+  },
+  "DA_GildedSteel": {
+    "description": "Vous gagnez 2 champions à 5 PO. Si vous placez au moins un champion à 5 PO sur le plateau, vos champions de 1 à 4 PO gagnent 8% de durabilité.\n\nTactician's Crown du set K.O. Coliseum, 2025",
+    "id": "DA_GildedSteel",
+    "name": "Acier doré",
+    "tier": 2
+  },
+  "DA_GlassCannon_Gold": {
+    "description": "Les alliés commençant le combat sur la dernière rangée commencent avec 80% de leurs PV, mais gagnent 25% d'amplification des dégâts.",
+    "id": "DA_GlassCannon_Gold",
+    "name": "Canon de verre II",
+    "tier": 2
+  },
+  "DA_GlassCannon_Silver": {
+    "description": "Les alliés commençant le combat sur la dernière rangée commencent avec 80% de leurs PV, mais gagnent 16% d'amplification des dégâts.",
+    "id": "DA_GlassCannon_Silver",
+    "name": "Canon de verre I",
+    "tier": 1
+  },
+  "DA_GoingLong": {
+    "description": "Vous ne pouvez plus gagner de PO d'intérêts. Vous gagnez immédiatement 10 PO. Début de la manche : vous gagnez 4 XP.\n\nIntérêts : les PO supplémentaires que vous gagnez toutes les 10 PO économisées.",
+    "id": "DA_GoingLong",
+    "name": "Expérience à tout prix",
+    "tier": 3
+  },
+  "DA_GoldDestiny": {
+    "description": "Vous gagnez une optimisation de palier Or aléatoire et 3 PO.",
+    "id": "DA_GoldDestiny",
+    "name": "Destin doré",
+    "tier": 2
+  },
+  "DA_GoldDestinyPlus": {
+    "description": "Vous gagnez une optimisation de palier Or aléatoire et 6 PO.",
+    "id": "DA_GoldDestinyPlus",
+    "name": "Destin doré+",
+    "tier": 2
+  },
+  "DA_GoldenEgg": {
+    "description": "Vous gagnez un œuf d'or qui éclot dans 11 tours et octroie une énorme quantité de butins. Gagner un combat contre un joueur réduit le délai d'éclosion d'un tour supplémentaire.",
+    "id": "DA_GoldenEgg",
+    "name": "Œuf d'or",
+    "tier": 3
+  },
+  "DA_GoldenGamble": {
+    "description": "Vous gagnez 2 PO et jouez à pile ou face. Si vous tombez sur face, vous gagnez un Coffre chanceux de la lumière. Si vous tombez sur pile, vous gagnez 2 Enclumes à objets complets.",
+    "id": "DA_GoldenGamble",
+    "name": "Pile ou face",
+    "tier": 3
+  },
+  "DA_GoldenGamblePlus": {
+    "description": "Vous gagnez 3 PO et jouez à pile ou face. Si vous tombez sur face, vous gagnez un Coffre chanceux de la lumière. Si vous tombez sur pile, vous gagnez 2 Enclumes à objets complets.",
+    "id": "DA_GoldenGamblePlus",
+    "name": "Pile ou face+",
+    "tier": 3
+  },
+  "DA_GoldenGamblePlusPlus": {
+    "description": "Vous gagnez 6 PO et jouez à pile ou face. Si vous tombez sur face, vous gagnez un Coffre chanceux de la lumière. Si vous tombez sur pile, vous gagnez 2 Enclumes à objets complets.",
+    "id": "DA_GoldenGamblePlusPlus",
+    "name": "Pile ou face++",
+    "tier": 3
+  },
+  "DA_GroupHugI": {
+    "description": "Début du combat : les champions octroient aux autres champions adjacents 6 d'armure et de résistance magique. Cet effet est cumulable.",
+    "id": "DA_GroupHugI",
+    "name": "Câlin collectif I",
+    "tier": 1
+  },
+  "DA_GroupHugII": {
+    "description": "Début du combat : les champions octroient aux autres champions adjacents 9 d'armure et de résistance magique. Cet effet est cumulable.",
+    "id": "DA_GroupHugII",
+    "name": "Câlin collectif II",
+    "tier": 2
+  },
+  "DA_HardBargain": {
+    "description": "Vous ne pouvez pas choisir vos récompenses lors des carrousels. Vous gagnez 6 PV de Tacticien bonus et 8 PO à chaque carrousel.\nLorsque vous ne choisissez pas de récompense de carrousel, vous recevez un champion non sélectionné et l'objet qu'il porte.",
+    "id": "DA_HardBargain",
+    "name": "Carrousels trafiqués",
+    "tier": 2
+  },
+  "DA_HardCommit": {
+    "description": "Vous gagnez un emblème aléatoire. Maintenant et au début de chaque phase, vous gagnez un champion 1 étoile de ce type, d'un coût équivalent à la phase (max 5) et 3 PO.",
+    "id": "DA_HardCommit",
+    "name": "Typologie",
+    "tier": 3
+  },
+  "DA_HealingOrbsI": {
+    "description": "Lorsqu'un ennemi meurt, un allié proche récupère 250 PV.",
+    "id": "DA_HealingOrbsI",
+    "name": "Orbes de soins I",
+    "tier": 1
+  },
+  "DA_HealingOrbsII": {
+    "description": "Lorsqu'un ennemi meurt, un allié proche récupère 575 PV.",
+    "id": "DA_HealingOrbsII",
+    "name": "Orbes de soins II",
+    "tier": 2
+  },
+  "DA_HeartOfSteel": {
+    "description": "Vous gagnez un Cœur intrépide. Toutes les 10 sec de combat auxquelles son porteur survit, le Cœur intrépide gagne 16 PV max permanents supplémentaires.",
+    "id": "DA_HeartOfSteel",
+    "name": "Cœur d'acier",
+    "tier": 2
+  },
+  "DA_HedgeFund": {
+    "description": "Vous gagnez 22 PO. Vos intérêts max sont augmentés à 10 PO.",
+    "id": "DA_HedgeFund",
+    "name": "Spéculation",
+    "tier": 3
+  },
+  "DA_HeroicGrabBag": {
+    "description": "Vous gagnez 2 Duplicateurs de champion mineurs. Vous gagnez 4 PO.",
+    "id": "DA_HeroicGrabBag",
+    "name": "Besace héroïque",
+    "tier": 2
+  },
+  "DA_HeroicGrabBagPlus": {
+    "description": "Vous gagnez 2 Duplicateurs de champion mineurs. Vous gagnez 8 PO.",
+    "id": "DA_HeroicGrabBagPlus",
+    "name": "Besace héroïque+",
+    "tier": 2
+  },
+  "DA_HeroicGrabBagPlusPlus": {
+    "description": "Vous gagnez 2 Duplicateurs de champion mineurs. Vous gagnez 14 PO.",
+    "id": "DA_HeroicGrabBagPlusPlus",
+    "name": "Besace héroïque++",
+    "tier": 2
+  },
+  "DA_HoldTheLine": {
+    "description": "Les champions sur les 2 dernières rangées gagnent 9% de puissance et 8% de dégâts d'attaque pour chaque champion placé sur la première rangée au début de combat.",
+    "id": "DA_HoldTheLine",
+    "name": "Tenir le front",
+    "tier": 3
+  },
+  "DA_Hustler": {
+    "description": "Vous ne gagnez plus de PO d'intérêts, mais vous gagnez 3 PO au début de chaque manche de combat contre un joueur. Vous gagnez immédiatement 3 PO.\n\nIntérêts : les PO bonus que vous gagnez toutes les 10 PO économisées.",
+    "id": "DA_Hustler",
+    "name": "Gredin",
+    "tier": 2
+  },
+  "DA_InfinityProtection": {
+    "description": "Vous gagnez immédiatement 3 PO. À la phase 3-7, vous gagnez une Force de l'infini. La Force de l'infini octroie aux alliés sur la même rangée un bouclier de 12% PV.\n\nChampionnat L'Attaque des monstres, 2023",
+    "id": "DA_InfinityProtection",
+    "name": "Protection infinie",
+    "tier": 2
+  },
+  "DA_InvestedPlus": {
+    "description": "Vous gagnez 26 PO. Au début de chaque manche, vous gagnez 1 relance de boutique toutes les 10 PO au-dessus de 50 (max 80 PO).",
+    "id": "DA_InvestedPlus",
+    "name": "Investissement+",
+    "tier": 3
+  },
+  "DA_InvestedPlusPlus": {
+    "description": "Vous gagnez 45 PO. Au début de chaque manche, vous gagnez 1 relance de boutique toutes les 10 PO au-dessus de 50 (max 80 PO).",
+    "id": "DA_InvestedPlusPlus",
+    "name": "Investissement++",
+    "tier": 3
+  },
+  "DA_InvestmentStrategy": {
+    "description": "Vos champions gagnent définitivement 8 PV max par PO d'intérêts que vous gagnez. Vos intérêts max sont augmentés de 2. Vous gagnez immédiatement 8 PO.",
+    "id": "DA_InvestmentStrategy",
+    "name": "Stratégie d'investissement II",
+    "tier": 3
+  },
+  "DA_InvestmentStrategyI": {
+    "description": "Vos champions gagnent définitivement 8 PV max par PO d'intérêts que vous gagnez. Vous gagnez immédiatement 4 PO.",
+    "id": "DA_InvestmentStrategyI",
+    "name": "Stratégie d'investissement I",
+    "tier": 2
+  },
+  "DA_IronAssets": {
+    "description": "Vous gagnez une Enclume à composants et 3 PO.",
+    "id": "DA_IronAssets",
+    "name": "Entre les PO et l'enclume",
+    "tier": 1
+  },
+  "DA_ItemGrabBag": {
+    "description": "Vous gagnez un objet complet aléatoire.",
+    "id": "DA_ItemGrabBag",
+    "name": "Sac de butin I",
+    "tier": 1
+  },
+  "DA_ItsMeBaby": {
+    "description": "Vous gagnez un projecteur dans le coin inférieur droit. Le champion sous le projecteur gagne 15% d'amplification des dégâts et 15% de vitesse d'attaque, et génère 1 PO toutes les 4 éliminations.\n\nTactician's Crown de Lore & Legends, 2026",
+    "id": "DA_ItsMeBaby",
+    "name": "Le feu des projecteurs",
+    "tier": 2
+  },
+  "DA_JeweledLotus_I": {
+    "description": "Votre équipe gagne 10% de chances de coup critique et Précision.\n\nPrécision : les dégâts des compétences peuvent infliger un coup critique. La Précision supplémentaire octroie 10% de dégâts de coup critique.",
+    "id": "DA_JeweledLotus_I",
+    "name": "Lotus précieux I",
+    "tier": 2
+  },
+  "DA_JeweledLotus_II": {
+    "description": "Votre équipe gagne 25% de chances de coup critique, 10% de dégâts de coup critique, et Précision.\n\nPrécision : les dégâts des compétences peuvent infliger un coup critique. La Précision supplémentaire octroie 10% de dégâts de coup critique.",
+    "id": "DA_JeweledLotus_II",
+    "name": "Lotus précieux II",
+    "tier": 3
+  },
+  "DA_KickStart": {
+    "description": "Vous gagnez un champion aléatoire à 2 PO 2 étoiles et 1 PO.",
+    "id": "DA_KickStart",
+    "name": "Coup d'envoi",
+    "tier": 1
+  },
+  "DA_Kingslayer": {
+    "description": "Après avoir gagné un combat contre un joueur, vous gagnez 1 PO. Si ce joueur avait plus de PV que vous, vous gagnez 6 PO à la place. Vous gagnez 1 PO.",
+    "id": "DA_Kingslayer",
+    "name": "Régicide",
+    "tier": 1
+  },
+  "DA_LateGameScaling": {
+    "description": "Vous gagnez 2 XP au début des manches de combat contre un joueur. Vos champions à 5 PO gagnent 12% de PV et 12% de vitesse d'attaque.\n\nTactician's Crown du set Cyber City, 2025",
+    "id": "DA_LateGameScaling",
+    "name": "Fin de partie",
+    "tier": 2
+  },
+  "DA_LateGameSpecialist": {
+    "description": "Quand vous atteignez le niveau 9, vous gagnez 27 PO.",
+    "id": "DA_LateGameSpecialist",
+    "name": "Spécialiste des fins de partie",
+    "tier": 1
+  },
+  "DA_LatentForge": {
+    "description": "Après 8 combats contre un joueur, vous gagnez une Enclume à artefacts.",
+    "id": "DA_LatentForge",
+    "name": "Forge à retardement",
+    "tier": 1
+  },
+  "DA_LegionOfThrees": {
+    "description": "Vous gagnez un emblème aléatoire. Vos champions à 3 PO et tous les alliés équipés d'un emblème gagnent 150 PV et 12% de vitesse d'attaque.\n\nChampionnat de Jugement, 2021",
+    "id": "DA_LegionOfThrees",
+    "name": "Légion des trois",
+    "tier": 2
+  },
+  "DA_LevelUp": {
+    "description": "Lorsque vous achetez de l'XP, vous en gagnez 2 de plus. Vous gagnez 6 XP immédiatement.",
+    "id": "DA_LevelUp",
+    "name": "Niveau supérieur !",
+    "tier": 3
+  },
+  "DA_LivingForge": {
+    "description": "Vous gagnez immédiatement une Enclume à artefacts, puis une autre tous les 9 combats contre un joueur.",
+    "id": "DA_LivingForge",
+    "name": "Forgeron ambulant",
+    "tier": 3
+  },
+  "DA_LoadedDice": {
+    "description": "Vos dés et vos pièces sont plus chanceux.\n\nLancez un dé et gagnez autant de PO que le résultat obtenu. Lancez ensuite une pièce et gagnez 1 PO si elle tombe sur face.",
+    "id": "DA_LoadedDice",
+    "name": "Dé pipé",
+    "tier": 1
+  },
+  "DA_LuckyGloves": {
+    "description": "Gants de voleur donnera toujours des objets idéaux à vos champions. Vous gagnez 2 Gants d'entraînement et 4 PO.",
+    "id": "DA_LuckyGloves",
+    "name": "Gants porte-bonheur",
+    "tier": 3
+  },
+  "DA_LuckyGlovesPlus": {
+    "description": "Gants de voleur donnera toujours des objets idéaux à vos champions. Vous gagnez 2 Gants d'entraînement, puis vous en gagnez un autre après 4 combats contre un joueur.",
+    "id": "DA_LuckyGlovesPlus",
+    "name": "Gants porte-bonheur+",
+    "tier": 3
+  },
+  "DA_LuxurySubscription": {
+    "description": "Vous gagnez un pack contenant un champion à 5 PO, un champion 2 étoiles à 1 PO et 3 PO.\n\nAu début des 2 prochaines phases, vous gagnez à nouveau ce pack.",
+    "id": "DA_LuxurySubscription",
+    "name": "Abonnement premium",
+    "tier": 3
+  },
+  "DA_MagicRoll": {
+    "description": "Vous lancez 3 dés. Vous gagnez des récompenses en fonction de leur résultat total.",
+    "id": "DA_MagicRoll",
+    "name": "Dés magiques",
+    "tier": 2
+  },
+  "DA_MakeshiftArmorI": {
+    "description": "Vos champions sans objet gagnent 30 d'armure et de résistance magique.",
+    "id": "DA_MakeshiftArmorI",
+    "name": "Armure improvisée I",
+    "tier": 1
+  },
+  "DA_MakeshiftArmorII": {
+    "description": "Vos champions sans objet gagnent 50 d'armure et de résistance magique.",
+    "id": "DA_MakeshiftArmorII",
+    "name": "Armure improvisée II",
+    "tier": 2
+  },
+  "DA_MaliciousMonetization": {
+    "description": "Vous gagnez 4 PO. Pendant les 2 prochaines manches, les champions ennemis vous octroient 2 PO quand ils meurent.",
+    "id": "DA_MaliciousMonetization",
+    "name": "Monétisation malveillante",
+    "tier": 2
+  },
+  "DA_MaxBuild": {
+    "description": "Vous gagnez 10 relances gratuites de la boutique. Lorsque vous atteignez le niveau 9, vous gagnez 3 relances de boutique gratuites et un Duplicateur de champion.\n\nChampionnat Galaxies, 2020",
+    "id": "DA_MaxBuild",
+    "name": "Duplication",
+    "tier": 2
+  },
+  "DA_Min_Max": {
+    "description": "Vous gagnez un Suppresseur d'objet doré et 4 composants aléatoires.",
+    "id": "DA_Min_Max",
+    "name": "Suppresseur doré",
+    "tier": 3
+  },
+  "DA_MissedConnections": {
+    "description": "Vous gagnez un exemplaire de chaque champion à 1 PO.",
+    "id": "DA_MissedConnections",
+    "name": "Palier 1",
+    "tier": 1
+  },
+  "DA_MoneyHungryPlus": {
+    "description": "Vous gagnez immédiatement 10 PO, puis 7 PO au début de chaque phase. Récupérer des PO fait grossir votre Tacticien.",
+    "id": "DA_MoneyHungryPlus",
+    "name": "Avidité+",
+    "tier": 2
+  },
+  "DA_MoneyHungry_NotBroken": {
+    "description": "Vous gagnez immédiatement 7 PO, puis 7 PO au début de chaque phase. Récupérer des PO fait grossir votre Tacticien.",
+    "id": "DA_MoneyHungry_NotBroken",
+    "name": "Avidité",
+    "tier": 2
+  },
+  "DA_MoneyMonsoon": {
+    "description": "Vous gagnez 7 PO immédiatement et à chaque manche pendant le reste de la partie.",
+    "id": "DA_MoneyMonsoon",
+    "name": "Pluie d'argent",
+    "tier": 3
+  },
+  "DA_NestingAnvils": {
+    "description": "Vous gagnez une Enclume à artefacts. Après l'avoir ouverte, vous gagnez une Enclume à composants. Après l'avoir ouverte, vous gagnez 8 PO.",
+    "id": "DA_NestingAnvils",
+    "name": "Enclumes imbriquées",
+    "tier": 3
+  },
+  "DA_NestingAnvilsPlus": {
+    "description": "Vous gagnez une Enclume à artefacts. Après l'avoir ouverte, vous gagnez une Enclume à composants. Après l'avoir ouverte, vous gagnez 12 PO.",
+    "id": "DA_NestingAnvilsPlus",
+    "name": "Enclumes imbriquées+",
+    "tier": 3
+  },
+  "DA_NestingDolls": {
+    "description": "Lorsqu'un champion meurt au combat, une copie de celui-ci est invoquée avec un niveau d'étoile inférieur et 70% PV. Vous gagnez 3 relances gratuites.",
+    "id": "DA_NestingDolls",
+    "name": "Poupées russes",
+    "tier": 3
+  },
+  "DA_NestingDollsPlus": {
+    "description": "Lorsqu'un champion meurt au combat, une copie de celui-ci est invoquée avec un niveau d'étoile inférieur et 50% PV. Vous gagnez 3 relances gratuites.",
+    "id": "DA_NestingDollsPlus",
+    "name": "Poupées russes",
+    "tier": 3
+  },
+  "DA_NestingDollsPlusPlus": {
+    "description": "Lorsqu'un champion meurt au combat, une copie de celui-ci est invoquée avec un niveau d'étoile inférieur et 50% PV. Vous gagnez 3 relances gratuites.",
+    "id": "DA_NestingDollsPlusPlus",
+    "name": "Poupées russes",
+    "tier": 3
+  },
+  "DA_NoScoutNoPivot": {
+    "description": "Les champions qui se battent dans un combat contre un joueur ne peuvent pas être placés sur le banc ni être vendus. Votre équipe gagne 1% PV, et 1% de dégâts d'attaque et de puissance après un combat contre un joueur.",
+    "id": "DA_NoScoutNoPivot",
+    "name": "OBSTINATION",
+    "tier": 2
+  },
+  "DA_OneBuffTwoBuff": {
+    "description": "Vous gagnez un Buff rouge, un Buff bleu et un Duplicateur de champion.",
+    "id": "DA_OneBuffTwoBuff",
+    "name": "Buffs à gogo",
+    "tier": 3
+  },
+  "DA_PandorasBench": {
+    "description": "Au début de chaque manche, les champions des 3 emplacements les plus à droite de votre banc se transforment en champions aléatoires du même coût. Vous gagnez 4 PO.",
+    "id": "DA_PandorasBench",
+    "name": "Banc de Pandore",
+    "tier": 1
+  },
+  "DA_PandorasItemsI": {
+    "description": "Début de la manche : les objets sur votre banc changent aléatoirement.\n\nVous gagnez 1 composant aléatoire.",
+    "id": "DA_PandorasItemsI",
+    "name": "Objets de Pandore I",
+    "tier": 1
+  },
+  "DA_PandorasItemsII": {
+    "description": "Début de la manche : les objets sur votre banc changent aléatoirement.\n\nVous gagnez 2 composants aléatoires.",
+    "id": "DA_PandorasItemsII",
+    "name": "Objets de Pandore II",
+    "tier": 2
+  },
+  "DA_PandorasItemsIII": {
+    "description": "Début de la manche : les objets sur votre banc changent aléatoirement.\n\nVous gagnez 1 objet de la lumière.",
+    "id": "DA_PandorasItemsIII",
+    "name": "Objets de Pandore III",
+    "tier": 3
+  },
+  "DA_PartialAscension": {
+    "description": "Après 12 sec de combat, vos unités gagnent 20% d'amplification des dégâts.",
+    "id": "DA_PartialAscension",
+    "name": "Ascension partielle",
+    "tier": 1
+  },
+  "DA_PatienceIsAVirtue": {
+    "description": "Vous gagnez 4 relances immédiatement. À chaque manche, vous gagnez 1 relance gratuite si vous n'avez pas acheté de champion lors de la manche précédente.",
+    "id": "DA_PatienceIsAVirtue",
+    "name": "Jeu de patience",
+    "tier": 1
+  },
+  "DA_PatientStudy": {
+    "description": "Après un combat contre un joueur, vous gagnez 2 XP si vous avez gagné ou 3 XP si vous avez perdu.",
+    "id": "DA_PatientStudy",
+    "name": "Gagnant-gagnant",
+    "tier": 2
+  },
+  "DA_Pilfer": {
+    "description": "À chaque manche, vous gagnez une copie 1 étoile du premier champion que vous avez tué lors du dernier combat. La première fois que vous récupérez des champions d'une valeur de 21 PO au total, vous gagnez des Gants de voleur.",
+    "id": "DA_Pilfer",
+    "name": "Chapardage",
+    "tier": 2
+  },
+  "DA_PlotArmor": {
+    "description": "Votre équipe gagne 8 d'armure et de résistance magique. Quand vos unités tombent sous 50% de leurs PV, le bonus augmente à 40 jusqu'à la fin du combat.",
+    "id": "DA_PlotArmor",
+    "name": "Résistance acharnée",
+    "tier": 2
+  },
+  "DA_PortableForge": {
+    "description": "Choisissez 1 artefact parmi 4 Les artefacts sont des objets plus puissants dotés d'un effet unique.",
+    "id": "DA_PortableForge",
+    "name": "Forge portative",
+    "tier": 2
+  },
+  "DA_PrismaticDestiny": {
+    "description": "Vous gagnez une optimisation prismatique aléatoire et 4 PO.",
+    "id": "DA_PrismaticDestiny",
+    "name": "Destin prismatique",
+    "tier": 3
+  },
+  "DA_PrismaticDestinyPlus": {
+    "description": "Vous gagnez une optimisation prismatique aléatoire et 10 PO.",
+    "id": "DA_PrismaticDestinyPlus",
+    "name": "Destin prismatique+",
+    "tier": 3
+  },
+  "DA_PrismaticTicket": {
+    "description": "Chaque fois que votre boutique est relancée, vous avez 45 % de chances de gagner une relance gratuite.",
+    "id": "DA_PrismaticTicket",
+    "name": "Ticket prismatique",
+    "tier": 3
+  },
+  "DA_PromisedProtection": {
+    "description": "Vous gagnez un Vœu du protecteur. Les Vœux du protecteur octroient à leur porteur 20% de mana supplémentaire de toutes les sources et 200 PV max.",
+    "id": "DA_PromisedProtection",
+    "name": "Mana du protecteur",
+    "tier": 2
+  },
+  "DA_QuickStreaks": {
+    "description": "Vos séries de victoires et de défaites progressent deux fois plus vite. Vous gagnez 2 PO.",
+    "id": "DA_QuickStreaks",
+    "name": "Séries rapides",
+    "tier": 1
+  },
+  "DA_RadiantRascal": {
+    "description": "Vous gagnez des Gants de voleur de la lumière. Cet objet vous équipe de 2 objets de la lumière aléatoires à chaque manche.",
+    "id": "DA_RadiantRascal",
+    "name": "Vaurien de la lumière",
+    "tier": 3
+  },
+  "DA_RadiantRelic": {
+    "description": "Choisissez 1 objet de la lumière parmi les 5 proposés. Vous gagnez un Suppresseur magnétique",
+    "id": "DA_RadiantRelic",
+    "name": "Reliques de la lumière",
+    "tier": 3
+  },
+  "DA_Recombobulator": {
+    "description": "Les champions sur votre plateau se transforment définitivement en champions aléatoires du palier de coût supérieur (max 5 PO). Vous gagnez 2 Suppresseurs magnétiques et 3 relances.",
+    "id": "DA_Recombobulator",
+    "name": "Recombobulateur",
+    "tier": 1
+  },
+  "DA_Replication": {
+    "description": "Choisissez 1 composant parmi 3. Pendant 2 manches, vous gagnez une copie de ce composant.",
+    "id": "DA_Replication",
+    "name": "Fabrication en série",
+    "tier": 2
+  },
+  "DA_Retribution": {
+    "description": "Vous gagnez 2 Mains de la justice. Les alliés équipés de Main de la justice gagnent Précision et 25% de chances de coup critique.\n\nPrécision : les dégâts des compétences peuvent infliger un coup critique. La Précision supplémentaire octroie 10% de dégâts de coup critique.",
+    "id": "DA_Retribution",
+    "name": "Justice critique",
+    "tier": 3
+  },
+  "DA_RollingForDays": {
+    "description": "Vous gagnez 10 relances gratuites de la boutique.",
+    "id": "DA_RollingForDays",
+    "name": "Jour de relance",
+    "tier": 1
+  },
+  "DA_SalvageBin": {
+    "description": "Vous gagnez 1 objet complet aléatoire tout de suite, puis 1 composant après 8 combats contre un joueur. Lorsque vous vendez un champion, ses objets complets sont désassemblés (hors objets du Tacticien et emblèmes).",
+    "id": "DA_SalvageBin",
+    "name": "Bac de recyclage",
+    "tier": 2
+  },
+  "DA_SalvageBinPlus": {
+    "description": "Vous gagnez 1 objet complet aléatoire tout de suite, puis 1 composant après 4 combats contre un joueur. Lorsque vous vendez un champion, ses objets complets sont désassemblés (hors objets du Tacticien et emblèmes).",
+    "id": "DA_SalvageBinPlus",
+    "name": "Bac de recyclage+",
+    "tier": 2
+  },
+  "DA_SeraphimsStaff": {
+    "description": "Vous gagnez un Bâton de l'archange. Le Bâton de l'archange confère 2 régénération de mana supplémentaire si son détenteur possède 90% de puissance ou plus.",
+    "id": "DA_SeraphimsStaff",
+    "name": "Bâton angélique",
+    "tier": 2
+  },
+  "DA_ShimmerscaleEssence": {
+    "description": "Vous gagnez des Mailles du magnat. Après 7 combats contre un joueur, vous gagnez une Lame du parieur.",
+    "id": "DA_ShimmerscaleEssence",
+    "name": "Essence des Luminécailles",
+    "tier": 3
+  },
+  "DA_ShoppingSpree": {
+    "description": "Quand vous gagnez un niveau, vous gagnez un nombre de relances gratuites de la boutique équivalent à votre niveau + 1. Vous gagnez 2 PO.",
+    "id": "DA_ShoppingSpree",
+    "name": "Shopping intensif",
+    "tier": 3
+  },
+  "DA_SilverDestiny": {
+    "description": "Vous gagnez une optimisation de palier Argent aléatoire et 2 PO.",
+    "id": "DA_SilverDestiny",
+    "name": "Destin argenté",
+    "tier": 1
+  },
+  "DA_SilverDestinyPlus": {
+    "description": "Vous gagnez une optimisation de palier Argent aléatoire et 4 PO.",
+    "id": "DA_SilverDestinyPlus",
+    "name": "Destin argenté+",
+    "tier": 1
+  },
+  "DA_SilverDestinyPlusPlus": {
+    "description": "Vous gagnez une optimisation de palier Argent aléatoire et 7 PO.",
+    "id": "DA_SilverDestinyPlusPlus",
+    "name": "Destin argenté++",
+    "tier": 1
+  },
+  "DA_SilverSpoon": {
+    "description": "Vous gagnez 10 XP.",
+    "id": "DA_SilverSpoon",
+    "name": "Par ici l'XP",
+    "tier": 1
+  },
+  "DA_Slammin": {
+    "description": "Vous gagnez 3 PO. Après chaque combat contre un joueur, s'il n'y a aucun objet sur votre banc (hors consommables), vous gagnez 2 XP.",
+    "id": "DA_Slammin",
+    "name": "Tout doit disparaître",
+    "tier": 2
+  },
+  "DA_SlamminPlus": {
+    "description": "Vous gagnez immédiatement 4 PO et 10 XP. Après chaque combat contre un joueur, s'il n'y a aucun objet sur votre banc (hors consommables), vous gagnez 2 XP.",
+    "id": "DA_SlamminPlus",
+    "name": "Tout doit disparaître+",
+    "tier": 2
+  },
+  "DA_SliceOfLife": {
+    "description": "Deux fois par phase, vous gagnez un champion aléatoire. Son coût augmente à chaque phase. Cet effet prend fin une fois que vous avez reçu 1 champion à 5 PO.",
+    "id": "DA_SliceOfLife",
+    "name": "Crescendo aléatoire",
+    "tier": 1
+  },
+  "DA_SlightlyMagicRoll": {
+    "description": "Vous lancez un dé. Vous gagnez des récompenses en fonction du numéro.",
+    "id": "DA_SlightlyMagicRoll",
+    "name": "Dés légèrement magiques",
+    "tier": 1
+  },
+  "DA_SmallGrabBag": {
+    "description": "Vous gagnez 2 composant d'objet aléatoire.",
+    "id": "DA_SmallGrabBag",
+    "name": "Petit sac de butin",
+    "tier": 1
+  },
+  "DA_SoloLeveling": {
+    "description": "Pendant les 5 prochains combats, votre équipe n'est composée que de 1 champion, mais le champion que vous placez sur le plateau dispose de stats considérablement améliorées. Vous gagnez 1 XP pour chaque élimination que ce champion effectue. Ensuite, vous gagnez 2 composants.",
+    "id": "DA_SoloLeveling",
+    "name": "Solo Leveling",
+    "tier": 2
+  },
+  "DA_SoloPlate": {
+    "description": "Vous gagnez un Lithoplastron de gargouille. Les alliés portant un Lithoplastron de gargouille gagnent 17% de PV max s'ils commencent le combat seuls sur leur rangée.",
+    "id": "DA_SoloPlate",
+    "name": "Lithoplastron solo",
+    "tier": 2
+  },
+  "DA_SoulAwakening": {
+    "description": "Début du combat : votre équipe gagne 1.5% de dégâts d'attaque et de puissance par seconde pendant 10 sec. Au max d'effets cumulés, votre équipe inflige 12% de dégâts bruts bonus.",
+    "id": "DA_SoulAwakening",
+    "name": "Éveil de l'âme",
+    "tier": 3
+  },
+  "DA_SpeedyDoubleKill": {
+    "description": "Vous gagnez une Lame enragée de Guinsoo. Lorsque 2 joueurs sont éliminés, vous gagnez 40 PO.\n\nchampionnat Destinées, 2021",
+    "id": "DA_SpeedyDoubleKill",
+    "name": "Deux de moins",
+    "tier": 2
+  },
+  "DA_SpiritOfRedemption": {
+    "description": "Vous gagnez un Visage spirituel. Toutes les 5 sec, vos Visages spirituels régénèrent 7.5% des PV manquants des alliés dans un rayon de 1 hexagones.",
+    "id": "DA_SpiritOfRedemption",
+    "name": "Esprit de la Rédemption",
+    "tier": 2
+  },
+  "DA_SpreadingRoots": {
+    "description": "Vous gagnez 2 emblèmes aléatoires et 1 PO.",
+    "id": "DA_SpreadingRoots",
+    "name": "Enracinement",
+    "tier": 2
+  },
+  "DA_SpreadingRootsPlus": {
+    "description": "Vous gagnez 2 emblèmes aléatoires, un Reforgeur et 2 PO.",
+    "id": "DA_SpreadingRootsPlus",
+    "name": "Enracinement+",
+    "tier": 2
+  },
+  "DA_Staffsmith": {
+    "description": "Vous gagnez 2 objets complets aléatoires construits à partir d'une Baguette trop grosse.",
+    "id": "DA_Staffsmith",
+    "name": "Fabricant de baguettes",
+    "tier": 2
+  },
+  "DA_StandUnited": {
+    "description": "Vos unités gagnent 1.5% de dégâts d'attaque et 1.5% de puissance par type non unique actif dans votre équipe.",
+    "id": "DA_StandUnited",
+    "name": "Soutien indéfectible",
+    "tier": 1
+  },
+  "DA_SweetTreats": {
+    "description": "Vous gagnez une Enclume à artefacts. Votre équipe gagne 16 PV par objet équipé sur les champions.",
+    "id": "DA_SweetTreats",
+    "name": "Objets blindés",
+    "tier": 3
+  },
+  "DA_SwordOverflow": {
+    "description": "Vous gagnez 4 BF Glaives. Vos BF Glaives octroient 4% de vitesse d'attaque.",
+    "id": "DA_SwordOverflow",
+    "name": "Abondance de glaives",
+    "tier": 3
+  },
+  "DA_Swordsmith": {
+    "description": "Vous gagnez 2 objets complets aléatoires construits à partir d'un BF Glaive.",
+    "id": "DA_Swordsmith",
+    "name": "Armurier",
+    "tier": 2
+  },
+  "DA_TacticiansKitchen": {
+    "description": "Vous gagnez un emblème aléatoire. Après 3 manches, vous gagnez une Cape du Tacticien.",
+    "id": "DA_TacticiansKitchen",
+    "name": "Cuisine du Tacticien",
+    "tier": 3
+  },
+  "DA_TeamBuilding": {
+    "description": "Vous gagnez un Duplicateur de champion mineur. Vous en gagnez un autre après 5 combats contre un joueur.\n\nCet objet permet de copier un champion valant 3 PO ou moins.",
+    "id": "DA_TeamBuilding",
+    "name": "Esprit d'équipe",
+    "tier": 1
+  },
+  "DA_TheGoldenDragon": {
+    "description": "Vous gagnez des Mailles du magnat. Les champions portant des Mailles du magnat occupent 1 place de plus dans l'équipe, mais gagnent 700 PV et 20% de durabilité.\n\nLes Mailles du magnat rapportent des PO en plus des stats de combat.\nChampionnat L'ère des dragons, 2022",
+    "id": "DA_TheGoldenDragon",
+    "name": "Mailles en or",
+    "tier": 2
+  },
+  "DA_TheTower": {
+    "description": "Vous gagnez un Mannequin d'entraînement géant. Toutes les 4 sec, le mannequin frappe les 3 ennemis les plus proches, infligeant 5% des PV max en dégâts bruts.",
+    "id": "DA_TheTower",
+    "name": "La Tour",
+    "tier": 1
+  },
+  "DA_TheTraitTree": {
+    "description": "Vous gagnez 3 emblèmes aléatoires et 2 PO.",
+    "id": "DA_TheTraitTree",
+    "name": "Emblématiquement",
+    "tier": 3
+  },
+  "DA_TheTraitTreePlus": {
+    "description": "Vous gagnez 3 emblèmes aléatoires, un Reforgeur et 4 PO.",
+    "id": "DA_TheTraitTreePlus",
+    "name": "Emblématiquement+",
+    "tier": 3
+  },
+  "DA_TimeSkip": {
+    "description": "Votre boutique est inaccessible pendant les 3 prochaines manches. Puis vous gagnez 32 XP.",
+    "id": "DA_TimeSkip",
+    "name": "Bye bye boutique",
+    "tier": 2
+  },
+  "DA_TonsOfStatsI": {
+    "description": "Votre équipe gagne 44 PV, 4% de dégâts d'attaque, 4% de puissance, 4 d'armure, 4 de résistance magique, 4% de vitesse d'attaque et 4 pts de mana.",
+    "id": "DA_TonsOfStatsI",
+    "name": "Stats à foison !",
+    "tier": 2
+  },
+  "DA_TonsOfStatsII": {
+    "description": "Votre équipe gagne 88 PV, 8% de dégâts d'attaque, 8% de puissance, 8 d'armure, 8 de résistance magique, 8% de vitesse d'attaque et 8 pts de mana.",
+    "id": "DA_TonsOfStatsII",
+    "name": "Stats à foison !",
+    "tier": 3
+  },
+  "DA_TradeSector": {
+    "description": "À chaque manche, vous gagnez une relance gratuite de la boutique. Vous gagnez 2 PO.",
+    "id": "DA_TradeSector",
+    "name": "Secteur commercial",
+    "tier": 2
+  },
+  "DA_TradeSectorPlus": {
+    "description": "À chaque manche, vous gagnez une relance gratuite de la boutique. Vous gagnez 8 PO.",
+    "id": "DA_TradeSectorPlus",
+    "name": "Secteur commercial+",
+    "tier": 2
+  },
+  "DA_TraitLadder": {
+    "description": "Vous gagnez un emblème aléatoire. Après avoir déployé 2 types non uniques lors d'un combat contre un joueur, vous gagnez une récompense. Vous augmentez ensuite le nombre de types nécessaires et l'importance de la récompense.",
+    "id": "DA_TraitLadder",
+    "name": "Croissance typique",
+    "tier": 3
+  },
+  "DA_TwinGuardians": {
+    "description": "Si vous avez exactement 2 alliés sur votre première rangée, ils gagnent 100 PV, 35 d'armure et 35 de résistance magique.",
+    "id": "DA_TwinGuardians",
+    "name": "Gardiens jumeaux",
+    "tier": 1
+  },
+  "DA_URF": {
+    "description": "Vous gagnez une Spatule. Les champions équipés d'une Spatule ou d'une Poêle à frire gagnent 20% de vitesse d'attaque et 3 de régénération de mana.",
+    "id": "DA_URF",
+    "name": "U.R.F.",
+    "tier": 2
+  },
+  "DA_UpwardMobility": {
+    "description": "L'XP coûte 1 PO de moins. Vous gagnez 2 PV et 1 relance gratuite chaque fois que votre niveau augmente.",
+    "id": "DA_UpwardMobility",
+    "name": "Ascension sociale",
+    "tier": 3
+  },
+  "DA_UrfsGrabBag": {
+    "description": "Vous gagnez 1 Spatule, 3 composants aléatoires et 5 PO.",
+    "id": "DA_UrfsGrabBag",
+    "name": "Besace d'Urf",
+    "tier": 3
+  },
+  "DA_VerticalityI": {
+    "description": "Les champions gagnent 1.5% de dégâts d'attaque, 1.5% de puissance, 1.5 d'armure et 1.5 de résistance magique pour chaque allié partageant un type avec eux.",
+    "id": "DA_VerticalityI",
+    "name": "Verticalité I",
+    "tier": 1
+  },
+  "DA_VerticalityII": {
+    "description": "Les champions gagnent 2% de dégâts d'attaque, 2% de puissance, 2 d'armure et 2 de résistance magique pour chaque allié partageant un type avec eux.",
+    "id": "DA_VerticalityII",
+    "name": "Verticalité II",
+    "tier": 2
+  },
+  "DA_VerticalityIII": {
+    "description": "Les champions gagnent 3% de dégâts d'attaque, 3% de puissance, 3 d'armure et 3 de résistance magique pour chaque allié partageant un type avec eux.",
+    "id": "DA_VerticalityIII",
+    "name": "Verticalité III",
+    "tier": 3
+  },
+  "DA_WandOverflow": {
+    "description": "Vous gagnez 4 Baguettes trop grosses. Vos Baguettes trop grosses octroient 5% de vitesse d'attaque.",
+    "id": "DA_WandOverflow",
+    "name": "Abondance de baguettes",
+    "tier": 3
+  },
+  "DA_Warpath": {
+    "description": "Vous gagnez un champion à 2 PO 2 étoiles. Après avoir infligé 80 pts de dégâts à des joueurs, vous gagnez un coffre rempli de champions de coût élevé et des objets.",
+    "id": "DA_Warpath",
+    "name": "Récompenses de guerre",
+    "tier": 2
+  },
+  "DA_WeStickTogether": {
+    "description": "Vous gagnez un emblème aléatoire et une Enclume à objets complets. Les alliés qui partagent un type avec cet emblème gagnent 130% de vitesse d'attaque.\n\nTactician's Crown d'Into the Arcane, 2025",
+    "id": "DA_WeStickTogether",
+    "name": "Partage emblématique",
+    "tier": 3
+  },
+  "DA_WorththeWait": {
+    "description": "Vous gagnez un champion à 1 PO aléatoire. Vous gagnez une copie de ce champion au début de chaque manche jusqu'à la fin de la partie.",
+    "id": "DA_WorththeWait",
+    "name": "Attente récompensée",
+    "tier": 2
+  },
+  "DA_WorththeWaitII": {
+    "description": "Vous gagnez 2 copies d'un champion à 2 PO aléatoire. Vous gagnez une copie de ce champion au début de chaque manche jusqu'à la fin de la partie.",
+    "id": "DA_WorththeWaitII",
+    "name": "Attente récompensée II",
+    "tier": 3
+  },
+  "DA_WovenMagic": {
+    "description": "Vous gagnez un composant aléatoire. Tous les 2200 de mana dépensés par vos champions, vous octroie un composant supplémentaire (maximum : 0/3).",
+    "id": "DA_WovenMagic",
+    "name": "Mana magique",
+    "tier": 2
+  },
+  "DA_YoungAndWildAndFree": {
+    "description": "Vous pouvez toujours vous déplacer librement lors des phases de carrousel. Vous gagnez 5 PO.",
+    "id": "DA_YoungAndWildAndFree",
+    "name": "Liberté !",
+    "tier": 1
+  }
+}

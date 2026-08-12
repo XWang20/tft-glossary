@@ -1,0 +1,4524 @@
+{
+  "DA_18_Ahri": {
+    "ability": {
+      "description": "Ahri lance une bombe spirituelle à l'emplacement dans un rayon de 4 hexagones ayant le plus d'ennemis autour. Elle inflige {{fval:0}}485/735/3500{{icon:scaleAP}}{{/fval}} pts de dégâts magiques aux ennemis dans un rayon de 3 hexagones, réduits de 20% par hexagone qui les sépare de l'épicentre.",
+      "formulas": [
+        {
+          "displayValue": "485/735/3500",
+          "formula": "[485/735/3500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "485",
+            "735",
+            "3500"
+          ]
+        }
+      ],
+      "name": "Bombe spirituelle",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Ahri.webp?v=5",
+    "id": "DA_18_Ahri",
+    "name": "Ahri",
+    "role": "APCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 20,
+      "magicResist": 40,
+      "mana": 100,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_18_Akali_AD": {
+    "ability": {
+      "description": "Adaptateur {{icon:scaleAD}} : Akali lance une salve de kunai sur la cible, infligeant {{fval:0}}155/235/370/630{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques. Si la cible brûle, elle inflige {{fval:1}}35/52/80/135{{icon:scaleAD}}{{/fval}} pts de dégâts bonus.\n\nAdaptateur {{icon:scaleAP}} : si la compétence élimine la cible, elle la lance de nouveau.\nAdaptateur {{icon:scaleAP}} : Akali lance une volée de kunais sur sa cible, infligeant {{fval:2}}155/235/385/650{{icon:scaleAP}}{{/fval}} pts de dégâts magiques, augmentés à 50% si la cible est un tank. Si la cible meurt, Akali lance à nouveau la compétence avec 70% d'efficacité.\n\nAdaptateur {{icon:scaleAD}} : inflige des dégâts bonus aux ennemis qui brûlent.",
+      "formulas": [
+        {
+          "displayValue": "155/235/370/630",
+          "formula": "[145/220/345/590]{{icon:scaleAD}} + [10/15/25/40]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "155",
+            "235",
+            "370",
+            "630"
+          ]
+        },
+        {
+          "displayValue": "35/52/80/135",
+          "formula": "[35/52/80/135]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "35",
+            "52",
+            "80",
+            "135"
+          ]
+        },
+        {
+          "displayValue": "155/235/385/650",
+          "formula": "[155/235/385/650]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "155",
+            "235",
+            "385",
+            "650"
+          ]
+        }
+      ],
+      "name": "Lancer de kunais",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Akali_AD.webp?v=5",
+    "id": "DA_18_Akali_AD",
+    "name": "Akali",
+    "role": "APFighter",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 0,
+      "magicResist": 35,
+      "mana": 25,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Inferno",
+      "DA_18_Adaptor",
+      "DA_18_Slayer"
+    ]
+  },
+  "DA_18_Alistar": {
+    "ability": {
+      "description": "Alistar rugit, ce qui lui rend {{fval:0}}276/397/566/823{{icon:scaleAP}}{{icon:scaleHealth}}{{/fval}} PV, supprime les entraves et soigne les deux alliés ayant le plus faible pourcentage de PV de {{fval:1}}80/105/130/155{{icon:scaleAP}}{{/fval}}. Puis il percute sa cible actuelle, lui infligeant {{fval:2}}100/150/225/385{{icon:scaleAP}}{{/fval}} pts de dégâts magiques et l'étourdissant pendant 1.5 sec.",
+      "formulas": [
+        {
+          "displayValue": "276/397/566/823",
+          "formula": "[200/260/320/380]{{icon:scaleAP}} + 8%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAP",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "276",
+            "397",
+            "566",
+            "823"
+          ]
+        },
+        {
+          "displayValue": "80/105/130/155",
+          "formula": "[80/105/130/155]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "80",
+            "105",
+            "130",
+            "155"
+          ]
+        },
+        {
+          "displayValue": "100/150/225/385",
+          "formula": "[100/150/225/385]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "225",
+            "385"
+          ]
+        }
+      ],
+      "name": "Cri triomphant",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Alistar.webp?v=5",
+    "id": "DA_18_Alistar",
+    "name": "Alistar",
+    "role": "APTank",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 950,
+      "hpStars": [
+        950,
+        1710,
+        3078
+      ],
+      "initialMana": 30,
+      "magicResist": 45,
+      "mana": 90,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_18_Alune": {
+    "ability": {
+      "description": "Alune fait pleuvoir 9 éclats de lune répartis entre les 3 ennemis les plus proches, infligeant {{fval:0}}50/75/500{{icon:scaleAP}}{{/fval}} pts de dégâts magiques chacun.\n\nSi la lune est pleine, elle s'écrase sur le plateau, infligeant {{fval:1}}2200/3400/7500{{icon:scaleAP}}{{/fval}} pts de dégâts magiques répartis entre tous les ennemis.",
+      "formulas": [
+        {
+          "displayValue": "50/75/500",
+          "formula": "[50/75/500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "50",
+            "75",
+            "500"
+          ]
+        },
+        {
+          "displayValue": "2200/3400/7500",
+          "formula": "[2200/3400/7500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "2200",
+            "3400",
+            "7500"
+          ]
+        }
+      ],
+      "name": "Attraction lunaire",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_Alune.webp?v=5",
+    "id": "DA_18_Alune",
+    "name": "Alune",
+    "role": "APCaster",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 0,
+      "magicResist": 45,
+      "mana": 35,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_AluneUniqueTrait18",
+      "DA_18_Lunar",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_18_Aphelios": {
+    "ability": {
+      "description": "Aphelios équipe Severum et balaie la cible {{fval:0}}6{{icon:scaleAS}}{{/fval}} fois en 2 sec, chaque coup infligeant {{fval:1}}70/105/850{{icon:scaleAD}}{{/fval}} pts de dégâts physiques.\n\nAprès la fin de l'assaut, il tire une décharge qui inflige {{fval:2}}490/735/5225{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques répartis entre tous les ennemis dans un rayon de 2 hexagones.",
+      "formulas": [
+        {
+          "displayValue": "6",
+          "formula": "[6] + 1 per bonus [35%] {{icon:scaleAS}}",
+          "icons": [
+            "scaleAS"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "6",
+            "6",
+            "6"
+          ]
+        },
+        {
+          "displayValue": "70/105/850",
+          "formula": "[70/105/850]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "70",
+            "105",
+            "850"
+          ]
+        },
+        {
+          "displayValue": "490/735/5225",
+          "formula": "[450/675/5000]{{icon:scaleAD}} + [40/60/225]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "490",
+            "735",
+            "5225"
+          ]
+        }
+      ],
+      "name": "Assaut au clair de lune",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Aphelios.webp?v=5",
+    "id": "DA_18_Aphelios",
+    "name": "Aphelios",
+    "role": "ADCarry",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 60,
+      "damageStars": [
+        60,
+        90,
+        135
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 20,
+      "magicResist": 40,
+      "mana": 70,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Lunar",
+      "DA_18_Rapidfire"
+    ]
+  },
+  "DA_18_Ashe": {
+    "ability": {
+      "description": "Ashe tire une flèche à travers la plus longue ligne d'ennemis, infligeant {{fval:0}}440/660/1000{{icon:scaleAD}}{{/fval}} pts de dégâts physiques, réduits de 80/80/40% par ennemi touché (total minimum : 20%).\n\nLa flèche laisse derrière elle une traînée pendant 4/4/20 sec, infligeant {{fval:1}}7/11/220{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} + 2/3/10% des PV max sous forme de dégâts physiques par seconde aux ennemis à l'intérieur, et les ralentit de 20%.\n\nRalentissement : réduit la vitesse d'attaque.",
+      "formulas": [
+        {
+          "displayValue": "440/660/1000",
+          "formula": "[440/660/1000]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "440",
+            "660",
+            "1000"
+          ]
+        },
+        {
+          "displayValue": "7/11/220",
+          "formula": "[5/8/200]{{icon:scaleAD}} + [2/3/20]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "7",
+            "11",
+            "220"
+          ]
+        }
+      ],
+      "name": "Faille spirituelle",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_Ashe.webp?v=5",
+    "id": "DA_18_Ashe",
+    "name": "Ashe",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 75,
+      "damageStars": [
+        75,
+        113,
+        169
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 20,
+      "magicResist": 45,
+      "mana": 80,
+      "range": 5
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Hunter"
+    ]
+  },
+  "DA_18_Azir": {
+    "ability": {
+      "description": "Azir gagne 150% de vitesse d'attaque et invoque 2 soldats lors de ses 6 prochaines attaques. Ces attaques sont remplacées par des ordres qui ordonnent à chaque soldat d'infliger {{fval:0}}50/75/120{{icon:scaleAP}}{{/fval}} pts de dégâts magiques par attaque.",
+      "formulas": [
+        {
+          "displayValue": "50/75/120",
+          "formula": "[50/75/120]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "50",
+            "75",
+            "120"
+          ]
+        }
+      ],
+      "name": "Dresse-toi !",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Azir.webp?v=5",
+    "id": "DA_18_Azir",
+    "name": "Azir",
+    "role": "APCarry",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 0,
+      "magicResist": 35,
+      "mana": 35,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Blackthorn",
+      "DA_18_Executioner",
+      "DA_18_Summoner"
+    ]
+  },
+  "DA_18_Caitlyn": {
+    "ability": {
+      "description": "Passive : chaque troisième attaque est remplacée par un tir dans la tête qui inflige {{fval:0}}220/330/545/925{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques.",
+      "formulas": [
+        {
+          "displayValue": "220/330/545/925",
+          "formula": "[200/300/500/850]{{icon:scaleAD}} + [20/30/45/75]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "220",
+            "330",
+            "545",
+            "925"
+          ]
+        }
+      ],
+      "name": "Tir dans la tête",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Caitlyn.webp?v=5",
+    "id": "DA_18_Caitlyn",
+    "name": "Caitlyn",
+    "role": "ADSpecialist",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "initialMana": 0,
+      "magicResist": 30,
+      "mana": 3,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Coven",
+      "DA_18_Hunter"
+    ]
+  },
+  "DA_18_Camille": {
+    "ability": {
+      "description": "Camille tranche la cible, lui infligeant {{fval:0}}170/255/435/740{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques. Elle gagne également un bouclier de 60/85/160/235 PV pendant 2 sec.",
+      "formulas": [
+        {
+          "displayValue": "170/255/435/740",
+          "formula": "[160/240/410/700]{{icon:scaleAD}} + [10/15/25/40]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "170",
+            "255",
+            "435",
+            "740"
+          ]
+        }
+      ],
+      "name": "Balayage défensif",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Camille.webp?v=5",
+    "id": "DA_18_Camille",
+    "name": "Camille",
+    "role": "ADFighter",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 25,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Coven",
+      "DA_18_Slayer"
+    ]
+  },
+  "DA_18_Cassiopeia": {
+    "ability": {
+      "description": "Cassiopeia empoisonne la cible et l'ennemi non empoisonné le plus proche, infligeant {{fval:0}}425/640/1020{{icon:scaleAP}}{{/fval}} pts de dégâts magiques en 15 sec. Le poison se cumule.",
+      "formulas": [
+        {
+          "displayValue": "425/640/1020",
+          "formula": "[425/640/1020]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "425",
+            "640",
+            "1020"
+          ]
+        }
+      ],
+      "name": "Bombe nocive",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Cassiopeia.webp?v=5",
+    "id": "DA_18_Cassiopeia",
+    "name": "Cassiopeia",
+    "role": "APCaster",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 0,
+      "magicResist": 35,
+      "mana": 30,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Coven",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_18_Diana": {
+    "ability": {
+      "description": "Diana gagne un bouclier de 150/225/300 PV pendant 2 sec et envoie 6 orbes de clair de lune vers les ennemis se trouvant dans un rayon de 2 hexagones. Chaque orbe inflige {{fval:0}}65/100/155{{icon:scaleAP}}{{/fval}} pts de dégâts magiques.",
+      "formulas": [
+        {
+          "displayValue": "65/100/155",
+          "formula": "[65/100/155]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "65",
+            "100",
+            "155"
+          ]
+        }
+      ],
+      "name": "Barrière pâle",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Diana.webp?v=5",
+    "id": "DA_18_Diana",
+    "name": "Diana",
+    "role": "APFighter",
+    "stats": {
+      "armor": 50,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 50,
+      "mana": 40,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Lunar",
+      "DA_18_Slayer",
+      "DA_18_Vanguard"
+    ]
+  },
+  "DA_18_ElderDragon": {
+    "ability": {
+      "description": "Passive : les attaques infligent 75/75/100% pts de dégâts aux ennemis adjacents à la cible.\n\nActive : le Dragon ancestral devient invulnérable et s'envole dans les airs. À son retour, il étourdit tous les ennemis pendant 1.25/1.25/99 sec, les embrase pendant 3/3/99 sec et gagne 15/15/100% d'omnivampirisme. Les ennemis embrasés subissent des dégâts physiques équivalents à 2/2/20% de leurs PV max par seconde. Cette compétence devient Souffle de flammes et est lancée immédiatement.\n\nSouffle de flammes : le Dragon ancestral souffle du feu sur le plus grand nombre d'ennemis alignés derrière la cible, infligeant {{fval:0}}270/405/7200{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques, moins 20% pour chaque ennemi traversé (20% minimum). Le Dragon ancestral embrase ces ennemis pendant 3/3/99 sec.\n\nBuff du Dragon ancestral : infliger des dégâts à un ennemi ayant moins de 12% de ses PV l'exécute.",
+      "formulas": [
+        {
+          "displayValue": "270/405/7200",
+          "formula": "[250/375/7000]{{icon:scaleAD}} + [20/30/200]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "270",
+            "405",
+            "7200"
+          ]
+        }
+      ],
+      "name": "Chaleur ancestrale",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_ElderDragon.webp?v=5",
+    "id": "DA_18_ElderDragon",
+    "name": "Dragon ancestral",
+    "role": "ADFighter",
+    "stats": {
+      "armor": 70,
+      "attackSpeed": 0.5,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 110,
+      "damageStars": [
+        110,
+        165,
+        248
+      ],
+      "hp": 1800,
+      "hpStars": [
+        1800,
+        3240,
+        5832
+      ],
+      "initialMana": 20,
+      "magicResist": 70,
+      "mana": 60,
+      "range": 2
+    },
+    "traitIds": [
+      "DA_18_ApexPredator",
+      "DA_Riftbeast18"
+    ]
+  },
+  "DA_18_Elise": {
+    "ability": {
+      "description": "Elise se transforme en araignée et gagne 375/475/725/975 PV max. En forme d'araignée, ses attaques infligent {{fval:0}}35/50/80/110{{icon:scaleAP}}{{/fval}} pts de dégâts magiques bonus et lui rendent {{fval:1}}55/85/160/235{{icon:scaleAP}}{{/fval}} PV. Les lancements suivants lui octroient 175% de vitesse d'attaque dégressive pendant 4 sec.",
+      "formulas": [
+        {
+          "displayValue": "35/50/80/110",
+          "formula": "[35/50/80/110]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "35",
+            "50",
+            "80",
+            "110"
+          ]
+        },
+        {
+          "displayValue": "55/85/160/235",
+          "formula": "[55/85/160/235]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "55",
+            "85",
+            "160",
+            "235"
+          ]
+        }
+      ],
+      "name": "Reine araignée",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Elise.webp?v=5",
+    "id": "DA_18_Elise",
+    "name": "Elise",
+    "role": "APTank",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 20,
+      "damageStars": [
+        20,
+        30,
+        45
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 20,
+      "magicResist": 45,
+      "mana": 70,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Coven",
+      "DA_18_Vanguard"
+    ]
+  },
+  "DA_18_Ezreal": {
+    "ability": {
+      "description": "Ezreal se téléporte loin de sa cible actuelle, lui inflige {{fval:0}}225/340/1200{{icon:scaleAD}}{{/fval}} pts de dégâts physiques et gagne {{fval:1}}25%/25%/100%{{icon:scaleAP}}{{/fval}} de vitesse d'attaque.\n\nChaque 4e activation consomme la vitesse d'attaque conférée par Courroux de la nature et tire une décharge à travers le plus gros groupe d'ennemis, infligeant {{fval:2}}385/580/2500{{icon:scaleAD}}{{/fval}} pts de dégâts physiques, réduits de 25% pour chaque ennemi traversé (minimum 50%).",
+      "formulas": [
+        {
+          "displayValue": "225/340/1200",
+          "formula": "[225/340/1200]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "225",
+            "340",
+            "1200"
+          ]
+        },
+        {
+          "displayValue": "25%/25%/100%",
+          "formula": "[25%/25%/100%]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "25%",
+            "25%",
+            "100%"
+          ]
+        },
+        {
+          "displayValue": "385/580/2500",
+          "formula": "[385/580/2500]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "385",
+            "580",
+            "2500"
+          ]
+        }
+      ],
+      "name": "Déluge de la forêt",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Ezreal.webp?v=5",
+    "id": "DA_18_Ezreal",
+    "name": "Ezreal",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 45,
+      "damageStars": [
+        45,
+        68,
+        101
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 30,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Executioner"
+    ]
+  },
+  "DA_18_GnarSmall": {
+    "ability": {
+      "description": "Passive : Gnar gagne 5/5/50 pts de Rage par seconde et 5 pts de Rage par attaque.\n\nActive : Gnar se transforme en Méga Gnar et bondit vers le plus grand groupe d'ennemis dans un rayon de 3 hexagones. Il inflige ensuite {{fval:0}}100/150/2000{{icon:scaleAD}}{{/fval}} pts de dégâts physiques aux ennemis situés dans un rayon de 2/2/10 hexagones, réduit leur armure et leur résistance magique de {{fval:1}}15/20/100{{icon:scaleAP}}{{/fval}}, et les étourdit pendant 1/1/15 sec. Méga Gnar gagne 400/600/10000 PV et remplace sa compétence par Lancement primitif.\n\nLancement primitif : Gnar lance sa cible sur l'ennemi le plus éloigné, leur infligeant {{fval:2}}380/570/9000{{icon:scaleAD}}{{/fval}} pts de dégâts physiques et {{fval:3}}135/205/4500{{icon:scaleAD}}{{/fval}} pts de dégâts physiques aux ennemis traversés. S'il ne reste qu'un seul ennemi, il le balance hors du champ de bataille.",
+      "formulas": [
+        {
+          "displayValue": "100/150/2000",
+          "formula": "[100/150/2000]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "2000"
+          ]
+        },
+        {
+          "displayValue": "15/20/100",
+          "formula": "[15/20/100]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "15",
+            "20",
+            "100"
+          ]
+        },
+        {
+          "displayValue": "380/570/9000",
+          "formula": "[380/570/9000]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "380",
+            "570",
+            "9000"
+          ]
+        },
+        {
+          "displayValue": "135/205/4500",
+          "formula": "[135/205/4500]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "135",
+            "205",
+            "4500"
+          ]
+        }
+      ],
+      "name": "Rage génique",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_GnarSmall.webp?v=5",
+    "id": "DA_18_GnarSmall",
+    "name": "Gnar",
+    "role": "ADSpecialist",
+    "stats": {
+      "armor": 55,
+      "attackSpeed": 0.9,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 100,
+      "damageStars": [
+        100,
+        150,
+        225
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 0,
+      "magicResist": 55,
+      "mana": 70,
+      "range": 2
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Sprykin",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_18_Hecarim": {
+    "ability": {
+      "description": "Hecarim gagne 50 d'armure et de résistance magique pendant 3 secondes et récupère {{fval:0}}375/475/685{{icon:scaleAP}}{{/fval}} PV pendant la durée. Il lance des cavaliers fantomatiques sur les 3 ennemis les plus proches, infligeant {{fval:1}}80/120/195{{icon:scaleAP}}{{/fval}} pts de dégâts magiques et les étourdissant pendant 1.5/1.5/1.75 sec.",
+      "formulas": [
+        {
+          "displayValue": "375/475/685",
+          "formula": "[375/475/685]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "375",
+            "475",
+            "685"
+          ]
+        },
+        {
+          "displayValue": "80/120/195",
+          "formula": "[80/120/195]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "80",
+            "120",
+            "195"
+          ]
+        }
+      ],
+      "name": "Essence de la peur",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Hecarim.webp?v=5",
+    "id": "DA_18_Hecarim",
+    "name": "Hecarim",
+    "role": "APTank",
+    "stats": {
+      "armor": 50,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 30,
+      "magicResist": 50,
+      "mana": 110,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Vanguard"
+    ]
+  },
+  "DA_18_Ivern": {
+    "ability": {
+      "description": "Passive : les boucliers de cette compétence peuvent infliger un coup critique avec Précision.\n\nActive : Ivern confère à 2/2/10 alliés un bouclier de {{fval:0}}165/300/3000{{icon:scaleAP}}{{icon:scaleDA}}{{/fval}} PV et 10/15/100% d'amplification des dégâts pendant 6 sec. Puis il inflige {{fval:1}}140/210/2000{{icon:scaleAP}}{{/fval}} pts de dégâts magiques aux ennemis qui leur sont adjacents. Après 6 activations, il octroie également 100% de vitesse d'attaque cumulable aux cibles.",
+      "formulas": [
+        {
+          "displayValue": "165/300/3000",
+          "formula": "[165/300/3000]{{icon:scaleAP}} × {{icon:scaleDA}}",
+          "icons": [
+            "scaleAP",
+            "scaleDA"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "165",
+            "300",
+            "3000"
+          ]
+        },
+        {
+          "displayValue": "140/210/2000",
+          "formula": "[140/210/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "140",
+            "210",
+            "2000"
+          ]
+        }
+      ],
+      "name": "Graine à retardement",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_Ivern.webp?v=5",
+    "id": "DA_18_Ivern",
+    "name": "Ivern",
+    "role": "APCaster",
+    "stats": {
+      "armor": 55,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 60,
+      "damageStars": [
+        60,
+        90,
+        135
+      ],
+      "hpStars": [
+        0,
+        0,
+        0
+      ],
+      "initialMana": 50,
+      "magicResist": 55,
+      "mana": 80,
+      "range": 3
+    },
+    "traitIds": [
+      "DA_18_Greenfather"
+    ]
+  },
+  "DA_18_Kayle": {
+    "ability": {
+      "description": "Passive : Kayle évolue selon son niveau d'étoile, ce qui lui confère des bonus cumulables.\n\n1re ascension : ses attaques infligent {{fval:0}}56/84/98/112{{icon:scaleAP}}{{/fval}} pts de dégâts magiques bonus.\n2e ascension : ses attaques appliquent 20% de scission magique aux ennemis touchés pendant 2 sec.\n3e ascension : ses attaques lancent des vagues infligeant {{fval:1}}40/40/40/50{{icon:scaleAP}}{{/fval}} pts de dégâts magiques à toutes les autres unités touchées.\n4e ascension : elle gagne une portée infinie. Chaque 3e vague est bien plus grande.\n\nScission magique : réduit la résistance magique.",
+      "formulas": [
+        {
+          "displayValue": "56/84/98/112",
+          "formula": "[56/84/98/112]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "56",
+            "84",
+            "98",
+            "112"
+          ]
+        },
+        {
+          "displayValue": "40/40/40/50",
+          "formula": "[40/40/40/50]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "40",
+            "40",
+            "40",
+            "50"
+          ]
+        }
+      ],
+      "name": "Jugement solaire",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Kayle.webp?v=5",
+    "id": "DA_18_Kayle",
+    "name": "Kayle",
+    "role": "APSpecialist",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 10,
+      "damageStars": [
+        10,
+        15,
+        23
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "magicResist": 30,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Solar",
+      "DA_18_Rapidfire"
+    ]
+  },
+  "DA_18_Kennen": {
+    "ability": {
+      "description": "Kennen se charge et gagne 15% de puissance par ennemi qui brûle. Puis, il gagne un bouclier de {{fval:0}}250/350/3000{{icon:scaleAP}}{{/fval}} PV pendant 2.5 sec et fonce à travers un groupe d'ennemis à proximité, infligeant {{fval:1}}80/120/1500{{icon:scaleAP}}{{/fval}} pts de dégâts magiques à chacun.\n\nAprès la ruée, il déclenche une tempête de feu de 2 hexagones qui inflige un total de {{fval:2}}450/675/5000{{icon:scaleAP}}{{/fval}} pts de dégâts magiques répartis entre tous les ennemis touchés pendant 2 sec.",
+      "formulas": [
+        {
+          "displayValue": "250/350/3000",
+          "formula": "[250/350/3000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "250",
+            "350",
+            "3000"
+          ]
+        },
+        {
+          "displayValue": "80/120/1500",
+          "formula": "[80/120/1500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "80",
+            "120",
+            "1500"
+          ]
+        },
+        {
+          "displayValue": "450/675/5000",
+          "formula": "[450/675/5000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "450",
+            "675",
+            "5000"
+          ]
+        }
+      ],
+      "name": "Tempête de feu",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_Kennen.webp?v=5",
+    "id": "DA_18_Kennen",
+    "name": "Kennen",
+    "role": "APReaper",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.85,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 1200,
+      "hpStars": [
+        1200,
+        2160,
+        3888
+      ],
+      "initialMana": 0,
+      "magicResist": 60,
+      "mana": 40,
+      "range": 2
+    },
+    "traitIds": [
+      "DA_18_Inferno",
+      "DA_18_Executioner"
+    ]
+  },
+  "DA_18_KhaZix": {
+    "ability": {
+      "description": "Leap to the farthest enemy within 3 Hexes, dealing {{fval:0}}240/360/540{{icon:scaleAP}}{{/fval}} magic damage. If they have no adjacent allies, deal {{fval:1}}290/435/650{{icon:scaleAP}}{{/fval}} magic damage instead and gain 10 mana.",
+      "formulas": [
+        {
+          "displayValue": "240/360/540",
+          "formula": "[240/360/540]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "240",
+            "360",
+            "540"
+          ]
+        },
+        {
+          "displayValue": "290/435/650",
+          "formula": "[290/435/650]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "290",
+            "435",
+            "650"
+          ]
+        }
+      ],
+      "name": "Goût de la peur",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_KhaZix.webp?v=5",
+    "id": "DA_18_KhaZix",
+    "name": "KhaZix",
+    "role": "APReaper",
+    "stats": {
+      "armor": 55,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 55,
+      "mana": 25,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Rival"
+    ]
+  },
+  "DA_18_Kobuko": {
+    "ability": {
+      "description": "Kobuko récupère {{fval:0}}314/403/589/831{{icon:scaleAP}}{{icon:scaleHealth}}{{/fval}} PV en 2 sec. Sa prochaine attaque est remplacée par un coup puissant qui inflige {{fval:1}}140/231/377/408{{icon:scaleHealth}}{{icon:scaleAP}}{{/fval}} pts de dégâts magiques.",
+      "formulas": [
+        {
+          "displayValue": "314/403/589/831",
+          "formula": "[265/315/430/545]{{icon:scaleAP}} + 7%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAP",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "314",
+            "403",
+            "589",
+            "831"
+          ]
+        },
+        {
+          "displayValue": "140/231/377/408",
+          "formula": "10%{{icon:scaleHealth}} + [70/105/150/0]{{icon:scaleAP}}",
+          "icons": [
+            "scaleHealth",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "140",
+            "231",
+            "377",
+            "408"
+          ]
+        }
+      ],
+      "name": "Danse de la vie",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Kobuko.webp?v=5",
+    "id": "DA_18_Kobuko",
+    "name": "Kobuko",
+    "role": "APTank",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 55,
+      "damageStars": [
+        55,
+        83,
+        124
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 30,
+      "magicResist": 40,
+      "mana": 90,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Sprykin",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_18_LeBlanc": {
+    "ability": {
+      "description": "Passive : après un combat contre un joueur, votre LeBlanc la plus forte a 10/15/40/100% de chances de créer une copie d'un allié sur votre plateau, augmenté de 4% par élimination.\n\nActive : LeBlanc lance une image miroir sur la cible actuelle, infligeant {{fval:0}}250/375/565/955{{icon:scaleAP}}{{/fval}} pts de dégâts magiques et {{fval:1}}85/130/190/325{{icon:scaleAP}}{{/fval}} aux ennemis adjacents.",
+      "formulas": [
+        {
+          "displayValue": "250/375/565/955",
+          "formula": "[250/375/565/955]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "250",
+            "375",
+            "565",
+            "955"
+          ]
+        },
+        {
+          "displayValue": "85/130/190/325",
+          "formula": "[85/130/190/325]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "85",
+            "130",
+            "190",
+            "325"
+          ]
+        }
+      ],
+      "name": "Image miroir",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_LeBlanc.webp?v=5",
+    "id": "DA_18_LeBlanc",
+    "name": "Leblanc",
+    "role": "APCaster",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "initialMana": 0,
+      "magicResist": 30,
+      "mana": 40,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_18_Leona": {
+    "ability": {
+      "description": "Passive : Leona commence le combat avec {{fval:0}}60/70/80/100{{icon:scaleAP}}{{/fval}} d'armure et de résistance magique bonus, qui diminuent en 12 sec.\n\nActive : Leona frappe la cible actuelle, infligeant {{fval:1}}60/108/162/320{{icon:scaleArmor}}{{/fval}} pts de dégâts magiques et l'étourdit pendant 1.5 sec.",
+      "formulas": [
+        {
+          "displayValue": "60/70/80/100",
+          "formula": "[60/70/80/100]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60",
+            "70",
+            "80",
+            "100"
+          ]
+        },
+        {
+          "displayValue": "60/108/162/320",
+          "formula": "[150%/270%/405%/800%]{{icon:scaleArmor}}",
+          "icons": [
+            "scaleArmor"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60",
+            "108",
+            "162",
+            "320"
+          ]
+        }
+      ],
+      "name": "Coup de bouclier",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Leona.webp?v=5",
+    "id": "DA_18_Leona",
+    "name": "Leona",
+    "role": "APTank",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 40,
+      "magicResist": 40,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Solar",
+      "DA_18_Defender"
+    ]
+  },
+  "DA_18_Lillia": {
+    "ability": {
+      "description": "Lillia récupère {{fval:0}}280/360/800{{icon:scaleAP}}{{/fval}} PV et envoie 4 papillons vers les ennemis proches. Les ennemis touchés subissent {{fval:1}}90/135/2000{{icon:scaleAP}}{{/fval}} pts de dégâts magiques et sont endormis pendant 1.5/1.75/8 sec. S'ils subissent 1000 pts de dégâts, ils se réveillent et subissent des dégâts magiques bonus équivalents à 10% de leurs PV max.",
+      "formulas": [
+        {
+          "displayValue": "280/360/800",
+          "formula": "[280/360/800]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "280",
+            "360",
+            "800"
+          ]
+        },
+        {
+          "displayValue": "90/135/2000",
+          "formula": "[90/135/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "90",
+            "135",
+            "2000"
+          ]
+        }
+      ],
+      "name": "Douce berceuse",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Lillia.webp?v=5",
+    "id": "DA_18_Lillia",
+    "name": "Lillia",
+    "role": "APTank",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 1300,
+      "hpStars": [
+        1300,
+        2340,
+        4212
+      ],
+      "initialMana": 40,
+      "magicResist": 60,
+      "mana": 140,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Fae",
+      "DA_18_Defender"
+    ]
+  },
+  "DA_18_Malphite": {
+    "ability": {
+      "description": "Malphite gagne un bouclier de {{fval:0}}700/850/2000{{icon:scaleAP}}{{/fval}} PV pendant 4 sec et se pétrifie. Lorsque le bouclier se brise, il libère une vague d'énergie noire, infligeant {{fval:1}}82/123/3399{{icon:scaleMR}}{{icon:scaleArmor}}{{icon:scaleAP}}{{/fval}} pts de dégâts magiques aux ennemis situés dans un rayon de 2/2/3 hexagones.",
+      "formulas": [
+        {
+          "displayValue": "700/850/2000",
+          "formula": "[700/850/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "700",
+            "850",
+            "2000"
+          ]
+        },
+        {
+          "displayValue": "82/123/3399",
+          "formula": "[30%/45%/999%]{{icon:scaleMR}} + [30%/45%/999%]{{icon:scaleArmor}} + [40/60/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleMR",
+            "scaleArmor",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "82",
+            "123",
+            "3399"
+          ]
+        }
+      ],
+      "name": "Écorce pétrifiée",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Malphite.webp?v=5",
+    "id": "DA_18_Malphite",
+    "name": "Malphite",
+    "role": "APTank",
+    "stats": {
+      "armor": 70,
+      "attackSpeed": 0.55,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 70,
+      "damageStars": [
+        70,
+        105,
+        158
+      ],
+      "hp": 1300,
+      "hpStars": [
+        1300,
+        2340,
+        4212
+      ],
+      "initialMana": 30,
+      "magicResist": 70,
+      "mana": 80,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blackthorn",
+      "DA_18_Battlemage"
+    ]
+  },
+  "DA_18_Maokai": {
+    "ability": {
+      "description": "Passive : lorsque Maokai bloque 650/650/300 pts de dégâts, il lance un arbrisseau vers un ennemi proche qui inflige {{fval:0}}77/139/2673{{icon:scaleHealth}}{{/fval}} pts de dégâts magiques. Lorsque Maokai meurt, 3/5/10 arbrisseaux jaillissent.\n\nActive : Maokai inflige {{fval:1}}66/119/3564{{icon:scaleHealth}}{{/fval}} pts de dégâts magiques à sa cible et récupère {{fval:2}}330/400/2000{{icon:scaleAP}}{{/fval}} + 10/10/100% de ses PV manquants.",
+      "formulas": [
+        {
+          "displayValue": "77/139/2673",
+          "formula": "[7%/7%/75%]{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "77",
+            "139",
+            "2673"
+          ]
+        },
+        {
+          "displayValue": "66/119/3564",
+          "formula": "[6%/6%/100%]{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "66",
+            "119",
+            "3564"
+          ]
+        },
+        {
+          "displayValue": "330/400/2000",
+          "formula": "[330/400/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "330",
+            "400",
+            "2000"
+          ]
+        }
+      ],
+      "name": "Semer les graines",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_18_Maokai.webp?v=5",
+    "id": "DA_18_Maokai",
+    "name": "Maokai",
+    "role": "APTank",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 80,
+      "damageStars": [
+        80,
+        120,
+        180
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 40,
+      "magicResist": 60,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Maokai_UniqueTrait",
+      "DA_Juggernaut18"
+    ]
+  },
+  "DA_18_MasterYi_AD": {
+    "ability": {
+      "description": "Passive : chaque troisième attaque est un Coup double. En cas d'élimination, Maître Yi gagne un important bonus de vitesse de déplacement.\n\nAdaptateur {{icon:scaleAD}} : Coup double octroie {{fval:0}}15%{{icon:scaleAP}}{{/fval}} de vitesse d'attaque cumulable.\n\nAdaptateur {{icon:scaleAP}} : Coup double inflige des dégâts bonus et rend des PV.\nPassive : chaque troisième attaque est un Coup double qui touche deux fois. En cas d'élimination, Maître Yi gagne un important bonus de vitesse de déplacement.\n\nAdaptateur {{icon:scaleAP}} : Coup double inflige {{fval:1}}145/220/350{{icon:scaleAP}}{{/fval}} pts de dégâts magiques bonus. Maître Yi récupère un montant de PV équivalents à 35% des dégâts bonus infligés.\n\nAdaptateur {{icon:scaleAD}} : les Coups doubles octroient de la vitesse d'attaque cumulable.",
+      "formulas": [
+        {
+          "displayValue": "15%",
+          "formula": "12% + 3%{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "15%",
+            "15%",
+            "15%"
+          ]
+        },
+        {
+          "displayValue": "145/220/350",
+          "formula": "[145/220/350]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "145",
+            "220",
+            "350"
+          ]
+        }
+      ],
+      "name": "Style Wuju",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_MasterYi_AD.webp?v=5",
+    "id": "DA_18_MasterYi_AD",
+    "name": "Maître Yi",
+    "role": "APSpecialist",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.85,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 70,
+      "damageStars": [
+        70,
+        105,
+        158
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 60,
+      "mana": 3,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Adaptor"
+    ]
+  },
+  "DA_18_Morgana": {
+    "ability": {
+      "description": "Passive : Morgana gagne 25% d'omnivampirisme.\n\nActive : Morgana tire une décharge sombre sur les 3 ennemis les plus proches, leur infligeant {{fval:0}}60/90/500{{icon:scaleAP}}{{/fval}} pts de dégâts magiques et les maudissant pendant 4 sec. Elle fait ensuite apparaître une zone de flétrissement de 2 hexagone(s) pendant la même durée, qui inflige {{fval:1}}33/50/500{{icon:scaleAP}}{{/fval}} pts de dégâts magiques par seconde. Les ennemis maudits subissent {{fval:2}}22/33/240{{icon:scaleAP}}{{/fval}} pts de dégâts supplémentaires par malédiction.",
+      "formulas": [
+        {
+          "displayValue": "60/90/500",
+          "formula": "[60/90/500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60",
+            "90",
+            "500"
+          ]
+        },
+        {
+          "displayValue": "33/50/500",
+          "formula": "[33/50/500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "33",
+            "50",
+            "500"
+          ]
+        },
+        {
+          "displayValue": "22/33/240",
+          "formula": "[22/33/240]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "22",
+            "33",
+            "240"
+          ]
+        }
+      ],
+      "name": "Malédiction flétrissante",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Morgana.webp?v=5",
+    "id": "DA_18_Morgana",
+    "name": "Morgana",
+    "role": "APFighter",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 45,
+      "damageStars": [
+        45,
+        68,
+        101
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 0,
+      "magicResist": 60,
+      "mana": 60,
+      "range": 2
+    },
+    "traitIds": [
+      "DA_18_Coven",
+      "DA_18_Invoker"
+    ]
+  },
+  "DA_18_Ornn": {
+    "ability": {
+      "description": "Active : Ornn gagne un bouclier de {{fval:0}}400/460/550/640{{icon:scaleAP}}{{/fval}} PV pendant 4 sec et inflige {{fval:1}}200/300/450/765{{icon:scaleAP}}{{/fval}} pts de dégâts magiques aux ennemis dans un cône.\n\nQuête : à chaque combat contre un joueur, Ornn stocke les dégâts bloqués sous forme de Pouvoir de la forge. À 3 étoiles, le montant est doublé. Vous gagnez une Enclume à artefacts chaque fois que le Pouvoir de la forge d'Ornn augmente suffisamment. (Pouvoir de la forge : /)",
+      "formulas": [
+        {
+          "displayValue": "400/460/550/640",
+          "formula": "[400/460/550/640]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "400",
+            "460",
+            "550",
+            "640"
+          ]
+        },
+        {
+          "displayValue": "200/300/450/765",
+          "formula": "[200/300/450/765]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "200",
+            "300",
+            "450",
+            "765"
+          ]
+        }
+      ],
+      "name": "Fournaise",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Ornn.webp?v=5",
+    "id": "DA_18_Ornn",
+    "name": "Ornn",
+    "role": "APTank",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 40,
+      "magicResist": 40,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Defender"
+    ]
+  },
+  "DA_18_Rakan": {
+    "ability": {
+      "description": "Rakan gagne un bouclier de {{fval:0}}250/300/375/450{{icon:scaleAP}}{{/fval}} PV pendant 4 sec. Il octroie ensuite à l'allié ayant infligé le plus de dégâts lors de ce combat {{fval:1}}90%/100%/130%/160%{{icon:scaleAP}}{{/fval}} de vitesse d'attaque décroissante pendant 4 sec.",
+      "formulas": [
+        {
+          "displayValue": "250/300/375/450",
+          "formula": "[250/300/375/450]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "250",
+            "300",
+            "375",
+            "450"
+          ]
+        },
+        {
+          "displayValue": "90%/100%/130%/160%",
+          "formula": "[90%/100%/130%/160%]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "90%",
+            "100%",
+            "130%",
+            "160%"
+          ]
+        }
+      ],
+      "name": "Danse envoûtante",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Rakan.webp?v=5",
+    "id": "DA_18_Rakan",
+    "name": "Rakan",
+    "role": "APTank",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damageStars": [
+        0,
+        0,
+        0
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 20,
+      "magicResist": 35,
+      "mana": 90,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Fae",
+      "DA_Juggernaut18",
+      "DA_18_Vanguard"
+    ]
+  },
+  "DA_18_Rammus": {
+    "ability": {
+      "description": "Rammus provoque ses adversaires pour les forcer à l'attaquer. Pendant 4 sec, il gagne un bouclier de {{fval:0}}350/450/550{{icon:scaleAP}}{{/fval}} PV, ainsi que 60 d'armure et de résistance magique.\n\nLorsque le bouclier se brise, il inflige {{fval:1}}50/75/120{{icon:scaleArmor}}{{icon:scaleMR}}{{/fval}} pts de dégâts physiques aux ennemis dans un rayon de 2 hexagones.",
+      "formulas": [
+        {
+          "displayValue": "350/450/550",
+          "formula": "[350/450/550]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "350",
+            "450",
+            "550"
+          ]
+        },
+        {
+          "displayValue": "50/75/120",
+          "formula": "[50%/75%/120%]{{icon:scaleArmor}} + [50%/75%/120%]{{icon:scaleMR}}",
+          "icons": [
+            "scaleArmor",
+            "scaleMR"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "50",
+            "75",
+            "120"
+          ]
+        }
+      ],
+      "name": "Boule défensive",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Rammus.webp?v=5",
+    "id": "DA_18_Rammus",
+    "name": "Rammus",
+    "role": "ADTank",
+    "stats": {
+      "armor": 50,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 30,
+      "magicResist": 50,
+      "mana": 80,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Sprykin",
+      "DA_18_Defender"
+    ]
+  },
+  "DA_18_RekSai": {
+    "ability": {
+      "description": "Passive : Rek'Sai récupère {{fval:0}}17/27/43/67{{icon:scaleHealth}}{{/fval}} PV par seconde. Les soins sont triplés pendant 3 sec après le lancement.\n\nActive : Rek'Sai surgit hors du sol, étourdissant les ennemis adjacents pendant 1 sec et leur infligeant {{fval:1}}70/105/160/270{{icon:scaleAP}}{{/fval}} pts de dégâts magiques.",
+      "formulas": [
+        {
+          "displayValue": "17/27/43/67",
+          "formula": "1%{{icon:scaleHealth}} + [10/14/20/26]",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "17",
+            "27",
+            "43",
+            "67"
+          ]
+        },
+        {
+          "displayValue": "70/105/160/270",
+          "formula": "[70/105/160/270]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "70",
+            "105",
+            "160",
+            "270"
+          ]
+        }
+      ],
+      "name": "Déracinement",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_RekSai.webp?v=5",
+    "id": "DA_18_RekSai",
+    "name": "RekSai",
+    "role": "APTank",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.55,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 40,
+      "magicResist": 40,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blackthorn",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_18_Rengar": {
+    "ability": {
+      "description": "Rengar bondit sur l'ennemi ayant le plus faible pourcentage de PV dans un rayon de 3 hexagones et le poignarde, lui infligeant {{fval:0}}255/385/615{{icon:scaleAD}}{{/fval}} pts de dégâts physiques. Puis, il récupère {{fval:1}}70/100/130{{icon:scaleAP}}{{/fval}} PV, augmentés à {{fval:2}}150/220/300{{icon:scaleAP}}{{/fval}} selon ses PV manquants.",
+      "formulas": [
+        {
+          "displayValue": "255/385/615",
+          "formula": "[255/385/615]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "255",
+            "385",
+            "615"
+          ]
+        },
+        {
+          "displayValue": "70/100/130",
+          "formula": "[70/100/130]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "70",
+            "100",
+            "130"
+          ]
+        },
+        {
+          "displayValue": "150/220/300",
+          "formula": "[150/220/300]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "150",
+            "220",
+            "300"
+          ]
+        }
+      ],
+      "name": "Esprit sauvage",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Rengar.webp?v=5",
+    "id": "DA_18_Rengar",
+    "name": "Rengar",
+    "role": "ADFighter",
+    "stats": {
+      "armor": 55,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 60,
+      "damageStars": [
+        60,
+        90,
+        135
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 10,
+      "magicResist": 55,
+      "mana": 50,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Rival"
+    ]
+  },
+  "DA_18_Sejuani": {
+    "ability": {
+      "description": "Sejuani gagne un bouclier de {{fval:0}}315/412/567/825{{icon:scaleAP}}{{icon:scaleHealth}}{{/fval}} PV pendant 4 sec. Elle effectue ensuite une attaque en cône infligeant {{fval:1}}90/135/205/345{{icon:scaleAP}}{{/fval}} pts de dégâts magiques, avant de frapper en ligne droite pour infliger {{fval:2}}120/180/270/460{{icon:scaleAP}}{{/fval}} pts de dégâts magiques aux ennemis touchés.",
+      "formulas": [
+        {
+          "displayValue": "315/412/567/825",
+          "formula": "[225/250/275/300]{{icon:scaleAP}} + 10%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAP",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "315",
+            "412",
+            "567",
+            "825"
+          ]
+        },
+        {
+          "displayValue": "90/135/205/345",
+          "formula": "[90/135/205/345]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "90",
+            "135",
+            "205",
+            "345"
+          ]
+        },
+        {
+          "displayValue": "120/180/270/460",
+          "formula": "[120/180/270/460]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "120",
+            "180",
+            "270",
+            "460"
+          ]
+        }
+      ],
+      "name": "Courroux solaire",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Sejuani.webp?v=5",
+    "id": "DA_18_Sejuani",
+    "name": "Sejuani",
+    "role": "APTank",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 40,
+      "magicResist": 45,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Solar",
+      "DA_Juggernaut18"
+    ]
+  },
+  "DA_18_Sentry": {
+    "ability": {
+      "description": "La Sentinelle commence à consommer 35% de mana max par seconde pour canaliser un rayon sur la cible. Chaque seconde pendant l'incantation, elle inflige {{fval:0}}160/240/360/610{{icon:scaleAP}}{{/fval}} pts de dégâts magiques à la cible et réduit sa résistance magique de 3.\n\nBuff turquoise : elle gagne 2 de régénération de mana toutes les 4 sec de canalisation.",
+      "formulas": [
+        {
+          "displayValue": "160/240/360/610",
+          "formula": "[160/240/360/610]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "160",
+            "240",
+            "360",
+            "610"
+          ]
+        }
+      ],
+      "name": "Laser azur",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Sentry.webp?v=5",
+    "id": "DA_18_Sentry",
+    "name": "Caillou",
+    "role": "APCaster",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 500,
+      "hpStars": [
+        500,
+        900,
+        1620
+      ],
+      "initialMana": 25,
+      "magicResist": 25,
+      "mana": 65,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Invoker"
+    ]
+  },
+  "DA_18_Sett": {
+    "ability": {
+      "description": "Passive : lorsque Sett passe sous 40% de ses PV max pour la première fois à chaque combat, il gagne 100 mana.\n\nActive : Sett prépare un puissant coup de poing et récupère {{fval:0}}369/534/2467{{icon:scaleHealth}}{{icon:scaleAP}}{{/fval}} avant d'infliger {{fval:1}}222/355/5233{{icon:scaleAD}}{{icon:scaleHealth}}{{/fval}} pts de dégâts physiques dans un large cône.",
+      "formulas": [
+        {
+          "displayValue": "369/534/2467",
+          "formula": "12%{{icon:scaleHealth}} + [225/275/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleHealth",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "369",
+            "534",
+            "2467"
+          ]
+        },
+        {
+          "displayValue": "222/355/5233",
+          "formula": "[150/225/5000]{{icon:scaleAD}} + 6%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAD",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "222",
+            "355",
+            "5233"
+          ]
+        }
+      ],
+      "name": "Coup cathartique",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Sett.webp?v=5",
+    "id": "DA_18_Sett",
+    "name": "Sett",
+    "role": "ADTank",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 80,
+      "damageStars": [
+        80,
+        120,
+        180
+      ],
+      "hp": 1200,
+      "hpStars": [
+        1200,
+        2160,
+        3888
+      ],
+      "initialMana": 60,
+      "magicResist": 60,
+      "mana": 135,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_18_Shen": {
+    "ability": {
+      "description": "Shen s'octroie un bouclier de {{fval:0}}325/400/500/600{{icon:scaleAP}}{{/fval}} PV et octroie un bouclier de {{fval:1}}200/275/375/0{{icon:scaleAP}}{{/fval}} PV à un allié proche blessé pendant 4 sec. Leurs 3 prochaines attaques bénéficient de 40% de vitesse d'attaque et infligent {{fval:2}}35/55/80/135{{icon:scaleAP}}{{/fval}} pts de dégâts magiques bonus.",
+      "formulas": [
+        {
+          "displayValue": "325/400/500/600",
+          "formula": "[325/400/500/600]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "325",
+            "400",
+            "500",
+            "600"
+          ]
+        },
+        {
+          "displayValue": "200/275/375/0",
+          "formula": "[200/275/375/0]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "200",
+            "275",
+            "375",
+            "0"
+          ]
+        },
+        {
+          "displayValue": "35/55/80/135",
+          "formula": "[35/55/80/135]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "35",
+            "55",
+            "80",
+            "135"
+          ]
+        }
+      ],
+      "name": "Barrière de ki",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Shen.webp?v=5",
+    "id": "DA_18_Shen",
+    "name": "Shen",
+    "role": "APTank",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 30,
+      "magicResist": 45,
+      "mana": 90,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Inferno",
+      "DA_18_Defender"
+    ]
+  },
+  "DA_18_Sivir": {
+    "ability": {
+      "description": "Sivir lance une grosse lame en croix qui inflige {{fval:0}}195/290/1150{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques à sa cible actuelle et rebondit 8 fois sur les ennemis proches, infligeant {{fval:1}}39/58/460{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques à chaque rebond. Si la lame élimine un ennemi, elle rebondit 3/3/6 fois de plus.",
+      "formulas": [
+        {
+          "displayValue": "195/290/1150",
+          "formula": "[180/270/1050]{{icon:scaleAD}} + [15/20/100]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "195",
+            "290",
+            "1150"
+          ]
+        },
+        {
+          "displayValue": "39/58/460",
+          "formula": "[36/54/420]{{icon:scaleAD}} + [3/4/40]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "39",
+            "58",
+            "460"
+          ]
+        }
+      ],
+      "name": "Lame boomerang",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Sivir.webp?v=5",
+    "id": "DA_18_Sivir",
+    "name": "Sivir",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 40,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_Primal18",
+      "DA_18_Hunter"
+    ]
+  },
+  "DA_18_Soraka": {
+    "ability": {
+      "description": "Soraka fait tomber une étoile sur sa cible actuelle, lui infligeant {{fval:0}}190/285/1000{{icon:scaleAP}}{{/fval}} pts de dégâts magiques. Si une étoile est déjà tombée sur elle, elle fait tomber 3 étoiles supplémentaires, chacune infligeant {{fval:1}}100/150/1000{{icon:scaleAP}}{{/fval}} pts de dégâts magiques.",
+      "formulas": [
+        {
+          "displayValue": "190/285/1000",
+          "formula": "[190/285/1000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "190",
+            "285",
+            "1000"
+          ]
+        },
+        {
+          "displayValue": "100/150/1000",
+          "formula": "[100/150/1000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "1000"
+          ]
+        }
+      ],
+      "name": "Appel de l'étoile",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Soraka.webp?v=5",
+    "id": "DA_18_Soraka",
+    "name": "Soraka",
+    "role": "APCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 30,
+      "damageStars": [
+        30,
+        45,
+        68
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 30,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_FloraFatalis18",
+      "DA_18_Executioner"
+    ]
+  },
+  "DA_18_Teemo": {
+    "ability": {
+      "description": "Teemo lance 2 grappes de champignons qui infligent {{fval:0}}60/90/135/230{{icon:scaleAP}}{{/fval}} pts de dégâts magiques aux 3 ennemis les plus proches. Il lance ensuite un champignon géant qui inflige {{fval:1}}150/225/350/600{{icon:scaleAP}}{{/fval}} pts de dégâts magiques à sa cible.\n\nÀ chaque lancement, Teemo a 10/12/15/20% de chances de trouver un champignon octroyant un effet bonus.\n\nRouge : 1 relance\nVert : 1 PV de Tacticien\nJaune : 2 XP",
+      "formulas": [
+        {
+          "displayValue": "60/90/135/230",
+          "formula": "[60/90/135/230]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60",
+            "90",
+            "135",
+            "230"
+          ]
+        },
+        {
+          "displayValue": "150/225/350/600",
+          "formula": "[150/225/350/600]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "150",
+            "225",
+            "350",
+            "600"
+          ]
+        }
+      ],
+      "name": "Lancer de champignons",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Teemo.webp?v=5",
+    "id": "DA_18_Teemo",
+    "name": "Teemo",
+    "role": "APCaster",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 35,
+      "damageStars": [
+        35,
+        53,
+        79
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "initialMana": 0,
+      "magicResist": 30,
+      "mana": 50,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Sprykin",
+      "DA_18_Invoker"
+    ]
+  },
+  "DA_18_Tristana": {
+    "ability": {
+      "description": "Tristana pose une charge explosive sur sa cible pendant 4 sec. Tant que la charge est active, elle bénéficie d'une portée infinie et gagne {{fval:0}}60%{{icon:scaleAP}}{{/fval}} de vitesse d'attaque. À la fin du délai, la charge explose et inflige {{fval:1}}200/300/480{{icon:scaleAD}}{{/fval}} pts de dégâts physiques + {{fval:2}}10/15/25{{icon:scaleAD}}{{/fval}} pour chaque attaque lancée pendant le délai répartis entre tous les ennemis se trouvant dans un rayon de 2 hexagones.\n\nSi un ennemi portant une charge explosive meurt, celle-ci se fixe sur la nouvelle cible de Tristana.",
+      "formulas": [
+        {
+          "displayValue": "60%",
+          "formula": "40% + 20%{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60%",
+            "60%",
+            "60%"
+          ]
+        },
+        {
+          "displayValue": "200/300/480",
+          "formula": "[200/300/480]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "200",
+            "300",
+            "480"
+          ]
+        },
+        {
+          "displayValue": "10/15/25",
+          "formula": "[10/15/25]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "10",
+            "15",
+            "25"
+          ]
+        }
+      ],
+      "name": "Charge explosive",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_18_Tristana.webp?v=5",
+    "id": "DA_18_Tristana",
+    "name": "Tristana",
+    "role": "ADCarry",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 55,
+      "damageStars": [
+        55,
+        83,
+        124
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 0,
+      "magicResist": 35,
+      "mana": 60,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Fae",
+      "DA_18_Sprykin",
+      "DA_18_Hunter"
+    ]
+  },
+  "DA_18_Varus": {
+    "ability": {
+      "description": "Varus bande son arc, puis tire une flèche sur les ennemis les plus nombreux alignés avec la cible. La flèche inflige {{fval:0}}380/570/860/1455{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques aux ennemis touchés, réduits de 40% pour chaque ennemi traversé (jusqu'à un minimum de 40% pts de dégâts).",
+      "formulas": [
+        {
+          "displayValue": "380/570/860/1455",
+          "formula": "[350/525/790/1340]{{icon:scaleAD}} + [30/45/70/115]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "380",
+            "570",
+            "860",
+            "1455"
+          ]
+        }
+      ],
+      "name": "Flèche perforante",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Varus.webp?v=5",
+    "id": "DA_18_Varus",
+    "name": "Varus",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 500,
+      "hpStars": [
+        500,
+        900,
+        1620
+      ],
+      "initialMana": 30,
+      "magicResist": 25,
+      "mana": 120,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Inferno",
+      "DA_18_Rapidfire"
+    ]
+  },
+  "DA_18_Veigar": {
+    "ability": {
+      "description": "Veigar lance une gigantesque déflagration sur la cible, infligeant {{fval:0}}175/265/395/670{{icon:scaleAP}}{{/fval}} pts de dégâts magiques, augmentés à {{fval:1}}265/400/595/1015{{icon:scaleAP}}{{/fval}} si la cible possède moins de 30% de PV max.\n\nSi la cible meurt, Veigar gagne définitivement 1.5% de puissance.\n\nBonus actuel : % {{icon:scaleAP}}",
+      "formulas": [
+        {
+          "displayValue": "175/265/395/670",
+          "formula": "[175/265/395/670]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "175",
+            "265",
+            "395",
+            "670"
+          ]
+        },
+        {
+          "displayValue": "265/400/595/1015",
+          "formula": "[265/400/595/1015]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "265",
+            "400",
+            "595",
+            "1015"
+          ]
+        }
+      ],
+      "name": "Explosion primordiale",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Veigar.webp?v=5",
+    "id": "DA_18_Veigar",
+    "name": "Veigar",
+    "role": "APCaster",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 25,
+      "damageStars": [
+        25,
+        38,
+        56
+      ],
+      "hp": 500,
+      "hpStars": [
+        500,
+        900,
+        1620
+      ],
+      "initialMana": 0,
+      "magicResist": 25,
+      "mana": 30,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Blackthorn",
+      "DA_18_Sprykin",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_18_Warwick": {
+    "ability": {
+      "description": "Warwick mord sa cible actuelle, lui infligeant {{fval:0}}200/300/450/765{{icon:scaleAD}}{{/fval}} pts de dégâts physiques et récupérant des PV équivalents à {{fval:1}}20%{{icon:scaleAP}}{{/fval}} des dégâts infligés. Il gagne 20% de vitesse d'attaque pour le reste du combat.",
+      "formulas": [
+        {
+          "displayValue": "200/300/450/765",
+          "formula": "[200/300/450/765]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "200",
+            "300",
+            "450",
+            "765"
+          ]
+        },
+        {
+          "displayValue": "20%",
+          "formula": "20%{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "20%",
+            "20%",
+            "20%",
+            "20%"
+          ]
+        }
+      ],
+      "name": "Dents de la bête",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Warwick.webp?v=5",
+    "id": "DA_18_Warwick",
+    "name": "Warwick",
+    "role": "ADFighter",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 750,
+      "hpStars": [
+        750,
+        1350,
+        2430
+      ],
+      "initialMana": 0,
+      "magicResist": 45,
+      "mana": 40,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blackthorn",
+      "DA_18_Slayer"
+    ]
+  },
+  "DA_18_Xayah": {
+    "ability": {
+      "description": "Xayah gagne 50% de vitesse d'attaque pendant 5 attaques. Ces attaques sont remplacées par des plumes qui infligent {{fval:0}}72/108/165/280{{icon:scaleAD}}{{/fval}} pts de dégâts physiques et réduisent l'armure de {{fval:1}}2{{icon:scaleAP}}{{/fval}}.",
+      "formulas": [
+        {
+          "displayValue": "72/108/165/280",
+          "formula": "[72/108/165/280]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "72",
+            "108",
+            "165",
+            "280"
+          ]
+        },
+        {
+          "displayValue": "2",
+          "formula": "2{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "2",
+            "2",
+            "2",
+            "2"
+          ]
+        }
+      ],
+      "name": "Plumage mortel",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Xayah.webp?v=5",
+    "id": "DA_18_Xayah",
+    "name": "Xayah",
+    "role": "ADCarry",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 45,
+      "damageStars": [
+        45,
+        68,
+        101
+      ],
+      "hp": 450,
+      "hpStars": [
+        450,
+        810,
+        1458
+      ],
+      "initialMana": 0,
+      "magicResist": 25,
+      "mana": 50,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Elderwood",
+      "DA_18_Fae",
+      "DA_18_Rapidfire"
+    ]
+  },
+  "DA_18_Yorick": {
+    "ability": {
+      "description": "Passive : lorsqu'il meurt, Yorick invoque un Gardien des esprits avec {{fval:0}}330/634/1171/1858{{icon:scaleHealth}}{{/fval}} PV max, qui provoque immédiatement, forçant les ennemis à l'attaquer.\n\nActive : Yorick récupère {{fval:1}}280/325/435/545{{icon:scaleAP}}{{/fval}} PV et frappe la cible, infligeant {{fval:2}}150/225/340/575{{icon:scaleAP}}{{/fval}} pts de dégâts physiques.",
+      "formulas": [
+        {
+          "displayValue": "330/634/1171/1858",
+          "formula": "[200/400/750/1100] + 20%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "330",
+            "634",
+            "1171",
+            "1858"
+          ]
+        },
+        {
+          "displayValue": "280/325/435/545",
+          "formula": "[280/325/435/545]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "280",
+            "325",
+            "435",
+            "545"
+          ]
+        },
+        {
+          "displayValue": "150/225/340/575",
+          "formula": "[150/225/340/575]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "150",
+            "225",
+            "340",
+            "575"
+          ]
+        }
+      ],
+      "name": "Derniers sacrements",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_18_Yorick.webp?v=5",
+    "id": "DA_18_Yorick",
+    "name": "Yorick",
+    "role": "ADTank",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 50,
+      "magicResist": 35,
+      "mana": 110,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_Juggernaut18",
+      "DA_18_Summoner"
+    ]
+  },
+  "DA_18_Yunara": {
+    "ability": {
+      "description": "Yunara effectue une ruée et lance un orbe sur sa cible actuelle, lui infligeant {{fval:0}}180/270/440/745{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques avant de ricocher pour infliger {{fval:1}}63/95/154/261{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques à 2 ennemis proches.",
+      "formulas": [
+        {
+          "displayValue": "180/270/440/745",
+          "formula": "[170/255/415/705]{{icon:scaleAD}} + [10/15/25/40]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "180",
+            "270",
+            "440",
+            "745"
+          ]
+        },
+        {
+          "displayValue": "63/95/154/261",
+          "formula": "[59.5/89.25/145.25/246.75]{{icon:scaleAD}} + [3.5/5.25/8.75/14]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "63",
+            "95",
+            "154",
+            "261"
+          ]
+        }
+      ],
+      "name": "Déchaînement spirituel",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_18_Yunara.webp?v=5",
+    "id": "DA_18_Yunara",
+    "name": "Yunara",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 42,
+      "damageStars": [
+        42,
+        63,
+        95
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "initialMana": 0,
+      "magicResist": 30,
+      "mana": 35,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Executioner"
+    ]
+  },
+  "DA_18_Zyra": {
+    "ability": {
+      "description": "Zyra invoque 2/2/4 plantes qui attaquent 10 fois l'ennemi le plus proche. Chaque attaque inflige {{fval:0}}35/52/225{{icon:scaleAP}}{{/fval}} pts de dégâts magiques.",
+      "formulas": [
+        {
+          "displayValue": "35/52/225",
+          "formula": "[35/52/225]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "35",
+            "52",
+            "225"
+          ]
+        }
+      ],
+      "name": "Croissance incontrôlée",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_18_Zyra.webp?v=5",
+    "id": "DA_18_Zyra",
+    "name": "Zyra",
+    "role": "APCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 45,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_ZyraUniqueTrait",
+      "DA_18_Summoner"
+    ]
+  },
+  "DA_Amumu18": {
+    "ability": {
+      "description": "Passive : chaque seconde, Amumu récupère {{fval:0}}49/76/268{{icon:scaleAP}}{{icon:scaleHealth}}{{/fval}} PV et inflige {{fval:1}}12/18/150{{icon:scaleAP}}{{/fval}} pts de dégâts magiques aux ennemis dans un rayon de 1 hexagone(s).\n\nActive : Amumu inflige {{fval:2}}100/150/2000{{icon:scaleAP}}{{/fval}} pts de dégâts magiques aux ennemis dans un rayon de 2 hexagones et les étourdit pendant 1/1/6 sec, augmenté à 1.0/1.0/6.0 sec si la cible brûle.\n\nBrûlure : inflige des dégâts bruts équivalents à un pourcentage des PV max de la cible chaque seconde.",
+      "formulas": [
+        {
+          "displayValue": "49/76/268",
+          "formula": "[20/25/100]{{icon:scaleAP}} + [2.2%/2.2%/4%]{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAP",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "49",
+            "76",
+            "268"
+          ]
+        },
+        {
+          "displayValue": "12/18/150",
+          "formula": "[12/18/150]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "12",
+            "18",
+            "150"
+          ]
+        },
+        {
+          "displayValue": "100/150/2000",
+          "formula": "[100/150/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "2000"
+          ]
+        }
+      ],
+      "name": "Colère",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_Amumu18.webp?v=5",
+    "id": "DA_Amumu18",
+    "name": "Amumu",
+    "role": "APTank",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 70,
+      "damageStars": [
+        70,
+        105,
+        158
+      ],
+      "hp": 1300,
+      "hpStars": [
+        1300,
+        2340,
+        4212
+      ],
+      "initialMana": 30,
+      "magicResist": 60,
+      "mana": 140,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_18_Inferno",
+      "DA_Juggernaut18"
+    ]
+  },
+  "DA_Brambleback18": {
+    "ability": {
+      "description": "Passive : lorsque la cible meurt, le Roncier bondit vers sa nouvelle cible, lui infligeant {{fval:0}}170/255/600{{icon:scaleAD}}{{/fval}} pts de dégâts physiques.\n\nActive : il gagne 80/80/280% de dégâts d'attaque pendant 8 sec. Pendant ce délai, il ignore {{fval:1}}40%/40%/60%{{icon:scaleAP}}{{/fval}} de l'armure.\n\nBuff rouge : les attaques infligent 1% de brûlure aux ennemis et soignent le Roncier de 4%  PV max.",
+      "formulas": [
+        {
+          "displayValue": "170/255/600",
+          "formula": "[170/255/600]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "170",
+            "255",
+            "600"
+          ]
+        },
+        {
+          "displayValue": "40%/40%/60%",
+          "formula": "[30%/30%/50%]{{icon:scaleAP}} + 10%",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "40%",
+            "40%",
+            "60%"
+          ]
+        }
+      ],
+      "name": "Fureur écarlate",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_Brambleback18.webp?v=5",
+    "id": "DA_Brambleback18",
+    "name": "Roncier",
+    "role": "ADFighter",
+    "stats": {
+      "armor": 65,
+      "attackSpeed": 0.55,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 110,
+      "damageStars": [
+        110,
+        165,
+        248
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 0,
+      "magicResist": 65,
+      "mana": 40,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Slayer"
+    ]
+  },
+  "DA_Cinderling18": {
+    "ability": {
+      "description": "Le Rougelin lance cinq feuilles acérées sur sa cible actuelle, infligeant un total de {{fval:0}}370/555/835/1415{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques et appliquant 20% d'hémorragie et 1% de brûlure pendant 4 sec.\n\nBuff écarlate : le Rougelin gagne 22%  de dégâts d'attaque chaque fois qu'il lance sa compétence.\n\nHémorragie : réduit les soins reçus.\nBrûlure : inflige chaque seconde des dégâts bruts équivalents à un pourcentage des PV max de la cible.",
+      "formulas": [
+        {
+          "displayValue": "370/555/835/1415",
+          "formula": "[340/510/765/1300]{{icon:scaleAD}} + [30/45/70/115]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "370",
+            "555",
+            "835",
+            "1415"
+          ]
+        }
+      ],
+      "name": "Feuilles tranchantes",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_Cinderling18.webp?v=5",
+    "id": "DA_Cinderling18",
+    "name": "Rougelin",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 500,
+      "hpStars": [
+        500,
+        900,
+        1620
+      ],
+      "initialMana": 0,
+      "magicResist": 25,
+      "mana": 50,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Hunter"
+    ]
+  },
+  "DA_CrimsonRaptor18": {
+    "ability": {
+      "description": "Invoque 4 ptitbecs impossibles à cibler à proximité pendant {{fval:0}}5{{icon:scaleAP}}{{/fval}} sec. Chaque fois que la Maman Raptor attaque, les ptitbecs ciblent le même ennemi, infligeant {{fval:1}}25/38/60{{icon:scaleAD}}{{/fval}} pts de dégâts physiques.\n\nBuff orange : infliger des dégâts physiques réduit l'armure de l'ennemi de 2.",
+      "formulas": [
+        {
+          "displayValue": "5",
+          "formula": "5{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "5",
+            "5",
+            "5"
+          ]
+        },
+        {
+          "displayValue": "25/38/60",
+          "formula": "[25/38/60]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "25",
+            "38",
+            "60"
+          ]
+        }
+      ],
+      "name": "Troupeau uni",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_CrimsonRaptor18.webp?v=5",
+    "id": "DA_CrimsonRaptor18",
+    "name": "Maman Raptor",
+    "role": "ADCarry",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 60,
+      "damageStars": [
+        60,
+        90,
+        135
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 30,
+      "magicResist": 35,
+      "mana": 70,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Summoner",
+      "DA_18_Rapidfire"
+    ]
+  },
+  "DA_Draven18": {
+    "ability": {
+      "description": "Passive : Draven attaque des ennemis aléatoires à portée et les fait saigner, leur infligeant {{fval:0}}140/210/3000{{icon:scaleAD}}{{/fval}} pts de dégâts physiques en 12 sec. Chaque attaque a {{fval:1}}12%{{icon:scaleAP}}{{/fval}} chances d'infliger 50/50/900% pts de dégâts physiques bonus et d'appliquer 2 effets de saignement à la place.\n\nActive : Draven lance deux haches géantes en direction de l'ennemi ayant le plus d'effets de saignement. Draven inflige {{fval:2}}130/200/500{{icon:scaleAD}}{{/fval}} pts de dégâts physiques à tous les ennemis touchés et consomme leur saignement, infligeant instantanément les dégâts restants.",
+      "formulas": [
+        {
+          "displayValue": "140/210/3000",
+          "formula": "[140/210/3000]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "140",
+            "210",
+            "3000"
+          ]
+        },
+        {
+          "displayValue": "12%",
+          "formula": "12%{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "12%",
+            "12%",
+            "12%"
+          ]
+        },
+        {
+          "displayValue": "130/200/500",
+          "formula": "[130/200/500]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "130",
+            "200",
+            "500"
+          ]
+        }
+      ],
+      "name": "Volée mortelle",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_Draven18.webp?v=5",
+    "id": "DA_Draven18",
+    "name": "Draven",
+    "role": "ADCarry",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 48,
+      "damageStars": [
+        48,
+        72,
+        108
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 0,
+      "magicResist": 45,
+      "mana": 120,
+      "range": 5
+    },
+    "traitIds": [
+      "DA_DravenUniqueTrait18"
+    ]
+  },
+  "DA_Fiddlesticks18": {
+    "ability": {
+      "description": "Fiddlesticks réduit la résistance magique des 3 ennemis les plus proches de 10. Puis il draine leur vie pendant 2 sec, se soignant de {{fval:0}}395/470/790{{icon:scaleAP}}{{/fval}} PV et infligeant {{fval:1}}70/105/170{{icon:scaleAP}}{{/fval}} pts de dégâts magiques à chacun pendant cette durée.",
+      "formulas": [
+        {
+          "displayValue": "395/470/790",
+          "formula": "[395/470/790]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "395",
+            "470",
+            "790"
+          ]
+        },
+        {
+          "displayValue": "70/105/170",
+          "formula": "[70/105/170]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "70",
+            "105",
+            "170"
+          ]
+        }
+      ],
+      "name": "Moisson",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_Fiddlesticks18.webp?v=5",
+    "id": "DA_Fiddlesticks18",
+    "name": "Fiddlesticks",
+    "role": "APTank",
+    "stats": {
+      "armor": 55,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hpStars": [
+        0,
+        0,
+        0
+      ],
+      "initialMana": 30,
+      "magicResist": 55,
+      "mana": 90,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_FloraFatalis18",
+      "DA_18_Defender",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_Gromp18_AP": {
+    "ability": {
+      "description": "Adaptateur {{icon:scaleAD}} : le Gromp crache une grosse bulle sur la cible actuelle qui explose au contact du premier ennemi touché, lui infligeant {{fval:0}}335/505/795/1350{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques et le ralentissant de 30% pendant 3 sec. Les ennemis situés dans un rayon d'1 hexagone subissent {{fval:1}}100/150/240/410{{icon:scaleAD}}{{/fval}} pts de dégâts physiques.\n\nAdaptateur {{icon:scaleAP}} : empoisonne les ennemis touchés, infligeant des dégâts sur la durée.\n\nBuff violet : toutes les 5 sec, le Gromp gagne 30% de dégâts d'attaque.\nAdaptateur {{icon:scaleAP}} : le Gromp crache une bulle nocive sur la cible actuelle qui explose au contact du premier ennemi touché, infligeant {{fval:2}}225/340/535/910{{icon:scaleAP}}{{/fval}} pts de dégâts magiques. Les ennemis situés dans un rayon de 1 hexagone autour de l'explosion subissent {{fval:3}}145/220/345/585{{icon:scaleAP}}{{/fval}} pts de dégâts magiques en 3 sec.\n\nAdaptateur {{icon:scaleAD}} : le Gromp ralentit fortement la cible.\n\nBuff violet : toutes les 5 sec, le Gromp gagne 30%  de puissance.",
+      "formulas": [
+        {
+          "displayValue": "335/505/795/1350",
+          "formula": "[305/460/725/1235]{{icon:scaleAD}} + [30/45/70/115]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "335",
+            "505",
+            "795",
+            "1350"
+          ]
+        },
+        {
+          "displayValue": "100/150/240/410",
+          "formula": "[100/150/240/410]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "240",
+            "410"
+          ]
+        },
+        {
+          "displayValue": "225/340/535/910",
+          "formula": "[225/340/535/910]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "225",
+            "340",
+            "535",
+            "910"
+          ]
+        },
+        {
+          "displayValue": "145/220/345/585",
+          "formula": "[145/220/345/585]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "145",
+            "220",
+            "345",
+            "585"
+          ]
+        }
+      ],
+      "name": "Rotebulle",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_Gromp18_AP.webp?v=5",
+    "id": "DA_Gromp18_AP",
+    "name": "Gromp",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 45,
+      "damageStars": [
+        45,
+        68,
+        101
+      ],
+      "hp": 550,
+      "hpStars": [
+        550,
+        990,
+        1782
+      ],
+      "initialMana": 20,
+      "magicResist": 30,
+      "mana": 80,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Adaptor"
+    ]
+  },
+  "DA_Karma18": {
+    "ability": {
+      "description": "Karma se lie à sa cible actuelle, lui infligeant {{fval:0}}260/390/585/995{{icon:scaleAP}}{{/fval}} pts de dégâts magiques en 1.5 sec. Elle libère ensuite une explosion autour d'elle, infligeant {{fval:1}}110/165/250/420{{icon:scaleAP}}{{/fval}} pts de dégâts magiques à tous les ennemis dans un rayon de 1 hexagones et leur appliquant 30% de ralentissement pendant 2 sec.\n\nRalentissement : réduit la vitesse d'attaque.",
+      "formulas": [
+        {
+          "displayValue": "260/390/585/995",
+          "formula": "[260/390/585/995]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "260",
+            "390",
+            "585",
+            "995"
+          ]
+        },
+        {
+          "displayValue": "110/165/250/420",
+          "formula": "[110/165/250/420]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "110",
+            "165",
+            "250",
+            "420"
+          ]
+        }
+      ],
+      "name": "Lien karmique",
+      "variables": []
+    },
+    "cost": 1,
+    "icon": "/set18/avatar-webp/DA_Karma18.webp?v=5",
+    "id": "DA_Karma18",
+    "name": "Karma",
+    "role": "APCaster",
+    "stats": {
+      "armor": 25,
+      "attackSpeed": 0.7,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 25,
+      "damageStars": [
+        25,
+        38,
+        56
+      ],
+      "hp": 500,
+      "hpStars": [
+        500,
+        900,
+        1620
+      ],
+      "initialMana": 0,
+      "magicResist": 25,
+      "mana": 40,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Blossom",
+      "DA_18_Spellweaver"
+    ]
+  },
+  "DA_KogMaw18_AD": {
+    "ability": {
+      "description": "Adaptateur {{icon:scaleAD}} : Kog'Maw crache de l'acide sur sa cible et l'ennemi le plus proche, leur infligeant {{fval:0}}165/250/425{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques. Les ennemis ayant moins de 50% PV max subissent {{fval:1}}231/350/595{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques à la place.\n\nAdaptateur{{icon:scaleAP}} : Kog'Maw inflige des dégâts sur la durée aux ennemis.\nAdaptateur {{icon:scaleAP}} : Kog'Maw crache de l'acide sur sa cible et l'ennemi le plus proche, leur infligeant {{fval:2}}160/240/415{{icon:scaleAP}}{{/fval}} pts de dégâts magiques, puis {{fval:3}}48/72/115{{icon:scaleAP}}{{/fval}} pts de dégâts magiques bonus en 3 sec.\n\nAdaptateur {{icon:scaleAD}} : Kog'Maw inflige des dégâts bonus aux ennemis ayant peu de PV.",
+      "formulas": [
+        {
+          "displayValue": "165/250/425",
+          "formula": "[145/220/375]{{icon:scaleAD}} + [20/30/50]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "165",
+            "250",
+            "425"
+          ]
+        },
+        {
+          "displayValue": "231/350/595",
+          "formula": "[203/308/525]{{icon:scaleAD}} + [28/42/70]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "231",
+            "350",
+            "595"
+          ]
+        },
+        {
+          "displayValue": "160/240/415",
+          "formula": "[160/240/415]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "160",
+            "240",
+            "415"
+          ]
+        },
+        {
+          "displayValue": "48/72/115",
+          "formula": "[48/72/115]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "48",
+            "72",
+            "115"
+          ]
+        }
+      ],
+      "name": "Pluie d'artillerie",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_KogMaw18_AD.webp?v=5",
+    "id": "DA_KogMaw18_AD",
+    "name": "KogMaw",
+    "role": "ADCaster",
+    "stats": {
+      "armor": 35,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 650,
+      "hpStars": [
+        650,
+        1170,
+        2106
+      ],
+      "initialMana": 15,
+      "magicResist": 35,
+      "mana": 55,
+      "range": 4
+    },
+    "traitIds": [
+      "DA_18_Caustic",
+      "DA_18_Adaptor",
+      "DA_18_Invoker"
+    ]
+  },
+  "DA_Krug18": {
+    "ability": {
+      "description": "Passive : à sa mort, le Krug se divise en deux Krugos ayant {{fval:0}}182/338/608{{icon:scaleHealth}}{{/fval}} PV qui provoquent immédiatement les ennemis pour les forcer à les attaquer.\n\nActive : le Krug gagne {{fval:1}}175/225/325{{icon:scaleAP}}{{/fval}} PV max, puis roule vers la cible, infligeant {{fval:2}}223/358/620{{icon:scaleAD}}{{icon:scaleHealth}}{{/fval}} pts de dégâts.\n\nBuff ardoise : à sa mort, le Krug et les Krugos confèrent un bouclier aux alliés de 8% des PV max.",
+      "formulas": [
+        {
+          "displayValue": "182/338/608",
+          "formula": "[50/100/180] + 12%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "182",
+            "338",
+            "608"
+          ]
+        },
+        {
+          "displayValue": "175/225/325",
+          "formula": "[175/225/325]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "175",
+            "225",
+            "325"
+          ]
+        },
+        {
+          "displayValue": "223/358/620",
+          "formula": "[135/200/335]{{icon:scaleAD}} + 8%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAD",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "223",
+            "358",
+            "620"
+          ]
+        }
+      ],
+      "name": "Éboulement",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_Krug18.webp?v=5",
+    "id": "DA_Krug18",
+    "name": "Krug",
+    "role": "ADTank",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 55,
+      "damageStars": [
+        55,
+        83,
+        124
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 80,
+      "magicResist": 40,
+      "mana": 135,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Brawler"
+    ]
+  },
+  "DA_Lux18_Base": {
+    "ability": {
+      "description": "Passive : au lancement, tous les alliés partageant un type avec Lux gagnent {{fval:0}}3/3/100{{icon:scaleAP}}{{/fval}} pts de mana.\n\nActive : Lux tire un laser en direction du plus grand groupe d'ennemis, infligeant {{fval:1}}330/520/5000{{icon:scaleAP}}{{/fval}} pts de dégâts magiques, réduits de 25/25/10% pour chaque ennemi touché (40% pts de dégâts minimum).\n\nBonus lunaire : applique 10% de vulnérabilité aux ennemis touchés pendant 4 sec.\n\nVulnérabilité : augmente les dégâts subis.",
+      "formulas": [
+        {
+          "displayValue": "3/3/100",
+          "formula": "[3/3/100]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "3",
+            "3",
+            "100"
+          ]
+        },
+        {
+          "displayValue": "330/520/5000",
+          "formula": "[330/520/5000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "330",
+            "520",
+            "5000"
+          ]
+        }
+      ],
+      "name": "Éclat final",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_Lux18_Base.webp?v=5",
+    "id": "DA_Lux18_Base",
+    "name": "Lux",
+    "role": "APCaster",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 40,
+      "damageStars": [
+        40,
+        60,
+        90
+      ],
+      "hp": 900,
+      "hpStars": [
+        900,
+        1620,
+        2916
+      ],
+      "initialMana": 20,
+      "magicResist": 40,
+      "mana": 70,
+      "range": 5
+    },
+    "traitIds": [
+      "DA_18_LuxUniqueTrait"
+    ]
+  },
+  "DA_Murkwolf18": {
+    "ability": {
+      "description": "Le Lycan bondit vers l'ennemi ayant le moins de PV dans un rayon de 3 hexagones et inflige {{fval:0}}120/180/270/455{{icon:scaleAD}}{{icon:scaleAP}}{{/fval}} pts de dégâts physiques. Ses 2 prochaines attaques gagnent 175% de vitesse d'attaque et infligent {{fval:1}}60/90/135/230{{icon:scaleAD}}{{/fval}} pts de dégâts physiques bonus.\n\nBuff gris : le Lycan gagne Précision et 25% de chances de coup critique, augmentées jusqu'à 75% en fonction de ses PV manquants.",
+      "formulas": [
+        {
+          "displayValue": "120/180/270/455",
+          "formula": "[100/150/225/380]{{icon:scaleAD}} + [20/30/45/75]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAD",
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "120",
+            "180",
+            "270",
+            "455"
+          ]
+        },
+        {
+          "displayValue": "60/90/135/230",
+          "formula": "[60/90/135/230]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "60",
+            "90",
+            "135",
+            "230"
+          ]
+        }
+      ],
+      "name": "Griffes mutilantes",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_Murkwolf18.webp?v=5",
+    "id": "DA_Murkwolf18",
+    "name": "Lycan",
+    "role": "ADReaper",
+    "stats": {
+      "armor": 40,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 700,
+      "hpStars": [
+        700,
+        1260,
+        2268
+      ],
+      "initialMana": 0,
+      "magicResist": 40,
+      "mana": 40,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Slayer"
+    ]
+  },
+  "DA_Nidalee18_AP": {
+    "ability": {
+      "description": "Adaptateur {{icon:scaleAD}} Passive : lorsqu'elle change de cible, Nidalee bondit vers l'ennemi ayant le moins d'objets dans un rayon de  hexagones, en ciblant en priorité les ennemis les plus éloignés.\n\nAdaptateur {{icon:scaleAD}} : Nidalee balaie sa cible, infligeant {{icon:scaleAD}} pts dégâts physiques qui ignorent de son armure. Tous les trois lancements, sa compétence lui rend {{icon:scaleAP}} PV et inflige jusqu'à  pts de dégâts bonus en fonction des PV manquants de la cible.\n\nAdaptateur {{icon:scaleAP}} : Nidalee prend sa forme humaine et devient une tireuse qui lance des javelots.\nAdaptateur {{icon:scaleAP}} : Nidalee gagne 150% de vitesse d'attaque pour les 3 prochaines attaques. Ces attaques sont remplacées par des javelots qui infligent {{fval:0}}170/255/2000{{icon:scaleAP}}{{/fval}} pts de dégâts magiques. La 3e attaque cible à la place l'ennemi le plus éloigné ayant le moins d'objets et inflige {{fval:1}}320/480/3000{{icon:scaleAP}}{{/fval}} pts de dégâts magiques.\n\nAdaptateur {{icon:scaleAD}} : Nidalee se transforme en couguar (assassin de mêlée) qui griffe les ennemis.",
+      "formulas": [
+        {
+          "displayValue": "170/255/2000",
+          "formula": "[170/255/2000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "170",
+            "255",
+            "2000"
+          ]
+        },
+        {
+          "displayValue": "320/480/3000",
+          "formula": "[320/480/3000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "320",
+            "480",
+            "3000"
+          ]
+        }
+      ],
+      "name": "Javelot",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_Nidalee18_AP.webp?v=5",
+    "id": "DA_Nidalee18_AP",
+    "name": "Nidalee",
+    "role": "APCarry",
+    "stats": {
+      "armor": 30,
+      "attackSpeed": 0.8,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 35,
+      "damageStars": [
+        35,
+        53,
+        79
+      ],
+      "hp": 850,
+      "hpStars": [
+        850,
+        1530,
+        2754
+      ],
+      "initialMana": 0,
+      "magicResist": 30,
+      "mana": 40,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Primal18",
+      "DA_18_Adaptor"
+    ]
+  },
+  "DA_Scuttlecrab18": {
+    "ability": {
+      "description": "Passive : les attaques sont remplacées par une danse qui inflige {{fval:0}}50/75/112.5/168.75{{icon:scaleAD}}{{/fval}} pts de dégâts physiques à tous les ennemis adjacents.\n\nActive : le Carapateur s'enterre pour gagner 15% de durabilité pendant 3 sec et se soigne de {{fval:1}}300/375/625/775{{icon:scaleAP}}{{/fval}} PV sur cette durée.\n\nBuff vert : les alliés qui passent sous 50% de PV récupèrent 15% de leurs PV max.",
+      "formulas": [
+        {
+          "displayValue": "50/75/112.5/168.75",
+          "formula": "[50/75/112.5/168.75]{{icon:scaleAD}}",
+          "icons": [
+            "scaleAD"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "50",
+            "75",
+            "112.5",
+            "168.75"
+          ]
+        },
+        {
+          "displayValue": "300/375/625/775",
+          "formula": "[300/375/625/775]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "300",
+            "375",
+            "625",
+            "775"
+          ]
+        }
+      ],
+      "name": "Ça creuse !",
+      "variables": []
+    },
+    "cost": 2,
+    "icon": "/set18/avatar-webp/DA_Scuttlecrab18.webp?v=5",
+    "id": "DA_Scuttlecrab18",
+    "name": "Carapateur",
+    "role": "ADTank",
+    "stats": {
+      "armor": 45,
+      "attackSpeed": 0.65,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 50,
+      "damageStars": [
+        50,
+        75,
+        113
+      ],
+      "hp": 950,
+      "hpStars": [
+        950,
+        1710,
+        3078
+      ],
+      "initialMana": 40,
+      "magicResist": 45,
+      "mana": 100,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_Juggernaut18"
+    ]
+  },
+  "DA_Sentinel18": {
+    "ability": {
+      "description": "La Sentinelle gagne un bouclier de {{fval:0}}530/734/2421{{icon:scaleAP}}{{icon:scaleHealth}}{{/fval}} PV pendant 4 sec. Elle frappe le sol, envoyant une fissure en direction du plus grand nombre d'ennemis. Les ennemis touchés par la fissure sont brièvement projetés en l'air, subissent {{fval:1}}100/150/3500{{icon:scaleAP}}{{/fval}} pts de dégâts magiques et une inflation du mana de 15.\n\nBuff bleu : chaque fois que la Sentinelle lance une compétence, les alliés gagnent 2  de régénération de mana.\n\nInflation du mana : augmente le coût en mana de la prochaine compétence.",
+      "formulas": [
+        {
+          "displayValue": "530/734/2421",
+          "formula": "[400/500/2000]{{icon:scaleAP}} + 10%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleAP",
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "530",
+            "734",
+            "2421"
+          ]
+        },
+        {
+          "displayValue": "100/150/3500",
+          "formula": "[100/150/3500]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "3500"
+          ]
+        }
+      ],
+      "name": "Onde de choc azur",
+      "variables": []
+    },
+    "cost": 4,
+    "icon": "/set18/avatar-webp/DA_Sentinel18.webp?v=5",
+    "id": "DA_Sentinel18",
+    "name": "Sentinelle",
+    "role": "APTank",
+    "stats": {
+      "armor": 60,
+      "attackSpeed": 0.6,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 75,
+      "damageStars": [
+        75,
+        113,
+        169
+      ],
+      "hp": 1300,
+      "hpStars": [
+        1300,
+        2340,
+        4212
+      ],
+      "initialMana": 60,
+      "magicResist": 60,
+      "mana": 150,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Riftbeast18",
+      "DA_18_Vanguard",
+      "DA_18_Invoker"
+    ]
+  },
+  "DA_Taric18": {
+    "ability": {
+      "description": "Passive : la première fois que Taric ou son allié lié tombe en dessous de 50% PV, une énergie émeraude est libérée depuis les deux, octroyant un bouclier de {{fval:0}}305/584/14212{{icon:scaleHealth}}{{/fval}} PV aux alliés situés dans un rayon de 3 hexagones pendant 3/3/99 sec.\n\nActive : Taric restaure {{fval:1}}200/300/3000{{icon:scaleAP}}{{/fval}} PV. Taric et son allié lié infligent {{fval:2}}100/150/1000{{icon:scaleAP}}{{/fval}} pts de dégâts magiques bonus lors de leurs 2 prochaines attaques.",
+      "formulas": [
+        {
+          "displayValue": "305/584/14212",
+          "formula": "[175/350/10000] + [10%/10%/100%]{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "305",
+            "584",
+            "14212"
+          ]
+        },
+        {
+          "displayValue": "200/300/3000",
+          "formula": "[200/300/3000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "200",
+            "300",
+            "3000"
+          ]
+        },
+        {
+          "displayValue": "100/150/1000",
+          "formula": "[100/150/1000]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "100",
+            "150",
+            "1000"
+          ]
+        }
+      ],
+      "name": "Rayonnement émeraude",
+      "variables": []
+    },
+    "cost": 5,
+    "icon": "/set18/avatar-webp/DA_Taric18.webp?v=5",
+    "id": "DA_Taric18",
+    "name": "Taric",
+    "role": "APTank",
+    "stats": {
+      "armor": 65,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 55,
+      "damageStars": [
+        55,
+        83,
+        124
+      ],
+      "hp": 1300,
+      "hpStars": [
+        1300,
+        2340,
+        4212
+      ],
+      "initialMana": 0,
+      "magicResist": 65,
+      "mana": 65,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Emerald18",
+      "DA_18_Vanguard"
+    ]
+  },
+  "DA_Vi18": {
+    "ability": {
+      "description": "Passive : lors qu'elle attaque, Vi récupère {{fval:0}}22/40/71{{icon:scaleHealth}}{{/fval}} PV.\n\nActive : Vi laisse échapper un rugissement primal pour récupérer {{fval:1}}225/300/400{{icon:scaleAP}}{{/fval}} PV. Puis, elle gagne 85/100/125% de vitesse d'attaque, 15% de durabilité, et elle est inarrêtable pendant 3 sec.",
+      "formulas": [
+        {
+          "displayValue": "22/40/71",
+          "formula": "2%{{icon:scaleHealth}}",
+          "icons": [
+            "scaleHealth"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "22",
+            "40",
+            "71"
+          ]
+        },
+        {
+          "displayValue": "225/300/400",
+          "formula": "[225/300/400]{{icon:scaleAP}}",
+          "icons": [
+            "scaleAP"
+          ],
+          "isFormula": true,
+          "starValues": [
+            "225",
+            "300",
+            "400"
+          ]
+        }
+      ],
+      "name": "Poings féroces",
+      "variables": []
+    },
+    "cost": 3,
+    "icon": "/set18/avatar-webp/DA_Vi18.webp?v=5",
+    "id": "DA_Vi18",
+    "name": "Vi",
+    "role": "ADTank",
+    "stats": {
+      "armor": 50,
+      "attackSpeed": 0.75,
+      "critChance": 0.25,
+      "critMultiplier": 1.4,
+      "damage": 45,
+      "damageStars": [
+        45,
+        68,
+        101
+      ],
+      "hp": 1100,
+      "hpStars": [
+        1100,
+        1980,
+        3564
+      ],
+      "initialMana": 0,
+      "magicResist": 50,
+      "mana": 60,
+      "range": 1
+    },
+    "traitIds": [
+      "DA_Primal18",
+      "DA_Juggernaut18"
+    ]
+  }
+}

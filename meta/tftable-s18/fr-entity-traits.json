@@ -1,0 +1,1315 @@
+{
+  "DA_18_Adaptor": {
+    "description": "Inné : les compétences des Adaptateurs changent selon la statistique la plus élevée : leurs dégâts d'attaque ou leur puissance.\n\nLes Adaptateurs gagnent de la puissance ou des dégâts d'attaque, selon la statistique la plus élevée.",
+    "icon": "/set18/trait-svg/DA_18_Adaptor.svg?v=1",
+    "id": "DA_18_Adaptor",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Akali_AD"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Gromp18_AP"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_MasterYi_AD"
+      },
+      {
+        "cost": 3,
+        "id": "DA_KogMaw18_AD"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Nidalee18_AP"
+      }
+    ],
+    "name": "Adaptateur",
+    "tiers": [
+      {
+        "effect": "25% {{icon:scaleAD}} OU {{icon:scaleAP}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "35% {{icon:scaleAD}} OU {{icon:scaleAP}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "55% {{icon:scaleAD}} OU {{icon:scaleAP}}",
+        "minUnits": 4
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_ApexPredator": {
+    "description": "Le Dragon ancestral occupe 2 emplacements d'équipe et confère +2 au type Jungle.",
+    "icon": "/set18/trait-svg/DA_18_ApexPredator.svg?v=1",
+    "id": "DA_18_ApexPredator",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_ElderDragon"
+      }
+    ],
+    "name": "Prédateur",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Battlemage": {
+    "description": "Les Monolithes gagnent 10 d'armure et de résistance magique pour chaque ennemi qui les cible.",
+    "icon": "/set18/trait-svg/DA_18_Battlemage.svg?v=1",
+    "id": "DA_18_Battlemage",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 4,
+        "id": "DA_18_Malphite"
+      }
+    ],
+    "name": "Monolithe",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Blackthorn": {
+    "description": "L'allié sur l'hexagone Ronce-obscure est sacrifié avant le combat, conférant des PV à votre équipe.\n\nLes champions Ronce-obscure gagnent des stats supplémentaires en fonction du rôle, du niveau d'étoile et du coût du sacrifice.",
+    "icon": "/set18/trait-svg/DA_18_Blackthorn.svg?v=1",
+    "id": "DA_18_Blackthorn",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_RekSai"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Veigar"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Warwick"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Azir"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Malphite"
+      }
+    ],
+    "name": "Ronce-obscure",
+    "tiers": [
+      {
+        "effect": "175{{icon:scaleHealth}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "300{{icon:scaleHealth}} ; le bonus est 25% plus puissant.",
+        "minUnits": 4
+      },
+      {
+        "effect": "350{{icon:scaleHealth}}. Le sacrifice ne meurt pas. Il gagne également : 15%{{icon:scaleAD}}{{icon:scaleAP}},\n15%{{icon:scaleAS}}, 10{{icon:scaleArmor}}{{icon:scaleMR}}, 150{{icon:scaleHealth}}, 10%{{icon:scaleSV}}",
+        "minUnits": 6
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Blossom": {
+    "description": "Après le combat, vos esprits de la forêt sont renforcés.\n\nLes champions Fleur spirituelle gagnent des dégâts d'attaque, de la puissance et 10% de PV max.",
+    "icon": "/set18/trait-svg/DA_18_Blossom.svg?v=1",
+    "id": "DA_18_Blossom",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Yorick"
+      },
+      {
+        "cost": 1,
+        "id": "DA_Karma18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Yunara"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_MasterYi_AD"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ahri"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sett"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Ashe"
+      }
+    ],
+    "name": "Fleur spirituelle",
+    "tiers": [
+      {
+        "effect": "Les esprits de la forêt sont améliorés, 12%{{icon:scaleAD}}{{icon:scaleAP}}.",
+        "minUnits": 3
+      },
+      {
+        "effect": "Toutes les boutiques proposent des esprits de la forêt, 30%{{icon:scaleAD}}{{icon:scaleAP}}.",
+        "minUnits": 5
+      },
+      {
+        "effect": "Vous gagnez 4 PO après avoir acheté un esprit de la forêt, 40%{{icon:scaleAD}}{{icon:scaleAP}}.",
+        "minUnits": 7
+      },
+      {
+        "effect": "Vous pouvez acheter 2 esprits de la forêt par manche, 45%{{icon:scaleAD}}{{icon:scaleAP}}.",
+        "minUnits": 9
+      },
+      {
+        "effect": "Les esprits de la forêt débordent de puissance, 100%{{icon:scaleAD}}{{icon:scaleAP}}.",
+        "minUnits": 11
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Brawler": {
+    "description": "Votre équipe gagne 120 PV max. Les Bagarreurs en gagnent plus.",
+    "icon": "/set18/trait-svg/DA_18_Brawler.svg?v=1",
+    "id": "DA_18_Brawler",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Kobuko"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_RekSai"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Alistar"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Krug18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sett"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_GnarSmall"
+      }
+    ],
+    "name": "Bagarreur",
+    "tiers": [
+      {
+        "effect": "25%{{icon:scaleHealth}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "40%{{icon:scaleHealth}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "65%{{icon:scaleHealth}}",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Caustic": {
+    "description": "Les dégâts des Caustiques appliquent 30% de scission et scission magique aux ennemis pendant 4 sec.",
+    "icon": "/set18/trait-svg/DA_18_Caustic.svg?v=1",
+    "id": "DA_18_Caustic",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_KogMaw18_AD"
+      }
+    ],
+    "name": "Caustique",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Coven": {
+    "description": "Vous récupérez de l'essence en éliminant des champions, et encore plus en perdant un combat contre un joueur.\n\nÀ partir de 40 essences, vous pouvez convertir l'essence en récompenses ou continuer d'en accumuler. Chaque récompense nécessite un montant croissant d'essence.",
+    "icon": "/set18/trait-svg/DA_18_Coven.svg?v=1",
+    "id": "DA_18_Coven",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Camille"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Caitlyn"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Elise"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Cassiopeia"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Morgana"
+      }
+    ],
+    "name": "Assemblée",
+    "tiers": [
+      {
+        "effect": "1 d'essence par élimination, 20 d'essence par défaite",
+        "minUnits": 3
+      },
+      {
+        "effect": "2 par élimination, 25 par défaite",
+        "minUnits": 4
+      },
+      {
+        "effect": "3 par élimination, 30 par défaite",
+        "minUnits": 5
+      },
+      {
+        "effect": "10 par élimination, 80 par défaite",
+        "minUnits": 7
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Defender": {
+    "description": "Votre équipe gagne 12 d'armure et de résistance magique. Les Défenseurs en gagnent plus.",
+    "icon": "/set18/trait-svg/DA_18_Defender.svg?v=1",
+    "id": "DA_18_Defender",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Leona"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Ornn"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Shen"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Rammus"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Fiddlesticks18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Lillia"
+      }
+    ],
+    "name": "Défenseur",
+    "tiers": [
+      {
+        "effect": "25, {{icon:scaleArmor}}{{icon:scaleMR}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "55 {{icon:scaleArmor}}{{icon:scaleMR}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "115, {{icon:scaleArmor}}{{icon:scaleMR}}",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Elderwood": {
+    "description": "Vous gagnez des plantes Sylvestre à placer.",
+    "icon": "/set18/trait-svg/DA_18_Elderwood.svg?v=1",
+    "id": "DA_18_Elderwood",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Ornn"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Xayah"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Alistar"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_LeBlanc"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Hecarim"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ezreal"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_GnarSmall"
+      }
+    ],
+    "name": "Sylvestre",
+    "tiers": [
+      {
+        "effect": "Un Rochécorce et une Fleur de vie.",
+        "minUnits": 3
+      },
+      {
+        "effect": "Un deuxième Rochécorce et les Rochécorces gagnent 150 PV.",
+        "minUnits": 5
+      },
+      {
+        "effect": "et le Protecteur de Fonds-de-bois.",
+        "minUnits": 7
+      },
+      {
+        "effect": "Les plantes passent à 2 étoiles.",
+        "minUnits": 9
+      },
+      {
+        "effect": "Les plantes passent à 3 étoiles et la forêt prend vie.",
+        "minUnits": 11
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Executioner": {
+    "description": "Précision : les dégâts des compétences peuvent infliger un coup critique. La Précision supplémentaire octroie 10 % de dégâts de coup critique.",
+    "icon": "/set18/trait-svg/DA_18_Executioner.svg?v=1",
+    "id": "DA_18_Executioner",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 2,
+        "id": "DA_18_Yunara"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Azir"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ezreal"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Soraka"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Kennen"
+      }
+    ],
+    "name": "Exécuteur",
+    "tiers": [
+      {
+        "effect": "Les Exécuteurs gagnent Précision et 15% de chances de coup critique.",
+        "minUnits": 2
+      },
+      {
+        "effect": "De plus, les ennemis subissent un saignement infligeant 30% de dégâts bruts bonus en 3 sec.",
+        "minUnits": 3
+      },
+      {
+        "effect": "Les dégâts de saignement passent à 50%.",
+        "minUnits": 4
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Fae": {
+    "description": "Les dégâts, les soins et les boucliers de votre équipe attirent des fées.\n\nChaque fée confère aux Fæs des dégâts d'attaque et de la puissance, et lorsqu'ils tombent sous 50% de PV, ils récupèrent des PV pour chaque fée.",
+    "icon": "/set18/trait-svg/DA_18_Fae.svg?v=1",
+    "id": "DA_18_Fae",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Rakan"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Xayah"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Tristana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Lillia"
+      }
+    ],
+    "name": "Fæ",
+    "tiers": [
+      {
+        "effect": "5% {{icon:scaleAD}}{{icon:scaleAP}} et 2% de soins.",
+        "minUnits": 2
+      },
+      {
+        "effect": "8% {{icon:scaleAD}}{{icon:scaleAP}} et 4% de soins. Après avoir attiré 7 fées, ils commencent à attirer des fées dorées qui octroient des PO.",
+        "minUnits": 4
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Greenfather": {
+    "description": "Vous gagnez 1 graine lorsque votre Ivern le plus fort lance sa compétence, plus 3 à chaque combat. Ivern utilise 5 graines pour faire pousser un hexagone qui octroie un bonus à son occupant.\n\nBiome actuel :",
+    "icon": "/set18/trait-svg/DA_18_Greenfather.svg?v=1",
+    "id": "DA_18_Greenfather",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_Ivern"
+      }
+    ],
+    "name": "Aîné de la forêt",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Hunter": {
+    "description": "Les Chasseurs gagnent des dégâts d'attaque. Si un Chasseur n'a pas changé de cible pendant 4 sec, il gagne 10% d'amplification des dégâts.",
+    "icon": "/set18/trait-svg/DA_18_Hunter.svg?v=1",
+    "id": "DA_18_Hunter",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_Cinderling18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Caitlyn"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Tristana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sivir"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Ashe"
+      }
+    ],
+    "name": "Chasseur",
+    "tiers": [
+      {
+        "effect": "20%{{icon:scaleAD}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "30%{{icon:scaleAD}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "45%{{icon:scaleAD}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "65%{{icon:scaleAD}}",
+        "minUnits": 5
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Inferno": {
+    "description": "Les dégâts des unités Infernales infligent brûlure et hémorragie pendant 4 sec. Les brûlures d'Infernal se cumulent avec les autres brûlures.",
+    "icon": "/set18/trait-svg/DA_18_Inferno.svg?v=1",
+    "id": "DA_18_Inferno",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Akali_AD"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Varus"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Shen"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Amumu18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Kennen"
+      }
+    ],
+    "name": "Infernal",
+    "tiers": [
+      {
+        "effect": "1% de brûlure, 33% d'hémorragie",
+        "minUnits": 2
+      },
+      {
+        "effect": "Après le combat, 1 emplacement(s) de la boutique sans champion Infernal s'embrasent, faisant apparaître un champion d'un palier supérieur.",
+        "minUnits": 3
+      },
+      {
+        "effect": "Embrase 2 emplacements de boutique, 2% de brûlure.",
+        "minUnits": 5
+      },
+      {
+        "effect": "Embrase 4 emplacements de boutique, 3% de brûlure.",
+        "minUnits": 7
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Invoker": {
+    "description": "Votre équipe gagne de la régénération de mana. Les Incantateurs en gagnent plus.",
+    "icon": "/set18/trait-svg/DA_18_Invoker.svg?v=1",
+    "id": "DA_18_Invoker",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Sentry"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Teemo"
+      },
+      {
+        "cost": 3,
+        "id": "DA_KogMaw18_AD"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Morgana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Sentinel18"
+      }
+    ],
+    "name": "Incantateur",
+    "tiers": [
+      {
+        "effect": "1{{icon:TFTManaRegen}} | 2{{icon:TFTManaRegen}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "1{{icon:TFTManaRegen}} | 3{{icon:TFTManaRegen}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "2{{icon:TFTManaRegen}} | 5{{icon:TFTManaRegen}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "2{{icon:TFTManaRegen}} | 8{{icon:TFTManaRegen}}",
+        "minUnits": 5
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Lunar": {
+    "description": "Les champions Lunaires et les alliés adjacents gagnent de la vitesse d'attaque et de la puissance. Les champions Lunaires en gagnent 100% de plus.",
+    "icon": "/set18/trait-svg/DA_18_Lunar.svg?v=1",
+    "id": "DA_18_Lunar",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_18_Diana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Aphelios"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Alune"
+      }
+    ],
+    "name": "Lunaire",
+    "tiers": [
+      {
+        "effect": "7%{{icon:scaleAS}}, 7%{{icon:scaleAP}}",
+        "minUnits": 2
+      },
+      {
+        "effect": "10%{{icon:scaleAS}}, 10%{{icon:scaleAP}}",
+        "minUnits": 3
+      },
+      {
+        "effect": "14%{{icon:scaleAS}}, 14%{{icon:scaleAP}}",
+        "minUnits": 4
+      },
+      {
+        "effect": "18%{{icon:scaleAS}}, 18%{{icon:scaleAP}}",
+        "minUnits": 5
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_LuxUniqueTrait": {
+    "description": "Avoir une Avatar sur votre banc ou votre plateau confère le type de cette Avatar à toutes les autres Avatars de votre boutique.\n\nLe type d'une Avatar compte double pour l'activation des bonus de types.",
+    "icon": "/set18/trait-svg/DA_18_LuxUniqueTrait.svg?v=1",
+    "id": "DA_18_LuxUniqueTrait",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_Lux18_Base"
+      }
+    ],
+    "name": "Avatar",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Maokai_UniqueTrait": {
+    "description": "Chaque fois qu'un ennemi meurt dans un rayon de 3 hexagones, Maokai gagne 30 PV max permanents.\n\nPV gagnés :",
+    "icon": "/set18/trait-svg/DA_18_Maokai_UniqueTrait.svg?v=1",
+    "id": "DA_18_Maokai_UniqueTrait",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_Maokai"
+      }
+    ],
+    "name": "Forêt ancienne",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_18_Rapidfire": {
+    "description": "Votre équipe gagne 10% de vitesse d'attaque. Vos Ultrarapides en gagnent encore plus à chaque attaque (jusqu'à 10 fois).",
+    "icon": "/set18/trait-svg/DA_18_Rapidfire.svg?v=1",
+    "id": "DA_18_Rapidfire",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Varus"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Xayah"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Kayle"
+      },
+      {
+        "cost": 3,
+        "id": "DA_CrimsonRaptor18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Aphelios"
+      }
+    ],
+    "name": "Ultrarapide",
+    "tiers": [
+      {
+        "effect": "+3%{{icon:scaleAS}} par attaque",
+        "minUnits": 2
+      },
+      {
+        "effect": "+5%{{icon:scaleAS}} par attaque",
+        "minUnits": 3
+      },
+      {
+        "effect": "+9%{{icon:scaleAS}} par attaque",
+        "minUnits": 4
+      },
+      {
+        "effect": "+15%{{icon:scaleAS}} par attaque",
+        "minUnits": 5
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Rival": {
+    "description": "S'applique uniquement à votre Rival le plus puissant.",
+    "icon": "/set18/trait-svg/DA_18_Rival.svg?v=1",
+    "id": "DA_18_Rival",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_18_KhaZix"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Rengar"
+      }
+    ],
+    "name": "Rival",
+    "tiers": [
+      {
+        "effect": "Actif uniquement lorsque vous avez 1 Rival sur le plateau.\n\nLes Rivaux collectent les éliminations et en obtiennent 3 s'ils éliminent un autre Rival.",
+        "minUnits": 1
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Slayer": {
+    "description": "Les Saccageurs gagnent 10% d'omnivampirisme. De plus, les Saccageurs infligent des dégâts bonus, doublés contre les unités ayant moins de 50% de leurs PV.",
+    "icon": "/set18/trait-svg/DA_18_Slayer.svg?v=1",
+    "id": "DA_18_Slayer",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Akali_AD"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Camille"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Warwick"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Murkwolf18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Diana"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Brambleback18"
+      }
+    ],
+    "name": "Saccageur",
+    "tiers": [
+      {
+        "effect": "12% pts de dégâts bonus",
+        "minUnits": 2
+      },
+      {
+        "effect": "25% pts de dégâts bonus",
+        "minUnits": 4
+      },
+      {
+        "effect": "40% pts de dégâts bonus",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Solar": {
+    "description": "",
+    "icon": "/set18/trait-svg/DA_18_Solar.svg?v=1",
+    "id": "DA_18_Solar",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Leona"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Kayle"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Sejuani"
+      }
+    ],
+    "name": "Solaire",
+    "tiers": [
+      {
+        "effect": "Vos champions gagnent un bouclier équivalent à 5% de leurs PV max et infligent 7% de dégâts magiques bonus. Vous obtenez des bonus supplémentaires pour chaque champion 3 étoiles 3★ unique :\n\n1 3★ : augmente le bouclier et les dégâts magiques de 1.5% pour chaque unité 3 étoiles.\n3 3★ : 18%{{icon:scaleAS}} et 15{{icon:scaleArmor}}{{icon:scaleMR}}\n5 3★ : 50% des dégâts magiques bonus sont convertis en dégâts bruts.\n8 3★ : toutes les 4 sec en combat, un champion 3 étoiles devient 4 étoiles.",
+        "minUnits": 3
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Spellweaver": {
+    "description": "Votre équipe gagne 10% de puissance. Les Tisseurs de sorts en gagnent plus. Chaque fois qu'un Tisseur de sorts lance une compétence, tous les Tisseurs de sorts gagnent encore plus de puissance.",
+    "icon": "/set18/trait-svg/DA_18_Spellweaver.svg?v=1",
+    "id": "DA_18_Spellweaver",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Veigar"
+      },
+      {
+        "cost": 1,
+        "id": "DA_Karma18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_LeBlanc"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Cassiopeia"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Fiddlesticks18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Ahri"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Alune"
+      }
+    ],
+    "name": "Tisseur de sorts",
+    "tiers": [
+      {
+        "effect": "10%{{icon:scaleAP}}, +1%{{icon:scaleAP}} par lancement de compétence",
+        "minUnits": 2
+      },
+      {
+        "effect": "30%{{icon:scaleAP}}, +1%{{icon:scaleAP}} par lancement de compétence",
+        "minUnits": 4
+      },
+      {
+        "effect": "55%{{icon:scaleAP}}, +2%{{icon:scaleAP}} par lancement de compétence",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Sprykin": {
+    "description": "Vous obtenez l'Adorable Monstre Imposant. Déposez un Ami de la forêt sur l'AMI pour en faire son cavalier.",
+    "icon": "/set18/trait-svg/DA_18_Sprykin.svg?v=1",
+    "id": "DA_18_Sprykin",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Kobuko"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Veigar"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Teemo"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Rammus"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Tristana"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_GnarSmall"
+      }
+    ],
+    "name": "Ami de la forêt",
+    "tiers": [
+      {
+        "effect": "Le cavalier gagne\n15%{{icon:scaleHealth}} et 15%{{icon:scaleAS}}.",
+        "minUnits": 3
+      },
+      {
+        "effect": "30%{{icon:scaleHealth}} 30%{{icon:scaleAS}} et 50% de la compétence de l'AMI s'appliquent à vos Amis de la forêt.",
+        "minUnits": 5
+      },
+      {
+        "effect": "45%{{icon:scaleHealth}} 45%{{icon:scaleAS}} et 100% de la compétence de l'AMI s'appliquent à vos Amis de la forêt.",
+        "minUnits": 7
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_18_Summoner": {
+    "description": "Les Invocateurs renforcent leurs invocations de manières différentes.\n\nYorick : +30% de PV.\nAzir : +45% de dégâts.\nMaman Raptor : +45% de dégâts.\nZyra : +4 attaques de plantes.",
+    "icon": "/set18/trait-svg/DA_18_Summoner.svg?v=1",
+    "id": "DA_18_Summoner",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Yorick"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Azir"
+      },
+      {
+        "cost": 3,
+        "id": "DA_CrimsonRaptor18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Zyra"
+      }
+    ],
+    "name": "Invocateur",
+    "tiers": [
+      {
+        "effect": "Renforce les invocations.",
+        "minUnits": 2
+      },
+      {
+        "effect": "Chaque effet est amélioré de 50%.",
+        "minUnits": 3
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_Vanguard": {
+    "description": "Au début du combat et après être passés en dessous de 50% de PV, les Initiateurs gagnent un bouclier en fonction de leurs PV max pendant 10 sec.",
+    "icon": "/set18/trait-svg/DA_18_Vanguard.svg?v=1",
+    "id": "DA_18_Vanguard",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Rakan"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Elise"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Diana"
+      },
+      {
+        "cost": 3,
+        "id": "DA_18_Hecarim"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Sentinel18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_Taric18"
+      }
+    ],
+    "name": "Initiateur",
+    "tiers": [
+      {
+        "effect": "18% des PV max.",
+        "minUnits": 2
+      },
+      {
+        "effect": "32% des PV max.",
+        "minUnits": 4
+      },
+      {
+        "effect": "42% des PV max. Ils gagnent 5% de durabilité quand ils sont protégés par un bouclier.",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_18_ZyraUniqueTrait": {
+    "description": "Votre équipe gagne 5% de durabilité, augmentée à 10% si 6 plantes de Zyra ou plus sont en vie.",
+    "icon": "/set18/trait-svg/DA_18_ZyraUniqueTrait.svg?v=1",
+    "id": "DA_18_ZyraUniqueTrait",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 4,
+        "id": "DA_18_Zyra"
+      }
+    ],
+    "name": "Dame des ronces",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_AluneUniqueTrait18": {
+    "description": "Après chaque lancement, votre Alune la plus forte passe à une nouvelle phase de la lune. Lorsque la lune est moitié pleine ou moins, votre équipe gagne 7% de durabilité. Lorsqu'elle est au moins à moitié pleine, votre équipe gagne 7% d'amplification des dégâts.",
+    "icon": "/set18/trait-svg/DA_AluneUniqueTrait18.svg?v=1",
+    "id": "DA_AluneUniqueTrait18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_18_Alune"
+      }
+    ],
+    "name": "Harmonisée",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_DravenUniqueTrait18": {
+    "description": "Sélectionnez une prime. Votre Draven le plus fort peut progresser sur la prime pour obtenir sa récompense. Une fois une prime terminée, choisissez-en une autre.",
+    "icon": "/set18/trait-svg/DA_DravenUniqueTrait18.svg?v=1",
+    "id": "DA_DravenUniqueTrait18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_Draven18"
+      }
+    ],
+    "name": "Chasseur de primes",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_Emerald18": {
+    "description": "Faites glisser un allié sur votre Taric le plus puissant pour les associer, ce qui confère à l'allié de puissants bonus issus de la compétence de Taric.",
+    "icon": "/set18/trait-svg/DA_Emerald18.svg?v=1",
+    "id": "DA_Emerald18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 5,
+        "id": "DA_Taric18"
+      }
+    ],
+    "name": "Émeraude",
+    "tiers": [],
+    "type": "unique"
+  },
+  "DA_FloraFatalis18": {
+    "description": "Les Flora fatalis récoltent les ennemis lors d'une élimination, gagnant :",
+    "icon": "/set18/trait-svg/DA_FloraFatalis18.svg?v=1",
+    "id": "DA_FloraFatalis18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_Fiddlesticks18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Soraka"
+      }
+    ],
+    "name": "Flora fatalis",
+    "tiers": [
+      {
+        "effect": "10 mana",
+        "minUnits": 1
+      },
+      {
+        "effect": "et accordant des soins équivalents à 8% des PV max à l'allié ayant le moins de PV.",
+        "minUnits": 2
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_Juggernaut18": {
+    "description": "Votre équipe gagne de la durabilité. Les Colosses en gagnent davantage.",
+    "icon": "/set18/trait-svg/DA_Juggernaut18.svg?v=1",
+    "id": "DA_Juggernaut18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Rakan"
+      },
+      {
+        "cost": 1,
+        "id": "DA_18_Yorick"
+      },
+      {
+        "cost": 2,
+        "id": "DA_18_Sejuani"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Scuttlecrab18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Vi18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Amumu18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_Maokai"
+      }
+    ],
+    "name": "Colosse",
+    "tiers": [
+      {
+        "effect": "4% ou 20%",
+        "minUnits": 2
+      },
+      {
+        "effect": "6% ou 30%",
+        "minUnits": 4
+      },
+      {
+        "effect": "8% ou 40%",
+        "minUnits": 6
+      }
+    ],
+    "type": "class"
+  },
+  "DA_Primal18": {
+    "description": "Choisissez l'une des quatre bénédictions primitives.",
+    "icon": "/set18/trait-svg/DA_Primal18.svg?v=1",
+    "id": "DA_Primal18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 3,
+        "id": "DA_Vi18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_18_Sivir"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Nidalee18_AP"
+      }
+    ],
+    "name": "Primitif",
+    "tiers": [
+      {
+        "effect": "Choisissez une bénédiction.",
+        "minUnits": 2
+      },
+      {
+        "effect": "Choisissez une deuxième bénédiction.",
+        "minUnits": 4
+      }
+    ],
+    "type": "origin"
+  },
+  "DA_Riftbeast18": {
+    "description": "",
+    "icon": "/set18/trait-svg/DA_Riftbeast18.svg?v=1",
+    "id": "DA_Riftbeast18",
+    "linkedItemIds": [],
+    "linkedUnitIds": [],
+    "members": [
+      {
+        "cost": 1,
+        "id": "DA_18_Sentry"
+      },
+      {
+        "cost": 1,
+        "id": "DA_Cinderling18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Gromp18_AP"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Murkwolf18"
+      },
+      {
+        "cost": 2,
+        "id": "DA_Scuttlecrab18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_CrimsonRaptor18"
+      },
+      {
+        "cost": 3,
+        "id": "DA_Krug18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Brambleback18"
+      },
+      {
+        "cost": 4,
+        "id": "DA_Sentinel18"
+      },
+      {
+        "cost": 5,
+        "id": "DA_18_ElderDragon"
+      }
+    ],
+    "name": "Jungle",
+    "tiers": [
+      {
+        "effect": "Utilisez la Marque alpha pour octroyer à un monstre de la Jungle son buff unique.",
+        "minUnits": 3
+      },
+      {
+        "effect": "Tous les 3 combats, votre prochaine boutique est envahie par des monstres de la Jungle.",
+        "minUnits": 5
+      },
+      {
+        "effect": "Au début du combat et toutes les 5 sec, les monstres de la Jungle grandissent et gagnent\n5%{{icon:scaleAD}} 5%{{icon:scaleAP}} 5%{{icon:scaleAS}}\n+5{{icon:scaleArmor}} +5{{icon:scaleMR}} +50{{icon:scaleHealth}} +1{{icon:TFTManaRegen}}",
+        "minUnits": 7
+      },
+      {
+        "effect": "La taille de l'équipe augmente de 2.",
+        "minUnits": 10
+      }
+    ],
+    "type": "origin"
+  }
+}

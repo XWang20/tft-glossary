@@ -1,0 +1,38 @@
+{
+  "csv_appended": {
+    "zh-CN": 1447,
+    "ko": 1433,
+    "fr": 1441
+  },
+  "workspace_glossary_added": 690,
+  "entity_counts": {
+    "en": {
+      "entity-units": 65,
+      "entity-traits": 35,
+      "entity-items": 138,
+      "entity-augments": 254,
+      "entity-wisps": 163
+    },
+    "zh": {
+      "entity-units": 65,
+      "entity-traits": 35,
+      "entity-items": 138,
+      "entity-augments": 254,
+      "entity-wisps": 163
+    },
+    "ko": {
+      "entity-units": 65,
+      "entity-traits": 35,
+      "entity-items": 138,
+      "entity-augments": 254,
+      "entity-wisps": 163
+    },
+    "fr": {
+      "entity-units": 65,
+      "entity-traits": 35,
+      "entity-items": 138,
+      "entity-augments": 254,
+      "entity-wisps": 163
+    }
+  }
+}
